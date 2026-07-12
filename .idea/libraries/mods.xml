@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="mods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/Hwyla-1.8.26-B41_1.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/llibrary-1.7.20-1.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/RenderLib-1.12.2-1.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/FTBLib-5.4.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/gravestone-1.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/Forgelin-Continuous-2.4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/naughthirium-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/!Red-Core-MC-1.8-1.12-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/!configanytime-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/UniversalTweaks-1.12.2-1.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/xaeroworldmap-forge-1.12.2-1.42.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/entityculling-1.12.2-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/Controlling-3.0.12.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/xaerolib-forge-1.12.2-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/NTM-CE-1.12.2-2.5.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/jei_1.12.2-4.16.1.1013.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/loliasm-5.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/groovyscript-1.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/Alfheim-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/refinedstorage-1.6.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/CraftingTweaks_1.12.2-8.1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/AppleSkin-mc1.12-1.0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/Loading-Progress-Bar-v1.0-mc[1.8-1.12.2].jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/particleculling-1.12.2-v1.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/MouseTweaks-2.10.1-mc1.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/betterbiomeblend-1.12.2-1.2.1-forge.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/xaerominimap-forge-1.12.2-26.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/Future-MC-0.2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/ItemFilters-1.0.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/craftdumper-1.12.2-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/Wawla-1.12.2-2.6.275.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/FTBQuests-1202.9.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/Nothirium-1.12.2-0.4.9-beta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/Placebo-1.12.2-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/overloadedarmorbar-1.0.4g.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/!mixinbooter-11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/FullscreenWindowed-1.12-1.6.0-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/AquaAcrobatics-1.15.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/CTM-MC1.12.2-1.0.2.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/rawinput-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/Clumps-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/minecraft/mods/loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
