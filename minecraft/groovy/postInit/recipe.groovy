@@ -249,7 +249,7 @@ crafting.shapedBuilder()
         .key('A', item('hbm:ingot_steel'))
         .key('B', item('refinedstorage:grid'))
         .key('C', item('refinedstorage:controller'))
-        .key('D', item('refinedstorage:grid', 3))
+        .key('D', item('hbm:powder_magic'))
         .replaceByName()
         .register()
 
