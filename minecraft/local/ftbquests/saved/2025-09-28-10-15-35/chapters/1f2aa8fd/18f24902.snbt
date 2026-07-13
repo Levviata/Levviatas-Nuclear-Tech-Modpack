@@ -1,0 +1,23 @@
+{
+	x: -5.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "7763e54c",
+		type: "item",
+		items: [{
+			item: "hbm:coil_copper_torus"
+		}]
+	}],
+	rewards: [{
+		uid: "d662ed81",
+		type: "item",
+		item: "hbm:coil_copper",
+		count: 2
+	},
+	{
+		uid: "6a560f0e",
+		type: "item",
+		item: "hbm:plate_iron",
+		count: 2
+	}]
+}

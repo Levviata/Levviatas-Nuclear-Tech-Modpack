@@ -1,0 +1,24 @@
+{
+	x: 14.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "26da415f",
+		type: "item",
+		items: [{
+			item: "minecraft:reeds"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "4d27269e",
+		type: "item",
+		item: "minecraft:sugar",
+		count: 4
+	},
+	{
+		uid: "be34eaa1",
+		type: "item",
+		item: "minecraft:reeds",
+		count: 8
+	}]
+}

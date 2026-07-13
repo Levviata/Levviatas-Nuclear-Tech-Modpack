@@ -1,0 +1,26 @@
+{
+	title: "Metallurgy 101",
+	icon: "hbm:block_steel",
+	x: 0.0d,
+	y: 7.0d,
+	shape: "hexagon",
+	text: [
+		"Even if you have a stack or two of steel from looting, you are going to need far more to make progress in the mod.",
+		"",
+		"I hope you stockpiled some clay and aluminum ore, because you'll need both to start making alloys. Craft your clay and aluminum ore into fireclay and start roasting.",
+		"",
+		"The bricked furnace will be helpful here, because it gets a speed boost when smelting construction materials like stone or bricks.",
+		"",
+		"After making copper plates (pshh: Burner Press and plate stamp) and firebricks, you can now craft your second machine, the Blast Furnace. This machine has many recipes, but for now you'll only need the two most important ones: Steel and Minecraft grade copper (also known as red copper)."
+	],
+	tasks: [{
+		uid: "e365bc66",
+		type: "checkmark",
+		icon: "hbm:part_mechanism 1 50"
+	}],
+	rewards: [{
+		uid: "82bc7225",
+		type: "xp",
+		xp: 100
+	}]
+}

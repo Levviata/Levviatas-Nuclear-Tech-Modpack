@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "ec443ae5",
+		type: "item",
+		items: [{
+			item: "hbm:ore_gneiss_schrabidium"
+		}]
+	}]
+}

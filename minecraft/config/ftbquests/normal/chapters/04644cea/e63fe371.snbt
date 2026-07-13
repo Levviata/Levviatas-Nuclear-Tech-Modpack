@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "47b1dacd",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_beryllium"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -8.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "d9256c52",
+		type: "item",
+		items: [{
+			item: "hbm:wire_fine 1 32"
+		}]
+	}]
+}

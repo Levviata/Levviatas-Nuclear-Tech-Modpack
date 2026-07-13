@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 4.0d,
+	dependencies: [
+		"5b1b40f1"
+	],
+	tasks: [{
+		uid: "4eee1600",
+		type: "item",
+		items: [{
+			item: "hbm:machine_purex"
+		}]
+	}]
+}

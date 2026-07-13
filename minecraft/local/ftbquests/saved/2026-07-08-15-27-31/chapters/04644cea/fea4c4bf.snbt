@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 11.5d,
+	tasks: [{
+		uid: "c39cc99d",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_dura_steel"
+		}]
+	}]
+}

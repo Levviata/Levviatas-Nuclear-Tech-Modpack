@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 24.0d,
+	dependencies: [
+		"974fcf0f"
+	],
+	tasks: [{
+		uid: "2ba87f46",
+		type: "item",
+		items: [{
+			item: "hbm:powder_limestone"
+		}]
+	}]
+}

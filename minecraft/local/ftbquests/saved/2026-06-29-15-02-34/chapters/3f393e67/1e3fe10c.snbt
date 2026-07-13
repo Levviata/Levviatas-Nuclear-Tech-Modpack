@@ -1,0 +1,11 @@
+{
+	x: 8.5d,
+	y: 18.5d,
+	tasks: [{
+		uid: "23e63c2e",
+		type: "item",
+		items: [{
+			item: "hbm:radaway"
+		}]
+	}]
+}

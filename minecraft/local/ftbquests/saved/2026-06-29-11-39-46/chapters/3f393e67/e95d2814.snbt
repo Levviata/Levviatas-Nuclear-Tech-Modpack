@@ -1,0 +1,21 @@
+{
+	x: -3.5d,
+	y: 28.5d,
+	dependencies: [
+		"8a25fa82"
+	],
+	tasks: [{
+		uid: "7c9b5570",
+		type: "item",
+		items: [{
+			item: "hbm:lung_diagnostic"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5d45e53e",
+		type: "item",
+		item: "hbm:cigarette"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 6.5d,
+	y: 2.5d,
+	description: "Patented by Pulmonar Cancer, Inc.",
+	text: [
+		"Will give you black lung which is not good for your lungs, you may wear a gas mask. ",
+		"This mechanic is explained in the NTM quest line."
+	],
+	tasks: [{
+		uid: "a9f92ec3",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}]
+	}]
+}

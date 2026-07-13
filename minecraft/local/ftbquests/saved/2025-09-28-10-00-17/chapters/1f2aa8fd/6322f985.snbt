@@ -1,0 +1,13 @@
+{
+	x: -4.5d,
+	y: 11.5d,
+	tasks: [{
+		uid: "3abca9a5",
+		type: "item",
+		items: [{
+			item: "hbm:blades_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

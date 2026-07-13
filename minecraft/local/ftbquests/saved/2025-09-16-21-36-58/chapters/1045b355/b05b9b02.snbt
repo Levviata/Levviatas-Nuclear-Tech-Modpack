@@ -1,0 +1,47 @@
+{
+	x: 22.5d,
+	y: -0.5d,
+	description: "Important machine",
+	text: [
+		"The Assembly Machine (also called assembler) is the most important machine you'll make. Almost all other machines or items are made using the assembly machine.",
+		"",
+		"To make the machine you will need 8 Steel Ingots, 4 Copper Plates, 2 Motors, and 4 Vacuum Tubes. It needs to be crafted in a NTM Steel Anvil",
+		"",
+		" The interface might seem confusing at a glance, but don't worry, it's only tedious:",
+		"",
+		"- 1. The assembler must know what it's supposed to make. Many recipes make use of the same base ingredients so you will need to select a specific recipe.",
+		"",
+		"- 2. Click on the template folder button on the bottom left of the GUI and select the recipe you would like to make, this will make the two lines in the bottom of the GUI turn yellow. Hovering over the selected recipe, you can check which items are required to make a specific recipe.",
+		"",
+		"- 3. Put the required ingredients in the machine.",
+		"",
+		"- 4. The assembler needs electricity to work, in the early game you have two choices: The Wood-Burning Generator, and the Stirling Engine. The simplest to use is the Wood-Burning Generator. Craft one in a crafting table and place it down next to the assembler so that the wires on the sides of the assembler connect to the dark ports on the generator, or use some red copper cables to connect them together.",
+		"",
+		"- 5. It's alive! You are now able to craft a decent chunk of the mod."
+	],
+	tasks: [{
+		uid: "9b5bfa4b",
+		type: "item",
+		items: [{
+			item: "hbm:machine_assembly_machine"
+		}]
+	}],
+	rewards: [{
+		uid: "2bf27e8c",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 8
+	},
+	{
+		uid: "014eb4de",
+		type: "item",
+		item: "hbm:plate_copper",
+		count: 4
+	},
+	{
+		uid: "b5c14d35",
+		type: "item",
+		item: "hbm:motor",
+		count: 2
+	}]
+}

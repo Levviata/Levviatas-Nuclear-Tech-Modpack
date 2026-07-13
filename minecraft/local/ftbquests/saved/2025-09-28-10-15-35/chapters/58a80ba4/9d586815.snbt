@@ -1,0 +1,18 @@
+{
+	title: "Metallurgy",
+	icon: "hbm:mold 1 26",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		""
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "79599ab3",
+		type: "item",
+		items: [{
+			item: "hbm:mold 1 6"
+		}]
+	}]
+}

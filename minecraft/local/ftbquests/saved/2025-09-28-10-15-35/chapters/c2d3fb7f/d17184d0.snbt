@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: 4.5d,
+	description: "A temporal Solution",
+	text: [
+		"The Trench Mask give protection to coal dust (and chemical gas) with the added bonus it doesn't lose durability while protecting from hazards.",
+		"",
+		" Only downside to the trench mask is that it \"dries up\" after a certain amount of time, dropping to the ground as a Crude Protective Mask. To counter this, simply \"wet\" the mask again."
+	],
+	tasks: [{
+		uid: "013cfce3",
+		type: "item",
+		items: [{
+			item: "hbm:mask_piss"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

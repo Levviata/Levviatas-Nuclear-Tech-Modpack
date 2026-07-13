@@ -1,0 +1,17 @@
+{
+	x: 11.0d,
+	y: 4.5d,
+	text: [
+		"Doesn't give you black lung and burns for 24 operations instead of 8 operations (normal coal)."
+	],
+	dependencies: [
+		"9bcc9848"
+	],
+	tasks: [{
+		uid: "9f05ae82",
+		type: "item",
+		items: [{
+			item: "hbm:coal_infernal"
+		}]
+	}]
+}

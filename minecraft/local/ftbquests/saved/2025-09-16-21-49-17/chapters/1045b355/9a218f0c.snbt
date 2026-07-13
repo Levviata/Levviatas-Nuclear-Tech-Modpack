@@ -1,0 +1,17 @@
+{
+	x: 20.607142857142847d,
+	y: 1.0d,
+	tasks: [{
+		uid: "578199ae",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_biorubber"
+		}]
+	}],
+	rewards: [{
+		uid: "8a6a80a2",
+		type: "item",
+		item: "hbm:ingot_biorubber",
+		count: 2
+	}]
+}

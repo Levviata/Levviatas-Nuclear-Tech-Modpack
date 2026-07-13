@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: 20.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"82ac4b6c"
+	],
+	tasks: [{
+		uid: "033a78df",
+		type: "item",
+		items: [{
+			item: "hbm:casing_bag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

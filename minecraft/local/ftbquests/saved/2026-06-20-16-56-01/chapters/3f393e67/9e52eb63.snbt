@@ -1,0 +1,25 @@
+{
+	x: -2.5d,
+	y: 12.0d,
+	description: "Very useful",
+	text: [
+		"While in the off-hand it will reduce radioactive intake by x3 and it will negate any pyrophoric (burn) effect from materials held in the inventory."
+	],
+	dependencies: [
+		"a488de09"
+	],
+	tasks: [{
+		uid: "fa071873",
+		type: "item",
+		items: [{
+			item: "hbm:reacher"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3e699f6d",
+		type: "xp",
+		xp: 50
+	}]
+}

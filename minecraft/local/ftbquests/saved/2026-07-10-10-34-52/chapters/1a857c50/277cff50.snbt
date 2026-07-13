@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: 4.0d,
+	dependencies: [
+		"5b1b40f1"
+	],
+	tasks: [{
+		uid: "b77b3e97",
+		type: "item",
+		items: [{
+			item: "hbm:machine_crystallizer"
+		}]
+	}]
+}

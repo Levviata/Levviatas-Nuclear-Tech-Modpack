@@ -1,0 +1,64 @@
+{
+	x: 3.5d,
+	y: 29.0d,
+	text: [
+		"Best radiation resistant armor before the PaA hazmat suit. ",
+		"",
+		"I don't even know what to give you for this quest so you may have 64 chocolate ingots (not edible)."
+	],
+	dependencies: [
+		"6395fc11"
+	],
+	tasks: [{
+		uid: "c86fecb6",
+		type: "item",
+		items: [{
+			item: "hbm:liquidator_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "39ffccdf",
+		type: "item",
+		items: [{
+			item: "hbm:liquidator_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7d5b5abf",
+		type: "item",
+		items: [{
+			item: "hbm:liquidator_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4b0b98fa",
+		type: "item",
+		items: [{
+			item: "hbm:liquidator_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fa0934c4",
+		type: "xp",
+		xp: 200
+	},
+	{
+		uid: "7aebe8c6",
+		type: "item",
+		item: "hbm:ingot_th232",
+		count: 64
+	},
+	{
+		uid: "244362f5",
+		type: "item",
+		item: "hbm:gas_mask_filter"
+	}]
+}

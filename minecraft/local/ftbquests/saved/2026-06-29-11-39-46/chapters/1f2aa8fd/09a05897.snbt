@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 5.0d,
+	tasks: [{
+		uid: "3f61b1c0",
+		type: "item",
+		items: [{
+			item: "hbm:plate_iron"
+		}]
+	}],
+	rewards: [{
+		uid: "977361cf",
+		type: "item",
+		item: "hbm:plate_iron",
+		count: 4
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -5.0d,
+	y: 9.5d,
+	tasks: [{
+		uid: "36caadad",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bismuth_bronze"
+		}]
+	}]
+}

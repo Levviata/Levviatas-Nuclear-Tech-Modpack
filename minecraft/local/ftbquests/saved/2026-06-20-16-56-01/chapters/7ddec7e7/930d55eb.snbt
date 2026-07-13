@@ -1,0 +1,18 @@
+{
+	icon: "hbm:cluster_aluminium",
+	x: 1.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "ae0ba90a",
+		type: "item",
+		items: [{
+			item: "hbm:crystal_aluminium"
+		}]
+	}],
+	rewards: [{
+		uid: "af16eaa1",
+		type: "xp",
+		auto: "no_toast",
+		xp: 50
+	}]
+}

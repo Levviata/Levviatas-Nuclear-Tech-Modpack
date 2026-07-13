@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "55471f79",
+		type: "item",
+		items: [{
+			item: "hbm:foundry_outlet"
+		}]
+	}]
+}

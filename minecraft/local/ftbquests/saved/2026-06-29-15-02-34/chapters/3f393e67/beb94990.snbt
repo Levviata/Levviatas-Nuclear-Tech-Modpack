@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: 23.0d,
+	text: [
+		"The Rotary Furnace is an upgrade of the Crucible and is able to do recipes in a much fast manner.",
+		"",
+		"Requires Steam, produces Low-Pressure Steam as a side product.",
+		"",
+		"Pairs well with a Strand Caster."
+	],
+	dependencies: [
+		"d992d315"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "e81513e5",
+		type: "item",
+		items: [{
+			item: "hbm:machine_rotary_furnace"
+		}]
+	}]
+}

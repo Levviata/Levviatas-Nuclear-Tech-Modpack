@@ -1,0 +1,42 @@
+{
+	title: "Bedrock Ore Mining",
+	x: 10.0d,
+	y: -7.5d,
+	description: "Bismuth for you, the grandma and the dog",
+	text: [
+		"Bedrock Ore is a special type of ore present in the bedrock layer, it always appears below depth ore veins and can't be depleted.",
+		"",
+		"You may use a Survey Scanner to scan the ores directly under your feet, then if Bedrock Ore is present, you may check the quality using a Bedrock Ore Density Scanner.",
+		"",
+		"The Bedrock Ore Density Scanner shows you the quality of the resources present in the ore and the tier of solvent needed to extract the resources:",
+		"",
+		"- "
+	],
+	dependencies: [
+		"876bbe0e"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "abc52c5b",
+		type: "item",
+		items: [{
+			item: "hbm:ore_density_scanner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e295c718",
+		type: "item",
+		items: [{
+			item: "hbm:machine_excavator"
+		}]
+	},
+	{
+		uid: "c6528e88",
+		type: "item",
+		items: [{
+			item: "hbm:machine_ore_slopper"
+		}]
+	}]
+}

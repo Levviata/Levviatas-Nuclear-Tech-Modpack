@@ -1,0 +1,28 @@
+{
+	x: -3.5d,
+	y: 18.0d,
+	text: [
+		"Heats up machines on top by burning fuel.",
+		"",
+		"You may put any of these heat generating boxes below a crucible or a stirling engine to heat them up.",
+		"",
+		"There is also a better heat box which is the Fluid Burner."
+	],
+	dependencies: [
+		"64546c02"
+	],
+	tasks: [{
+		uid: "5c581ed9",
+		type: "item",
+		items: [{
+			item: "hbm:heater_firebox"
+		}]
+	},
+	{
+		uid: "4fa2bf49",
+		type: "item",
+		items: [{
+			item: "hbm:heater_oven"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -13.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "6e42fd1c",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_tantalium"
+		}]
+	}]
+}

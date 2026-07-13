@@ -1,0 +1,18 @@
+{
+	x: 12.0d,
+	y: 3.5d,
+	text: [
+		"Used for incendiary items."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"9bcc9848"
+	],
+	tasks: [{
+		uid: "29253e27",
+		type: "item",
+		items: [{
+			item: "hbm:powder_fire"
+		}]
+	}]
+}

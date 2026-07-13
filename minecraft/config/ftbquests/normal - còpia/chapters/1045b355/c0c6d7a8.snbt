@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "b6ccb9c1",
+		type: "item",
+		items: [{
+			item: "hbm:plate_advanced_alloy"
+		}]
+	}]
+}

@@ -1,0 +1,64 @@
+{
+	x: 0.0d,
+	y: 12.5d,
+	shape: "hexagon",
+	text: [
+		"The Blast Furnace can be powered with coal, lignite, or any other coal fuel. Like the Iron Furnace, the furnace only uses fuel while actively smelting.",
+		"",
+		"It can store 16 pieces of fuel in its lower body. When alloying, it will generate Flue Gas which can be piped into a Wood Burner or Flare Stack for some electricity, each operation generates 100ml of gas.",
+		" If it is not burned it will build up and exhaust into the air as Soot pollution.",
+		"",
+		"It can make two alloys, Steel and Red Copper. They have a variety of recipes but these give the maximum product without waste:",
+		"",
+		"- Steel: Iron Ore and Flux produces 3 Steel Ingots and 2 Slag Ingot.",
+		"- Red copper: Copper Ore and 6 Redstone produces 6 Red Copper Ingots and 1 Slag Ingot.",
+		"",
+		"(Slag is used for Cement later, don't be stupid and store it)",
+		"",
+		"This process may be accelerated using Hot Air Blast, it will significantly speed up the machine.",
+		"",
+		"",
+		"Trivia:",
+		"",
+		"- The Blast Furnace was channged in version  1.0.27_X5714, it is now a huge 7x3 machine with far more immersive mechanics.",
+		"",
+		"- Advanced Alloy has been removed since version 1.0.27_X5719, Steel and Titanium tools have better stats to counteract."
+	],
+	dependencies: [
+		"3aba74ab",
+		"e4708a01",
+		"8d91f096"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "fa7604bf",
+		type: "item",
+		items: [{
+			item: "hbm:machine_blast_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "e032278b",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 64
+	},
+	{
+		uid: "36bebac0",
+		type: "item",
+		item: "minecraft:coal",
+		count: 64
+	},
+	{
+		uid: "a8e2ca1b",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 64
+	},
+	{
+		uid: "271c715c",
+		type: "item",
+		item: "hbm:ingot_aluminium",
+		count: 16
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 18.607142857142847d,
+	y: -3.0d,
+	tasks: [{
+		uid: "539c1581",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_advanced_alloy"
+		}]
+	}]
+}

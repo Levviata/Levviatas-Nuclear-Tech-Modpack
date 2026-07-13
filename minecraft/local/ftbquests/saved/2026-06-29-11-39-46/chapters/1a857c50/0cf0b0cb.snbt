@@ -1,0 +1,11 @@
+{
+	x: -17.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "61e54127",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_uranium_fuel"
+		}]
+	}]
+}

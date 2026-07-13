@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "2407408e",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_arsenic_bronze"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -18.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "7aa1b23f",
+		type: "item",
+		items: [{
+			item: "hbm:powder_cadmium"
+		}]
+	}]
+}

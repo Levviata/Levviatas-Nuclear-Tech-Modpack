@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: 14.0d,
+	text: [
+		"The Crowbar can open crates by Right-Clicking them."
+	],
+	dependencies: [
+		"86867f7a"
+	],
+	tasks: [{
+		uid: "445fab11",
+		type: "item",
+		items: [{
+			item: "hbm:crowbar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

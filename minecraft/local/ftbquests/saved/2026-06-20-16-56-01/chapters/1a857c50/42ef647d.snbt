@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "a8b99713",
+		type: "item",
+		items: [{
+			item: "hbm:oil_detector"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

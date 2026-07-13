@@ -1,0 +1,26 @@
+{
+	x: 5.0d,
+	y: 6.0d,
+	text: [
+		"Conveyor Inserters are blocks that take items from conveyor belts and outputs them into a storage space. ",
+		"",
+		"Conveyor ejectors are the opposite; they take items from storage and place them onto conveyor belts."
+	],
+	dependencies: [
+		"f959f4ae"
+	],
+	tasks: [{
+		uid: "0c935f15",
+		type: "item",
+		items: [{
+			item: "hbm:crane_inserter"
+		}]
+	},
+	{
+		uid: "93c2f557",
+		type: "item",
+		items: [{
+			item: "hbm:crane_ejector"
+		}]
+	}]
+}

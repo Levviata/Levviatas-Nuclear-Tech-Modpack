@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "11e90fc6",
+		type: "item",
+		items: [{
+			item: "hbm:ore_tungsten"
+		}]
+	}],
+	rewards: [{
+		uid: "7b6ef400",
+		type: "xp",
+		auto: "no_toast",
+		xp: 50
+	}]
+}

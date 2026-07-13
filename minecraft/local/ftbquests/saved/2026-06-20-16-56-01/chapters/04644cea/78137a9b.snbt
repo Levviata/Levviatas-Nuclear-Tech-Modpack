@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "f1f0dd6a",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_euphemium"
+		}]
+	}]
+}

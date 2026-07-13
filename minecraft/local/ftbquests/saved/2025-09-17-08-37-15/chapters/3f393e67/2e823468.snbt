@@ -1,0 +1,22 @@
+{
+	x: -11.5d,
+	y: 9.0d,
+	tasks: [{
+		uid: "f6f598c7",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any tierFiveAnvil"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "tierFiveAnvil"
+				}
+			}
+		}]
+	}]
+}

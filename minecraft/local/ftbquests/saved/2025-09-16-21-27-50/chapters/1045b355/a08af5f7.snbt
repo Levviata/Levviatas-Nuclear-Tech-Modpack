@@ -1,0 +1,31 @@
+{
+	title: "Hbm's Nuclear Tech Mod",
+	icon: "hbm:block_waste_painted",
+	x: 2.0690476190476232d,
+	y: -0.0035714285714334437d,
+	shape: "octagon",
+	text: [
+		"Before just directly starting, it would be good to know some tips and information as it will help a ton in your journey.",
+		"",
+		"Preamble:",
+		"The Nuclear Tech Mod has many, many recipes, it's unlikely that any one person can memorize them all. While there are plenty of mods that aid you in that regard, only Not Enough Items will show you all of the recipes, including ones that make use of modded machines. Using NEI is crucial, and so is understanding how it works. Here are a few tips that might make your life a whole lot easier:",
+		"",
+		"- The JEI overlay can be toggled by pressing 'CTRL + O' while your inventory is opened.",
+		"",
+		"- Pressing R on an item in your inventory will show you it's recipes, pressing U on an item will show you it's crafting uses",
+		"",
+		"- When looking at recipes, you might not always see what you want to at first glance. If multiple pages are available, at the top of the page there are two buttons, the bottom button makes you go through pages of the crafting machine you've selected. The top arrow buttons, if available, will lead you to recipes of other machines. This is very important, since some items can be made in multiple machines, and the machine that comes up first might not be available to you at the moment.",
+		"",
+		"- At the top of your screen while you look at a block you can see information about it's properties (usually it's name and from what mod it is), you can disable or enable this in the configuration of the WAILA mod."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "0e4e8db8",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "1d8dac96",
+		type: "xp",
+		xp: 100
+	}]
+}

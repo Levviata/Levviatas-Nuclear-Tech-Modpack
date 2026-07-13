@@ -1,0 +1,14 @@
+{
+	x: -5.5d,
+	y: 16.0d,
+	dependencies: [
+		"12d9934e"
+	],
+	tasks: [{
+		uid: "5917f2fe",
+		type: "item",
+		items: [{
+			item: "hbm:machine_autosaw"
+		}]
+	}]
+}

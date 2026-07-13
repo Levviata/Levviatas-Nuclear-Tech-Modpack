@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: 11.0d,
+	tasks: [{
+		uid: "9a7772a5",
+		type: "item",
+		items: [{
+			item: "hbm:coil_copper"
+		}]
+	}]
+}

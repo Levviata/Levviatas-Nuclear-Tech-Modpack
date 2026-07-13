@@ -1,0 +1,34 @@
+{
+	x: 0.0d,
+	y: 19.0d,
+	shape: "hexagon",
+	description: "2nd tier",
+	text: [
+		"A direct upgrade to the Iron Anvil. The Steel anvil is the 2nd tier of anvils.",
+		"",
+		"This can make the Assembly Machine which is the most important machine in NTM, used for assembling any other machine or tool.",
+		"",
+		"You'll also be able to make other important machines like the Crucible or the Combination Oven."
+	],
+	dependencies: [
+		"86867f7a"
+	],
+	tasks: [{
+		uid: "51cf492e",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_steel"
+		}]
+	}],
+	rewards: [{
+		uid: "1cd87736",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 32
+	},
+	{
+		uid: "a6e1620b",
+		type: "xp",
+		xp: 100
+	}]
+}

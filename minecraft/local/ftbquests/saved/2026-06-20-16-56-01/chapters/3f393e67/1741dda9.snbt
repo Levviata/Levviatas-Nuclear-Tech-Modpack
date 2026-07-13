@@ -1,0 +1,18 @@
+{
+	x: 2.5d,
+	y: 13.0d,
+	description: "Basic",
+	text: [
+		"Generates power by burning fuel. "
+	],
+	dependencies: [
+		"a488de09"
+	],
+	tasks: [{
+		uid: "ada42507",
+		type: "item",
+		items: [{
+			item: "hbm:machine_wood_burner"
+		}]
+	}]
+}

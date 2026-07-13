@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 22.5d,
+	dependencies: [
+		"974fcf0f",
+		"2f2d4ae6",
+		"52766c40"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "28950516",
+		type: "item",
+		items: [{
+			item: "hbm:machine_strand_caster"
+		}]
+	}]
+}

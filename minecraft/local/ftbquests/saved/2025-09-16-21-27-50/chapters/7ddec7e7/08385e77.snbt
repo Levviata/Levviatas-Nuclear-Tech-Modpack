@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "9a3be71f",
+		type: "item",
+		items: [{
+			item: "hbm:ore_nether_uranium"
+		}]
+	}]
+}

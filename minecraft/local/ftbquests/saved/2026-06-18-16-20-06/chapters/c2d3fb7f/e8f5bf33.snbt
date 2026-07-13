@@ -1,0 +1,19 @@
+{
+	title: "Advancement: &eA Terrible Fortress",
+	x: 14.0d,
+	y: 6.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"9bcc9848"
+	],
+	tasks: [{
+		uid: "cf1f3df8",
+		type: "advancement",
+		title: "Advancement: &eA Terrible Fortress",
+		icon: "minecraft:nether_brick",
+		advancement: "minecraft:nether/find_fortress",
+		criterion: ""
+	}]
+}

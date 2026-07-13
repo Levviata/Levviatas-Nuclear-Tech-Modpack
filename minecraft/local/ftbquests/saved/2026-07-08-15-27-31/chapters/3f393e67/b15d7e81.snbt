@@ -1,0 +1,30 @@
+{
+	x: 2.5d,
+	y: 6.0d,
+	text: [
+		"Apart from dandelions, latex may be obtained from Jungle Wood by pressing it with a Burner Press."
+	],
+	dependencies: [
+		"e4708a01"
+	],
+	optional: true,
+	tasks: [{
+		uid: "d0fe6ee9",
+		type: "item",
+		items: [{
+			item: "minecraft:log 1 3"
+		}]
+	},
+	{
+		uid: "5fc13118",
+		type: "item",
+		items: [{
+			item: "hbm:ball_resin"
+		}]
+	}],
+	rewards: [{
+		uid: "72ae7d00",
+		type: "item",
+		item: "hbm:ball_resin"
+	}]
+}

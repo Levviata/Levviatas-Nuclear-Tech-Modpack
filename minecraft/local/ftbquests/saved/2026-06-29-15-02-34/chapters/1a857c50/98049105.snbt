@@ -1,0 +1,11 @@
+{
+	x: -13.0d,
+	y: 10.5d,
+	tasks: [{
+		uid: "495b66ba",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 90"
+		}]
+	}]
+}

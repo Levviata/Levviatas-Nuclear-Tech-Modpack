@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 10.5d,
+	dependencies: [
+		"9561317e"
+	],
+	tasks: [{
+		uid: "462f960a",
+		type: "item",
+		items: [{
+			item: "hbm:charge_semtex"
+		}]
+	}]
+}

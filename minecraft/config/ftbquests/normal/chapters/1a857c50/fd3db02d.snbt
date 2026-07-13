@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	dependencies: [
+		"8931814a"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "ead0745a",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 23"
+		}]
+	},
+	{
+		uid: "3c8847a4",
+		type: "fluid",
+		fluid: "gas"
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "0fd682a0",
+		type: "item",
+		items: [{
+			item: "hbm:ore_lead"
+		}]
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	x: 13.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "dc88d04e",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any treeSapling"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "treeSapling"
+				}
+			}
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "90a2ebe0",
+		type: "item",
+		item: "hbm:biomass",
+		count: 16
+	}]
+}

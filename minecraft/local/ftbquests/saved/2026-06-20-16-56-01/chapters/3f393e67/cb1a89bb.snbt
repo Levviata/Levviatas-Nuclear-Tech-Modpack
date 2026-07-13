@@ -1,0 +1,25 @@
+{
+	x: 1.5d,
+	y: 14.5d,
+	dependencies: [
+		"a488de09"
+	],
+	tasks: [{
+		uid: "f8805e16",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_red_copper"
+		}]
+	}],
+	rewards: [{
+		uid: "e9777451",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 32
+	},
+	{
+		uid: "5e6cdb53",
+		type: "xp",
+		xp: 100
+	}]
+}

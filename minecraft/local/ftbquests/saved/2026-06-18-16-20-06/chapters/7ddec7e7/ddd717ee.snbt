@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "673d2557",
+		type: "item",
+		items: [{
+			item: "hbm:cluster_iron"
+		}]
+	}],
+	rewards: [{
+		uid: "50596c2c",
+		type: "xp",
+		auto: "no_toast",
+		xp: 50
+	}]
+}

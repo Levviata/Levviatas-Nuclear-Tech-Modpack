@@ -1,0 +1,10 @@
+{
+	icon: "hbm:stone_depth",
+	x: -3.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "0930143d",
+		type: "checkmark",
+		icon: "minecraft:bedrock"
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	x: 4.0d,
+	y: 10.0d,
+	text: [
+		"These tweezers may defuse small bombs like Time Bombs or bigger bombs like Duds (those rusted bombs that can be found in the overworld).",
+		"",
+		"When Duds are defused they give you resources, like dynamite."
+	],
+	tasks: [{
+		uid: "67800ed8",
+		type: "item",
+		items: [{
+			item: "hbm:defuser"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bd97ff63",
+		type: "item",
+		item: "hbm:crashed_bomb 1 3"
+	},
+	{
+		uid: "29bc1e97",
+		type: "item",
+		item: "hbm:crashed_bomb 1 1"
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 3.75d,
+	shape: "hexagon",
+	size: 1.5d,
+	tasks: [{
+		uid: "7bda3773",
+		type: "checkmark",
+		icon: "hbm:block_waste_painted"
+	}]
+}

@@ -1,0 +1,123 @@
+/*crafting.streamRecipes().filter( recipe -> {
+		def list = net.minecraft.util.NonNullList.from(ItemStack.EMPTY, recipe.input.getList().toArray())
+		log.info(list)
+	})*/
+
+/*for (int i = 0; i < recipes.size; i++) {
+	recipes[i]
+	
+	crafting.streamRecipes().filter( recipe -> {
+		def list = net.minecraft.util.NonNullList.from(item(recipes[0]), recipe.input.asList().toArray())
+		//crafting.replaceShaped(recipes[0], recipes[0], item(recipes[0]))
+		/*for (int a = 0; a < list.size; a++) {
+			def ingredient = list[a]
+			log.info(ingredient)
+		}*/
+		//def ingredients = (Ingredient) list[0]
+		//log.info(list)
+		
+
+	})
+	
+}*/
+
+def allIngredients = []
+
+ForgeRegistries.RECIPES.each { recipe ->
+    def recipeIngredients = []
+
+    recipe.ingredients.each { ingredient ->
+        if (!ingredient.matchingStacks.empty) {
+            log.info(ingredient.resource + ":" + ingredient.metadata)
+        }
+    }
+
+    allIngredients << recipeIngredients
+}
+
+
+    crafting.streamRecipes()
+        .filter { recipe ->
+            recipe.input.each { ingredient ->
+				ingredient.getMatchingStacks().each {
+				log.info(it.registryName + ":" + it.metadata)
+            }
+        }
+		}
+for (int i = 0; i < recipes.size; i++) {
+	recipes[i]
+	
+	crafting.streamRecipes().filter( recipe -> {
+		def list = net.minecraft.util.NonNullList.from(item(recipes[0]), recipe.input.asList().toArray())
+		log.info(list)
+	})
+	
+}
+
+def recipes = ["refinedstorage:writer", "refinedstorage:wrench", "refinedstorage:transmitter", "refinedstorage:wireless_grid", "refinedstorage:wireless_fluid_grid", "refinedstorage:wireless_crafting_monitor", "refinedstorage:upgrade", "refinedstorage:storage_monitor", "refinedstorage:storage_housing", "refinedstorage:speed_upgrade", "refinedstorage:security_manager", "refinedstorage:security_card", "refinedstorage:reader", "refinedstorage:range_upgrade", "refinedstorage:portable_grid", "refinedstorage:pattern", "refinedstorage:network_card", "refinedstorage:machine_casing", "refinedstorage:interface", "refinedstorage:grid", "refinedstorage:filter", "refinedstorage:external_storage", "refinedstorage:disk_manipulator", "refinedstorage:disk_drive", "refinedstorage:detector", "refinedstorage:destructor", "refinedstorage:cutting_tool", "refinedstorage:crafting_upgrade", "refinedstorage:crafting_monitor", "refinedstorage:crafter_manager", "refinedstorage:crafter", "refinedstorage:constructor", "refinedstorage:cable", "refinedstorage:64k_storage_part", "refinedstorage:64k_storage_disk", "refinedstorage:64k_storage_block", "refinedstorage:64k_fluid_storage_part", "refinedstorage:64k_fluid_storage_disk", "refinedstorage:64k_fluid_storage_block", "refinedstorage:4k_storage_part", "refinedstorage:4k_storage_disk", "refinedstorage:4k_storage_block", "refinedstorage:4096k_fluid_storage_part", "refinedstorage:4096k_fluid_storage_disk", "refinedstorage:4096k_fluid_storage_block", "refinedstorage:256k_fluid_storage_part", "refinedstorage:256k_fluid_storage_disk", "refinedstorage:256k_fluid_storage_block", "refinedstorage:1k_storage_part", "refinedstorage:1k_storage_disk", "refinedstorage:1k_storage_block", "refinedstorage:16k_storage_part", "refinedstorage:16k_storage_disk", "refinedstorage:16k_storage_block", "refinedstorage:1024k_fluid_storage_part", "refinedstorage:1024k_fluid_storage_disk", "refinedstorage:1024k_fluid_storage_block", "refinedstorage:fortune_1_upgrade", "refinedstorage:fortune_2_upgrade", "refinedstorage:fortune_3_upgrade", "refinedstorage:silk_touch_upgrade"]
+//human code
+/*
+for (int i = 0; i < recipes.toArray().length; i++) {
+	recipes[i]
+	
+	crafting.streamRecipes().filter( recipe -> {
+
+	})
+	.forEach( ingredient -> {
+		crafting.replaceShaped(recipes[i], recipes[i], ingredient.input.asList())
+	})
+	
+}*/
+
+//AI and my big powerful brain
+for (int i = 0; i < recipes.toArray().length; i++) {
+    recipes[i]
+
+    crafting.streamRecipes().filter( recipe -> { // IRecipe
+        recipe.registryName?.namespace == "refinedstorage"
+        def ingredients = recipe.getIngredients() // NonNullList<Ingredient>
+
+        for (int e = 0; e < ingredients.toArray().length; e++) {
+            def ingredient = ingredients[e].getMatchingStacks() // maybe this will give problems with metadata?
+            log.info("We have this ingredient: {}", ingredient)
+
+            /*def comparedItem = item('refinedstorage:quartz_enriched_iron')
+
+            if (ingredient.isItemEqual(comparedItem)) {
+                log.info("MASSIVE BRAIN ALWAYS WINS")
+            }*/
+        }
+    })
+    .forEach( recipesOfRefinedStorageWithQuartzInfusedIron -> { //name is incorrect
+        log.info(recipesOfRefinedStorageWithQuartzInfusedIron)
+    })
+}
+
+/*crafting.shapedBuilder()
+	.name(resource('refinedstorage:4k_storage_part'))
+    .output(item('refinedstorage:storage_part:1'))
+    .row('BQB')
+    .row('!S!')
+    .row('B!B')
+    .key('B', item('refinedstorage:processor:3')) // Basic Processor
+	.key('!', item('refinedstorage:storage_part'))
+	.key('S', item('hbm:circuit:4')) // Silicon Wafer
+	.key('Q', item('hbm:ingot_steel'))
+	.replaceByName()
+    .register()
+
+crafting.shapedBuilder()
+	.name(resource('refinedstorage:16k_storage_part'))
+    .output(item('hbm:defuser'))
+    .row(' LS')
+    .row('LRL')
+    .row(' L ')
+    .key('L', item('hbm:ingot_biorubber'))
+	.key('S', item('hbm:plate_steel'))
+	.key('R', ore('dyeRed'))
+	.replaceByName()
+    .register()*/
+	
+
+def quartzIron = item('refinedstorage:quartz_enriched_iron').setStackDisplayName("Quartz Enriched Iron (Removed)")
+

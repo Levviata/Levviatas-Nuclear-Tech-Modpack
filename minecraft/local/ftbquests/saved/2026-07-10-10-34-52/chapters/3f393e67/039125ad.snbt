@@ -1,0 +1,41 @@
+{
+	x: 4.0d,
+	y: 7.5d,
+	text: [
+		"Needs a fluid identifier.",
+		"",
+		"Moves fluids from A to B.",
+		"",
+		"You may contain liquids in Tanks. ",
+		"",
+		"I'll give you one for free but usually you get these after starting to refine Oil.",
+		"Tanks have fluid ports which intake and outake fluids, you will need to connect a fluid duct with the correct fluid identifier to move liquids."
+	],
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "aea94415",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_duct_mk2 1 1"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "822b56a9",
+		type: "item",
+		item: "hbm:fluid_duct_mk2 1 1",
+		count: 64
+	},
+	{
+		uid: "5cd6ac26",
+		type: "item",
+		item: "hbm:machine_fluidtank"
+	},
+	{
+		uid: "de65c21a",
+		type: "item",
+		item: "hbm:gravel_diamond"
+	}]
+}

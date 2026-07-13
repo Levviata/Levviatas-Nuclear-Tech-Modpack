@@ -1,0 +1,20 @@
+{
+	x: -3.5d,
+	y: -1.5d,
+	dependencies: [
+		"893c81c8"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "7325c811",
+		type: "fluid",
+		fluid: "petroleum"
+	},
+	{
+		uid: "689d9e9d",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 24"
+		}]
+	}]
+}

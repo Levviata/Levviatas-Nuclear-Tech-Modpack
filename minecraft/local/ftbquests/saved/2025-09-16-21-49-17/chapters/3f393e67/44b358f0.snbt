@@ -1,0 +1,27 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	description: "A temporal solution",
+	text: [
+		"Gives Airbone Particle and Chemical Gas protection and doesn't lose durability while protecting from hazards but after a set amount of time it unequips and drops to the ground as a Crude Protective Mask."
+	],
+	tasks: [{
+		uid: "ddca6d07",
+		type: "item",
+		items: [{
+			item: "hbm:mask_piss"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e6c82eb8",
+		type: "xp",
+		xp: 50
+	},
+	{
+		uid: "b9997e0d",
+		type: "item",
+		item: "minecraft:baked_potato"
+	}]
+}

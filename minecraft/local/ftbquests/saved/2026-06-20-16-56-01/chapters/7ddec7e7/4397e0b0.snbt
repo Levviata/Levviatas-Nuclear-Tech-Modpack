@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: 9.5d,
+	tasks: [{
+		uid: "af1307b1",
+		type: "item",
+		items: [{
+			item: "hbm:ore_nether_cobalt"
+		}]
+	}],
+	rewards: [{
+		uid: "a2072114",
+		type: "xp",
+		auto: "no_toast",
+		xp: 50
+	}]
+}

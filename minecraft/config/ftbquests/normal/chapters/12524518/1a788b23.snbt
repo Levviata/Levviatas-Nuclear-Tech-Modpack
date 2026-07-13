@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"The Spent Fuel Pool Drum can cool down spent fuel for recyling, it should be surrounded by water on it's sides to speed up the cooling process."
+	],
+	tasks: [{
+		uid: "2b7528e5",
+		type: "item",
+		items: [{
+			item: "hbm:machine_waste_drum"
+		}]
+	}]
+}

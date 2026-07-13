@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: 17.0d,
+	text: [
+		"The Air Intake makes Compressed Air, this can be used to make Hot Air Blast for the Blast Furnace, though it has other uses."
+	],
+	dependencies: [
+		"86867f7a",
+		"cb1a89bb"
+	],
+	tasks: [{
+		uid: "6f6080e3",
+		type: "item",
+		items: [{
+			item: "hbm:machine_intake"
+		}]
+	}]
+}

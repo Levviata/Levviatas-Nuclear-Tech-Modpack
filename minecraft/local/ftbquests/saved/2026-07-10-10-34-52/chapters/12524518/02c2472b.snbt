@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	text: [
+		"The ZIRNOX Nuclear Reactor is the cheapest nuclear reactor you will make early-on, it is also simple, being a single block without modular parts.",
+		"",
+		"As fuel, it will accept ZIRNOX rods. "
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "399333b0",
+		type: "item",
+		items: [{
+			item: "hbm:machine_zirnox"
+		}]
+	}],
+	rewards: [{
+		uid: "333f9a9c",
+		type: "item",
+		item: "hbm:rod_zirnox_empty"
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	x: 5.0d,
+	y: 10.0d,
+	text: [
+		"The time bomb is a timed explosive that can be configured to explode in a set amount of time. ",
+		"",
+		"It explodes in a decent radius rivaling TNT blocks,",
+		"",
+		"Can only be destroyed/broken with a defuser in hand while crouch-right-clicking."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "ab17e789",
+		type: "item",
+		items: [{
+			item: "hbm:charge_dynamite"
+		}]
+	}],
+	rewards: [{
+		uid: "d1a40d2d",
+		type: "item",
+		item: "hbm:stick_semtex",
+		count: 8
+	}]
+}

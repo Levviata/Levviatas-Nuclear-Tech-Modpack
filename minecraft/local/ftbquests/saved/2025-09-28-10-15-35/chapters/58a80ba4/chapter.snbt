@@ -1,0 +1,7 @@
+{
+	title: "Metallurgy",
+	icon: "hbm:mold 1 26",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

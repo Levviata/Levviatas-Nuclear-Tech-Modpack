@@ -1,0 +1,98 @@
+{
+	title: "Steel Tools",
+	x: -2.5d,
+	y: 16.0d,
+	text: [
+		"Steel tools are great because they have special abilities like Vein Mining and Stunning.",
+		"",
+		"You may activate or deactivate these effects pressing right click.",
+		"Pressing Alt opens up your tool's abilities, you may customizate them at will.",
+		"",
+		"Hoes are miserable forgotten and ability-less sadly."
+	],
+	dependencies: [
+		"86867f7a"
+	],
+	tasks: [{
+		uid: "15238be7",
+		type: "item",
+		items: [{
+			item: "hbm:steel_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6a113bca",
+		type: "item",
+		items: [{
+			item: "hbm:steel_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c98b894c",
+		type: "item",
+		items: [{
+			item: "hbm:steel_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5ca6507c",
+		type: "item",
+		items: [{
+			item: "hbm:steel_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "19f8962c",
+		type: "item",
+		items: [{
+			item: "hbm:steel_hoe"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b9915c59",
+		type: "xp",
+		xp: 200
+	},
+	{
+		uid: "57ba57bc",
+		type: "item",
+		item: "minecraft:bookshelf",
+		count: 3
+	},
+	{
+		uid: "1d8f0965",
+		type: "item",
+		item: {
+			id: "hbm:steel_hoe",
+			tag: {
+				ench: [{
+					id: 32,
+					lvl: 5
+				},
+				{
+					id: 35,
+					lvl: 3
+				},
+				{
+					id: 70,
+					lvl: 1
+				},
+				{
+					id: 34,
+					lvl: 3
+				}]
+			}
+		}
+	}]
+}

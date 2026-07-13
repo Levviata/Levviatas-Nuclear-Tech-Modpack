@@ -1,0 +1,27 @@
+{
+	x: -7.0d,
+	y: 19.0d,
+	text: [
+		"The Steam Engine is a beast of a generator that produces 25kHE~ every second.",
+		"",
+		"Intakes Steam and produces Low-Pressure Steam as a side product.",
+		"",
+		"You will need 4 Boilers to run this machine properly."
+	],
+	dependencies: [
+		"d992d315"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "a28e7ba7",
+		type: "item",
+		items: [{
+			item: "hbm:machine_steam_engine"
+		}]
+	}],
+	rewards: [{
+		uid: "708bf190",
+		type: "item",
+		item: "hbm:chocolate"
+	}]
+}

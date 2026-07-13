@@ -1,0 +1,23 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	text: [
+		"The ZIRNOX Nuclear Reactor is one of the cheapest and simplest reactor you will make early-on.",
+		"",
+		"As fuel, it will accept ZIRNOX rods. ",
+		"",
+		"Your first fuel will be Natural Uranium, but you will want to move onto Uranium Fuel rods as fast as you can, since once they are depleted and cooled they may be purified (in a PUREX) into useful materials like Plutonium and Technetium."
+	],
+	tasks: [{
+		uid: "399333b0",
+		type: "item",
+		items: [{
+			item: "hbm:machine_zirnox"
+		}]
+	}],
+	rewards: [{
+		uid: "333f9a9c",
+		type: "item",
+		item: "hbm:rod_zirnox_empty"
+	}]
+}

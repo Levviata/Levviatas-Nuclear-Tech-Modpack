@@ -1,1 +1,21 @@
-/minecraft/mods/*
+/minecraft/mods/
+/natives/
+/lib/
+/flame/
+/minecraft/build/
+/minecraft/cache/
+/minecraft/coremods/
+/minecraft/craftdumper/
+/minecraft/crash-reports/
+/minecraft/llibrary/
+/minecraft/logs/
+/minecraft/resourcepacks/1.12.2 ConverterNewEdition v1.8.zip
+/minecraft/resourcepacks/NTM NMV-1.3.zip
+/minecraft/saves/
+/minecraft/screenshots/
+/minecraft/server-resource-packs/
+/minecraft/shaderpacks/
+/minecraft/texturepacks/
+/minecraft/vintagefix/
+/minecraft/xaero/
+/minecraft/XaeroWaypoints_BACKUP240807/

@@ -1,0 +1,11 @@
+{
+	x: 0.7857142857142492d,
+	y: 11.702380952380956d,
+	tasks: [{
+		uid: "c4993e5c",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bscco"
+		}]
+	}]
+}

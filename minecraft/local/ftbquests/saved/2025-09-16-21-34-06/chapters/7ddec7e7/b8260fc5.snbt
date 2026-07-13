@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "486f40eb",
+		type: "item",
+		items: [{
+			item: "hbm:ore_nether_sulfur"
+		}]
+	}]
+}

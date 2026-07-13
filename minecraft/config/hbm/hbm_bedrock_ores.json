@@ -1,0 +1,85 @@
+{
+  "dimConfig": [
+    {
+      "dimID": 0,
+      "oreRarity": 15,
+      "isWhiteList": false,
+      "bedrockOres": [
+        "oreNeodymium",
+        "oreWhiteGem",
+        "oreQuartz",
+        "oreSteel",
+        "oreRedDiamond",
+        "oreCarbon",
+        "oreSchrabidium",
+        "oreDesh",
+        "orePurpleDiamond",
+        "oreInfernalCoal",
+        "oreNitanium",
+        "oreDarkIron",
+        "oreCheese",
+        "oreGreenDiamond",
+        "oreBlueDiamond",
+        "oreDenseCoal",
+        "oreAdrite",
+        "oreCrystal",
+        "oreMercury",
+        "orePlutonium",
+        "oreRedPhosphorus",
+        "oreRedGem",
+        "oreYellowDiamond",
+        "oreBlueGem"
+      ]
+    },
+    {
+      "dimID": -1,
+      "oreRarity": 60,
+      "isWhiteList": true,
+      "bedrockOres": [
+        "oreNeodymium",
+        "oreQuartz",
+        "oreAdrite",
+        "oreSchrabidium",
+        "orePlutonium",
+        "oreRedPhosphorus",
+        "oreCobalt",
+        "oreTungsten",
+        "oreSulfur",
+        "oreInfernalCoal",
+        "oreUranium",
+        "oreNitanium"
+      ]
+    },
+    {
+      "dimID": -6,
+      "oreRarity": 30,
+      "isWhiteList": false,
+      "bedrockOres": [
+        "oreNeodymium",
+        "oreWhiteGem",
+        "oreQuartz",
+        "oreSteel",
+        "oreRedDiamond",
+        "oreCarbon",
+        "oreSchrabidium",
+        "oreDesh",
+        "orePurpleDiamond",
+        "oreInfernalCoal",
+        "oreNitanium",
+        "oreDarkIron",
+        "oreCheese",
+        "oreGreenDiamond",
+        "oreBlueDiamond",
+        "oreDenseCoal",
+        "oreAdrite",
+        "oreCrystal",
+        "oreMercury",
+        "orePlutonium",
+        "oreRedPhosphorus",
+        "oreRedGem",
+        "oreYellowDiamond",
+        "oreBlueGem"
+      ]
+    }
+  ]
+}

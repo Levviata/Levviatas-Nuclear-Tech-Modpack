@@ -1,0 +1,17 @@
+{
+	x: -5.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "9a7772a5",
+		type: "item",
+		items: [{
+			item: "hbm:coil_copper"
+		}]
+	}],
+	rewards: [{
+		uid: "df2ceac5",
+		type: "item",
+		item: "hbm:wire_fine 1 31",
+		count: 8
+	}]
+}

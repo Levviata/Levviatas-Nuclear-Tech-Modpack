@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: -1.0d,
+	text: [
+		"Antenna Tops are a decoration block that can be deconstructed in an NTM anvil for materials."
+	],
+	tasks: [{
+		uid: "9a2402d2",
+		type: "item",
+		items: [{
+			item: "hbm:pole_top"
+		}]
+	}],
+	rewards: [{
+		uid: "25677ae4",
+		type: "item",
+		item: "hbm:ingot_tungsten",
+		count: 3
+	}]
+}

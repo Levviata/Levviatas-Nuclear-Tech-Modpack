@@ -1,0 +1,27 @@
+{
+	x: 7.0d,
+	y: 12.5d,
+	text: [
+		"A much simpler version of the pylons, you may connect these to a Cable on each end and share electricity in a range of 10 meters each, each Electricity Connector being connected with Cable Drum.",
+		"",
+		"They need to be connected to a cable or they won't share electricity, in our out.",
+		"",
+		"You may change the color of the cable connecting the pylons with dye."
+	],
+	dependencies: [
+		"d1b6b174"
+	],
+	tasks: [{
+		uid: "320054ae",
+		type: "item",
+		items: [{
+			item: "hbm:red_connector"
+		}]
+	}],
+	rewards: [{
+		uid: "79617f1b",
+		type: "item",
+		item: "hbm:red_connector",
+		count: 7
+	}]
+}

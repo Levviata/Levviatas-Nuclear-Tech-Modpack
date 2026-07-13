@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 9.0d,
+	tasks: [{
+		uid: "f92f7600",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_tungsten"
+		}]
+	}]
+}

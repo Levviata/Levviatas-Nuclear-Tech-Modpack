@@ -1,0 +1,47 @@
+{
+	x: -7.0d,
+	y: 7.5d,
+	text: [
+		"You can equip filters by wearing a gas mask then holding the filter in your main hand and right clicking. ",
+		"",
+		"To unequip a filter, remove your gas mask, hold it in your main hand then crouch-right-click.",
+		"",
+		"To inspect your filter's properties press Left-Shift while hovering the filter in your inventory, this also applies to gas masks with filters equipped."
+	],
+	dependencies: [
+		"b271f214"
+	],
+	tasks: [{
+		uid: "9671ac89",
+		type: "item",
+		items: [{
+			item: "hbm:gas_mask_filter_piss"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5177f7c4",
+		type: "item",
+		item: {
+			id: "hbm:gas_mask_filter_piss",
+			tag: {
+				RepairCost: 3,
+				ench: [{
+					id: 70s,
+					lvl: 1s
+				},
+				{
+					id: 34s,
+					lvl: 3s
+				}]
+			}
+		}
+	},
+	{
+		uid: "04de907a",
+		type: "item",
+		item: "hbm:attachment_mask"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 6.5d,
+	y: 27.0d,
+	dependencies: [
+		"974fcf0f"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "8e7235a6",
+		type: "item",
+		items: [{
+			item: "hbm:chimney_industrial"
+		}]
+	}]
+}

@@ -1,0 +1,44 @@
+{
+	title: "Boiler and Steam Condenser",
+	x: -8.0d,
+	y: 21.0d,
+	text: [
+		"The Boiler is a machine that can boil Water to produce Steam.",
+		"",
+		"The Steam Condensor turns Low-Pressure Steam into Water.",
+		"",
+		"Steam is a handy thing because it powers powerful machines like the Steam Engine or the Rotatory Furnace.",
+		"",
+		"The Steam Condensor can intake the Low-Pressure Steam sidewaste of these machines and turn it into water again. Though water is a non-issue after getting a Steam-Powered Water Pump, you may find a special use to it, pinky promise."
+	],
+	dependencies: [
+		"82d71470"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "78539da6",
+		type: "item",
+		items: [{
+			item: "hbm:heat_boiler"
+		}]
+	},
+	{
+		uid: "59ef371f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_condenser"
+		}]
+	}],
+	rewards: [{
+		uid: "218587e4",
+		type: "item",
+		item: "hbm:machine_condenser",
+		count: 31
+	},
+	{
+		uid: "da63e057",
+		type: "item",
+		item: "hbm:fluid_duct_mk2 1 1",
+		count: 64
+	}]
+}

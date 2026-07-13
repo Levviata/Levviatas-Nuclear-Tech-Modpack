@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: 6.0d,
+	dependencies: [
+		"5b1b40f1"
+	],
+	tasks: [{
+		uid: "0d989fc0",
+		type: "item",
+		items: [{
+			item: "hbm:machine_catalytic_cracker"
+		}]
+	}]
+}

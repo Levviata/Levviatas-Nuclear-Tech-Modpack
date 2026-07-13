@@ -1,0 +1,20 @@
+{
+	x: 6.5d,
+	y: 11.0d,
+	text: [
+		"After getting your first steel ingots, you now can craft a blast furnace extension, the extension provides a dramatic increase in speed when placed on top of the blast furnace, so it comes highly recommended. Even with the extension, the blast furnace is still slow, so it would be a good idea to make multiple. Fuel consumption is accelerated as well, so the efficiency remains the same."
+	],
+	tasks: [{
+		uid: "93accf55",
+		type: "item",
+		items: [{
+			item: "hbm:machine_difurnace_ext"
+		}]
+	}],
+	rewards: [{
+		uid: "28da268d",
+		type: "item",
+		item: "hbm:plate_copper",
+		count: 4
+	}]
+}

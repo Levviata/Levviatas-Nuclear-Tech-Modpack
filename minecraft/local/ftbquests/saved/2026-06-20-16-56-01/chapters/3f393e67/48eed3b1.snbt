@@ -1,0 +1,50 @@
+{
+	x: 4.5d,
+	y: 7.5d,
+	dependencies: [
+		"0627e4cf"
+	],
+	tasks: [{
+		uid: "912fc0f0",
+		type: "item",
+		items: [{
+			id: "hbm:battery_red_cell_6",
+			tag: {
+				charge: 90000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d683846a",
+		type: "item",
+		item: "hbm:record_lc"
+	},
+	{
+		uid: "f9afa7db",
+		type: "item",
+		item: "hbm:ducc"
+	},
+	{
+		uid: "31cac857",
+		type: "item",
+		item: "minecraft:jukebox"
+	},
+	{
+		uid: "a2d2f61b",
+		type: "item",
+		item: {
+			id: "hbm:battery_red_cell",
+			tag: {
+				charge: 15000L
+			}
+		},
+		count: 3
+	},
+	{
+		uid: "7d462a4c",
+		type: "item",
+		item: "hbm:machine_battery"
+	}]
+}

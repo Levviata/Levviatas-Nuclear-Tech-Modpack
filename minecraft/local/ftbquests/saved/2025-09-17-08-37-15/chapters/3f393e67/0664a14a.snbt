@@ -1,0 +1,15 @@
+{
+	title: "First Machinery",
+	x: 0.0d,
+	y: 1.0d,
+	shape: "hexagon",
+	text: [
+		"This mod adds various kinds of machines for specfic tasks and gathering materials. They are often crucial for progression. These are the machines that you would need right now to get the essential requirements to progress."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "bc775a29",
+		type: "checkmark",
+		icon: "hbm:machine_assembler"
+	}]
+}

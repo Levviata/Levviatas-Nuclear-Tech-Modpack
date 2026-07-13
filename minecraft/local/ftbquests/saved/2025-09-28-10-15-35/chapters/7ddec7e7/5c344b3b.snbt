@@ -1,0 +1,20 @@
+{
+	title: "Vanilla",
+	x: -4.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	text: [
+		"Vanilla Ores"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "d2afb40b",
+		type: "checkmark",
+		icon: "minecraft:grass"
+	}],
+	rewards: [{
+		uid: "3a5ab065",
+		type: "xp",
+		xp: 100
+	}]
+}

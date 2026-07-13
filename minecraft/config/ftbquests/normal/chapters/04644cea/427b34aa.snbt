@@ -1,0 +1,11 @@
+{
+	x: -4.761904761904795d,
+	y: 11.535714285714285d,
+	tasks: [{
+		uid: "8c682193",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_desh"
+		}]
+	}]
+}

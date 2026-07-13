@@ -1,0 +1,47 @@
+{
+	title: "Coal and Black Lung",
+	x: 3.5d,
+	y: 1.0d,
+	description: "Inhale coal dust exhale silicosis",
+	text: [
+		"Black Lung, or silicosis, is a disease added by Nuclear Tech Mod. Upon mining coal ore, Coal Dust is spawned, which can and will massacre your lungs. Holding coal (or any \"Coal Dust\" item like Lignite Powder) in your inventory also comes to the same effect.",
+		"",
+		"Prolonged inhalation of coal dust gives negative status effects such as Weakness and causes you to cough blood and soot at higher levels. ",
+		"",
+		"When you are exposed to a lung hazard, a pop up on the top right of your screen will tell you that its harder to breath, this indicates your lungs are being damaged by airborne particles.",
+		"",
+		"To counteract airborne particle damage, you can equip a Gas Mask with a filter that has the Airborne Particle trait to protect you from coal dust.",
+		"",
+		"To check the status of your lungs, you can use the Lung Diagnostic item, it will tell you how much asbestos or coal damage your lungs have taken.",
+		"",
+		"Using SiOX Cancer Medication or Herbal Paste will reset the disease to 50%, from which it will heal in about an hour."
+	],
+	tasks: [{
+		uid: "074bc9e4",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gemCoal"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "gemCoal"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "638a5c47",
+		type: "item",
+		item: "hbm:lung_diagnostic"
+	},
+	{
+		uid: "c8bc2d6c",
+		type: "item",
+		item: "hbm:pill_herbal"
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "The Road to Automation",
+	icon: "hbm:gear_large",
+	x: 18.91666666666668d,
+	y: -0.023809523809518396d,
+	shape: "hexagon",
+	text: [
+		"Soon it'll be time for your next machine, but you're not quite there yet. You'll need one more stamp: A wire stamp. Using your newly made red copper and some Tungsten, you'll have to make wires out of them. Tungsten wires, glass pane and an insulator make a vacuum tube! Once you have a sizable amount of red copper wires, you can craft motors, which, combined with the vacuum tubes and some metal blocks, make an assembly machine!"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "f103b43f",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a7e9e3c0",
+		type: "xp",
+		xp: 100
+	}]
+}

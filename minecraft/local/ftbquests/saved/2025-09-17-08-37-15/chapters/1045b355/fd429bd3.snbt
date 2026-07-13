@@ -1,0 +1,19 @@
+{
+	x: 6.5d,
+	y: 0.0d,
+	text: [
+		"Satellite Dishes are a decoration block that can be deconstructed in an NTM anvil for materials."
+	],
+	tasks: [{
+		uid: "f69c586d",
+		type: "item",
+		items: [{
+			item: "hbm:pole_satellite_receiver"
+		}]
+	}],
+	rewards: [{
+		uid: "cacf4877",
+		type: "item",
+		item: "hbm:ingot_steel"
+	}]
+}

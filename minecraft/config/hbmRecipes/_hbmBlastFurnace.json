@@ -1,0 +1,189 @@
+{
+  "recipes": [
+    {
+      "name": "blast.steelFromIngot",
+      "inputItem": [
+        ["dict","ingotIron",2],
+        ["dict","sand"]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_steel",2]],
+        ["single",["hbm:ingot_raw",1,41]]
+      ],
+      "duration": 800,
+      "power": 0
+    },
+    {
+      "name": "blast.steelFromDust",
+      "inputItem": [
+        ["dict","dustIron",2],
+        ["dict","sand"]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_steel",2]],
+        ["single",["hbm:ingot_raw",1,41]]
+      ],
+      "duration": 800,
+      "power": 0
+    },
+    {
+      "name": "blast.steelFromOre",
+      "inputItem": [
+        ["dict","oreIron"],
+        ["dict","sand"]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_steel",2]],
+        ["single",["hbm:ingot_raw",2,41]]
+      ],
+      "duration": 800,
+      "power": 0
+    },
+    {
+      "name": "blast.steelWithFlux",
+      "inputItem": [
+        ["dict","oreIron"],
+        ["item","hbm:powder_flux"]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_steel",3]],
+        ["single",["hbm:ingot_raw",2,41]]
+      ],
+      "duration": 1200,
+      "power": 0
+    },
+    {
+      "name": "blast.mingrade",
+      "inputItem": [
+        ["dict","ingotCopper"],
+        ["dict","dustRedstone"]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_red_copper",2]]
+      ],
+      "duration": 400,
+      "power": 0
+    },
+    {
+      "name": "blast.mingradeDust",
+      "inputItem": [
+        ["dict","dustCopper"],
+        ["dict","dustRedstone"]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_red_copper",2]]
+      ],
+      "duration": 400,
+      "power": 0
+    },
+    {
+      "name": "blast.mingradeIngot",
+      "inputItem": [
+        ["dict","ingotCopper"],
+        ["dict","ingotRedstone"]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_red_copper",2]]
+      ],
+      "duration": 400,
+      "power": 0
+    },
+    {
+      "name": "blast.mingradeCursed",
+      "inputItem": [
+        ["dict","dustCopper"],
+        ["dict","ingotRedstone"]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_red_copper",2]]
+      ],
+      "duration": 400,
+      "power": 0
+    },
+    {
+      "name": "blast.mingradeOre",
+      "inputItem": [
+        ["dict","oreCopper"],
+        ["dict","dustRedstone",6]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_red_copper",6]],
+        ["single",["hbm:ingot_raw",1,41]]
+      ],
+      "duration": 1200,
+      "power": 0
+    },
+    {
+      "name": "blast.meteorSword",
+      "inputItem": [
+        ["dict","ingotCobalt"],
+        ["item","hbm:meteorite_sword_hardened"]
+      ],
+      "outputItem": [
+        ["single",["hbm:meteorite_sword_alloyed"]]
+      ],
+      "duration": 1200,
+      "power": 0
+    },
+    {
+      "name": "blast.meteor",
+      "inputItem": [
+        ["dict","ingotCobalt"],
+        ["item","hbm:powder_meteorite"]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_meteorite"]]
+      ],
+      "duration": 600,
+      "power": 0
+    },
+    {
+      "name": "blast.starmetal",
+      "inputItem": [
+        ["dict","ingotSaturnite"],
+        ["item","hbm:ingot_meteorite"]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_starmetal"]]
+      ],
+      "duration": 600,
+      "power": 0
+    },
+    {
+      "name": "blast.paa",
+      "inputItem": [
+        ["dict","ingotGold"],
+        ["item","hbm:plate_mixed"]
+      ],
+      "outputItem": [
+        ["single",["hbm:plate_paa"]]
+      ],
+      "duration": 600,
+      "power": 0
+    },
+    {
+      "name": "blast.firebrick",
+      "inputItem": [
+        ["dict","dustAluminum"],
+        ["item","minecraft:clay_ball",7]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_firebrick",8]]
+      ],
+      "duration": 800,
+      "power": 0
+    },
+    {
+      "name": "blast.firebrickLimestone",
+      "inputItem": [
+        ["dict","oreLimestone"],
+        ["item","minecraft:clay_ball",6]
+      ],
+      "outputItem": [
+        ["single",["hbm:ingot_firebrick",8]]
+      ],
+      "duration": 800,
+      "power": 0
+    }
+  ]
+}

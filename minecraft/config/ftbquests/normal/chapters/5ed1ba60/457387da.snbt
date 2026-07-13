@@ -1,0 +1,24 @@
+{
+	title: "Why?",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "How?",
+	text: [
+		"Why?",
+		"I mostly like Nuclear Tech mod as it and I try to stay as close to the original mod as possible, but there are some things that I don't like so I changed them.",
+		"",
+		"I added Quality of Life, balance, and compability as I wised, these are good changes so you'll love em. ",
+		"",
+		"How?",
+		"I used Groovy Script and Levviata AI powered by my brain, I'm just that cool I can prompt my own brain, crazy ain't it."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "fe0f6e46",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}]
+}

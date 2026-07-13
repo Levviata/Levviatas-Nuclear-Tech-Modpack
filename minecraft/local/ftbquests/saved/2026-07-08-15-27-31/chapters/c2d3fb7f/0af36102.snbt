@@ -1,0 +1,14 @@
+{
+	x: 16.0d,
+	y: 6.0d,
+	dependencies: [
+		"e8f5bf33"
+	],
+	tasks: [{
+		uid: "cbb87f86",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_rod"
+		}]
+	}]
+}

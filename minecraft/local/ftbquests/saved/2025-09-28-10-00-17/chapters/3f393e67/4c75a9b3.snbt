@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: 18.0d,
+	dependencies: [
+		"64546c02"
+	],
+	tasks: [{
+		uid: "711d5aa1",
+		type: "item",
+		items: [{
+			item: "hbm:heater_oven"
+		}]
+	}]
+}

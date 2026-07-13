@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: 3.0d,
+	description: "§e§nRequires:§r§e Integrated Circuit Board",
+	text: [
+		""
+	],
+	dependencies: [
+		"3b7f73a1",
+		"37308693"
+	],
+	tasks: [{
+		uid: "07cb4ae7",
+		type: "item",
+		items: [{
+			item: "hbm:drone_crate"
+		}]
+	}]
+}

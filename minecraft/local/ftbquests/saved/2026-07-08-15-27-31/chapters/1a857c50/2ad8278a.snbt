@@ -1,0 +1,16 @@
+{
+	x: -7.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "1070a3f8",
+		type: "fluid",
+		fluid: "nitric_acid"
+	},
+	{
+		uid: "58cc03e2",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 82"
+		}]
+	}]
+}

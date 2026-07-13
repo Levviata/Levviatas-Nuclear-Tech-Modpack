@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: 1.0d,
+	dependencies: [
+		"5b005018"
+	],
+	tasks: [{
+		uid: "f285b4f8",
+		type: "fluid",
+		fluid: "naphtha"
+	},
+	{
+		uid: "1c47e9bd",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 19"
+		}]
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	title: "Pre-Cement Materials",
+	x: 4.5d,
+	y: 24.0d,
+	text: [
+		"Limestone is found naturally in the world replacing patches of stone.",
+		"",
+		"Slag is a byproduct of alloying ores and cleaning bedrock ore with nitric acid.",
+		"",
+		"Both of these can be shred and then crafted into Cement."
+	],
+	dependencies: [
+		"974fcf0f"
+	],
+	tasks: [{
+		uid: "2ba87f46",
+		type: "item",
+		items: [{
+			item: "hbm:powder_limestone"
+		}]
+	},
+	{
+		uid: "31a6c5ef",
+		type: "item",
+		items: [{
+			item: "hbm:block_slag"
+		}]
+	}],
+	rewards: [{
+		uid: "e9307dd3",
+		type: "xp",
+		xp: 10
+	}]
+}

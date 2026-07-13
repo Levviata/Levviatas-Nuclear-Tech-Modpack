@@ -1,0 +1,18 @@
+{
+	x: 12.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "00591b9b",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_lead"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "6d2dc61f",
+		type: "item",
+		item: "hbm:ingot_lead",
+		count: 6
+	}]
+}

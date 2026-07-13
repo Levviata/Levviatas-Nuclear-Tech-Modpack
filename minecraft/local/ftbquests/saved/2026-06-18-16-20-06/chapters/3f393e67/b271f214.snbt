@@ -1,0 +1,29 @@
+{
+	title: "Gas Masks and Filters",
+	icon: "hbm:gas_mask_m65",
+	x: -5.0d,
+	y: 8.5d,
+	shape: "hexagon",
+	text: [
+		"Gas masks are a category of armor and armor attachments used to protect from various hazards present in Nuclear Tech Mod.",
+		"",
+		"They rarely protect from any hazards, as those are covered by filters. Although, some of them may be used to protect your eyes.",
+		"",
+		"Filters can be installed in most Gas Masks, and are used to add some protection to them. ",
+		"",
+		"There are a variety of filters with different protections for specific hazards. In the early game, you will need a filter with the capacity to protect from airborne particles for protection agaisnt coal and asbestos."
+	],
+	dependencies: [
+		"44b358f0"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "468026d9",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "bf1d3339",
+		type: "xp",
+		xp: 100
+	}]
+}

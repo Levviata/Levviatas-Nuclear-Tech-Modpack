@@ -1,0 +1,11 @@
+{
+	x: -17.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "af992452",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_polymer"
+		}]
+	}]
+}

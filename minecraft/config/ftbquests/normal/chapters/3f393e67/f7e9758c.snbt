@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: 11.0d,
+	text: [
+		"Barrels are a easy and compact way to store a small quantity of fluids.",
+		"",
+		"The Safe Barrel is able to contain 12000mB but it cannot store hot, corrosive, or antimatter fluids."
+	],
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "44717fad",
+		type: "item",
+		items: [{
+			item: "hbm:barrel_plastic"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 6.5d,
+	y: 2.0d,
+	dependencies: [
+		"b76dc9e4"
+	],
+	tasks: [{
+		uid: "56b4663f",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_pu_mix"
+		}]
+	}]
+}

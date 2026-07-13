@@ -1,0 +1,7 @@
+{
+	title: "Reactors",
+	icon: "hbm:watz",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

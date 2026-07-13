@@ -1,0 +1,102 @@
+{
+	title: "Advanced Alloy Tools",
+	x: -3.5d,
+	y: 13.5d,
+	text: [
+		"Advanced Alloy tools are great because they have special abilities like Vein Mining and Stunning.",
+		"",
+		"You may activate or deactivate these effects pressing right click.",
+		" Pressing Alt opens up your tool's abilities, you may customizate them at will.",
+		"",
+		"Hoes are miserable forgotten and ability-less sadly."
+	],
+	dependencies: [
+		"00d714f8"
+	],
+	tasks: [{
+		uid: "c9b10d9b",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c2d5dbaf",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5e1fc482",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c39935cf",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1bdcc2b0",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_hoe"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d0d179c3",
+		type: "item",
+		item: {
+			id: "hbm:alloy_hoe",
+			tag: {
+				ench: [{
+					id: 32,
+					lvl: 5
+				},
+				{
+					id: 34,
+					lvl: 3
+				},
+				{
+					id: 70,
+					lvl: 1
+				},
+				{
+					id: 35,
+					lvl: 3
+				},
+				{
+					id: 16,
+					lvl: 5
+				}]
+			}
+		}
+	},
+	{
+		uid: "b9915c59",
+		type: "xp",
+		xp: 200
+	},
+	{
+		uid: "57ba57bc",
+		type: "item",
+		item: "minecraft:bookshelf",
+		count: 3
+	}]
+}

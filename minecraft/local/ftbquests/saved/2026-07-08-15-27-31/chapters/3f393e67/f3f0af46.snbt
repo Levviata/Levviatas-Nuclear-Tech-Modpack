@@ -1,0 +1,26 @@
+{
+	x: -5.0d,
+	y: 29.5d,
+	text: [
+		"The Pneumatic Tube carries items by using Compressed Air with 1 PU pressure, it is an effective way to transport items though it requires more setup than Conveyors."
+	],
+	dependencies: [
+		"d8615544"
+	],
+	tasks: [{
+		uid: "df6376b1",
+		type: "item",
+		items: [{
+			item: "hbm:pneumatic_tube"
+		}]
+	},
+	{
+		uid: "e4c9eeff",
+		type: "item",
+		items: [{
+			item: "hbm:screwdriver"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Coal Tar Creosote",
+	icon: "hbm:canister_fuel 1 80",
+	x: 0.0d,
+	y: 20.5d,
+	text: [
+		"If you are roasting coal in the oven you get coal tar creosote as a side product, this may be stored and refined into solid fuel, though it isn't that efficient."
+	],
+	dependencies: [
+		"12d9934e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "ecf72248",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "0ae1eaa9",
+		type: "item",
+		item: "hbm:grenade_gas"
+	},
+	{
+		uid: "4805b1fc",
+		type: "item",
+		item: "hbm:solid_fuel"
+	}]
+}

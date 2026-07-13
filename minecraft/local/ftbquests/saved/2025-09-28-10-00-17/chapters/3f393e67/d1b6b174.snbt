@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 13.5d,
+	dependencies: [
+		"bab8ed3d"
+	],
+	tasks: [{
+		uid: "ca54c9b0",
+		type: "item",
+		items: [{
+			item: "hbm:wiring_red_copper"
+		}]
+	}]
+}

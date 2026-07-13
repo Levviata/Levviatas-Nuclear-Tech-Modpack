@@ -1,0 +1,24 @@
+{
+	x: 13.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "baa76210",
+		type: "item",
+		items: [{
+			item: "minecraft:yellow_flower"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "7df65793",
+		type: "item",
+		item: "minecraft:yellow_flower",
+		count: 8
+	},
+	{
+		uid: "e9d2ab10",
+		type: "item",
+		item: "hbm:ball_resin",
+		count: 2
+	}]
+}

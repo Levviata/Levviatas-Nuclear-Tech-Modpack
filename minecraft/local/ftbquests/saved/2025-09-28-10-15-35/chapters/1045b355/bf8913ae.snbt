@@ -1,0 +1,18 @@
+{
+	x: 11.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "933a6424",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_aluminium"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "f67cf8df",
+		type: "item",
+		item: "hbm:ingot_aluminium",
+		count: 16
+	}]
+}

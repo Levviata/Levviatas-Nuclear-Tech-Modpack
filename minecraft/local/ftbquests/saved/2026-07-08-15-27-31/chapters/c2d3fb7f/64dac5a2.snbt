@@ -1,0 +1,24 @@
+{
+	x: 10.0d,
+	y: 6.0d,
+	dependencies: [
+		"a2d905b3"
+	],
+	tasks: [{
+		uid: "14cb8854",
+		type: "item",
+		items: [{
+			item: "minecraft:flint_and_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b2683ab4",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 10L
+	}]
+}

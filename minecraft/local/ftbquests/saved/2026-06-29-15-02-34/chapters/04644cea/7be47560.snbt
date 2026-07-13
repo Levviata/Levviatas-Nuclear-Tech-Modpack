@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 14.5d,
+	tasks: [{
+		uid: "81b77f7e",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_saturnite"
+		}]
+	}]
+}

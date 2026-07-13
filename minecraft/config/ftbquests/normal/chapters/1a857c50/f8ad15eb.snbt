@@ -1,0 +1,17 @@
+{
+	x: -9.0d,
+	y: -9.5d,
+	dependencies: [
+		"b96d27d1"
+	],
+	tasks: [{
+		uid: "69d29a40",
+		type: "item",
+		items: [{
+			id: "hbm:jetpack_break",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

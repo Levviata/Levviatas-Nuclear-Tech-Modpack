@@ -1,0 +1,11 @@
+{
+	x: -16.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "93d410fc",
+		type: "item",
+		items: [{
+			item: "hbm:furnace_combination"
+		}]
+	}]
+}

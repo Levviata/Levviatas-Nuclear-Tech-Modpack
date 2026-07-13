@@ -1,0 +1,52 @@
+{
+	x: 6.0d,
+	y: 8.0d,
+	text: [
+		"The Blast Furnace can be powered with coal, lignite, or any other fuel. Like the Iron Furnace, the blast furnace only uses up fuel while actively smelting.",
+		"",
+		"Eventually you are going to need many alloys, but these three are the most important ones:",
+		"",
+		"- Steel: iron ingot and coal make one ingot of steel",
+		"- Red copper: copper and redstone make two ingots of minecraft grade copper",
+		"- Advanced Alloy: red copper and steel can be alloyed together to make advanced alloy.",
+		"",
+		"Steel can additionally be made by directly smelting iron ore with flux, yielding 3 full ingots per ore!",
+		"",
+		"Many of the recipes are additive, meaning you'll get 2 ingots from alloying. With this in mind, you should start using Advanced Alloy for your tools. Far more resource efficient!"
+	],
+	tasks: [{
+		uid: "21ac6a2f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_difurnace_off"
+		}]
+	}],
+	rewards: [{
+		uid: "278d7877",
+		type: "item",
+		item: "hbm:plate_copper",
+		count: 4
+	},
+	{
+		uid: "36f22e25",
+		type: "item",
+		item: "minecraft:stonebrick",
+		count: 4
+	},
+	{
+		uid: "62ffe153",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 2
+	},
+	{
+		uid: "91b37dce",
+		type: "item",
+		item: "hbm:powder_flux"
+	},
+	{
+		uid: "d433477b",
+		type: "item",
+		item: "minecraft:coal"
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	x: 5.0d,
+	y: 3.5d,
+	text: [
+		"Some examples for plates"
+	],
+	tasks: [{
+		uid: "108d3f93",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plateStamp"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "plateStamp"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a25aab12",
+		type: "xp",
+		xp: 100
+	}]
+}

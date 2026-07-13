@@ -1,0 +1,16 @@
+{
+	x: -7.0d,
+	y: 26.5d,
+	dependencies: [
+		"502ff63f"
+	],
+	tasks: [{
+		uid: "2142381d",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_power_1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

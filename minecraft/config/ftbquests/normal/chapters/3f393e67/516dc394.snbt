@@ -1,0 +1,28 @@
+{
+	x: 3.5d,
+	y: 27.0d,
+	text: [
+		"Concrete has a decent blast resistance and is used to craft machines.",
+		"",
+		"Can be crafted into Concrete Bricks which are a great block for industrial areas, resisting both radiation and blast impacts."
+	],
+	dependencies: [
+		"7fd7be4b",
+		"2f2d4ae6"
+	],
+	tasks: [{
+		uid: "f6f81478",
+		type: "item",
+		items: [{
+			item: "hbm:concrete_smooth"
+		}],
+		count: 16L,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "2a6f80ec",
+		type: "item",
+		item: "hbm:concrete_smooth",
+		count: 16
+	}]
+}

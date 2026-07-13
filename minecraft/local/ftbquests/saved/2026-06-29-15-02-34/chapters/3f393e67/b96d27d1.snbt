@@ -1,0 +1,14 @@
+{
+	x: -9.0d,
+	y: 22.0d,
+	tasks: [{
+		uid: "87a3cf8d",
+		type: "item",
+		items: [{
+			id: "hbm:jetpack_fly",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

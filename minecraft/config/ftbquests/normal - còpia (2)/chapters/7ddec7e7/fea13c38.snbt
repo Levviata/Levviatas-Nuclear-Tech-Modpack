@@ -1,0 +1,21 @@
+{
+	title: "Ores",
+	icon: "minecraft:gold_ore",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		"All of the ores present in this modpack."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "f7fe8256",
+		type: "checkmark",
+		icon: "minecraft:iron_ore"
+	}],
+	rewards: [{
+		uid: "008545f6",
+		type: "xp",
+		xp: 100
+	}]
+}

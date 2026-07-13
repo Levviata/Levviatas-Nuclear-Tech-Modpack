@@ -1,0 +1,22 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "d9b4578b",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ironAnvil"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ironAnvil"
+				}
+			}
+		}]
+	}]
+}

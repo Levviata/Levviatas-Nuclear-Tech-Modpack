@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "03565612",
+		type: "item",
+		items: [{
+			item: "hbm:ore_thorium"
+		}]
+	}]
+}

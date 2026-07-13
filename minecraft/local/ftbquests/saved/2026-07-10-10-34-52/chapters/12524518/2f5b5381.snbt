@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"Your first fuel will be Natural Uranium, but you will want to move onto Uranium Fuel rods as fast as you can since when they are depleted and cooled they may be purified (in a PUREX) into useful materials like Plutonium and Technetium."
+	],
+	dependencies: [
+		"02c2472b"
+	],
+	tasks: [{
+		uid: "8935e870",
+		type: "item",
+		items: [{
+			id: "hbm:rod_zirnox",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

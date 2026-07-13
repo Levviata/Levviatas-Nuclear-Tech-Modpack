@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 1.0d,
+	text: [
+		"After removing the fuel from the ZINOX Rod, you will get Depleted Uranium Fuel, you will need to cool it down."
+	],
+	dependencies: [
+		"6c9b8a55"
+	],
+	tasks: [{
+		uid: "54f6645c",
+		type: "item",
+		items: [{
+			item: "hbm:waste_uranium"
+		}]
+	}]
+}

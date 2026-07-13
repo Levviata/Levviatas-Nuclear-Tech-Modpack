@@ -1,0 +1,11 @@
+{
+	x: -13.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "5756984f",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_desh"
+		}]
+	}]
+}

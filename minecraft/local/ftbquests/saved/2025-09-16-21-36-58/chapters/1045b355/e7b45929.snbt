@@ -1,0 +1,18 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "314d803a",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_copper"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "88e34964",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 16
+	}]
+}

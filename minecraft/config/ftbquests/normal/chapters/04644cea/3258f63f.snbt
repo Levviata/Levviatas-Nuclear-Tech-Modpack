@@ -1,0 +1,11 @@
+{
+	x: -3.7619047619047947d,
+	y: 11.035714285714285d,
+	tasks: [{
+		uid: "493f468a",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_tcalloy"
+		}]
+	}]
+}

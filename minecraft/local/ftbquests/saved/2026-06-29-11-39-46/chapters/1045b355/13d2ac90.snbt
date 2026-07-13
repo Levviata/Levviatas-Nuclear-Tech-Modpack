@@ -1,0 +1,18 @@
+{
+	x: 7.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "c4ba0d97",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "d806c604",
+		type: "item",
+		item: "minecraft:redstone",
+		count: 32
+	}]
+}

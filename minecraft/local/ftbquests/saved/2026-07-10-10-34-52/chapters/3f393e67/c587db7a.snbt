@@ -1,0 +1,15 @@
+{
+	x: -8.0d,
+	y: 17.0d,
+	dependencies: [
+		"81adf7a3"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "09bc71eb",
+		type: "item",
+		items: [{
+			item: "hbm:machine_solar_boiler"
+		}]
+	}]
+}

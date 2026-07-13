@@ -1,0 +1,35 @@
+{
+	x: 2.5d,
+	y: 12.0d,
+	text: [
+		"The life of all power grids you will ever make in this modpack.",
+		"",
+		"Your regular electricity cable, connects machines to power sources and power sources to machines.",
+		"",
+		"Some machines, like the Assembler, have certain ports where electricity may come in, they are located on the sides of the machine, kinda like a mario pipe but gray and ugly."
+	],
+	dependencies: [
+		"a488de09",
+		"cb1a89bb",
+		"fe1c92a7"
+	],
+	tasks: [{
+		uid: "0572e6a9",
+		type: "item",
+		items: [{
+			item: "hbm:red_cable"
+		}]
+	}],
+	rewards: [{
+		uid: "1282ce04",
+		type: "item",
+		item: "hbm:red_cable",
+		count: 64
+	},
+	{
+		uid: "50b8c115",
+		type: "item",
+		item: "hbm:red_wire_coated",
+		count: 32
+	}]
+}

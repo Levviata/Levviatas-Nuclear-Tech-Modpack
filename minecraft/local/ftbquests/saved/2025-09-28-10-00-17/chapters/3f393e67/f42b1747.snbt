@@ -1,0 +1,17 @@
+{
+	x: -3.0d,
+	y: 16.0d,
+	min_required_dependencies: 1,
+	dependencies: [
+		"083d7aa0",
+		"4c75a9b3"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "29a4c07f",
+		type: "item",
+		items: [{
+			item: "hbm:furnace_steel"
+		}]
+	}]
+}

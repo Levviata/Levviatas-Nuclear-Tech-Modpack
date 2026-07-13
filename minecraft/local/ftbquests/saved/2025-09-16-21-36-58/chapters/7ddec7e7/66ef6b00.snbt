@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "4ee60b16",
+		type: "item",
+		items: [{
+			item: "hbm:ore_rare"
+		}]
+	}]
+}

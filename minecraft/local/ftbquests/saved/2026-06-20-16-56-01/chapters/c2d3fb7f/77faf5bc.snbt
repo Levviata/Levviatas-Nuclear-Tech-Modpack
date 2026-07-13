@@ -1,0 +1,17 @@
+{
+	x: 12.0d,
+	y: 4.5d,
+	text: [
+		"Used to make gunpowder, flux, rubber bar, and much more."
+	],
+	dependencies: [
+		"9bcc9848"
+	],
+	tasks: [{
+		uid: "47d84381",
+		type: "item",
+		items: [{
+			item: "hbm:sulfur"
+		}]
+	}]
+}

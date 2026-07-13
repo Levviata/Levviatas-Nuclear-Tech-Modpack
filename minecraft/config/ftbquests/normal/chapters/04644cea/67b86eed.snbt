@@ -1,0 +1,11 @@
+{
+	x: -0.21428571428575083d,
+	y: 14.202380952380956d,
+	tasks: [{
+		uid: "c6c86ddf",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_osmiridium"
+		}]
+	}]
+}

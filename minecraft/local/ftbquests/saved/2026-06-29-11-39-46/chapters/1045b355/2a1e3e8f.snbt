@@ -1,0 +1,21 @@
+{
+	x: 11.5d,
+	y: -1.0d,
+	text: [
+		"For Stimpacks and herbal paste."
+	],
+	tasks: [{
+		uid: "cdd6a243",
+		type: "item",
+		items: [{
+			item: "hbm:plant_flower"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "c3120221",
+		type: "item",
+		item: "hbm:syringe_metal_stimpak",
+		count: 4
+	}]
+}

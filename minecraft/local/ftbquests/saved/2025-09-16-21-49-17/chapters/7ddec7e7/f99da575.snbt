@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "14fc76a9",
+		type: "item",
+		items: [{
+			item: "hbm:ore_depth_borax"
+		}]
+	}]
+}

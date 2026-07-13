@@ -1,0 +1,15 @@
+{
+	x: 4.0d,
+	y: 9.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "527add5f",
+		type: "item",
+		items: [{
+			item: "hbm:charge_miner"
+		}]
+	}]
+}

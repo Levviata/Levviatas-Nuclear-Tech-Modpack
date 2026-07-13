@@ -1,0 +1,35 @@
+{
+	x: 3.5d,
+	y: 10.5d,
+	description: "(weapons included)",
+	text: [
+		"AMMOOOOOOOO! (with weapons)",
+		"",
+		"(recipe has been replaced by Me: Copper ingots for tungsten; Iron ingots for titanium plates; And Stone for Stone Bricks. This balances progression)"
+	],
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "ecb3614d",
+		type: "item",
+		items: [{
+			item: "hbm:machine_ammo_press"
+		}]
+	}],
+	rewards: [{
+		uid: "7cdbc73e",
+		type: "item",
+		item: "hbm:gun_light_revolver"
+	},
+	{
+		uid: "749eba79",
+		type: "item",
+		item: "hbm:gun_maresleg"
+	},
+	{
+		uid: "c68095cc",
+		type: "item",
+		item: "hbm:syringe_awesome"
+	}]
+}

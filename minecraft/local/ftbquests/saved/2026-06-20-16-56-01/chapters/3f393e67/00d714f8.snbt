@@ -1,0 +1,25 @@
+{
+	x: -1.5d,
+	y: 14.5d,
+	dependencies: [
+		"a488de09"
+	],
+	tasks: [{
+		uid: "539c1581",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_advanced_alloy"
+		}]
+	}],
+	rewards: [{
+		uid: "d922f0a3",
+		type: "item",
+		item: "hbm:ingot_advanced_alloy",
+		count: 16
+	},
+	{
+		uid: "222ab929",
+		type: "xp",
+		xp: 100
+	}]
+}

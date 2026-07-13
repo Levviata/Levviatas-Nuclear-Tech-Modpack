@@ -1,0 +1,24 @@
+{
+	x: 3.5d,
+	y: 11.5d,
+	text: [
+		"Displays power usage.",
+		"",
+		"You may put one of these adjacent to a cable to connect it to the power grid, it will gauge of much power is being used at a time."
+	],
+	dependencies: [
+		"bab8ed3d"
+	],
+	tasks: [{
+		uid: "5da09b9d",
+		type: "item",
+		items: [{
+			item: "hbm:red_cable_gauge"
+		}]
+	}],
+	rewards: [{
+		uid: "4ac6b853",
+		type: "item",
+		item: "hbm:battery_sc 1 1"
+	}]
+}

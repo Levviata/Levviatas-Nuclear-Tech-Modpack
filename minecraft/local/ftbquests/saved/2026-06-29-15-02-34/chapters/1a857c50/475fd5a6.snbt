@@ -1,0 +1,11 @@
+{
+	x: 8.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "66c82c3d",
+		type: "item",
+		items: [{
+			item: "hbm:machine_gascent"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 1.5d,
+	text: [
+		"Steel Deco Blocks are a decoration block that can be deconstructed in an NTM anvil for materials."
+	],
+	tasks: [{
+		uid: "f6429a3d",
+		type: "item",
+		items: [{
+			item: "hbm:deco_steel"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "2d748dcd",
+		type: "item",
+		item: "hbm:ingot_steel"
+	}]
+}

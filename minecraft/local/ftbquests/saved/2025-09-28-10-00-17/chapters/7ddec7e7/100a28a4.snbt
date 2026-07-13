@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "848ebce4",
+		type: "item",
+		items: [{
+			item: "hbm:ore_niter"
+		}]
+	}],
+	rewards: [{
+		uid: "61751317",
+		type: "xp",
+		auto: "no_toast",
+		xp: 50
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: 27.0d,
+	dependencies: [
+		"8a25fa82"
+	],
+	tasks: [{
+		uid: "ffa62528",
+		type: "item",
+		items: [{
+			item: "hbm:oil_detector"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

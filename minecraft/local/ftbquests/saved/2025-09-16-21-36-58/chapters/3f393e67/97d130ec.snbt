@@ -1,0 +1,32 @@
+{
+	x: -4.0d,
+	y: 2.0d,
+	text: [
+		"Some examples for wires"
+	],
+	tasks: [{
+		uid: "9f3a038b",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plateWire"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "plateWire"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "396efe46",
+		type: "xp",
+		xp: 100
+	}]
+}

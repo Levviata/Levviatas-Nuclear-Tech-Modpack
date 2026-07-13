@@ -1,0 +1,59 @@
+{
+	x: 4.0d,
+	y: 8.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"e4708a01",
+		"8d91f096"
+	],
+	tasks: [{
+		uid: "410a48ed",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plateStamp"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "plateStamp"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "22a983a6",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any wireStamp"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "wireStamp"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "92c18105",
+		type: "item",
+		item: "hbm:stamp_obsidian_plate"
+	},
+	{
+		uid: "041097f5",
+		type: "item",
+		item: "hbm:stamp_obsidian_wire"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -5.5d,
+	y: -5.0d,
+	dependencies: [
+		"6dfb480a"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "26761649",
+		type: "item",
+		items: [{
+			item: "hbm:machine_arc_furnace"
+		}]
+	}]
+}

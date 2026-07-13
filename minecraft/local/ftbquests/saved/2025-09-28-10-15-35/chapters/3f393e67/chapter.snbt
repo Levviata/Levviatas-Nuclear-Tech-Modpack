@@ -1,0 +1,7 @@
+{
+	title: "Nuclear Tech: Early Game",
+	icon: "hbm:block_waste_painted",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

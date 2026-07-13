@@ -1,0 +1,15 @@
+{
+	title: "Nether",
+	icon: "minecraft:netherrack",
+	x: -8.75d,
+	y: 0.0d,
+	shape: "pentagon",
+	text: [
+		"Vanilla nether ores"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "d4f1930d",
+		type: "checkmark"
+	}]
+}

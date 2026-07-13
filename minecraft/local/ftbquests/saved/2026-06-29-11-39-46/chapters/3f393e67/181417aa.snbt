@@ -1,0 +1,23 @@
+{
+	x: -2.5d,
+	y: 12.0d,
+	text: [
+		"Modifies"
+	],
+	dependencies: [
+		"a488de09"
+	],
+	tasks: [{
+		uid: "9c6bcd53",
+		type: "item",
+		items: [{
+			item: "hbm:machine_weapon_table"
+		}]
+	}],
+	rewards: [{
+		uid: "128e3597",
+		type: "item",
+		item: "hbm:block_steel",
+		count: 2
+	}]
+}

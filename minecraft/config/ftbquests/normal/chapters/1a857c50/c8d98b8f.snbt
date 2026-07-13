@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: -11.5d,
+	dependencies: [
+		"16c32ffa"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "5af8b744",
+		type: "item",
+		items: [{
+			item: "hbm:turret_howard"
+		}]
+	}]
+}

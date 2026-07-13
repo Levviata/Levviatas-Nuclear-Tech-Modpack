@@ -1,0 +1,56 @@
+{
+	x: 6.5d,
+	y: 13.5d,
+	text: [
+		"Electricity Pylon are a handy electric carrying machine that can carry electricity over long distances.",
+		"",
+		"To construct these type of electric pylon you need three components, the pylon, the \"mini\" capacitor, and a Capacitor Bus.",
+		"",
+		"You place these Pylon, Capacitor, and Capacitor Bus all on top of each other in that order. ",
+		"You only need one of theses transformer pylons, to start carrying the electricity place pylons (without capacitor or capacitor bus needed) and connect them with Cable Drum.",
+		"",
+		"You may change the color of the cable connecting the pylons with dye."
+	],
+	dependencies: [
+		"d1b6b174"
+	],
+	tasks: [{
+		uid: "e59f6e32",
+		type: "item",
+		items: [{
+			item: "hbm:red_pylon"
+		}]
+	},
+	{
+		uid: "762dd94d",
+		type: "item",
+		items: [{
+			item: "hbm:capacitor_bus"
+		}]
+	},
+	{
+		uid: "9d63286f",
+		type: "item",
+		items: [{
+			item: "hbm:capacitor_copper"
+		}]
+	}],
+	rewards: [{
+		uid: "7a4cfce7",
+		type: "item",
+		item: "hbm:red_pylon",
+		count: 7
+	},
+	{
+		uid: "04cc3a7a",
+		type: "item",
+		item: "hbm:capacitor_bus",
+		count: 3
+	},
+	{
+		uid: "a025fdbd",
+		type: "item",
+		item: "hbm:capacitor_copper",
+		count: 3
+	}]
+}

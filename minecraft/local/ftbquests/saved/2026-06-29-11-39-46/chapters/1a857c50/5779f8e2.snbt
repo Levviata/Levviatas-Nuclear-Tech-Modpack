@@ -1,0 +1,11 @@
+{
+	x: -18.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "a3f8d166",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_technetium"
+		}]
+	}]
+}

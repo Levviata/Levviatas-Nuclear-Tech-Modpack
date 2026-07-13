@@ -1,0 +1,12 @@
+{
+	title: "Mid Game",
+	x: -3.0d,
+	y: 10.5d,
+	shape: "pentagon",
+	size: 1.25d,
+	tasks: [{
+		uid: "e4bc91d6",
+		type: "checkmark",
+		icon: "hbm:waste_earth"
+	}]
+}

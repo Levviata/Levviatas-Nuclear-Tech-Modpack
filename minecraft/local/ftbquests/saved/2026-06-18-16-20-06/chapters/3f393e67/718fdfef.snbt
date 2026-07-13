@@ -1,0 +1,14 @@
+{
+	x: 6.5d,
+	y: 10.0d,
+	dependencies: [
+		"9561317e"
+	],
+	tasks: [{
+		uid: "eda4f992",
+		type: "item",
+		items: [{
+			item: "hbm:charge_c4"
+		}]
+	}]
+}

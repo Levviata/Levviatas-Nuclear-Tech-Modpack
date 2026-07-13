@@ -1,0 +1,17 @@
+{
+	x: -2.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "8c19f642",
+		type: "item",
+		items: [{
+			item: "hbm:ore_aluminium"
+		}]
+	}],
+	rewards: [{
+		uid: "ae9e4ccb",
+		type: "xp",
+		auto: "no_toast",
+		xp: 50
+	}]
+}

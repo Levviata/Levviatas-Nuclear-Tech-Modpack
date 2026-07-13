@@ -1,0 +1,18 @@
+{
+	x: 25.107142857142847d,
+	y: 0.0d,
+	tasks: [{
+		uid: "69578037",
+		type: "item",
+		items: [{
+			item: "hbm:circuit"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "e3e448ce",
+		type: "item",
+		item: "hbm:circuit",
+		count: 2
+	}]
+}

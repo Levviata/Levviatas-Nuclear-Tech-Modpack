@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "03cc839d",
+		type: "item",
+		items: [{
+			item: "hbm:asphalt"
+		}]
+	},
+	{
+		uid: "cbef0d73",
+		type: "item",
+		items: [{
+			item: "hbm:asphalt_light"
+		}]
+	}]
+}

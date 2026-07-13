@@ -1,0 +1,14 @@
+{
+	x: -5.5d,
+	y: 21.5d,
+	dependencies: [
+		"82d71470"
+	],
+	tasks: [{
+		uid: "3a0e194f",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_dura_steel"
+		}]
+	}]
+}

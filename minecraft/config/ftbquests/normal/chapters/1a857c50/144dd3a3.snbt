@@ -1,0 +1,19 @@
+{
+	x: -7.5d,
+	y: -8.5d,
+	text: [
+		"The Night Vision Goggles provides Night Vision when you are wearing full electric armor, fits in the helmet in the helmet slot."
+	],
+	dependencies: [
+		"37308693"
+	],
+	tasks: [{
+		uid: "42448165",
+		type: "item",
+		items: [{
+			item: "hbm:night_vision"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

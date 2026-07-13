@@ -1,0 +1,60 @@
+{
+	title: "Leather Mask With Advanced Filter",
+	x: -8.5d,
+	y: 7.5d,
+	description: "Equip an Advanced filter onto your leather mask",
+	text: [
+		"Well done, you are ready to go mine coal or asbestos without your lungs rotting.",
+		"",
+		"Remember that the filters have to be replaced semi-frequently since they have durability that is separate from the gas mask.",
+		"",
+		"(If the quest is not completing for you, unequip your leather mask and place it on your inventory)"
+	],
+	dependencies: [
+		"471c8f5d",
+		"5df79c95"
+	],
+	tasks: [{
+		uid: "b15afd0c",
+		type: "item",
+		items: [{
+			id: "hbm:gas_mask_olde",
+			tag: {
+				hfrFilter: {
+					id: "hbm:gas_mask_filter_piss",
+					Count: 1b,
+					Damage: 0s,
+					tag: {
+						RepairCost: 3,
+						ench: [{
+							id: 70s,
+							lvl: 1s
+						},
+						{
+							id: 34s,
+							lvl: 3s
+						}]
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b3fe5c40",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "a5ea2b1c",
+		type: "item",
+		item: "hbm:pill_herbal",
+		count: 5
+	},
+	{
+		uid: "cf93e581",
+		type: "item",
+		item: "minecraft:milk_bucket"
+	}]
+}

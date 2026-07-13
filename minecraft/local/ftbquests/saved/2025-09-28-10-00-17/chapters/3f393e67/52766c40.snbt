@@ -1,0 +1,15 @@
+{
+	x: -4.0d,
+	y: 23.5d,
+	dependencies: [
+		"82d71470"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "757c1955",
+		type: "item",
+		items: [{
+			item: "hbm:machine_arc_welder"
+		}]
+	}]
+}

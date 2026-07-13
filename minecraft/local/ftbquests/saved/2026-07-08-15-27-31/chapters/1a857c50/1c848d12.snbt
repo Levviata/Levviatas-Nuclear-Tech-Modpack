@@ -1,0 +1,11 @@
+{
+	x: 10.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "23c112ec",
+		type: "item",
+		items: [{
+			item: "hbm:machine_vacuum_distill"
+		}]
+	}]
+}

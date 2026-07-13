@@ -1,0 +1,63 @@
+{
+	title: "High-Performance Hazmat Suit",
+	x: 3.5d,
+	y: 27.0d,
+	text: [
+		"Dangerous drops are dangerous, I might say."
+	],
+	dependencies: [
+		"be6e8b4c"
+	],
+	tasks: [{
+		uid: "37db2944",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_helmet_grey"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ecfc95fb",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_plate_grey"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "94f1f858",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_legs_grey"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "76c5f93f",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_boots_grey"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ce8cfec0",
+		type: "item",
+		item: "hbm:ingot_pu241",
+		count: 4
+	},
+	{
+		uid: "03b74672",
+		type: "item",
+		item: "hbm:singularity"
+	},
+	{
+		uid: "09b24d85",
+		type: "xp",
+		xp: 150
+	}]
+}

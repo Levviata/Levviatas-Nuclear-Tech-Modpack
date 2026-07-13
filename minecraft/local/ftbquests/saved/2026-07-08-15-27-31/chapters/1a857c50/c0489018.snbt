@@ -1,0 +1,11 @@
+{
+	x: -17.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "e2704ec0",
+		type: "item",
+		items: [{
+			item: "hbm:waste_uranium"
+		}]
+	}]
+}

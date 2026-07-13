@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: -4.5d,
+	description: "§e§nRequires:§r§e Integrated Circuit Board",
+	text: [
+		""
+	],
+	dependencies: [
+		"0085b6ab"
+	],
+	tasks: [{
+		uid: "26253d78",
+		type: "item",
+		items: [{
+			item: "hbm:drone_waypoint_request"
+		}]
+	}]
+}

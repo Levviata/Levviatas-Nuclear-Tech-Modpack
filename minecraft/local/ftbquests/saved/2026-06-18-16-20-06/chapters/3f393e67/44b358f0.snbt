@@ -1,0 +1,32 @@
+{
+	x: -5.0d,
+	y: 6.5d,
+	description: "Advanced gas mask with urea perfume",
+	text: [
+		"The Trench Mask give protection to Airborne Particles and Chemical Gas with the added bonus it doesn't lose durability while protecting from hazards.",
+		"",
+		"Only downside to the trench mask is that it \"dries up\" after a certain amount of time, dropping to the ground as a Crude Protective Mask. To counter this, simply \"wet\" the mask again."
+	],
+	dependencies: [
+		"fd3f14cf"
+	],
+	tasks: [{
+		uid: "ddca6d07",
+		type: "item",
+		items: [{
+			item: "hbm:mask_piss"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e6c82eb8",
+		type: "xp",
+		xp: 50
+	},
+	{
+		uid: "b9997e0d",
+		type: "item",
+		item: "minecraft:baked_potato"
+	}]
+}

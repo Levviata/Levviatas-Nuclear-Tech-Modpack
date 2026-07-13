@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 21.5d,
+	text: [
+		"Used for making carbon wires and graphite electrodes (for the Arc Welder machine), later on may be used to make pellets for nuclear reactors."
+	],
+	dependencies: [
+		"12d9934e"
+	],
+	tasks: [{
+		uid: "daa8eb0f",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_graphite"
+		}]
+	}]
+}

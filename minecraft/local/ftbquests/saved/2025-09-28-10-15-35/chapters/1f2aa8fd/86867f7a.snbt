@@ -1,0 +1,21 @@
+{
+	x: -3.5d,
+	y: -0.5d,
+	text: [
+		"Being used for crafting almost anything, steel may be the most important material when it comes to advanced technology. Getting steel is the very first step to start the industrial age - everything needs better and tougher parts."
+	],
+	tasks: [{
+		uid: "1638f0ed",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_steel"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "011a1493",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 2
+	}]
+}

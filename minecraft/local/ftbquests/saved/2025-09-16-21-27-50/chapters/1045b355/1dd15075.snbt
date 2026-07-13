@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 9.5d,
+	tasks: [{
+		uid: "7307ee46",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_ferrouranium"
+		}]
+	}]
+}

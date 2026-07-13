@@ -1,0 +1,11 @@
+{
+	title: "boiler and steam condenser",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"d992d315"
+	]
+}

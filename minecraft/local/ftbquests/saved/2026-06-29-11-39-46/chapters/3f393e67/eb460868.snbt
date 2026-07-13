@@ -1,0 +1,38 @@
+{
+	x: 6.5d,
+	y: 11.0d,
+	description: "Perfect for mining",
+	text: [
+		"Drops all blocks with Fortune III while dealing no player damage.",
+		"",
+		"You get 8 freebies because I'm extra nice I swear."
+	],
+	dependencies: [
+		"9561317e"
+	],
+	tasks: [{
+		uid: "462f960a",
+		type: "item",
+		items: [{
+			item: "hbm:charge_semtex"
+		}]
+	}],
+	rewards: [{
+		uid: "941cf278",
+		type: "item",
+		item: "hbm:stick_c4",
+		count: 8
+	},
+	{
+		uid: "108c273d",
+		type: "item",
+		item: "hbm:charge_semtex",
+		count: 8
+	},
+	{
+		uid: "00e7c9f8",
+		type: "item",
+		title: "This one bites!",
+		item: "hbm:semtex"
+	}]
+}

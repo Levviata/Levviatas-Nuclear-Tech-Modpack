@@ -1,0 +1,16 @@
+{
+	x: -6.5d,
+	y: 27.5d,
+	dependencies: [
+		"502ff63f"
+	],
+	tasks: [{
+		uid: "76f5912b",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_speed_1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

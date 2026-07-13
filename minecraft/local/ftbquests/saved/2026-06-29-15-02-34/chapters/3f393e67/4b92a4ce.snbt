@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: 26.5d,
+	dependencies: [
+		"8a25fa82"
+	],
+	tasks: [{
+		uid: "d0504530",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_identifier_multi"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

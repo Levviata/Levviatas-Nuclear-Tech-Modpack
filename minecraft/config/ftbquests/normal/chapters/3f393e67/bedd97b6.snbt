@@ -1,0 +1,35 @@
+{
+	x: -1.0d,
+	y: 2.5d,
+	text: [
+		"The Iron Furnace is slightly faster than the vanilla furnace, it can smelt ingredients within 8 seconds instead of 10.",
+		"",
+		"It also only consumes fuel when it's actively smelting, so it's never wasted.",
+		"",
+		"Better fuels give better speeds, some examples: Lignite, Solid Fuel, etc. ",
+		"May be upgraded."
+	],
+	dependencies: [
+		"00fafa6c"
+	],
+	optional: true,
+	tasks: [{
+		uid: "e78ceb64",
+		type: "item",
+		items: [{
+			item: "hbm:furnace_iron"
+		}]
+	}],
+	rewards: [{
+		uid: "7c745710",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 3
+	},
+	{
+		uid: "7c3a2a46",
+		type: "item",
+		item: "hbm:lignite",
+		count: 32
+	}]
+}

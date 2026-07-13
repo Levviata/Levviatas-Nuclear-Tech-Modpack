@@ -1,0 +1,50 @@
+{
+	title: "Asbestos and Mesothelioma",
+	icon: "hbm:ingot_asbestos",
+	x: -4.5d,
+	y: 10.5d,
+	description: "Financial compensation refused",
+	text: [
+		"Mesothelioma is a disease added by Nuclear Tech Mod. ",
+		"",
+		"It's caused by prolonged inhalation of asbestos particles. Asbestos Sheet or Asbestos Powder irradiate these sort of particles and will damage your lungs. ",
+		"",
+		"When you are exposed to a lung hazard, a pop up on the top right of your screen will tell you that its harder to breath, this indicates your lungs are being damaged by airborne particles.",
+		"",
+		"To counteract the lung damage, you can equip a Gas Mask with a filter that has the Airborne Particle trait to protect from  asbestos particle.",
+		"",
+		"Using SiOX Cancer Medication or Herbal Paste will partially heal the disease, from which it will heal in about an hour.",
+		"",
+		"To check the status of your lungs, you can use the Lung Diagnostic item, it will tell you how much asbestos or coal damage your lungs have taken."
+	],
+	dependencies: [
+		"b271f214"
+	],
+	tasks: [{
+		uid: "d7a776b4",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_asbestos"
+		}]
+	},
+	{
+		uid: "0e4736fa",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "5a2673e6",
+		type: "item",
+		item: "hbm:siox",
+		count: 4
+	},
+	{
+		uid: "61447a77",
+		type: "item",
+		item: "hbm:cigarette"
+	},
+	{
+		uid: "ce9e7eaa",
+		type: "item",
+		item: "hbm:lung_diagnostic"
+	}]
+}

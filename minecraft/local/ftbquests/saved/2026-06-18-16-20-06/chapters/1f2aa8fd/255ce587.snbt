@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 12.0d,
+	tasks: [{
+		uid: "a77a7d29",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_schrabidate"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 5.5d,
+	y: 5.0d,
+	text: [
+		"The Conveyor Splitter is a type of conveyor belt that splits items evenly onto 2 lanes.",
+		"",
+		"Important: Ejectors will simply place items onto whatever conveyor belt is in front of them. If an ejector is placed facing a splitter with no other belts between them, the ejector will place the items onto the splitter's output belt, meaning it will skip the splitting section entirely."
+	],
+	dependencies: [
+		"f959f4ae"
+	],
+	tasks: [{
+		uid: "5ef71d31",
+		type: "item",
+		items: [{
+			item: "hbm:crane_splitter"
+		}]
+	}]
+}

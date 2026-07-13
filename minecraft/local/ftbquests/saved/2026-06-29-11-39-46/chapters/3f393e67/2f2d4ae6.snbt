@@ -1,0 +1,18 @@
+{
+	x: 0.5d,
+	y: 27.5d,
+	text: [
+		"The Chemical Plant is a liquid refinery that can make "
+	],
+	dependencies: [
+		"8a25fa82"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "1a4fc2d7",
+		type: "item",
+		items: [{
+			item: "hbm:machine_chemical_plant"
+		}]
+	}]
+}

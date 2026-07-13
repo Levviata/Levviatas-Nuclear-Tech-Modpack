@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "21a83813",
+		type: "item",
+		items: [{
+			item: "hbm:ore_fluorite"
+		}]
+	}],
+	rewards: [{
+		uid: "6ebbcf6d",
+		type: "xp",
+		auto: "no_toast",
+		xp: 50
+	}]
+}

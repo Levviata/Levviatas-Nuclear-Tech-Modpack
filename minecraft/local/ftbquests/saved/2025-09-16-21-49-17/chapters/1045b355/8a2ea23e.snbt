@@ -1,0 +1,48 @@
+{
+	title: "Things to do before you start",
+	icon: "minecraft:log",
+	x: 4.0d,
+	y: 0.0d,
+	shape: "pentagon",
+	description: "Loot some buildings, but be careful with others",
+	text: [
+		"One thing that you can do before engaging in the progression, as well as something you should always do if you have the time, is looting structures. Your world is littered with buildings and dungeons alike, all full of stuff free for the taking. You shouldn't solely rely on structures for your resources, but they give you a head-start when it comes to progressing through the mod. Here's a list of structures which are great for raiding in early-game:",
+		"",
+		"- Antennas: A common structure with a few resources, mainly steel ingots, wires and basic circuits.",
+		"",
+		"- Radio stations: A great source of concrete and steel, the small side building also has tanks filled with diesel. The chests often also contain revolvers and sometimes weaker shotguns which are fantastic alternatives to your stinky old vanilla bow.",
+		"",
+		"- Relay stations: Huge antenna-like structures with loads and loads of steel. Steel sets are only marginally better than iron - but with steel so easily accessible and in such quantities, you'll be able to make steel tools quickly.",
+		"",
+		"- Crashed space ships: Somewhat rare and filled with items that aren't very useful in early game, they still contain a considerable amount of steel and a chest full of rare items, more often than not consumables and rocket launchers.",
+		"",
+		"- Crashed vertibirds: Helicopters that are buried in the desert, they are a good source of steel and often contain parts for power armor.",
+		"",
+		"- Factories: Large brick structures that contain machines and chests full of raw materials. There are explosive barrels the can be harvested and used to fuel diesel generators. Some say there's a treasure hidden in the lava.",
+		"",
+		"",
+		"However, this world isn't a place filled with just candy and free stuff, there's also places which you absolutely should not enter, or even approach, unless you are well equipped:",
+		"",
+		"- Nuclear power plants: Easily recognizable by their large cooling towers and by the fact that everything in proximity to it is dead, these structures contain many valuable resources. However, every power plant also has its own on-site nuclear waste storage, which causes ambient radiation levels to skyrocket. Unprotected players may die within less than a minute if they choose to approach a power plant. To add insult to injury, high levels of radiation can also turn creepers into mutated nuclear creepers, may Lauren have mercy on your soul if you encounter one of these.",
+		"",
+		"- Radiation hotspots: Rare, but extremely dangerous craters filled with rocks that are boiling from radiation. They offer no noteworthy loot, so it's best to avoid them.",
+		"",
+		"- Nuclear waste storage tanks: Tower-like structures with nuclear waste leaking out of them. Buried deep within all the nuclear waste usually lies a treasure chest, but without the equipment, you are unlikely to even get to see any of it without dying a dozen times.",
+		"",
+		"- Duds: Not very dangerous per se, but you should not meddle with them. There are certain ways to extract resources from them, but those are very dangerous and not relevant to you unless you have reached end-game.",
+		"",
+		"- Poison geyser: Easily recognizable from the lack of grass surrounding a patch of crumbled rock, the geyser periodically spits out a jet of poison gas. Below it there are a few blocks of yellowcake, although these aren't very useful until you have reached the nuclear age.",
+		"",
+		"- Missile Silos: Quite rare, and contain some of the most destructive weaponry available in the mod, and defended by old turrets that don't seem to ever run out of ammo. Once you have some good gear and some rare launch codes, you may find yourself venturing to one of these, but be careful."
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "e749d214",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "ef9dfe9d",
+		type: "xp",
+		xp: 100
+	}]
+}

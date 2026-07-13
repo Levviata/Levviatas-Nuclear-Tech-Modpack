@@ -1,0 +1,14 @@
+{
+	title: "NTM: Nether Ores",
+	x: 3.5d,
+	y: 8.0d,
+	shape: "pentagon",
+	size: 1.25d,
+	tasks: [{
+		uid: "a09085e4",
+		type: "item",
+		items: [{
+			item: "minecraft:netherrack"
+		}]
+	}]
+}

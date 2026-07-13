@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 24.0d,
+	dependencies: [
+		"974fcf0f"
+	],
+	tasks: [{
+		uid: "baf446f9",
+		type: "item",
+		items: [{
+			item: "hbm:decon"
+		}]
+	}]
+}

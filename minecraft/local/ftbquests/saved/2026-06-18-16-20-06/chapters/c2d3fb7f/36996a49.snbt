@@ -1,0 +1,30 @@
+{
+	x: 3.5d,
+	y: 3.0d,
+	text: [
+		"Good early game tools, better than iron."
+	],
+	dependencies: [
+		"00ec5516"
+	],
+	tasks: [{
+		uid: "249c91d3",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any titaniumTools"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "titaniumTools"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

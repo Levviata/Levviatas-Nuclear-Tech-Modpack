@@ -1,0 +1,12 @@
+{
+	title: "End Game",
+	x: 1.0d,
+	y: 13.5d,
+	shape: "pentagon",
+	size: 1.25d,
+	tasks: [{
+		uid: "9a4581af",
+		type: "checkmark",
+		icon: "hbm:waste_mycelium"
+	}]
+}

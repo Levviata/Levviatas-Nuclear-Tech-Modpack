@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: 9.0d,
+	tasks: [{
+		uid: "af8594c8",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_combine_steel"
+		}]
+	}]
+}

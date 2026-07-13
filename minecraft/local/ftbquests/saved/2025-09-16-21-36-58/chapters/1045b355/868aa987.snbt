@@ -1,0 +1,22 @@
+{
+	title: "Useful Resources",
+	icon: "hbm:chernobylsign",
+	x: 0.0d,
+	y: -2.25d,
+	shape: "gear",
+	text: [
+		"Above you'll have the wikis for Hbm's Nuclear tech mod (official 1.7.10 wiki so not 1:1 to the unofficial 1.12.2 community version) and Rats mod "
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "eff34fca",
+		type: "checkmark",
+		title: "Useful Resources",
+		icon: "hbm:nuke_man"
+	}],
+	rewards: [{
+		uid: "a33c008b",
+		type: "xp",
+		xp: 100
+	}]
+}

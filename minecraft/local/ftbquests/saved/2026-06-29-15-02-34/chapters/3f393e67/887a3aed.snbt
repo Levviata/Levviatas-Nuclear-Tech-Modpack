@@ -1,0 +1,39 @@
+{
+	x: 2.0d,
+	y: 17.5d,
+	description: "A person is also a capacitor if you think about it",
+	text: [
+		"First capacitor, discharges as much as you'd want it to for the early game.",
+		"",
+		"You may configure the capacitor to charge, equal, or discharge it's power, open the Battery Socket's GUI, at the right-most side you will see two battery icons with arrows, these change how the capacitor interacts with the power grid.",
+		"",
+		"- Green configuration \"equal\", shares power to the grid and maintains excess power.",
+		"- Orange \"discharge\", discharges all of the capacitor's power into the grid.",
+		"- Blue \"store\", stores all of the power the battery receives.",
+		"",
+		"These two buttons have specific conditions, for when the Battery Socket is not powered by redstone and when it's powered.",
+		"",
+		"You may also change the priority of the specific Battery Socket, a higher priority does it's configured behaviour much faster."
+	],
+	dependencies: [
+		"fd106284"
+	],
+	tasks: [{
+		uid: "6a372956",
+		type: "item",
+		items: [{
+			id: "hbm:battery_pack",
+			Damage: 6s,
+			tag: {
+				charge: 0L
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f971712d",
+		type: "item",
+		item: "hbm:block_red_copper",
+		count: 4
+	}]
+}

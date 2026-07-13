@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	dependencies: [
+		"02c2472b"
+	],
+	tasks: [{
+		uid: "8935e870",
+		type: "item",
+		items: [{
+			id: "hbm:rod_zirnox",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

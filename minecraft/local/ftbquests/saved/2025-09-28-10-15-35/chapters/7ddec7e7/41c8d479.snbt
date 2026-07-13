@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "534fbfaf",
+		type: "item",
+		items: [{
+			item: "hbm:ore_sulfur"
+		}]
+	}],
+	rewards: [{
+		uid: "fcb54896",
+		type: "xp",
+		auto: "no_toast",
+		xp: 50
+	}]
+}

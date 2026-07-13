@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 25.5d,
+	dependencies: [
+		"7ec2b53b"
+	],
+	tasks: [{
+		uid: "79d4eca9",
+		type: "item",
+		items: [{
+			item: "hbm:powder_cement"
+		}]
+	}]
+}

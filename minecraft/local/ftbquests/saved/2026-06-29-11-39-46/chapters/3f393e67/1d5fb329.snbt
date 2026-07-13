@@ -1,0 +1,34 @@
+{
+	x: -2.5d,
+	y: 13.0d,
+	description: "Subtract, divide, and add armor accessories!",
+	text: [
+		"Modification table for armor. Put your armor piece in the left most slot and insert the accessory into its adecuate slot. Hover your accessory for information."
+	],
+	dependencies: [
+		"86867f7a",
+		"a488de09"
+	],
+	tasks: [{
+		uid: "3f1f9955",
+		type: "item",
+		items: [{
+			item: "hbm:machine_armor_table"
+		}]
+	}],
+	rewards: [{
+		uid: "96c458eb",
+		type: "item",
+		item: "hbm:lodestone"
+	},
+	{
+		uid: "b60032f2",
+		type: "item",
+		item: "hbm:injector_knife"
+	},
+	{
+		uid: "563e349c",
+		type: "item",
+		item: "hbm:gas_tester"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "889ee1ba",
+		type: "checkmark",
+		icon: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:villager"
+				}
+			}
+		}
+	}]
+}

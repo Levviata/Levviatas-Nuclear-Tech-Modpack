@@ -1,0 +1,36 @@
+{
+	title: "Start Here",
+	icon: "minecraft:planks",
+	x: 8.5d,
+	y: 0.0d,
+	shape: "pentagon",
+	description: "Stockpile ores, charcoal, clay, sand, and dandelions",
+	text: [
+		"Loot some structures, do normal Minecraft stuff, and prepare. Once you've read all that and are ready, you may finally begin with the actual mod.",
+		"",
+		"Shopping List:",
+		"The first few machines will need quite a stockpile of basic materials, so make sure you have a source of each before you settle on a base location:",
+		"",
+		"- Large quantities of iron, copper, and redstone.",
+		"",
+		"- Small quantities of industrial metals like aluminum, titanium, and lead.",
+		"",
+		"- Burnables like coal or charcoal.",
+		"",
+		"- Structural blocks like clay and sand. (for glass and bricks).",
+		"",
+		"- Hemp (for string), sugarcane, saplings, and dandelions.",
+		"",
+		"Quests adjacent give an example on how much to stockpile, but its likely you will need far far more."
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "e13aa76e",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a236b1cc",
+		type: "xp",
+		xp: 100
+	}]
+}

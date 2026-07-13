@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "1dceb2a7",
+		type: "item",
+		items: [{
+			item: "hbm:ore_schrabidium"
+		}]
+	}],
+	rewards: [{
+		uid: "adafe22c",
+		type: "xp",
+		auto: "no_toast",
+		xp: 50
+	}]
+}

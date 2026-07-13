@@ -1,0 +1,19 @@
+{
+	x: -5.5d,
+	y: 21.5d,
+	text: [
+		"Smelt enough steel, tungsten and cobalt into a crucible then cast into an ingot.",
+		"",
+		"Needed to make another important machine; the Industrial Mixer."
+	],
+	dependencies: [
+		"82d71470"
+	],
+	tasks: [{
+		uid: "3a0e194f",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_dura_steel"
+		}]
+	}]
+}

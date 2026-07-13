@@ -1,0 +1,33 @@
+{
+	x: 3.5d,
+	y: 24.5d,
+	shape: "hexagon",
+	description: "It shreds!",
+	text: [
+		"The Shredder shreds anything you may put using two Shredder Blades, these may be made of steel, titanium, advanced alloy or desh. Titanium is not a bad choice, though you may use advanced alloy if you have spare. Desh blades have infinite durability as usual.",
+		"",
+		"To use, you place two Shredder Blades of any material into the slots which look like shredding saws, then connect it to your power grid and you'll be able to shred anything your heart desires (it's a free scrap state!)."
+	],
+	dependencies: [
+		"b05b9b02"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "3fc0bab7",
+		type: "item",
+		items: [{
+			item: "hbm:machine_shredder"
+		}]
+	}],
+	rewards: [{
+		uid: "5da3f940",
+		type: "item",
+		item: "hbm:blades_steel",
+		count: 2
+	},
+	{
+		uid: "77739aa3",
+		type: "xp",
+		xp: 100
+	}]
+}

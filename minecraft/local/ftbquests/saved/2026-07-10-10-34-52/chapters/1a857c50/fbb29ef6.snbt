@@ -1,0 +1,11 @@
+{
+	x: 6.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "f176f424",
+		type: "item",
+		items: [{
+			item: "hbm:launch_pad"
+		}]
+	}]
+}

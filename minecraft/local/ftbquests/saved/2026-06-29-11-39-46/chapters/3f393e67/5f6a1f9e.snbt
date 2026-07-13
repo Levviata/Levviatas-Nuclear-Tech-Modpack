@@ -1,0 +1,43 @@
+{
+	x: 5.5d,
+	y: 15.5d,
+	text: [
+		"Wooden Electricity Pylon are simpler to the Electricity Pylon and can carry electricity over longer distances, may be connected up to three other pylons of the same type.",
+		"",
+		"To connect this type of pylon to your power grid you may place an Electricity Pylon with Transformer and connect a cable to it, it will now transfer energy.",
+		"",
+		"You then may connect pylons to this transformer pylon and start carrying your electricity.",
+		"",
+		"You may change the color of the cable connecting the pylons with dye."
+	],
+	dependencies: [
+		"d1b6b174"
+	],
+	tasks: [{
+		uid: "15fff064",
+		type: "item",
+		items: [{
+			item: "hbm:red_pylon_medium_wood"
+		}],
+		count: 2L
+	},
+	{
+		uid: "78cef78a",
+		type: "item",
+		items: [{
+			item: "hbm:red_pylon_medium_transformer"
+		}]
+	}],
+	rewards: [{
+		uid: "e24c1bdb",
+		type: "item",
+		item: "hbm:red_pylon_medium_transformer",
+		count: 3
+	},
+	{
+		uid: "458954a5",
+		type: "item",
+		item: "hbm:red_pylon_medium_wood",
+		count: 6
+	}]
+}

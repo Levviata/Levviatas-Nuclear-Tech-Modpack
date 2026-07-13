@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 10.0d,
+	text: [
+		"The mining charge is made using either flint, iron plates and dynamite or flint, steel plates and semtex or C-4 with the latter being the more efficent recipe making 12 of them at a time."
+	],
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "03ede3dd",
+		type: "item",
+		items: [{
+			item: "hbm:det_miner"
+		}]
+	}]
+}

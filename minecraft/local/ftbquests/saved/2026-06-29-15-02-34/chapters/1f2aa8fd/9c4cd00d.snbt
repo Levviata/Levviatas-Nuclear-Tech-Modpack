@@ -1,0 +1,46 @@
+{
+	x: -4.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "780e22dd",
+		type: "item",
+		items: [{
+			item: "hbm:wire_fine 1 7400"
+		}],
+		count: 4L
+	},
+	{
+		uid: "8c5f0b9f",
+		type: "item",
+		items: [{
+			item: "hbm:plate_polymer"
+		}],
+		count: 4L
+	},
+	{
+		uid: "866b6c82",
+		type: "item",
+		items: [{
+			item: "minecraft:glass_pane"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "ace495d6",
+		type: "item",
+		item: "hbm:wire_fine 1 7400",
+		count: 2
+	},
+	{
+		uid: "d3b12d66",
+		type: "item",
+		item: "hbm:plate_polymer",
+		count: 2
+	},
+	{
+		uid: "70c9cc83",
+		type: "item",
+		item: "minecraft:glass_pane",
+		count: 2
+	}]
+}

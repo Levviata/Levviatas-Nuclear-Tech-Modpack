@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 1.0d,
+	dependencies: [
+		"b76dc9e4",
+		"e4fdf012"
+	],
+	tasks: [{
+		uid: "ee4dbffb",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_technetium"
+		}]
+	}]
+}

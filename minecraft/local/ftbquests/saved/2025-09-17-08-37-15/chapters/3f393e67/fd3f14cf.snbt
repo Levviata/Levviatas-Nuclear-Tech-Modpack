@@ -1,0 +1,37 @@
+{
+	x: 5.5d,
+	y: 3.5d,
+	description: "What the piss man!",
+	text: [
+		"With three damp rags you can make a Crude Protective Mask, which you can right click while holding it to make a Trench Mask.",
+		"",
+		"With an iron ingot and a damp rag you can make Makeshift Gas Mask Filter.",
+		"",
+		"With three pissed rags you can make a Trench Mask, its worn in the helmet slot and gives Airbone Particle and Chemical Gas protection.",
+		"",
+		"With an iron ingot and a pissed rag you can make an Advanced Makeshift Gas Mask Filter."
+	],
+	tasks: [{
+		uid: "25a2d109",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any usedCloth"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "usedCloth"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "ae46359c",
+		type: "item",
+		item: "minecraft:baked_potato"
+	}]
+}

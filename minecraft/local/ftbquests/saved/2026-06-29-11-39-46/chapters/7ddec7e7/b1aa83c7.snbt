@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "48f44f00",
+		type: "item",
+		items: [{
+			item: "hbm:ore_copper"
+		}]
+	}]
+}

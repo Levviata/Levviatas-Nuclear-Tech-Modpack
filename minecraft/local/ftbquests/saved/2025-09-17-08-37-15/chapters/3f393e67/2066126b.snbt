@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: 11.0d,
+	tasks: [{
+		uid: "189dccf2",
+		type: "item",
+		items: [{
+			item: "hbm:plate_polymer"
+		}]
+	}]
+}

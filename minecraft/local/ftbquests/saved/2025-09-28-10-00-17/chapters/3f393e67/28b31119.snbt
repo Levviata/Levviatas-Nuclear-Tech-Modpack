@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: 7.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "8951487d",
+		type: "item",
+		items: [{
+			item: "hbm:crane_router"
+		}]
+	}]
+}

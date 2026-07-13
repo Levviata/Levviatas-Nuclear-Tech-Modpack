@@ -1,0 +1,17 @@
+{
+	x: 16.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "3529c03f",
+		type: "item",
+		items: [{
+			item: "hbm:ball_resin"
+		}]
+	}],
+	rewards: [{
+		uid: "b01d6e65",
+		type: "item",
+		item: "hbm:ball_resin",
+		count: 4
+	}]
+}

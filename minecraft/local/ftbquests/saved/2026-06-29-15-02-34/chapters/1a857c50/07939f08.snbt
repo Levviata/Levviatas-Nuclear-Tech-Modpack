@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "1c0e60bd",
+		type: "item",
+		items: [{
+			item: "hbm:rod_zirnox_depleted 1 1"
+		}]
+	}]
+}

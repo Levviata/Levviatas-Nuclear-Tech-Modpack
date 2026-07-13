@@ -1,0 +1,36 @@
+{
+	x: -1.0d,
+	y: 7.0d,
+	text: [
+		"An NTM anvil used to create important machinery and items. They come in many Tiers, distinguished by the metal they are made from. You only need an iron or lead one for now"
+	],
+	tasks: [{
+		uid: "57c9304d",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ironAnvil"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ironAnvil"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5e45d5ba",
+		type: "item",
+		item: "minecraft:iron_block"
+	},
+	{
+		uid: "fd9486aa",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 2
+	}]
+}

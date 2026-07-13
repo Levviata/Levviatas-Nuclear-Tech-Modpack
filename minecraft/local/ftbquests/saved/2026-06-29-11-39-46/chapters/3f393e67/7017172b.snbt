@@ -1,0 +1,25 @@
+{
+	x: 0.5d,
+	y: 24.5d,
+	text: [
+		"The Strand Caster is like a big basin that casts 9 items at once instead of one.",
+		"",
+		"To use it, place directly below your Crucible's output funnel (green or red), this will fill the basin.",
+		"",
+		"You put your desired mold then fill it with water and it will cast 9 items at once, producing steam as a side product, this may be stored or disposed."
+	],
+	dependencies: [
+		"974fcf0f",
+		"ccc5fbdf",
+		"2f2d4ae6",
+		"52766c40"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "28950516",
+		type: "item",
+		items: [{
+			item: "hbm:machine_strand_caster"
+		}]
+	}]
+}

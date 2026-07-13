@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 8.0d,
+	dependencies: [
+		"c747e73b"
+	],
+	tasks: [{
+		uid: "2b015380",
+		type: "item",
+		items: [{
+			item: "hbm:pump_electric"
+		}]
+	}]
+}

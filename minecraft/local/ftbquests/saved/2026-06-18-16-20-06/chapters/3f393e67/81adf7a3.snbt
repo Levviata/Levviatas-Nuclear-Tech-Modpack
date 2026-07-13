@@ -1,0 +1,15 @@
+{
+	x: -7.0d,
+	y: 18.0d,
+	dependencies: [
+		"d992d315"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "a28e7ba7",
+		type: "item",
+		items: [{
+			item: "hbm:machine_steam_engine"
+		}]
+	}]
+}

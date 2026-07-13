@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "539c1581",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_advanced_alloy"
+		}]
+	}],
+	rewards: [{
+		uid: "d922f0a3",
+		type: "item",
+		item: "hbm:ingot_advanced_alloy",
+		count: 3
+	}]
+}

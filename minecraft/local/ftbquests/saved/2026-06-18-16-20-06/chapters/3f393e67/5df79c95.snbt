@@ -1,0 +1,25 @@
+{
+	x: -7.0d,
+	y: 7.5d,
+	text: [
+		"You can equip filters by wearing a gas mask then holding the filter in your main hand and right clicking. To unequip a filter, remove your gas mask, hold it in your main hand then crouch-right-click."
+	],
+	dependencies: [
+		"b271f214"
+	],
+	tasks: [{
+		uid: "9671ac89",
+		type: "item",
+		items: [{
+			item: "hbm:gas_mask_filter_piss"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8731d512",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 4
+	}]
+}

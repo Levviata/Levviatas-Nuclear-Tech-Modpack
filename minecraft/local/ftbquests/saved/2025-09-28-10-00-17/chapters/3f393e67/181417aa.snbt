@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: 21.0d,
+	description: "TODO: Missing recipe",
+	text: [
+		""
+	],
+	dependencies: [
+		"82ac4b6c"
+	],
+	tasks: [{
+		uid: "9c6bcd53",
+		type: "item",
+		items: [{
+			item: "hbm:machine_weapon_table"
+		}]
+	}]
+}

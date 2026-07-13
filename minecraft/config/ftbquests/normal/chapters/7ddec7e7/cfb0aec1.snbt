@@ -1,0 +1,12 @@
+{
+	title: "NTM: Schist Ores",
+	icon: "hbm:stone_gneiss",
+	x: 0.0d,
+	y: 10.0d,
+	shape: "pentagon",
+	size: 1.25d,
+	tasks: [{
+		uid: "964aa96a",
+		type: "checkmark"
+	}]
+}

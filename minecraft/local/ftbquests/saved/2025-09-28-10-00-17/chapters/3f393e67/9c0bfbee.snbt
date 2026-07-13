@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 12.5d,
+	dependencies: [
+		"bab8ed3d"
+	],
+	tasks: [{
+		uid: "e59f6e32",
+		type: "item",
+		items: [{
+			item: "hbm:red_pylon"
+		}]
+	}]
+}

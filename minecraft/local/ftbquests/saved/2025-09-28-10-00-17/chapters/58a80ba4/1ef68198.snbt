@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "5cc92dc4",
+		type: "item",
+		items: [{
+			item: "hbm:mold_base"
+		}]
+	}]
+}

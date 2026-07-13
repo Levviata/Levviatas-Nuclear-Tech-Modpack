@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -5.0d,
+	dependencies: [
+		"0f029eef"
+	],
+	tasks: [{
+		uid: "f300e01a",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_rubber"
+		}]
+	}]
+}

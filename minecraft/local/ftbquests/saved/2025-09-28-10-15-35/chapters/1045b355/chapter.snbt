@@ -1,0 +1,20 @@
+{
+	title: "YANTM",
+	icon: "hbm:nuke_man",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 0.0d,
+		y: -4.0d,
+		width: 1.0d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "minecraft:textures/gui/presets/isles.png",
+		hover: [
+			"Nuclear Tech Mod Wiki"
+		],
+		click: "https://nucleartech.wiki/wiki/Main_Page",
+		dev: false
+	}]
+}

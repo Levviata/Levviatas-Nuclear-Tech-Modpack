@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "16d2c7a8",
+		type: "item",
+		items: [{
+			item: "hbm:ore_asbestos"
+		}]
+	}]
+}

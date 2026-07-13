@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "a59a09e9",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5a86d612",
+		type: "item",
+		item: "hbm:ingot_advanced_alloy",
+		count: 3
+	}]
+}

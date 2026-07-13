@@ -1,0 +1,27 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	text: [
+		"The Oil Refinery refines Crude Oil into exquisite fuels.",
+		"",
+		"These fuels may be used for many useful things: ",
+		"",
+		"- Petroleum gas for Polymer Bar, ",
+		"- Naptha for Gasoline,",
+		"- Light Oil for Desh Ingot",
+		"- Heavy Oil for quality oils,",
+		"- And many more."
+	],
+	dependencies: [
+		"8a25fa82"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "92a5413f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_refinery"
+		}]
+	}]
+}

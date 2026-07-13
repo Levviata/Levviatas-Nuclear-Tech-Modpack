@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 12.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"bab8ed3d"
+	],
+	tasks: [{
+		uid: "e59f6e32",
+		type: "item",
+		items: [{
+			item: "hbm:red_pylon"
+		}]
+	}]
+}

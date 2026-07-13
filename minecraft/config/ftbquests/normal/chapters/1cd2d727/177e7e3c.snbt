@@ -1,0 +1,26 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	description: "§e§nRequires:§r§e Polymer",
+	text: [
+		""
+	],
+	dependencies: [
+		"6dfb480a"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "deef4600",
+		type: "item",
+		items: [{
+			item: "hbm:drone"
+		}]
+	},
+	{
+		uid: "c89db8f6",
+		type: "item",
+		items: [{
+			item: "hbm:drone 1 1"
+		}]
+	}]
+}

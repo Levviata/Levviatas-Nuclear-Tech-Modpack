@@ -1,0 +1,26 @@
+{
+	title: "Boiler and Steam Condenser",
+	x: -7.5d,
+	y: 19.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"82d71470"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "78539da6",
+		type: "item",
+		items: [{
+			item: "hbm:heat_boiler"
+		}]
+	},
+	{
+		uid: "59ef371f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_condenser"
+		}]
+	}]
+}

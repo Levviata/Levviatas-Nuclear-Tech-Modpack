@@ -1,0 +1,16 @@
+{
+	x: -6.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "1cf7cbad",
+		type: "fluid",
+		fluid: "kerosene"
+	},
+	{
+		uid: "e789f049",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 22"
+		}]
+	}]
+}

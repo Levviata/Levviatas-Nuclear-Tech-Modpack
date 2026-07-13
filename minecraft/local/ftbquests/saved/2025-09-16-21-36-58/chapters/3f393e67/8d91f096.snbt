@@ -1,0 +1,27 @@
+{
+	x: -2.0d,
+	y: 2.5d,
+	text: [
+		"The machine template folder is a tool that produces templates, stamps, and fluid identifiers.",
+		"The folder has a search bar from which you select the templates or identifiers to craft, with the result going directly in your inventory if you have the required ingredients."
+	],
+	tasks: [{
+		uid: "2a3fe6cb",
+		type: "item",
+		items: [{
+			item: "hbm:template_folder"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f1ce90b0",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "29e67ae1",
+		type: "item",
+		item: "hbm:stamp_iron_flat"
+	}]
+}
