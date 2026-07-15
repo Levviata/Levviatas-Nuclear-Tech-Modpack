@@ -784,6 +784,8 @@ crafting.removeByOutput(item('refinedstorage:fluid_storage_part:1'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage_part:2'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage_part:3'))
 
+furnace.removeByOutput(item('refinedstorage:silicon'))
+
 crafting.removeByOutput(item('refinedstorage:fluid_interface'))
 
 crafting.removeByOutput(item('refinedstorage:wireless_fluid_grid'))
