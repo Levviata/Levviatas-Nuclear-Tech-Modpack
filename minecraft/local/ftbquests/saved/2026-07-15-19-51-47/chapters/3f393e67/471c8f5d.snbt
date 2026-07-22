@@ -1,0 +1,26 @@
+{
+	x: -7.0d,
+	y: 8.5d,
+	description: "Fancy leather helmet",
+	text: [
+		"A leather gas mask without a filter."
+	],
+	dependencies: [
+		"b271f214"
+	],
+	tasks: [{
+		uid: "35a36e4d",
+		type: "item",
+		items: [{
+			item: "hbm:gas_mask_olde"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "aba82a04",
+		type: "item",
+		item: "minecraft:leather",
+		count: 64
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 0.5d,
+	y: 31.0d,
+	text: [
+		"Sulfuric Acid is an important liquid that can be used for a variety of applications such as Nitric Acid or Fracking Solution."
+	],
+	dependencies: [
+		"7d265608"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "2f2edef1",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 75"
+		}]
+	},
+	{
+		uid: "e024d85e",
+		type: "fluid",
+		fluid: "sulfuric_acid"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -6.761904761904795d,
+	y: 9.035714285714285d,
+	or_tasks: true,
+	tasks: [{
+		uid: "36caadad",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bismuth_bronze"
+		}]
+	},
+	{
+		uid: "136d0abe",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_arsenic_bronze"
+		}]
+	}]
+}

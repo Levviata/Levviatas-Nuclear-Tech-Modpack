@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: -7.5d,
+	dependencies: [
+		"e05443a9"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "070a281f",
+		type: "item",
+		items: [{
+			item: "hbm:survey_scanner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

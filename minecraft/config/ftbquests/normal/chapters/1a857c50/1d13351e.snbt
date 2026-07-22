@@ -1,0 +1,17 @@
+{
+	x: 25.5d,
+	y: -10.5d,
+	text: [
+		"After centrifuging the cleaned heavy metal primary fraction, you will get a few products, the Byproduct is specially important since it will yield bismuth"
+	],
+	dependencies: [
+		"791ac80d"
+	],
+	tasks: [{
+		uid: "531b2984",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 401"
+		}]
+	}]
+}

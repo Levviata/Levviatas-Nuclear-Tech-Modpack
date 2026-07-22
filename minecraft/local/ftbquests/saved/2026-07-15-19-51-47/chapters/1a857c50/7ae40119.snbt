@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: -6.0d,
+	dependencies: [
+		"99183935",
+		"e05443a9"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "ba007f02",
+		type: "item",
+		items: [{
+			item: "hbm:machine_radar_large"
+		}]
+	}]
+}

@@ -1,0 +1,52 @@
+{
+	title: "Advanced Hazmat Suit",
+	x: 9.5d,
+	y: 25.0d,
+	text: [
+		"Hazmat Suit but red, gives 90% radiation resistance"
+	],
+	dependencies: [
+		"c38e5713"
+	],
+	tasks: [{
+		uid: "322508e3",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_helmet_red"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7668dff1",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_plate_red"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e8f31a91",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_legs_red"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1910aede",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_boots_red"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "622d715b",
+		type: "xp",
+		xp: 100
+	}]
+}

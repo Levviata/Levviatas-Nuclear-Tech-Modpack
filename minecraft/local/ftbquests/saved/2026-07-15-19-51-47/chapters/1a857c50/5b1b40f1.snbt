@@ -1,0 +1,18 @@
+{
+	x: -0.5d,
+	y: 4.0d,
+	description: "No longer a Worker's choice",
+	text: [
+		""
+	],
+	dependencies: [
+		"04b29439"
+	],
+	tasks: [{
+		uid: "894e88b7",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_desh"
+		}]
+	}]
+}

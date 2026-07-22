@@ -1,0 +1,21 @@
+{
+	x: -8.0d,
+	y: 27.0d,
+	text: [
+		"Improves the speed of each machine operation, making products faster.",
+		"",
+		"Increases energy consumption."
+	],
+	dependencies: [
+		"502ff63f"
+	],
+	tasks: [{
+		uid: "76f5912b",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_speed_1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

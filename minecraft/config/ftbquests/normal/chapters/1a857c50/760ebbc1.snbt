@@ -1,0 +1,34 @@
+{
+	x: 17.5d,
+	y: -7.5d,
+	text: [
+		"After processing Raw Bedrock Ore in the Bedrock Ore Processor it's ideal to wash the product in a Ore Acidizer with water, this will make it yield x2 more in the final product."
+	],
+	dependencies: [
+		"23a63f65",
+		"8f798da2",
+		"38803324",
+		"35a1f284",
+		"298fc722",
+		"13d6a9a1"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "697e5b4d",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreWashed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreWashed"
+				}
+			}
+		}]
+	}]
+}

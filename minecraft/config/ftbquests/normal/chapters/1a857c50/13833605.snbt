@@ -1,0 +1,11 @@
+{
+	x: 25.5d,
+	y: -9.0d,
+	tasks: [{
+		uid: "acce3d3e",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 288"
+		}]
+	}]
+}

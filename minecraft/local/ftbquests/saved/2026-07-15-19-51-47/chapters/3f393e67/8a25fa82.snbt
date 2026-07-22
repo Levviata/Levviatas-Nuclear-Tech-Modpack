@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: 27.5d,
+	text: [
+		"The Analog Circuit is used for many things, "
+	],
+	dependencies: [
+		"51c4e232"
+	],
+	tasks: [{
+		uid: "7a4f2728",
+		type: "item",
+		items: [{
+			item: "hbm:circuit 1 7"
+		}]
+	}]
+}

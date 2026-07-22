@@ -1,0 +1,21 @@
+{
+	x: 10.0d,
+	y: 1.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "65334638",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "9fb70815",
+		type: "item",
+		item: "minecraft:glass",
+		count: 64
+	}]
+}

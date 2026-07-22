@@ -1,0 +1,28 @@
+{
+	x: 22.5d,
+	y: -9.0d,
+	text: [
+		"Ore treated with Solvent will yield a medium quantity of material. Light Metal can yield Lithium for example."
+	],
+	dependencies: [
+		"1d8f8597"
+	],
+	tasks: [{
+		uid: "3b19ea71",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreDissolvedPrimaryFraction"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreDissolvedPrimaryFraction"
+				}
+			}
+		}]
+	}]
+}

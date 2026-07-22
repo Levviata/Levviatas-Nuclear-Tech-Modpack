@@ -1,0 +1,21 @@
+{
+	disable_toast: true,
+	x: -4.5d,
+	y: -2.0d,
+	text: [
+		"Original had no recipe.",
+		"",
+		"My recipe is made with:",
+		"",
+		"- A Copper Ingot, 2 Iron Ingot, 2 Copper Wire, an Integrated Circuit, a Steel Ingot, Coal Powder, and Asbestos Powder."
+	],
+	tasks: [{
+		uid: "9369b42d",
+		type: "item",
+		items: [{
+			item: "hbm:lung_diagnostic"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

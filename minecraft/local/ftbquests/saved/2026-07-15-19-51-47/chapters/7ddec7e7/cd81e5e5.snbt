@@ -1,0 +1,16 @@
+{
+	title: "Niter Ore",
+	icon: "hbm:ore_niter",
+	x: 1.0d,
+	y: 6.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "6f0f3111",
+		type: "item",
+		items: [{
+			item: "hbm:niter"
+		}]
+	}]
+}

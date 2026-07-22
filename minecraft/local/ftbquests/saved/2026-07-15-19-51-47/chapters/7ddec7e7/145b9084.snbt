@@ -1,0 +1,12 @@
+{
+	title: "NTM: Depth Nether Ores",
+	x: 5.0d,
+	y: 9.375d,
+	shape: "pentagon",
+	size: 1.25d,
+	tasks: [{
+		uid: "6d28ff17",
+		type: "checkmark",
+		icon: "hbm:stone_depth_nether"
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -6.0d,
+	y: 0.0d,
+	text: [
+		"Conveyors are handy blocks that can transport items. ",
+		"It moves objects from A to B. Objects must be inserted or dropped onto the conveyors.",
+		"",
+		"Right click to place a line of conveyors.",
+		"",
+		"Mine with a pickaxe to remove.",
+		"",
+		"(I changed the recipe of 4 Ropes, 2 Iron Plates, and 2 Iron Ingots to give x32 conveyors instead of 16, you are welcome)."
+	],
+	tasks: [{
+		uid: "d5d01b26",
+		type: "item",
+		items: [{
+			item: "hbm:conveyor_wand"
+		}],
+		count: 16L
+	}]
+}

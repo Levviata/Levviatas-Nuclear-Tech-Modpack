@@ -1,0 +1,22 @@
+{
+	x: -4.5d,
+	y: 2.0d,
+	text: [
+		"Replaced recipe from:",
+		"",
+		"- 2 Iron Ingots, 2 Copper Ingots, Any Stone, and a Piston.",
+		"",
+		"To:",
+		"",
+		"- 2 Titanium Plates, 2 Tungsten Ingots, Any Brick Stone, and a Piston.",
+		"",
+		"This balances progression making the machine available after the Burner Press, which makes sense anyway since you can't make casings before."
+	],
+	tasks: [{
+		uid: "3ff15b0c",
+		type: "item",
+		items: [{
+			item: "hbm:machine_ammo_press"
+		}]
+	}]
+}

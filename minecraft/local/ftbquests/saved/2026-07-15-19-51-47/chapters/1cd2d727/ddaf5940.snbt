@@ -1,0 +1,13 @@
+{
+	x: -10.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "8c80972f",
+		type: "item",
+		items: [{
+			item: "hbm:screwdriver_desh"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

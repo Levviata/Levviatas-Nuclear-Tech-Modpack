@@ -2231,56 +2231,28 @@
       "fluid": [["Titanium",216]]
     },
     {
-      "input": ["item","hbm:powder_schrabidium",1,32767],
-      "solid": ["hbm:ingot_schrabidium"]
+      "input": ["item","hbm:powder_zirconium",1,32767],
+      "solid": ["hbm:ingot_zirconium"]
     },
     {
-      "input": ["item","hbm:powder_steel",1,32767],
-      "solid": ["hbm:ingot_steel"]
+      "input": ["item","hbm:ore_gneiss_uranium",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","hbm:powder_desh",1,32767],
+      "solid": ["hbm:ingot_desh"]
+    },
+    {
+      "input": ["item","hbm:powder_thorium",1,32767],
+      "solid": ["hbm:ingot_th232"]
     },
     {
       "input": ["item","hbm:ore_titanium",1,32767],
       "solid": ["hbm:ingot_titanium"]
     },
     {
-      "input": ["item","hbm:ore_tungsten",1,32767],
-      "solid": ["hbm:ingot_tungsten"]
-    },
-    {
-      "input": ["item","minecraft:clay_ball",1,32767],
-      "solid": ["minecraft:brick"]
-    },
-    {
-      "input": ["item","minecraft:gold_ore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:powder_aluminium",1,32767],
-      "solid": ["hbm:ingot_aluminium"]
-    },
-    {
-      "input": ["item","hbm:combine_scrap",1,32767],
-      "solid": ["hbm:ingot_combine_steel"]
-    },
-    {
-      "input": ["item","hbm:powder_combine_steel",1,32767],
-      "solid": ["hbm:ingot_combine_steel"]
-    },
-    {
-      "input": ["item","hbm:powder_cobalt",1,32767],
-      "solid": ["hbm:ingot_cobalt"]
-    },
-    {
-      "input": ["item","hbm:powder_tcalloy",1,32767],
-      "solid": ["hbm:ingot_tcalloy"]
-    },
-    {
-      "input": ["item","hbm:powder_niobium",1,32767],
-      "solid": ["hbm:ingot_niobium"]
-    },
-    {
-      "input": ["item","hbm:powder_cadmium",1,32767],
-      "solid": ["hbm:ingot_cadmium"]
+      "input": ["item","hbm:powder_red_copper",1,32767],
+      "solid": ["hbm:ingot_red_copper"]
     },
     {
       "input": ["item","hbm:powder_gold",1,32767],
@@ -2291,52 +2263,116 @@
       "solid": ["hbm:ingot_polymer"]
     },
     {
-      "input": ["item","hbm:ore_gneiss_gold",1,32767],
-      "solid": ["minecraft:gold_ingot"]
+      "input": ["item","hbm:ore_beryllium",1,32767],
+      "solid": ["hbm:ingot_beryllium"]
     },
     {
-      "input": ["item","hbm:powder_ra226",1,32767],
-      "solid": ["hbm:ingot_ra226"]
+      "input": ["item","hbm:powder_iron",1,32767],
+      "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","hbm:powder_dineutronium",1,32767],
-      "solid": ["hbm:ingot_dineutronium"]
-    },
-    {
-      "input": ["item","hbm:powder_titanium",1,32767],
-      "solid": ["hbm:ingot_titanium"]
-    },
-    {
-      "input": ["item","hbm:powder_polonium",1,32767],
-      "solid": ["hbm:ingot_polonium"]
-    },
-    {
-      "input": ["item","hbm:powder_calcium",1,32767],
-      "solid": ["hbm:ingot_calcium"]
-    },
-    {
-      "input": ["item","hbm:ore_lead",1,32767],
-      "solid": ["hbm:ingot_lead"]
-    },
-    {
-      "input": ["item","hbm:sand_lead"],
-      "solid": ["hbm:glass_lead"]
+      "input": ["item","minecraft:netherrack",1,32767],
+      "solid": ["minecraft:netherbrick"]
     },
     {
       "input": ["item","hbm:ore_nether_plutonium",1,32767],
       "solid": ["hbm:ingot_plutonium"]
     },
     {
+      "input": ["item","hbm:ore_cobalt",1,32767],
+      "solid": ["hbm:ingot_cobalt"]
+    },
+    {
+      "input": ["item","minecraft:clay_ball",1,32767],
+      "solid": ["minecraft:brick"]
+    },
+    {
+      "input": ["item","hbm:waste_trinitite"],
+      "solid": ["hbm:glass_trinitite"]
+    },
+    {
+      "input": ["item","hbm:powder_copper",1,32767],
+      "solid": ["hbm:ingot_copper"]
+    },
+    {
+      "input": ["item","hbm:powder_cadmium",1,32767],
+      "solid": ["hbm:ingot_cadmium"]
+    },
+    {
+      "input": ["item","hbm:powder_euphemium",1,32767],
+      "solid": ["hbm:ingot_euphemium"]
+    },
+    {
+      "input": ["item","hbm:powder_schrabidate",1,32767],
+      "solid": ["hbm:ingot_schrabidate"]
+    },
+    {
+      "input": ["item","hbm:powder_bismuth",1,32767],
+      "solid": ["hbm:ingot_bismuth"]
+    },
+    {
+      "input": ["item","hbm:ore_gneiss_copper",1,32767],
+      "solid": ["hbm:ingot_copper"]
+    },
+    {
+      "input": ["item","hbm:powder_lithium",1,32767],
+      "solid": ["hbm:lithium"]
+    },
+    {
+      "input": ["item","minecraft:gold_ore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","minecraft:iron_ore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:ore_gneiss_uranium_scorched",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","hbm:ore_tungsten",1,32767],
+      "solid": ["hbm:ingot_tungsten"]
+    },
+    {
+      "input": ["item","hbm:ore_nether_uranium",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","hbm:ball_resin",1,32767],
+      "solid": ["hbm:ingot_biorubber"]
+    },
+    {
       "input": ["item","hbm:ore_gneiss_schrabidium",1,32767],
       "solid": ["hbm:ingot_schrabidium"]
     },
     {
-      "input": ["item","hbm:ore_gneiss_uranium",1,32767],
-      "solid": ["hbm:ingot_uranium"]
+      "input": ["item","hbm:powder_actinium",1,32767],
+      "solid": ["hbm:ingot_actinium"]
     },
     {
-      "input": ["item","hbm:powder_lanthanium",1,32767],
-      "solid": ["hbm:ingot_lanthanium"]
+      "input": ["item","hbm:sand_lead"],
+      "solid": ["hbm:glass_lead"]
+    },
+    {
+      "input": ["item","hbm:powder_calcium",1,32767],
+      "solid": ["hbm:ingot_calcium"]
+    },
+    {
+      "input": ["item","hbm:powder_polymer",1,32767],
+      "solid": ["hbm:ingot_polymer"]
+    },
+    {
+      "input": ["item","hbm:sand_uranium"],
+      "solid": ["hbm:glass_uranium"]
+    },
+    {
+      "input": ["item","hbm:powder_schrabidium",1,32767],
+      "solid": ["hbm:ingot_schrabidium"]
+    },
+    {
+      "input": ["item","hbm:powder_beryllium",1,32767],
+      "solid": ["hbm:ingot_beryllium"]
     },
     {
       "input": ["item","hbm:ore_gneiss_iron",1,32767],
@@ -2347,164 +2383,24 @@
       "solid": ["hbm:ingot_th232"]
     },
     {
-      "input": ["item","hbm:powder_zirconium",1,32767],
-      "solid": ["hbm:ingot_zirconium"]
-    },
-    {
-      "input": ["item","hbm:ore_cobalt",1,32767],
-      "solid": ["hbm:ingot_cobalt"]
-    },
-    {
-      "input": ["item","hbm:ore_schrabidium",1,32767],
-      "solid": ["hbm:ingot_schrabidium"]
-    },
-    {
-      "input": ["item","hbm:sand_polonium"],
-      "solid": ["hbm:glass_polonium"]
-    },
-    {
       "input": ["item","hbm:waste_trinitite_red"],
       "solid": ["hbm:glass_trinitite"]
-    },
-    {
-      "input": ["item","hbm:sand_uranium"],
-      "solid": ["hbm:glass_uranium"]
-    },
-    {
-      "input": ["item","hbm:ball_resin",1,32767],
-      "solid": ["hbm:ingot_biorubber"]
-    },
-    {
-      "input": ["item","hbm:powder_actinium",1,32767],
-      "solid": ["hbm:ingot_actinium"]
-    },
-    {
-      "input": ["item","hbm:powder_bakelite",1,32767],
-      "solid": ["hbm:ingot_bakelite"]
-    },
-    {
-      "input": ["item","hbm:ore_beryllium",1,32767],
-      "solid": ["hbm:ingot_beryllium"]
-    },
-    {
-      "input": ["item","hbm:powder_bismuth",1,32767],
-      "solid": ["hbm:ingot_bismuth"]
-    },
-    {
-      "input": ["item","hbm:powder_lithium",1,32767],
-      "solid": ["hbm:lithium"]
     },
     {
       "input": ["item","hbm:ore_nether_uranium_scorched",1,32767],
       "solid": ["hbm:ingot_uranium"]
     },
     {
-      "input": ["item","hbm:ore_gneiss_lithium",1,32767],
-      "solid": ["hbm:lithium"]
+      "input": ["item","hbm:powder_aluminium",1,32767],
+      "solid": ["hbm:ingot_aluminium"]
     },
     {
-      "input": ["item","minecraft:iron_ore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
+      "input": ["item","hbm:combine_scrap",1,32767],
+      "solid": ["hbm:ingot_combine_steel"]
     },
     {
-      "input": ["item","hbm:powder_thorium",1,32767],
-      "solid": ["hbm:ingot_th232"]
-    },
-    {
-      "input": ["item","hbm:ore_nether_cobalt",1,32767],
-      "solid": ["hbm:ingot_cobalt"]
-    },
-    {
-      "input": ["item","hbm:ore_uranium_scorched",1,32767],
-      "solid": ["hbm:ingot_uranium"]
-    },
-    {
-      "input": ["item","hbm:ore_nether_schrabidium",1,32767],
-      "solid": ["hbm:ingot_schrabidium"]
-    },
-    {
-      "input": ["item","hbm:powder_neptunium",1,32767],
-      "solid": ["hbm:ingot_neptunium"]
-    },
-    {
-      "input": ["item","hbm:crystal_osmiridium",1,32767],
-      "solid": ["hbm:ingot_osmiridium"]
-    },
-    {
-      "input": ["item","hbm:powder_iron",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:powder_tungsten",1,32767],
-      "solid": ["hbm:ingot_tungsten"]
-    },
-    {
-      "input": ["item","hbm:powder_magnetized_tungsten",1,32767],
-      "solid": ["hbm:ingot_magnetized_tungsten"]
-    },
-    {
-      "input": ["item","hbm:ore_nether_uranium",1,32767],
-      "solid": ["hbm:ingot_uranium"]
-    },
-    {
-      "input": ["item","hbm:powder_plutonium",1,32767],
-      "solid": ["hbm:ingot_plutonium"]
-    },
-    {
-      "input": ["item","hbm:powder_tantalium",1,32767],
-      "solid": ["hbm:ingot_tantalium"]
-    },
-    {
-      "input": ["item","hbm:ore_copper",1,32767],
-      "solid": ["hbm:ingot_copper"]
-    },
-    {
-      "input": ["item","hbm:powder_polymer",1,32767],
-      "solid": ["hbm:ingot_polymer"]
-    },
-    {
-      "input": ["item","hbm:powder_dura_steel",1,32767],
-      "solid": ["hbm:ingot_dura_steel"]
-    },
-    {
-      "input": ["item","hbm:gravel_diamond"],
-      "solid": ["minecraft:diamond"]
-    },
-    {
-      "input": ["item","hbm:powder_desh",1,32767],
-      "solid": ["hbm:ingot_desh"]
-    },
-    {
-      "input": ["item","hbm:powder_uranium",1,32767],
-      "solid": ["hbm:ingot_uranium"]
-    },
-    {
-      "input": ["item","hbm:powder_au198",1,32767],
-      "solid": ["hbm:ingot_au198"]
-    },
-    {
-      "input": ["item","hbm:powder_boron",1,32767],
-      "solid": ["hbm:ingot_boron"]
-    },
-    {
-      "input": ["item","hbm:ore_nether_tungsten",1,32767],
-      "solid": ["hbm:ingot_tungsten"]
-    },
-    {
-      "input": ["item","hbm:powder_lead",1,32767],
-      "solid": ["hbm:ingot_lead"]
-    },
-    {
-      "input": ["item","hbm:ore_gneiss_copper",1,32767],
-      "solid": ["hbm:ingot_copper"]
-    },
-    {
-      "input": ["item","hbm:ore_uranium",1,32767],
-      "solid": ["hbm:ingot_uranium"]
-    },
-    {
-      "input": ["item","hbm:powder_sr90",1,32767],
-      "solid": ["hbm:ingot_sr90"]
+      "input": ["item","hbm:ore_gneiss_gold",1,32767],
+      "solid": ["minecraft:gold_ingot"]
     },
     {
       "input": ["item","hbm:arc_electrode_burnt"],
@@ -2523,48 +2419,152 @@
       "solid": ["hbm:ingot_saturnite"]
     },
     {
-      "input": ["item","hbm:powder_euphemium",1,32767],
-      "solid": ["hbm:ingot_euphemium"]
+      "input": ["item","hbm:ash_digamma"],
+      "solid": ["hbm:glass_ash"]
     },
     {
-      "input": ["item","hbm:powder_copper",1,32767],
-      "solid": ["hbm:ingot_copper"]
+      "input": ["item","hbm:ore_nether_schrabidium",1,32767],
+      "solid": ["hbm:ingot_schrabidium"]
     },
     {
-      "input": ["item","hbm:powder_red_copper",1,32767],
-      "solid": ["hbm:ingot_red_copper"]
+      "input": ["item","hbm:powder_cobalt",1,32767],
+      "solid": ["hbm:ingot_cobalt"]
     },
     {
-      "input": ["item","hbm:powder_schrabidate",1,32767],
-      "solid": ["hbm:ingot_schrabidate"]
+      "input": ["item","hbm:powder_steel",1,32767],
+      "solid": ["hbm:ingot_steel"]
     },
     {
-      "input": ["item","hbm:waste_trinitite"],
-      "solid": ["hbm:glass_trinitite"]
+      "input": ["item","hbm:ore_gneiss_lithium",1,32767],
+      "solid": ["hbm:lithium"]
     },
     {
-      "input": ["item","minecraft:netherrack",1,32767],
-      "solid": ["minecraft:netherbrick"]
+      "input": ["item","hbm:ore_nether_cobalt",1,32767],
+      "solid": ["hbm:ingot_cobalt"]
     },
     {
-      "input": ["item","hbm:sand_boron"],
-      "solid": ["hbm:glass_boron"]
+      "input": ["item","hbm:powder_tcalloy",1,32767],
+      "solid": ["hbm:ingot_tcalloy"]
     },
     {
-      "input": ["item","hbm:ore_gneiss_uranium_scorched",1,32767],
+      "input": ["item","hbm:sand_polonium"],
+      "solid": ["hbm:glass_polonium"]
+    },
+    {
+      "input": ["item","hbm:powder_neptunium",1,32767],
+      "solid": ["hbm:ingot_neptunium"]
+    },
+    {
+      "input": ["item","hbm:ore_schrabidium",1,32767],
+      "solid": ["hbm:ingot_schrabidium"]
+    },
+    {
+      "input": ["item","hbm:powder_combine_steel",1,32767],
+      "solid": ["hbm:ingot_combine_steel"]
+    },
+    {
+      "input": ["item","hbm:powder_magnetized_tungsten",1,32767],
+      "solid": ["hbm:ingot_magnetized_tungsten"]
+    },
+    {
+      "input": ["item","hbm:powder_titanium",1,32767],
+      "solid": ["hbm:ingot_titanium"]
+    },
+    {
+      "input": ["item","hbm:powder_polonium",1,32767],
+      "solid": ["hbm:ingot_polonium"]
+    },
+    {
+      "input": ["item","hbm:crystal_osmiridium",1,32767],
+      "solid": ["hbm:ingot_osmiridium"]
+    },
+    {
+      "input": ["item","hbm:powder_lead",1,32767],
+      "solid": ["hbm:ingot_lead"]
+    },
+    {
+      "input": ["item","hbm:powder_bakelite",1,32767],
+      "solid": ["hbm:ingot_bakelite"]
+    },
+    {
+      "input": ["item","hbm:powder_tantalium",1,32767],
+      "solid": ["hbm:ingot_tantalium"]
+    },
+    {
+      "input": ["item","hbm:powder_sr90",1,32767],
+      "solid": ["hbm:ingot_sr90"]
+    },
+    {
+      "input": ["item","hbm:powder_ra226",1,32767],
+      "solid": ["hbm:ingot_ra226"]
+    },
+    {
+      "input": ["item","hbm:powder_dura_steel",1,32767],
+      "solid": ["hbm:ingot_dura_steel"]
+    },
+    {
+      "input": ["item","hbm:ore_uranium_scorched",1,32767],
       "solid": ["hbm:ingot_uranium"]
     },
     {
-      "input": ["item","hbm:ash_digamma"],
-      "solid": ["hbm:glass_ash"]
+      "input": ["item","hbm:powder_tungsten",1,32767],
+      "solid": ["hbm:ingot_tungsten"]
     },
     {
       "input": ["item","hbm:powder_australium",1,32767],
       "solid": ["hbm:ingot_australium"]
     },
     {
-      "input": ["item","hbm:powder_beryllium",1,32767],
-      "solid": ["hbm:ingot_beryllium"]
+      "input": ["item","hbm:ore_nether_tungsten",1,32767],
+      "solid": ["hbm:ingot_tungsten"]
+    },
+    {
+      "input": ["item","hbm:powder_dineutronium",1,32767],
+      "solid": ["hbm:ingot_dineutronium"]
+    },
+    {
+      "input": ["item","hbm:powder_lanthanium",1,32767],
+      "solid": ["hbm:ingot_lanthanium"]
+    },
+    {
+      "input": ["item","hbm:powder_uranium",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","hbm:ore_copper",1,32767],
+      "solid": ["hbm:ingot_copper"]
+    },
+    {
+      "input": ["item","hbm:powder_plutonium",1,32767],
+      "solid": ["hbm:ingot_plutonium"]
+    },
+    {
+      "input": ["item","hbm:sand_boron"],
+      "solid": ["hbm:glass_boron"]
+    },
+    {
+      "input": ["item","hbm:ore_uranium",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","hbm:powder_niobium",1,32767],
+      "solid": ["hbm:ingot_niobium"]
+    },
+    {
+      "input": ["item","hbm:powder_au198",1,32767],
+      "solid": ["hbm:ingot_au198"]
+    },
+    {
+      "input": ["item","hbm:gravel_diamond"],
+      "solid": ["minecraft:diamond"]
+    },
+    {
+      "input": ["item","hbm:powder_boron",1,32767],
+      "solid": ["hbm:ingot_boron"]
+    },
+    {
+      "input": ["item","hbm:ore_lead",1,32767],
+      "solid": ["hbm:ingot_lead"]
     }
   ]
 }

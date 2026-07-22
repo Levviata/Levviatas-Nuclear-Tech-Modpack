@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: 2.0d,
+	dependencies: [
+		"4d4393b6"
+	],
+	tasks: [{
+		uid: "e46137f0",
+		type: "item",
+		items: [{
+			item: "hbm:conveyor_wand 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,37 @@
+{
+	x: 0.0d,
+	y: 8.5d,
+	text: [
+		"The machine template folder is a tool that produces templates, stamps, and fluid identifiers.",
+		"The folder has a search bar from which you select the templates or identifiers to craft, with the result going directly in your inventory if you have the required ingredients."
+	],
+	dependencies: [
+		"00fafa6c"
+	],
+	tasks: [{
+		uid: "2a3fe6cb",
+		type: "item",
+		items: [{
+			item: "hbm:template_folder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f1ce90b0",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "aa70a809",
+		type: "item",
+		item: "futuremc:dye",
+		count: 32
+	},
+	{
+		uid: "e83ecfb5",
+		type: "item",
+		item: "minecraft:paper",
+		count: 16
+	}]
+}

@@ -1,6 +1,10 @@
 {
 	x: 4.5d,
 	y: -1.5d,
+	description: "§e§nRequires:§r§e High-Performance Solvent",
+	text: [
+		""
+	],
 	dependencies: [
 		"dafb33f6"
 	],

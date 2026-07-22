@@ -1,0 +1,12 @@
+{
+	disable_toast: true,
+	x: -4.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "c952c7bc",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_part 1 1"
+		}]
+	}]
+}

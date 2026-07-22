@@ -1,0 +1,28 @@
+{
+	x: 22.5d,
+	y: -10.5d,
+	text: [
+		"Ore cleaned with High-Performance Solvent will yield the maximum quantity with the possibility to extract exquisite materials. Heavy Metal by product will yield Bismuth for example."
+	],
+	dependencies: [
+		"1d8f8597"
+	],
+	tasks: [{
+		uid: "d5d6bafa",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreCleanedPrimaryFraction"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreCleanedPrimaryFraction"
+				}
+			}
+		}]
+	}]
+}

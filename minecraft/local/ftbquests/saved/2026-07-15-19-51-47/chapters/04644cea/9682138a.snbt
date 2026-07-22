@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "176f5a58",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_uranium"
+		}]
+	}]
+}

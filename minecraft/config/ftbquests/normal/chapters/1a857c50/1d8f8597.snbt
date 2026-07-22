@@ -1,0 +1,28 @@
+{
+	x: 20.0d,
+	y: -7.5d,
+	text: [
+		"After having washed the Bedrock Ore and processing it in a Centrifuge, you will get the Primary Fraction of the product. You can centrifuge this again to get basic materials, but if you treat it with fluids you will get even better products."
+	],
+	dependencies: [
+		"760ebbc1"
+	],
+	tasks: [{
+		uid: "ffa8c940",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOrePrimaryFraction"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOrePrimaryFraction"
+				}
+			}
+		}]
+	}]
+}

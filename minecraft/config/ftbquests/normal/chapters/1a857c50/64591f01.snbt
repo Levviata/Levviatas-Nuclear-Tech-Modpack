@@ -1,0 +1,17 @@
+{
+	x: 29.5d,
+	y: -10.5d,
+	text: [
+		"You can centrifuge the Byproduct or smelt it in a Arc Furnace, smelting will yield more bismuth."
+	],
+	dependencies: [
+		"1d13351e"
+	],
+	tasks: [{
+		uid: "149ce73f",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 8300"
+		}]
+	}]
+}

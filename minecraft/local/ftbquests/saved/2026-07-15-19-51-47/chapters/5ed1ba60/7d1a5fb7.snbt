@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: -3.5d,
+	text: [
+		"Coated Red Copper Cable to Red Copper Cable."
+	],
+	tasks: [{
+		uid: "db8bc692",
+		type: "item",
+		items: [{
+			item: "hbm:red_wire_coated"
+		}]
+	}]
+}

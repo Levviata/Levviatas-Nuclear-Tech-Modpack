@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: 18.5d,
+	text: [
+		"The Industrial Mixer is an important machine that mixes liquids and solids to make new products.",
+		"",
+		"May make High-Performance Solvent, Nitric Acid, Fracking Solution, and many other important liquids"
+	],
+	dependencies: [
+		"48a2a7c5"
+	],
+	tasks: [{
+		uid: "d2f10ac3",
+		type: "item",
+		items: [{
+			item: "hbm:machine_mixer"
+		}]
+	}]
+}

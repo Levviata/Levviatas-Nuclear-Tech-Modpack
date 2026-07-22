@@ -1,0 +1,21 @@
+{
+	title: "LvNTM",
+	icon: "hbm:nuke_man",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: -3.5d,
+		y: 0.0d,
+		width: 2.5d,
+		height: 2.5d,
+		rotation: 0.0d,
+		image: "minecraft:textures/items/barrier.png",
+		hover: [
+			"1.7.10 Nuclear Tech Mod Wiki",
+			"Not 1:1 to the 1.12.2 Community version, but useful regardless"
+		],
+		click: "https://nucleartech.wiki/wiki/Main_Page",
+		dev: false
+	}]
+}

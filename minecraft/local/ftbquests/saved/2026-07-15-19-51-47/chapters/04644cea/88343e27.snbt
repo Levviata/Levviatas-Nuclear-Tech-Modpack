@@ -1,0 +1,11 @@
+{
+	x: 1.2857142857142492d,
+	y: 12.702380952380956d,
+	tasks: [{
+		uid: "e70b6e3a",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_schraranium"
+		}]
+	}]
+}

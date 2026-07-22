@@ -1,0 +1,54 @@
+{
+	title: "Equipment Modification Tables",
+	x: -2.5d,
+	y: 14.0d,
+	description: "Subtract, divide, and add armor accessories!",
+	text: [
+		"The Armor Modification Table can insert accessories into your armor, each armor piece has 9 slots:",
+		"",
+		"- Battery.",
+		"- Special",
+		"- Insert.",
+		"- Cladding.",
+		"- Servos.",
+		"- Helmet, Chestplate, Leggings, Boots.",
+		"",
+		"The accessories are unique to each piece of armor, a Chestplate slot in a helmet piece is intended and some accessories may be placed in different equipment slots in the table, this doesn't mean you'll be able to wear it in your chestplate slot, a helmet has a Chestplate somehow and I accept that quirkiness. ",
+		"",
+		"The Weapon Modification Table is vastly different and is able to insert accessories to guns, to use, place a gun in the left-most slot, starting down.",
+		"",
+		"If you hover your gun, it will tell you which accessories it accepts. If you have dual guns, you may select the second gun to modify it, that is the up and down arrows with a number to it's left, the number is the gun selected."
+	],
+	dependencies: [
+		"86867f7a"
+	],
+	tasks: [{
+		uid: "3f1f9955",
+		type: "item",
+		items: [{
+			item: "hbm:machine_armor_table"
+		}]
+	},
+	{
+		uid: "966cfbba",
+		type: "item",
+		items: [{
+			item: "hbm:machine_weapon_table"
+		}]
+	}],
+	rewards: [{
+		uid: "96c458eb",
+		type: "item",
+		item: "hbm:lodestone"
+	},
+	{
+		uid: "b60032f2",
+		type: "item",
+		item: "hbm:injector_knife"
+	},
+	{
+		uid: "563e349c",
+		type: "item",
+		item: "hbm:gas_tester"
+	}]
+}

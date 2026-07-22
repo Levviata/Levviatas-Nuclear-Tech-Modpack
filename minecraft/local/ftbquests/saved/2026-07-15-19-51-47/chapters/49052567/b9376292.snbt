@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 5.5d,
+	description: "§e§nRequires:§r§e Latex, Analog Circuit Board",
+	text: [
+		"The 1k Storage Part allows to make 1k blocks and 1k disks. They can store up to 1 thousand items."
+	],
+	tasks: [{
+		uid: "2a6d2668",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_part"
+		}]
+	}]
+}

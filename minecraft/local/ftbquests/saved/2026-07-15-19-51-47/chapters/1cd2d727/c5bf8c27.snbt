@@ -1,0 +1,14 @@
+{
+	x: -11.0d,
+	y: 1.5d,
+	dependencies: [
+		"7f847553"
+	],
+	tasks: [{
+		uid: "cb3aeca2",
+		type: "item",
+		items: [{
+			item: "hbm:pneumatic_tube_paintable"
+		}]
+	}]
+}

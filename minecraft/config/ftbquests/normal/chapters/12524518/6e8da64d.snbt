@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:fluid_icon 1 88"
 		}]
+	},
+	{
+		uid: "89cfa0c6",
+		type: "fluid",
+		fluid: "radiosolvent"
 	}]
 }

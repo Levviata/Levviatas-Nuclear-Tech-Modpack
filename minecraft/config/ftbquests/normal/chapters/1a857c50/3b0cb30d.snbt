@@ -1,0 +1,27 @@
+{
+	x: 25.5d,
+	y: -5.5d,
+	text: [
+		"The Separated ore yields \"low quality\" material and it's the simplest to process. Can be treated in the Ore Acidizer to turn into High Weight or Low Weight.",
+		"",
+		"If it's treated with lower tiers of acid, it can be treated again with higher tiers to convert into a Primary Fraction ore again."
+	],
+	tasks: [{
+		uid: "fdfe91f5",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreSeparated"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreSeparated"
+				}
+			}
+		}]
+	}]
+}

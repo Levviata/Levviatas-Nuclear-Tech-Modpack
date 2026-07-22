@@ -1,0 +1,18 @@
+{
+	disable_toast: true,
+	x: -1.0d,
+	y: 17.5d,
+	text: [
+		"The Smokestack is a large machine used to reduce pollution "
+	],
+	dependencies: [
+		"86867f7a"
+	],
+	tasks: [{
+		uid: "13160177",
+		type: "item",
+		items: [{
+			item: "hbm:chimney_brick"
+		}]
+	}]
+}

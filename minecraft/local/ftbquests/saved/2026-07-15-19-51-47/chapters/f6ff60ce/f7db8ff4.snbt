@@ -1,0 +1,11 @@
+{
+	x: -6.5d,
+	y: 13.0d,
+	tasks: [{
+		uid: "aaad314b",
+		type: "item",
+		items: [{
+			item: "hbm:circuit 1 11"
+		}]
+	}]
+}

@@ -1,0 +1,82 @@
+{
+	title: "RBMK Nuclear Reactor",
+	x: 0.0d,
+	y: 6.0d,
+	description: "Meltdowns will void warranty.",
+	text: [
+		"The RBMK is a modular nuclear reactor that can make Bismuth and many other important products.",
+		"",
+		"The RBMK Console has a Guide Book embedded into it's details which you can Right-Click to get one, you may also craft it with a book and a potato, this book explains the fundamentals of a RBMK reactor.",
+		"",
+		"Since it's modular, it has many optimal configurations, I got mine from an indian guy online and it works wonder, shout out to Savage Vegeta, though the wiki also has designs."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "0d0a5e6d",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_blank"
+		}]
+	},
+	{
+		uid: "4be6eca6",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_rod"
+		}]
+	},
+	{
+		uid: "40320613",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_moderator"
+		}]
+	},
+	{
+		uid: "c70a677f",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_boiler"
+		}]
+	},
+	{
+		uid: "7d425f25",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_outgasser"
+		}]
+	},
+	{
+		uid: "98b8275e",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_reflector"
+		}]
+	},
+	{
+		uid: "0cc816c7",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_lid"
+		}]
+	},
+	{
+		uid: "68c8796f",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_lid_glass"
+		}]
+	},
+	{
+		uid: "914fd655",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_loader"
+		}]
+	}],
+	rewards: [{
+		uid: "b270f303",
+		type: "item",
+		item: "hbm:rbmk_fuel_empty"
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	x: 3.0d,
+	y: 16.5d,
+	description: "Basic",
+	text: [
+		"Generates power by burning fuel. ",
+		"",
+		"You may store this power in batteries and capacitors after making Minecraft Grade Copper."
+	],
+	dependencies: [
+		"86867f7a",
+		"cb1a89bb"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "ada42507",
+		type: "item",
+		items: [{
+			item: "hbm:machine_wood_burner"
+		}]
+	}],
+	rewards: [{
+		uid: "c03642e5",
+		type: "item",
+		item: "hbm:solid_fuel",
+		count: 16
+	}]
+}

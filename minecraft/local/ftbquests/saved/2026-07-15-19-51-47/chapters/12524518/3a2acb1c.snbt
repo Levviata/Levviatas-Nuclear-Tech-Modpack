@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: -0.5d,
+	dependencies: [
+		"bdb8390a"
+	],
+	tasks: [{
+		uid: "5c1ff3ec",
+		type: "item",
+		items: [{
+			item: "hbm:billet_pu238be"
+		}]
+	}]
+}
