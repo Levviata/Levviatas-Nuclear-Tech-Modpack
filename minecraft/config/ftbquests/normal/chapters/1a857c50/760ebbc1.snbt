@@ -1,8 +1,9 @@
 {
+	title: "Washed Ore",
 	x: 17.5d,
 	y: -7.5d,
 	text: [
-		"After processing Raw Bedrock Ore in the Bedrock Ore Processor it's ideal to wash the product in a Ore Acidizer with water, this will make it yield x2 more in the final product."
+		"Washing the produced ore will yield two times the product, it's an essential step."
 	],
 	dependencies: [
 		"23a63f65",

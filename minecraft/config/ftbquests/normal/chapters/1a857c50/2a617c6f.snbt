@@ -1,8 +1,10 @@
 {
 	x: 22.5d,
-	y: -4.5d,
+	y: -6.0d,
 	text: [
-		"The Higher Weight of the Primary Fraction of the ore gives more or less quantity of a specific material. For Heavy Metal it gives more tungsten."
+		"The Higher Weight of the Primary Fraction of the ore gives more or less quantity of a specific material. For Heavy Metal it gives more tungsten.",
+		"",
+		"May be processed from By-Products as well."
 	],
 	dependencies: [
 		"1d8f8597"

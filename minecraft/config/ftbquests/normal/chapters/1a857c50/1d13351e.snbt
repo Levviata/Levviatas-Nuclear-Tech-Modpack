@@ -1,11 +1,11 @@
 {
-	x: 25.5d,
+	x: 28.0d,
 	y: -10.5d,
 	text: [
 		"After centrifuging the cleaned heavy metal primary fraction, you will get a few products, the Byproduct is specially important since it will yield bismuth"
 	],
 	dependencies: [
-		"791ac80d"
+		"ef416437"
 	],
 	tasks: [{
 		uid: "531b2984",

@@ -1,8 +1,11 @@
 {
+	title: "Primary Fraction",
 	x: 20.0d,
 	y: -7.5d,
 	text: [
-		"After having washed the Bedrock Ore and processing it in a Centrifuge, you will get the Primary Fraction of the product. You can centrifuge this again to get basic materials, but if you treat it with fluids you will get even better products."
+		"The Primary Fraction of ore can be treated in many ways to yield a variety of products.",
+		"",
+		"To get the most out of the ore you can treat it with acids to get By-Products, depending on the tier of the acid these yield basic or quality products."
 	],
 	dependencies: [
 		"760ebbc1"

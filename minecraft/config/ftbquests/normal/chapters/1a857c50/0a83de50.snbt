@@ -2,9 +2,10 @@
 	x: 20.0d,
 	y: -5.5d,
 	text: [
-		"You may roast the ore to get Vitriol fluid, it's a source of Mercury and later on can be exposed in a SILEX  with Infrared light to get Iodine powder. It's an optional step which does not affect the end product.",
+		"You may roast the ore to get Vitriol fluid, it's a source of Mercury and later on can be exposed in a SILEX with Infrared light to get Iodine powder.",
+		" It's an optional step which does not affect the end product.",
 		"",
-		"The ore can be roasted at any moment in the processing steps, yielding the same amount of product."
+		"The By-Product ore may also be roasted, it does not matter if it was roasted before."
 	],
 	dependencies: [
 		"1d8f8597"
@@ -14,7 +15,18 @@
 		uid: "6c29aa07",
 		type: "item",
 		items: [{
-			item: "hbm:bedrock_ore_new 1 64"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreRoastedPrimaryFraction"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreRoastedPrimaryFraction"
+				}
+			}
 		}]
 	}]
 }

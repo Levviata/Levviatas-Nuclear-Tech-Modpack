@@ -1,27 +1,27 @@
 {
-	title: "Dissolved By-Product",
+	title: "Sulfuric By-Product",
 	x: 25.5d,
-	y: -9.0d,
+	y: -7.5d,
 	text: [
-		""
+		"Sulfuric By-Product"
 	],
 	dependencies: [
-		"406f233d"
+		"3afe8736"
 	],
 	tasks: [{
-		uid: "acce3d3e",
+		uid: "9f269cb6",
 		type: "item",
 		items: [{
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any bedrockOreDissolved"
+					Name: "Any bedrockOreSulfuric"
 				}
 			},
 			ForgeCaps: {
 				Parent: {
 					id: "ore",
-					data: "bedrockOreDissolved"
+					data: "bedrockOreSulfuric"
 				}
 			}
 		}]

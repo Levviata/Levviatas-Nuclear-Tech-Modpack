@@ -1,8 +1,12 @@
 {
+	title: "Cleaned Primary Fraction",
 	x: 22.5d,
 	y: -10.5d,
+	description: "3rd tier",
 	text: [
-		"Ore cleaned with High-Performance Solvent will yield the maximum quantity with the possibility to extract exquisite materials. Heavy Metal by product will yield Bismuth for example."
+		"Ore treated with Solvent will yield Sulfuric, Dissolved, and Cleaned by-product, also Cleaned Separated Ore.",
+		"",
+		"Can be processed in a Ore Acidizer to acidize into Higher or Lower Weight."
 	],
 	dependencies: [
 		"1d8f8597"
