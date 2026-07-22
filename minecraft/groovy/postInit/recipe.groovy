@@ -746,6 +746,18 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 
+crafting.shapedBuilder()
+        .name(resource('hbm:desh_sword'))
+        .output(item('hbm:desh_sword'))
+        .row('A')
+        .row('A')
+        .row('B')
+        .key('A', item('hbm:ingot_desh'))
+        .key('B', ore('ingotAnyPlastic'))
+        .replaceByName()
+        .register()
+
+
 // processor hbmified
 crafting.addShapeless(item('refinedstorage:processor:3'), [item('refinedstorage:processor_binding'), item('hbm:ingot_steel'), ore('ingotAnyRubber'), item('hbm:circuit:7')])
 crafting.addShapeless(item('refinedstorage:processor:4'), [item('refinedstorage:processor_binding'), item('hbm:ingot_desh'), ore('ingotAnyPlastic'), item('hbm:circuit:8')])
