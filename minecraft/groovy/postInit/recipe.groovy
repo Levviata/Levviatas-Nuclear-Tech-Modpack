@@ -38,7 +38,7 @@ crafting.shapedBuilder()
         .key('C', item('minecraft:lava_bucket').transform(item('minecraft:bucket')))
         .key('D', item('hbm:ingot_tungsten'))
         .register()
-
+*/
 crafting.shapedBuilder()
         .name(resource('hbm:machine_ammo_press'))
         .output(item('hbm:machine_ammo_press'))
