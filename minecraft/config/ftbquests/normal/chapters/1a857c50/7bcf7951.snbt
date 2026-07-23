@@ -1,6 +1,10 @@
 {
+	title: "Cleaned Seared",
 	x: 27.5d,
-	y: -12.5d,
+	y: -13.5d,
+	text: [
+		""
+	],
 	dependencies: [
 		"ef416437"
 	],

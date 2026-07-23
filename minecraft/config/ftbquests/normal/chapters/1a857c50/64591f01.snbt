@@ -1,13 +1,12 @@
 {
-	x: 33.0d,
-	y: -16.0d,
+	title: "Cleaned Heavy Metal Results",
+	x: 30.5d,
+	y: -14.5d,
 	text: [
-		"You may centrifuge the By-Product again or smelt it in an Arc Furnace, smelting will yield 6 Bismuth, 6 Tantalum nuggets and 2 gold nuggets which is more than by centrifuge.",
-		"",
-		"The benefit of the centrifuge is that it will produce Ore Crumbs which can be smelt or acidized into a full Bedrock Ore using x64 crumbs and some Ore Slop fluid."
+		""
 	],
 	dependencies: [
-		"1d13351e"
+		"eb54b04f"
 	],
 	or_tasks: true,
 	tasks: [{

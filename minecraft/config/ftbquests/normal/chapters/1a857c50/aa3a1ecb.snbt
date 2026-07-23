@@ -1,0 +1,39 @@
+{
+	title: "Dissolved Rare Earth Ore Results",
+	x: 30.5d,
+	y: -10.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"d57fd7bd"
+	],
+	tasks: [{
+		uid: "0ab9debd",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 6000"
+		}]
+	},
+	{
+		uid: "d3d0be63",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 3800"
+		}]
+	},
+	{
+		uid: "6b7015e1",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 4000"
+		}]
+	},
+	{
+		uid: "9f919234",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 210"
+		}]
+	}]
+}

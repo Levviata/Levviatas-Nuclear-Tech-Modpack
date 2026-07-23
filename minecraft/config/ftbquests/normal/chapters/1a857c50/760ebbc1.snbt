@@ -15,19 +15,19 @@
 	],
 	dependency_requirement: "one_completed",
 	tasks: [{
-		uid: "697e5b4d",
+		uid: "cec2721b",
 		type: "item",
 		items: [{
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any bedrockOreWashed"
+					Name: "Any bedrockOreFullWashed"
 				}
 			},
 			ForgeCaps: {
 				Parent: {
 					id: "ore",
-					data: "bedrockOreWashed"
+					data: "bedrockOreFullWashed"
 				}
 			}
 		}]

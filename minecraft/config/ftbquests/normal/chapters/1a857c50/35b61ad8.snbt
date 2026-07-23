@@ -6,7 +6,9 @@
 		"Sulfuric By-Product"
 	],
 	dependencies: [
-		"3afe8736"
+		"3afe8736",
+		"ef416437",
+		"13833605"
 	],
 	tasks: [{
 		uid: "9f269cb6",

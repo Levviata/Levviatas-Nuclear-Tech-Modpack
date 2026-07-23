@@ -1,6 +1,10 @@
 {
+	title: "Dissolved Seared",
 	x: 27.5d,
-	y: -9.5d,
+	y: -10.0d,
+	text: [
+		""
+	],
 	dependencies: [
 		"13833605"
 	],

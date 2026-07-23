@@ -1,0 +1,39 @@
+{
+	title: "Dissolved Crystalline Results",
+	x: 31.5d,
+	y: -10.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"d57fd7bd"
+	],
+	tasks: [{
+		uid: "ec20288d",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 8001"
+		}]
+	},
+	{
+		uid: "aa351e7d",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1401"
+		}]
+	},
+	{
+		uid: "a11fa695",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 401"
+		}]
+	},
+	{
+		uid: "207a5ec4",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 213"
+		}]
+	}]
+}

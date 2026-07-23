@@ -1,6 +1,10 @@
 {
+	title: "Sulfuric Seared",
 	x: 27.5d,
 	y: -6.5d,
+	text: [
+		""
+	],
 	dependencies: [
 		"35b61ad8"
 	],

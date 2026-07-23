@@ -49,8 +49,8 @@
 		dev: false
 	},
 	{
-		x: 19.5d,
-		y: -16.0d,
+		x: 25.0d,
+		y: -16.5d,
 		width: 3.0d,
 		height: 3.0d,
 		rotation: 0.0d,
@@ -60,8 +60,8 @@
 		dev: false
 	},
 	{
-		x: 28.0d,
-		y: -17.5d,
+		x: 28.5d,
+		y: -18.0d,
 		width: 3.0d,
 		height: 3.0d,
 		rotation: 0.0d,
@@ -71,8 +71,8 @@
 		dev: false
 	},
 	{
-		x: 24.0d,
-		y: -15.5d,
+		x: 23.0d,
+		y: -16.5d,
 		width: 1.5d,
 		height: 2.75d,
 		rotation: 0.0d,
@@ -82,8 +82,8 @@
 		dev: false
 	},
 	{
-		x: 25.5d,
-		y: -15.0d,
+		x: 20.5d,
+		y: -19.0d,
 		width: 1.0d,
 		height: 1.0d,
 		rotation: 0.0d,
@@ -93,7 +93,7 @@
 		dev: false
 	},
 	{
-		x: 26.5d,
+		x: 27.0d,
 		y: -18.0d,
 		width: 1.5d,
 		height: 2.75d,

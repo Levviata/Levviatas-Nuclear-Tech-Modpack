@@ -1,6 +1,10 @@
 {
+	title: "Sulfuric Washed",
 	x: 28.0d,
 	y: -7.5d,
+	text: [
+		""
+	],
 	dependencies: [
 		"35b61ad8"
 	],

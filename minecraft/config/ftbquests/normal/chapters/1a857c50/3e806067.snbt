@@ -1,10 +1,9 @@
 {
+	title: "Lower Weight Primary Fraction",
 	x: 22.5d,
-	y: -5.0d,
+	y: -4.5d,
 	text: [
-		"The Lower Weight of the Primary Fraction of the ore gives more or less quantity of a specific material. For Light Metal it gives more copper. ",
-		"",
-		"May be processed from By-Products as well."
+		"The Lower Weight of the Primary Fraction of the ore gives more or less quantity of a specific material. For Light Metal it gives more copper. "
 	],
 	dependencies: [
 		"1d8f8597"
