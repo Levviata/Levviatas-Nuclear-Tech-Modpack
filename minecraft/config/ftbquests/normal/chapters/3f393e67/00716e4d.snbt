@@ -1,6 +1,11 @@
 {
 	x: 5.5d,
 	y: 7.5d,
+	text: [
+		"The First Aid Kit gives a full heal regardless of full health while removing all negative effects.",
+		"",
+		"The cheapest recipe is with Antidote which is made from pumpkin seeds, some Empty Syringes, and milk."
+	],
 	dependencies: [
 		"e977319c"
 	],

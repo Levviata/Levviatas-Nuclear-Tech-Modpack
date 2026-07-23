@@ -1,6 +1,6 @@
 {
 	x: 0.0d,
-	y: 19.0d,
+	y: 20.0d,
 	shape: "hexagon",
 	description: "Tier 2",
 	text: [

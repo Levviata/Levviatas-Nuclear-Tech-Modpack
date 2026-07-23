@@ -1,6 +1,6 @@
 {
 	x: -2.5d,
-	y: 22.0d,
+	y: 23.0d,
 	text: [
 		"Turns materials like coal into coke and tar, coal coke is used to make graphite (for Arc Welder) and coal tar makes solid fuel.",
 		"",

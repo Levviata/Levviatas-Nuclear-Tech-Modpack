@@ -1,6 +1,9 @@
 {
 	x: -2.5d,
 	y: 0.0d,
+	dependencies: [
+		"8931814a"
+	],
 	or_tasks: true,
 	tasks: [{
 		uid: "b674194a",

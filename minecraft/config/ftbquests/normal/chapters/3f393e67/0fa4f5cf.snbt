@@ -1,6 +1,6 @@
 {
 	x: 1.0d,
-	y: 17.5d,
+	y: 18.5d,
 	text: [
 		"The Steel Barrel is able to hold 16000 mB and is able to store hot fluids and corrosive fluids, though it cannot store Highly corrosive fluids or antimatter.",
 		"",

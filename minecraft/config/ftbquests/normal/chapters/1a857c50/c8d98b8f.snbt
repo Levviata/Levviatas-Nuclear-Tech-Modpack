@@ -1,6 +1,10 @@
 {
 	x: 1.5d,
-	y: -11.5d,
+	y: -13.0d,
+	description: "Creature lawmover",
+	text: [
+		""
+	],
 	dependencies: [
 		"16c32ffa"
 	],

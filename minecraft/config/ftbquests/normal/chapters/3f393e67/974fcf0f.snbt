@@ -1,6 +1,6 @@
 {
 	x: 6.5d,
-	y: 24.5d,
+	y: 25.5d,
 	shape: "hexagon",
 	description: "It shreds!",
 	text: [

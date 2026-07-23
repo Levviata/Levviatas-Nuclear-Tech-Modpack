@@ -1,6 +1,6 @@
 {
 	x: 0.0d,
-	y: 12.5d,
+	y: 13.5d,
 	shape: "hexagon",
 	text: [
 		"The Blast Furnace can be powered with coal, lignite, or any other coal fuel. Like the Iron Furnace, the furnace only uses fuel while actively smelting.",

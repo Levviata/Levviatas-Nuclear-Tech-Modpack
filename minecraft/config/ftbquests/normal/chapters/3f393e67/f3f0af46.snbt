@@ -1,6 +1,6 @@
 {
 	x: -5.0d,
-	y: 29.5d,
+	y: 30.5d,
 	text: [
 		"The Pneumatic Tube carries items instantly using Compressed Air with 1 PU pressure. They are compact and can send a stack of items every 0.25 seconds, but this speed can't be upgraded and they are more expensive compared to conveyors.",
 		"",

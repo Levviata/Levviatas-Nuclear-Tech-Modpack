@@ -1,7 +1,7 @@
 {
 	icon: "hbm:machine_crucible",
 	x: -4.5d,
-	y: 21.0d,
+	y: 22.0d,
 	shape: "hexagon",
 	description: "Molten core!",
 	text: [

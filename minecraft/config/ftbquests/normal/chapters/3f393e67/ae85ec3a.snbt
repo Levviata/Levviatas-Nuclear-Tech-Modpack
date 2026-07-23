@@ -2,7 +2,7 @@
 	title: "Coal Tar Creosote",
 	icon: "hbm:canister_fuel 1 80",
 	x: -1.0d,
-	y: 21.5d,
+	y: 22.5d,
 	text: [
 		"If you are roasting coal in the oven you get coal tar creosote as a side product, this may be stored and refined into solid fuel, though it isn't that efficient."
 	],

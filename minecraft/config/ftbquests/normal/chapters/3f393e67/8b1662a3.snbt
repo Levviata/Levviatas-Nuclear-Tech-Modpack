@@ -1,6 +1,6 @@
 {
 	x: -3.0d,
-	y: 15.0d,
+	y: 16.0d,
 	text: [
 		"The Fluid Barrel can hold up to 16000mB (16 buckets) of fluid, it's better than the Universal Fluid Tank but the crafting materials are more expensive."
 	],

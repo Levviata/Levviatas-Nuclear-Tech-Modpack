@@ -1,6 +1,6 @@
 {
 	x: -5.5d,
-	y: 17.0d,
+	y: 18.0d,
 	description: "Aerial killing machine",
 	text: [
 		"Turns plank into sticks, sticks into saw dust.",

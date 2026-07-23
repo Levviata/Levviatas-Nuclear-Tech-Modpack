@@ -1,7 +1,7 @@
 {
 	title: "Steel Armor",
 	x: -2.0d,
-	y: 17.0d,
+	y: 18.0d,
 	text: [
 		"Steel armor is a great early armor that provides same armor protection as diamond without the armor toughness. ",
 		"",

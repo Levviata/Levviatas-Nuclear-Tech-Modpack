@@ -1,7 +1,9 @@
 {
-	x: 11.0d,
-	y: 20.0d,
-	hide_dependency_lines: true,
+	x: 4.0d,
+	y: 11.5d,
+	text: [
+		"The Bullet Casing Bag returns casings of bullets fired, it's around 97% return rate."
+	],
 	dependencies: [
 		"82ac4b6c"
 	],

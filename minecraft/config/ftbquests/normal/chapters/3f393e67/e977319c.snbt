@@ -1,6 +1,11 @@
 {
 	x: 4.0d,
 	y: 7.5d,
+	text: [
+		"The Stimpack is an usable item that instantly heals 2.5 hearts.",
+		"",
+		"The cheapest way to make is with Foxglove and carrot. Foxglove is found around the world on healthy grass."
+	],
 	dependencies: [
 		"e4708a01"
 	],

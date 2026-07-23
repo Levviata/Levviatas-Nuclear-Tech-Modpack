@@ -1,7 +1,7 @@
 {
 	title: "Equipment Modification Tables",
 	x: -2.5d,
-	y: 14.0d,
+	y: 15.0d,
 	description: "Subtract, divide, and add armor accessories!",
 	text: [
 		"The Armor Modification Table can insert accessories into your armor, each armor piece has 9 slots:",

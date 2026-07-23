@@ -1,7 +1,7 @@
 {
 	title: "Boiler and Steam Condenser",
 	x: -8.0d,
-	y: 21.0d,
+	y: 22.0d,
 	text: [
 		"The Boiler is a machine that can boil Water to produce Steam.",
 		"",

@@ -1,6 +1,10 @@
 {
 	x: 3.0d,
-	y: -12.5d,
+	y: -14.0d,
+	description: "Fuck em up",
+	text: [
+		""
+	],
 	dependencies: [
 		"16c32ffa"
 	],

@@ -1,7 +1,7 @@
 {
 	title: "Large Electricity Pylon",
 	x: 4.0d,
-	y: 13.5d,
+	y: 14.5d,
 	text: [
 		"The best pylon for carrying electricity, has a range of 100 meters and can be connected up to four other of the same type.",
 		"",

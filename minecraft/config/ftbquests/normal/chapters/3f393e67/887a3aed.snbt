@@ -1,6 +1,6 @@
 {
 	x: 4.0d,
-	y: 17.5d,
+	y: 18.5d,
 	description: "A person is also a capacitor if you think about it",
 	text: [
 		"First capacitor, discharges as much as you'd want it to for the early game.",

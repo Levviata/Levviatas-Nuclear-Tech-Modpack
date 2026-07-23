@@ -1,7 +1,7 @@
 {
 	disable_toast: true,
 	x: -1.0d,
-	y: 17.5d,
+	y: 18.5d,
 	text: [
 		"The Smokestack is a large machine used to reduce pollution "
 	],

@@ -1,8 +1,13 @@
 {
-	x: -7.0d,
-	y: 29.5d,
+	x: 1.5d,
+	y: 11.5d,
+	text: [
+		"The Multi Fluid Identifier can apply an identifier to pipes, machines, or tanks.",
+		"",
+		" Fluids will only move from A to B when the correct identifier is applied."
+	],
 	dependencies: [
-		"8a25fa82"
+		"e4708a01"
 	],
 	tasks: [{
 		uid: "d0504530",

@@ -5,7 +5,7 @@
 	text: [
 		"Drops all blocks while dealing no player damage.",
 		"",
-		"\"A fucking zombie crawled up the mines and eat one of my gnomes\""
+		"\"A fucking zombie crawled up the mines and ate one of my gnomes\""
 	],
 	dependencies: [
 		"9561317e"

@@ -1,6 +1,6 @@
 {
 	x: 5.5d,
-	y: 26.0d,
+	y: 27.0d,
 	text: [
 		"The Player Decontaminator is a handy block that removes radiation from the player."
 	],

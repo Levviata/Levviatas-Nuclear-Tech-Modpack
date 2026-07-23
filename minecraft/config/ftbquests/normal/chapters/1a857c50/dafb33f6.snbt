@@ -2,7 +2,7 @@
 	title: "Mustard Willow",
 	icon: "hbm:plant_flower 1 3",
 	x: 3.0d,
-	y: -1.5d,
+	y: 0.0d,
 	text: [
 		"Mustard Willow is a type of plant that appears near Bedrock Oil deposits ontop of oily dirt, it's a source of Cadmium.",
 		"",

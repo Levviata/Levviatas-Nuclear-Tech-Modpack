@@ -1,7 +1,7 @@
 {
 	title: "Nuclear Tech Mod Ingots",
-	x: -3.0d,
-	y: 4.5d,
+	x: -4.5d,
+	y: 6.0d,
 	shape: "hexagon",
 	text: [
 		""

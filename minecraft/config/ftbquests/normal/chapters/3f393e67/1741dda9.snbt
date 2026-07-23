@@ -1,6 +1,6 @@
 {
 	x: 3.0d,
-	y: 16.5d,
+	y: 17.5d,
 	description: "Basic",
 	text: [
 		"Generates power by burning fuel. ",
