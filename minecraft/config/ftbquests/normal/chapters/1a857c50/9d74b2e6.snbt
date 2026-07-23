@@ -1,6 +1,11 @@
 {
 	x: 7.5d,
 	y: -5.0d,
+	text: [
+		"The Compact Launch Pad can launch custom missiles, it must be fueled, powered, and given a target. To launch connect a redstone signal to the machine.",
+		"",
+		"Only accepts missiles of size 10 and 10/15."
+	],
 	tasks: [{
 		uid: "38fcca82",
 		type: "item",

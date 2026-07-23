@@ -1,9 +1,11 @@
 {
 	title: "Sulfuric Seared",
-	x: 27.5d,
+	x: 29.5d,
 	y: -6.5d,
 	text: [
-		""
+		"Searing duplicates the product, normal product gives 2x, roasted gives 4x.",
+		"",
+		"You technically can skip this step but that'd be stupid since you are literally duplicating material."
 	],
 	dependencies: [
 		"35b61ad8"

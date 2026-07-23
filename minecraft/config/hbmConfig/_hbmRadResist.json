@@ -2,10 +2,6 @@
   "comment": "Template file, remove the underscore ('_') from the name to enable the config.",
   "entries": [
     {
-      "item": "minecraft:iron_leggings",
-      "resistance": 0.00675
-    },
-    {
       "item": "hbm:alloy_legs",
       "resistance": 0.021
     },
@@ -166,6 +162,10 @@
       "resistance": 0.025
     },
     {
+      "item": "minecraft:iron_helmet",
+      "resistance": 0.0045
+    },
+    {
       "item": "hbm:alloy_boots",
       "resistance": 0.007000000000000001
     },
@@ -194,6 +194,10 @@
       "resistance": 0.22999999999999998
     },
     {
+      "item": "minecraft:golden_helmet",
+      "resistance": 0.0045
+    },
+    {
       "item": "hbm:liquidator_legs",
       "resistance": 0.72
     },
@@ -206,8 +210,16 @@
       "resistance": 0.1
     },
     {
+      "item": "minecraft:iron_leggings",
+      "resistance": 0.00675
+    },
+    {
       "item": "hbm:starmetal_boots",
       "resistance": 0.1
+    },
+    {
+      "item": "minecraft:iron_chestplate",
+      "resistance": 0.009
     },
     {
       "item": "hbm:schrabidium_boots",
@@ -238,10 +250,6 @@
       "resistance": 0.0375
     },
     {
-      "item": "minecraft:golden_boots",
-      "resistance": 0.00225
-    },
-    {
       "item": "hbm:euphemium_legs",
       "resistance": 3.0
     },
@@ -258,15 +266,15 @@
       "resistance": 0.1
     },
     {
-      "item": "minecraft:golden_helmet",
-      "resistance": 0.0045
+      "item": "minecraft:golden_boots",
+      "resistance": 0.00225
     },
     {
       "item": "hbm:liquidator_helmet",
       "resistance": 0.48
     },
     {
-      "item": "minecraft:iron_chestplate",
+      "item": "minecraft:golden_chestplate",
       "resistance": 0.009
     },
     {
@@ -284,10 +292,6 @@
     {
       "item": "hbm:steamsuit_plate",
       "resistance": 0.52
-    },
-    {
-      "item": "minecraft:golden_chestplate",
-      "resistance": 0.009
     },
     {
       "item": "hbm:ajro_helmet",
@@ -312,10 +316,6 @@
     {
       "item": "hbm:hazmat_boots_grey",
       "resistance": 0.2
-    },
-    {
-      "item": "minecraft:golden_leggings",
-      "resistance": 0.00675
     },
     {
       "item": "hbm:dns_legs",
@@ -422,10 +422,6 @@
       "resistance": 0.8
     },
     {
-      "item": "minecraft:iron_boots",
-      "resistance": 0.00225
-    },
-    {
       "item": "hbm:envsuit_helmet",
       "resistance": 0.2
     },
@@ -434,8 +430,8 @@
       "resistance": 0.4
     },
     {
-      "item": "minecraft:iron_helmet",
-      "resistance": 0.0045
+      "item": "minecraft:iron_boots",
+      "resistance": 0.00225
     },
     {
       "item": "hbm:security_plate",
@@ -452,6 +448,10 @@
     {
       "item": "hbm:hazmat_plate_grey",
       "resistance": 0.8
+    },
+    {
+      "item": "minecraft:golden_leggings",
+      "resistance": 0.00675
     },
     {
       "item": "hbm:hazmat_legs_red",

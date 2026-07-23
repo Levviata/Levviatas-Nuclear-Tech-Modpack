@@ -1,9 +1,9 @@
 {
 	title: "Dissolved Roasted",
-	x: 27.5d,
+	x: 29.5d,
 	y: -12.0d,
 	text: [
-		""
+		"Roasting gives Vitriol which is a source of Mercury and Iodine powder. If it's seared it gives 2x the output of normal product."
 	],
 	dependencies: [
 		"13833605"

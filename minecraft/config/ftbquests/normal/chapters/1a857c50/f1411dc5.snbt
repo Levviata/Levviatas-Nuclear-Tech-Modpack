@@ -1,6 +1,6 @@
 {
 	x: 17.5d,
-	y: -5.5d,
+	y: -5.0d,
 	text: [
 		"At any point in the processing steps the product may be shredded into Gravel. This is useful if you only want to produce a certain material."
 	],

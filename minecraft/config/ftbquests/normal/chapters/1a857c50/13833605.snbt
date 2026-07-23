@@ -3,7 +3,7 @@
 	x: 26.0d,
 	y: -11.0d,
 	text: [
-		""
+		"To get the maximum product you may roast the product and then sear it in an Electric Furnace, this produces 4x seared product which can be washed as the final step (requiring 4 times less product) "
 	],
 	dependencies: [
 		"406f233d",

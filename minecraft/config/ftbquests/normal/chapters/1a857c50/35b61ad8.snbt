@@ -3,7 +3,7 @@
 	x: 25.5d,
 	y: -7.5d,
 	text: [
-		"Sulfuric By-Product"
+		"To get the maximum product you may roast the product and then sear it in an Electric Furnace, this produces 4x seared product which can be washed as the final step (requiring 4 times less product) "
 	],
 	dependencies: [
 		"3afe8736",

@@ -1,6 +1,9 @@
 {
 	x: 12.5d,
-	y: -4.5d,
+	y: -5.0d,
+	text: [
+		"Ore slop is a by-product of processing bedrock ore, it's used to make new full ores but it can be processed by itself to produce Mercury and other materials."
+	],
 	dependencies: [
 		"86b1a73e"
 	],

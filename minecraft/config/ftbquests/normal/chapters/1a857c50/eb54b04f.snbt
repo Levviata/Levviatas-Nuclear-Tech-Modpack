@@ -1,9 +1,9 @@
 {
 	title: "Cleaned Washed",
-	x: 28.0d,
+	x: 30.0d,
 	y: -14.5d,
 	text: [
-		"You may centrifuge the By-Product again or smelt it in an Arc Furnace, smelting will yield more quantity of a specific material. For example Heavy Metal By-Product yields x3 more it's rare materials. ",
+		"You may centrifuge the washed By-Product again or smelt it in an Arc Furnace, smelting will yield more quantity of a specific material. For example Heavy Metal By-Product yields x3 more it's rare materials. ",
 		"",
 		"The benefit of the centrifuge is that it will produce Ore Crumbs which can be smelt or acidized into a full Bedrock Ore using 64x crumbs and some Ore Slop fluid."
 	],
