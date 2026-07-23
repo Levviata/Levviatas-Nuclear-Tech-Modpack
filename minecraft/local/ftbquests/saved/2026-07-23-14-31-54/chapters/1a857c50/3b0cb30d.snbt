@@ -1,0 +1,36 @@
+{
+	title: "Separated Ore",
+	x: 25.5d,
+	y: -6.0d,
+	text: [
+		"The Separated ore is obtained from processing By-Product, it yields \"low quality\" material and it's the simplest to process. ",
+		"",
+		"If it was treated with lower tiers of acid, it can be treated again with higher tiers to convert it to it's Primary Fraction again.",
+		"",
+		"Can be processed in a Ore Acidizer to acidize into Higher or Lower Weight."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"3afe8736",
+		"406f233d",
+		"791ac80d"
+	],
+	tasks: [{
+		uid: "fdfe91f5",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreSeparated"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreSeparated"
+				}
+			}
+		}]
+	}]
+}

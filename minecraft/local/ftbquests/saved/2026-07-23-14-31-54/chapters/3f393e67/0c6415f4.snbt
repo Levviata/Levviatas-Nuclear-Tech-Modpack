@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: 6.0d,
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "a746eb7b",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_tank_empty"
+		}]
+	}]
+}

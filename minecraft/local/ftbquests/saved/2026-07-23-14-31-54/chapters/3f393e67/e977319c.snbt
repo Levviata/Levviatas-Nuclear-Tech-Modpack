@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 7.5d,
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "b9d549e5",
+		type: "item",
+		items: [{
+			item: "hbm:syringe_metal_stimpak"
+		}]
+	}]
+}

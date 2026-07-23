@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: 8.0d,
+	dependencies: [
+		"02a689a1"
+	],
+	tasks: [{
+		uid: "bc9f73c2",
+		type: "item",
+		items: [{
+			item: "refinedstorage:crafter_manager"
+		}]
+	}]
+}

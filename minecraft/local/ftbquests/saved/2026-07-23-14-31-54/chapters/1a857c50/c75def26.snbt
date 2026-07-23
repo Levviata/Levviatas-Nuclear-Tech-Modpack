@@ -1,0 +1,15 @@
+{
+	x: -7.5d,
+	y: -6.0d,
+	dependencies: [
+		"017d61b7"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "e4fe6f4c",
+		type: "item",
+		items: [{
+			item: "hbm:machine_fluidtank"
+		}]
+	}]
+}

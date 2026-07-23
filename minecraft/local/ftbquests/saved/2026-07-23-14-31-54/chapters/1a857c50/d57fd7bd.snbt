@@ -1,0 +1,29 @@
+{
+	title: "Dissolved Washed",
+	x: 28.0d,
+	y: -11.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"13833605"
+	],
+	tasks: [{
+		uid: "ec8606cd",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreDissolvedWashed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreDissolvedWashed"
+				}
+			}
+		}]
+	}]
+}

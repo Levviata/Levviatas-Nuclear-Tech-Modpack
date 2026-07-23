@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "14fc76a9",
+		type: "item",
+		items: [{
+			item: "hbm:ore_depth_borax"
+		}]
+	}],
+	rewards: [{
+		uid: "0618da74",
+		type: "xp",
+		auto: "no_toast",
+		xp: 50
+	}]
+}

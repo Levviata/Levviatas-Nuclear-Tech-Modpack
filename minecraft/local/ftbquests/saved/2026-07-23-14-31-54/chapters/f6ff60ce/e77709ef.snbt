@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "f78c6e01",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_pellet_ueu 1 4"
+		}]
+	}]
+}

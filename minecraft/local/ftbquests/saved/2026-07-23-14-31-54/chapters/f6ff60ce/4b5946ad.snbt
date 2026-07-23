@@ -1,0 +1,11 @@
+{
+	x: -6.5d,
+	y: 10.5d,
+	tasks: [{
+		uid: "4499d1ff",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_arsenic"
+		}]
+	}]
+}

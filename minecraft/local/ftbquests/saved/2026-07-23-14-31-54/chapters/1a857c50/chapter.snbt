@@ -1,0 +1,106 @@
+{
+	title: "Oil Age",
+	icon: "hbm:ore_oil",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 17.5d,
+		y: -4.0d,
+		width: 1.0d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image1.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 17.5d,
+		y: -10.0d,
+		width: 3.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image2.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 20.0d,
+		y: -4.0d,
+		width: 2.0d,
+		height: 1.25d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image3.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 20.0d,
+		y: -10.0d,
+		width: 1.5d,
+		height: 2.75d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image4.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 25.0d,
+		y: -16.5d,
+		width: 3.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image2.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 28.5d,
+		y: -18.0d,
+		width: 3.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image2.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 23.0d,
+		y: -16.5d,
+		width: 1.5d,
+		height: 2.75d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image4.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 20.5d,
+		y: -19.0d,
+		width: 1.0d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "minecraft:textures/gui/presets/isles.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 27.0d,
+		y: -18.0d,
+		width: 1.5d,
+		height: 2.75d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image4.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

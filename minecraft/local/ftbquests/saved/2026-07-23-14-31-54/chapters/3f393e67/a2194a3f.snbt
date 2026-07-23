@@ -1,0 +1,32 @@
+{
+	x: 7.5d,
+	y: 9.0d,
+	description: "For cheap mining",
+	text: [
+		"Drops all blocks while dealing no player damage.",
+		"",
+		"\"A fucking zombie crawled up the mines and eat one of my gnomes\""
+	],
+	dependencies: [
+		"9561317e"
+	],
+	tasks: [{
+		uid: "527add5f",
+		type: "item",
+		items: [{
+			item: "hbm:charge_miner"
+		}]
+	}],
+	rewards: [{
+		uid: "5b872626",
+		type: "item",
+		item: "hbm:charge_dynamite",
+		count: 8
+	},
+	{
+		uid: "2908b741",
+		type: "item",
+		item: "hbm:gravel_diamond",
+		count: 4
+	}]
+}

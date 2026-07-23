@@ -1,0 +1,15 @@
+{
+	x: -10.0d,
+	y: -3.5d,
+	dependencies: [
+		"017d61b7"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "357f62c3",
+		type: "item",
+		items: [{
+			item: "hbm:machine_liquefactor"
+		}]
+	}]
+}

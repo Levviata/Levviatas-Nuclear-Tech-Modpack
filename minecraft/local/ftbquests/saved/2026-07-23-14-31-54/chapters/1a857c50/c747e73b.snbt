@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: 5.5d,
+	description: "Tier 3",
+	text: [
+		""
+	],
+	dependencies: [
+		"5b1b40f1"
+	],
+	tasks: [{
+		uid: "16cbf2a4",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_desh"
+		}]
+	}]
+}

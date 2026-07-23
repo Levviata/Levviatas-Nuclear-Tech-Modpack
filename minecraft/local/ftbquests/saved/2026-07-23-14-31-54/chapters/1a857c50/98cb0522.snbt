@@ -1,0 +1,39 @@
+{
+	title: "Sulfuric Light Metal Results",
+	x: 30.5d,
+	y: -8.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"5dc2bdc0"
+	],
+	tasks: [{
+		uid: "8baaeda4",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 2200"
+		}]
+	},
+	{
+		uid: "4eaa4743",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 2902"
+		}]
+	},
+	{
+		uid: "a137911f",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 2903"
+		}]
+	},
+	{
+		uid: "6ad627db",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 208"
+		}]
+	}]
+}

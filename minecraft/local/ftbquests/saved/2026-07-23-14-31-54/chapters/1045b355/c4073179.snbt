@@ -1,0 +1,37 @@
+{
+	title: "What me do?",
+	icon: "minecraft:planks",
+	x: 5.625d,
+	y: 0.0d,
+	shape: "pentagon",
+	description: "Stockpile ores, charcoal, clay, sand, and dandelions",
+	text: [
+		"After you got some of that loot candy from buildings (bet you didn't get any loser) and progressed the vanilla early game, you'll need to gather a bunch of materials to start making machines and better tools.",
+		"",
+		"The first machines need a decent amount of early materials, like iron, copper, and aluminium, so you'll need to gather a handful.",
+		"",
+		"You will need:",
+		"",
+		"- Large quantities of iron, copper, and redstone.",
+		"",
+		"- Small quantities of industrial metals like aluminum, titanium, and lead.",
+		"",
+		"- Burnables like coal or charcoal.",
+		"",
+		"- Construction materials like clay and sand. (for glass and bricks).",
+		"",
+		"- Hemp (for string), sugarcane, saplings, and dandelions.",
+		"",
+		"You will always need more than you think, the more you grind the easier it is to progress later, be productive and gather."
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "e13aa76e",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a236b1cc",
+		type: "xp",
+		xp: 10
+	}]
+}

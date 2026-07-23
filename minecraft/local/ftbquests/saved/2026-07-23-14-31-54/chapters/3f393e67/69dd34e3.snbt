@@ -1,0 +1,12 @@
+{
+	icon: "hbm:ore_alexandrite",
+	x: -10.5d,
+	y: 12.5d,
+	tasks: [{
+		uid: "791464ac",
+		type: "item",
+		items: [{
+			item: "hbm:gem_alexandrite"
+		}]
+	}]
+}

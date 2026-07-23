@@ -1,0 +1,21 @@
+{
+	x: -5.0d,
+	y: 1.5d,
+	text: [
+		"The Wireless Grid no longer consumes energy."
+	],
+	dependencies: [
+		"24d24b3e"
+	],
+	tasks: [{
+		uid: "375c923a",
+		type: "item",
+		items: [{
+			id: "refinedstorage:wireless_grid",
+			tag: {
+				Energy: 3200
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	title: "Cleaned Crystalline Results",
+	x: 31.5d,
+	y: -13.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"eb54b04f"
+	],
+	tasks: [{
+		uid: "6bc29e61",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 501"
+		}]
+	},
+	{
+		uid: "b14fc25d",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1101"
+		}]
+	},
+	{
+		uid: "65962423",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1702"
+		}]
+	},
+	{
+		uid: "02a2b09b",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 213"
+		}]
+	}]
+}

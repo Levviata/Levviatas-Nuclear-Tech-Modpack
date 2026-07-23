@@ -1,0 +1,15 @@
+{
+	x: -6.7261904761904745d,
+	y: -1.294642857142854d,
+	dependencies: [
+		"6dfb480a"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "48668cea",
+		type: "item",
+		items: [{
+			item: "hbm:machine_centrifuge"
+		}]
+	}]
+}

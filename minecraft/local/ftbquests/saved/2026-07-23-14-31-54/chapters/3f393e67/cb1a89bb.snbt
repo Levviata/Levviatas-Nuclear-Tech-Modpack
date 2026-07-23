@@ -1,0 +1,28 @@
+{
+	x: 2.0d,
+	y: 14.0d,
+	text: [
+		"Primarly used to craft Cable, Motors, and Advanced Alloy."
+	],
+	dependencies: [
+		"a488de09"
+	],
+	tasks: [{
+		uid: "f8805e16",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_red_copper"
+		}]
+	}],
+	rewards: [{
+		uid: "e9777451",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 16
+	},
+	{
+		uid: "5e6cdb53",
+		type: "xp",
+		xp: 100
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: -1.0d,
+	dependencies: [
+		"03013b4a"
+	],
+	tasks: [{
+		uid: "8db20fb6",
+		type: "item",
+		items: [{
+			item: "hbm:rod_zirnox_depleted 1 6"
+		}]
+	}]
+}

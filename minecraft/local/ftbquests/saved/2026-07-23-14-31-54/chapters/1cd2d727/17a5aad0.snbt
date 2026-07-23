@@ -1,0 +1,21 @@
+{
+	x: -0.5d,
+	y: 3.0d,
+	description: "§e§nRequires:§r§e Integrated Circuit Board",
+	text: [
+		""
+	],
+	dependencies: [
+		"3b7f73a1",
+		"37308693"
+	],
+	tasks: [{
+		uid: "40d508df",
+		type: "item",
+		items: [{
+			item: "hbm:drone_linker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: -5.0d,
+	text: [
+		"The Silo Launch Pad may launch non-custom missiles, load with the proper fuel and optional coordinates and activate with redstone."
+	],
+	tasks: [{
+		uid: "f176f424",
+		type: "item",
+		items: [{
+			item: "hbm:launch_pad"
+		}]
+	}]
+}

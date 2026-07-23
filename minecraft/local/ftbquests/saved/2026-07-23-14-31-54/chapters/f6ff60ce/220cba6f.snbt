@@ -1,0 +1,11 @@
+{
+	x: -13.5d,
+	y: 13.0d,
+	tasks: [{
+		uid: "00ae3632",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_cft"
+		}]
+	}]
+}

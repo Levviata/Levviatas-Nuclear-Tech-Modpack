@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	dependencies: [
+		"5b1b40f1"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "ac2b2404",
+		type: "item",
+		items: [{
+			item: "hbm:machine_pumpjack"
+		}]
+	}]
+}

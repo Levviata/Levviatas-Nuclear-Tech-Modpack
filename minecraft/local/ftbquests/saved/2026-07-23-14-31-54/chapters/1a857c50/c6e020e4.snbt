@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: -9.5d,
+	dependencies: [
+		"37308693"
+	],
+	tasks: [{
+		uid: "cebc71e6",
+		type: "item",
+		items: [{
+			item: "hbm:machine_combustion_engine"
+		}]
+	}]
+}

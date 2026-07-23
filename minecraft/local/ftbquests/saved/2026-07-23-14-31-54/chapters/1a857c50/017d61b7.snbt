@@ -1,0 +1,15 @@
+{
+	x: -7.5d,
+	y: -3.5d,
+	dependencies: [
+		"6dfb480a"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "46c3ee3c",
+		type: "item",
+		items: [{
+			item: "hbm:machine_solidifier"
+		}]
+	}]
+}

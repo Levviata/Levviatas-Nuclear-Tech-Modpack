@@ -1,0 +1,29 @@
+{
+	title: "Dissolved Roasted",
+	x: 27.5d,
+	y: -12.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"13833605"
+	],
+	tasks: [{
+		uid: "70bb4c24",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreDissolvedRoasted"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreDissolvedRoasted"
+				}
+			}
+		}]
+	}]
+}

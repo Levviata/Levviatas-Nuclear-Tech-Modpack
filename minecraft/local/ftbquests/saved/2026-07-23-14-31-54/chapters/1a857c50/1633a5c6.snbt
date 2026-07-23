@@ -1,0 +1,39 @@
+{
+	title: "Dissolved Light Metal Results",
+	x: 30.5d,
+	y: -12.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"d57fd7bd"
+	],
+	tasks: [{
+		uid: "e130e84a",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1701"
+		}]
+	},
+	{
+		uid: "2c233f9e",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 300"
+		}]
+	},
+	{
+		uid: "140257d6",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1100"
+		}]
+	},
+	{
+		uid: "c6c052ac",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 208"
+		}]
+	}]
+}

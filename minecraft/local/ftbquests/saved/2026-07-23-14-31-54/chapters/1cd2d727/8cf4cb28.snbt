@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -5.5d,
+	dependencies: [
+		"03947d2f"
+	],
+	tasks: [{
+		uid: "9df8bb5b",
+		type: "item",
+		items: [{
+			item: "hbm:drone_crate_provider"
+		}]
+	}]
+}

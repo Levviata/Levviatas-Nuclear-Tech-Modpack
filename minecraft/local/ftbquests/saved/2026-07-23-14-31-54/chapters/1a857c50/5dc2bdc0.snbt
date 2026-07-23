@@ -1,0 +1,29 @@
+{
+	title: "Sulfuric Washed",
+	x: 28.0d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"35b61ad8"
+	],
+	tasks: [{
+		uid: "7677f850",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreSulfuricWashed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreSulfuricWashed"
+				}
+			}
+		}]
+	}]
+}

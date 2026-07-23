@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 7.5d,
+	dependencies: [
+		"e977319c"
+	],
+	tasks: [{
+		uid: "cd824b16",
+		type: "item",
+		items: [{
+			item: "hbm:med_bag"
+		}]
+	}]
+}

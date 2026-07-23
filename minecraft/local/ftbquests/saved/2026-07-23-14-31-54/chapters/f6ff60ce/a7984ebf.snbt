@@ -1,0 +1,12 @@
+{
+	x: 11.0d,
+	y: -10.0d,
+	tasks: [{
+		uid: "b2238e79",
+		type: "item",
+		items: [{
+			item: "hbm:machine_gascent"
+		}],
+		count: 4L
+	}]
+}

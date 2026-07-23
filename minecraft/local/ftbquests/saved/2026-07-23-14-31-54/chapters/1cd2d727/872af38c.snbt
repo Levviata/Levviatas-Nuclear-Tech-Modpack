@@ -1,0 +1,21 @@
+{
+	x: -5.0d,
+	y: -1.0d,
+	dependencies: [
+		"4d4393b6"
+	],
+	tasks: [{
+		uid: "5676936b",
+		type: "item",
+		items: [{
+			item: "hbm:crane_boxer"
+		}]
+	},
+	{
+		uid: "6db301b0",
+		type: "item",
+		items: [{
+			item: "hbm:crane_unboxer"
+		}]
+	}]
+}
