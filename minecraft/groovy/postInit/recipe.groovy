@@ -769,6 +769,8 @@ crafting.shapedBuilder() // bring back old glory
         .replaceByName()
         .register()
 
+// pink fluid
+crafting.addShapeless(item('hbm:syringe_mkunicorn'), [item('hbm:nugget_euphemium'), item('hbm:syringe_empty')])
 
 // processor hbmified
 crafting.addShapeless(item('refinedstorage:processor:3'), [item('refinedstorage:processor_binding'), item('hbm:ingot_steel'), ore('ingotAnyRubber'), item('hbm:circuit:7')])
