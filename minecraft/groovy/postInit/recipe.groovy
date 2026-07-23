@@ -756,6 +756,18 @@ crafting.shapedBuilder()
         .key('B', ore('ingotAnyPlastic'))
         .replaceByName()
         .register()
+*/
+crafting.shapedBuilder() // bring back old glory
+        .name(resource('hbm:fluid_identifier_multi'))
+        .output(item('hbm:fluid_identifier_multi'))
+        .row('A')
+        .row('B')
+        .row('C')
+        .key('A', ore('dye'))
+        .key('B', item('hbm:circuit'))
+        .key('C', item('hbm:plate_iron'))
+        .replaceByName()
+        .register()
 
 
 // processor hbmified
