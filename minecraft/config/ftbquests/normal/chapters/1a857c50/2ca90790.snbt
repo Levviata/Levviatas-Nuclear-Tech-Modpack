@@ -1,27 +1,23 @@
 {
-	title: "Cleaned By-Product",
-	x: 25.5d,
-	y: -13.5d,
-	text: [
-		""
-	],
+	x: 27.5d,
+	y: -14.5d,
 	dependencies: [
-		"791ac80d"
+		"ef416437"
 	],
 	tasks: [{
-		uid: "b1ed7359",
+		uid: "f4e2a26e",
 		type: "item",
 		items: [{
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any bedrockOreCleaned"
+					Name: "Any bedrockOreCleanedRoasted"
 				}
 			},
 			ForgeCaps: {
 				Parent: {
 					id: "ore",
-					data: "bedrockOreCleaned"
+					data: "bedrockOreCleanedRoasted"
 				}
 			}
 		}]

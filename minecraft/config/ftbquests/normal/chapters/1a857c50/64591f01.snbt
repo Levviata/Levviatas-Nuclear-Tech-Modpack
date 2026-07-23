@@ -1,17 +1,44 @@
 {
-	x: 31.0d,
-	y: -10.5d,
+	x: 33.0d,
+	y: -16.0d,
 	text: [
-		"You can centrifuge the Byproduct or smelt it in a Arc Furnace, smelting will yield more bismuth."
+		"You may centrifuge the By-Product again or smelt it in an Arc Furnace, smelting will yield 6 Bismuth, 6 Tantalum nuggets and 2 gold nuggets which is more than by centrifuge.",
+		"",
+		"The benefit of the centrifuge is that it will produce Ore Crumbs which can be smelt or acidized into a full Bedrock Ore using x64 crumbs and some Ore Slop fluid."
 	],
 	dependencies: [
 		"1d13351e"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "149ce73f",
 		type: "item",
 		items: [{
 			item: "hbm:bedrock_ore_fragment 1 8300"
+		}],
+		count: 2L
+	},
+	{
+		uid: "62d5405c",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 7300"
+		}],
+		count: 2L
+	},
+	{
+		uid: "bdd37f7b",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 7900"
+		}],
+		count: 2L
+	},
+	{
+		uid: "fe7c6bad",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 209"
 		}]
 	}]
 }

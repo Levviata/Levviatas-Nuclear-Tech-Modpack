@@ -1,0 +1,11 @@
+{
+	x: 30.5d,
+	y: -14.0d,
+	tasks: [{
+		uid: "58e0c52e",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 405"
+		}]
+	}]
+}

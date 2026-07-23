@@ -64,12 +64,12 @@ oreDict.add('batteryAnySelfCharging', item('hbm:battery_sc:7'))
 oreDict.add('batteryAnySelfCharging', item('hbm:battery_sc:8'))
 oreDict.add('batteryAnySelfCharging', item('hbm:battery_sc:9'))
 
-oreDict.add('bedrockOreWashed', item('hbm:bedrock_ore_new:32'))
-oreDict.add('bedrockOreWashed', item('hbm:bedrock_ore_new:33'))
-oreDict.add('bedrockOreWashed', item('hbm:bedrock_ore_new:34'))
-oreDict.add('bedrockOreWashed', item('hbm:bedrock_ore_new:35'))
-oreDict.add('bedrockOreWashed', item('hbm:bedrock_ore_new:36'))
-oreDict.add('bedrockOreWashed', item('hbm:bedrock_ore_new:37'))
+oreDict.add('bedrockOreFullWashed', item('hbm:bedrock_ore_new:32'))
+oreDict.add('bedrockOreFullWashed', item('hbm:bedrock_ore_new:33'))
+oreDict.add('bedrockOreFullWashed', item('hbm:bedrock_ore_new:34'))
+oreDict.add('bedrockOreFullWashed', item('hbm:bedrock_ore_new:35'))
+oreDict.add('bedrockOreFullWashed', item('hbm:bedrock_ore_new:36'))
+oreDict.add('bedrockOreFullWashed', item('hbm:bedrock_ore_new:37'))
 
 oreDict.add('bedrockOrePrimaryFraction', item('hbm:bedrock_ore_new:48'))
 oreDict.add('bedrockOrePrimaryFraction', item('hbm:bedrock_ore_new:49'))
@@ -161,3 +161,75 @@ oreDict.add('bedrockOreCleaned', item('hbm:bedrock_ore_new:354'))
 oreDict.add('bedrockOreCleaned', item('hbm:bedrock_ore_new:355'))
 oreDict.add('bedrockOreCleaned', item('hbm:bedrock_ore_new:356'))
 oreDict.add('bedrockOreCleaned', item('hbm:bedrock_ore_new:357'))
+// Sulfuric
+oreDict.add('bedrockOreSulfuricRoasted', item('hbm:bedrock_ore_new:240'))
+oreDict.add('bedrockOreSulfuricRoasted', item('hbm:bedrock_ore_new:241'))
+oreDict.add('bedrockOreSulfuricRoasted', item('hbm:bedrock_ore_new:242'))
+oreDict.add('bedrockOreSulfuricRoasted', item('hbm:bedrock_ore_new:243'))
+oreDict.add('bedrockOreSulfuricRoasted', item('hbm:bedrock_ore_new:244'))
+oreDict.add('bedrockOreSulfuricRoasted', item('hbm:bedrock_ore_new:245'))
+
+// Dissolved
+oreDict.add('bedrockOreDissolvedRoasted', item('hbm:bedrock_ore_new:304'))
+oreDict.add('bedrockOreDissolvedRoasted', item('hbm:bedrock_ore_new:305'))
+oreDict.add('bedrockOreDissolvedRoasted', item('hbm:bedrock_ore_new:306'))
+oreDict.add('bedrockOreDissolvedRoasted', item('hbm:bedrock_ore_new:307'))
+oreDict.add('bedrockOreDissolvedRoasted', item('hbm:bedrock_ore_new:308'))
+oreDict.add('bedrockOreDissolvedRoasted', item('hbm:bedrock_ore_new:309'))
+
+// Cleaned
+oreDict.add('bedrockOreCleanedRoasted', item('hbm:bedrock_ore_new:368'))
+oreDict.add('bedrockOreCleanedRoasted', item('hbm:bedrock_ore_new:369'))
+oreDict.add('bedrockOreCleanedRoasted', item('hbm:bedrock_ore_new:370'))
+oreDict.add('bedrockOreCleanedRoasted', item('hbm:bedrock_ore_new:371'))
+oreDict.add('bedrockOreCleanedRoasted', item('hbm:bedrock_ore_new:372'))
+oreDict.add('bedrockOreCleanedRoasted', item('hbm:bedrock_ore_new:373'))
+
+// Sulfuric
+oreDict.add('bedrockOreSulfuricSeared', item('hbm:bedrock_ore_new:256'))
+oreDict.add('bedrockOreSulfuricSeared', item('hbm:bedrock_ore_new:257'))
+oreDict.add('bedrockOreSulfuricSeared', item('hbm:bedrock_ore_new:258'))
+oreDict.add('bedrockOreSulfuricSeared', item('hbm:bedrock_ore_new:259'))
+oreDict.add('bedrockOreSulfuricSeared', item('hbm:bedrock_ore_new:260'))
+oreDict.add('bedrockOreSulfuricSeared', item('hbm:bedrock_ore_new:261'))
+
+// Dissolved
+oreDict.add('bedrockOreDissolvedSeared', item('hbm:bedrock_ore_new:320'))
+oreDict.add('bedrockOreDissolvedSeared', item('hbm:bedrock_ore_new:321'))
+oreDict.add('bedrockOreDissolvedSeared', item('hbm:bedrock_ore_new:322'))
+oreDict.add('bedrockOreDissolvedSeared', item('hbm:bedrock_ore_new:323'))
+oreDict.add('bedrockOreDissolvedSeared', item('hbm:bedrock_ore_new:324'))
+oreDict.add('bedrockOreDissolvedSeared', item('hbm:bedrock_ore_new:325'))
+
+// Cleaned
+oreDict.add('bedrockOreCleanedSeared', item('hbm:bedrock_ore_new:384'))
+oreDict.add('bedrockOreCleanedSeared', item('hbm:bedrock_ore_new:385'))
+oreDict.add('bedrockOreCleanedSeared', item('hbm:bedrock_ore_new:386'))
+oreDict.add('bedrockOreCleanedSeared', item('hbm:bedrock_ore_new:387'))
+oreDict.add('bedrockOreCleanedSeared', item('hbm:bedrock_ore_new:388'))
+oreDict.add('bedrockOreCleanedSeared', item('hbm:bedrock_ore_new:389'))
+
+// Sulfuric
+oreDict.add('bedrockOreSulfuricWashed', item('hbm:bedrock_ore_new:272'))
+oreDict.add('bedrockOreSulfuricWashed', item('hbm:bedrock_ore_new:273'))
+oreDict.add('bedrockOreSulfuricWashed', item('hbm:bedrock_ore_new:274'))
+oreDict.add('bedrockOreSulfuricWashed', item('hbm:bedrock_ore_new:275'))
+oreDict.add('bedrockOreSulfuricWashed', item('hbm:bedrock_ore_new:276'))
+oreDict.add('bedrockOreSulfuricWashed', item('hbm:bedrock_ore_new:277'))
+
+// Dissolved
+oreDict.add('bedrockOreDissolvedWashed', item('hbm:bedrock_ore_new:336'))
+oreDict.add('bedrockOreDissolvedWashed', item('hbm:bedrock_ore_new:337'))
+oreDict.add('bedrockOreDissolvedWashed', item('hbm:bedrock_ore_new:338'))
+oreDict.add('bedrockOreDissolvedWashed', item('hbm:bedrock_ore_new:339'))
+oreDict.add('bedrockOreDissolvedWashed', item('hbm:bedrock_ore_new:340'))
+oreDict.add('bedrockOreDissolvedWashed', item('hbm:bedrock_ore_new:341'))
+
+// Cleaned
+oreDict.add('bedrockOreCleanedWashed', item('hbm:bedrock_ore_new:400'))
+oreDict.add('bedrockOreCleanedWashed', item('hbm:bedrock_ore_new:401'))
+oreDict.add('bedrockOreCleanedWashed', item('hbm:bedrock_ore_new:402'))
+oreDict.add('bedrockOreCleanedWashed', item('hbm:bedrock_ore_new:403'))
+oreDict.add('bedrockOreCleanedWashed', item('hbm:bedrock_ore_new:404'))
+oreDict.add('bedrockOreCleanedWashed', item('hbm:bedrock_ore_new:405'))
+
