@@ -745,7 +745,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:upgrade'))
         .replaceByName()
         .register()
-
+/* if it aint broken dont fix it
 crafting.shapedBuilder()
         .name(resource('hbm:desh_sword'))
         .output(item('hbm:desh_sword'))
