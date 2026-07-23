@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: -9.5d,
+	text: [
+		"The Launch Pad is the earliest available non-custom missile launcher, it must be loaded with fluids, powered, and given a target. To launch, power with redstone."
+	],
+	dependencies: [
+		"e05443a9"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "925a6c43",
+		type: "item",
+		items: [{
+			item: "hbm:launch_pad_large"
+		}]
+	}]
+}
