@@ -1,6 +1,14 @@
 {
-	x: 15.5d,
-	y: -2.5d,
+	x: 13.5d,
+	y: -3.0d,
+	description: "§e§nRequires:§r§e Millitary Grade Circuit",
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"e05443a9"
+	],
 	tasks: [{
 		uid: "b9d80b40",
 		type: "item",

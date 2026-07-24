@@ -1,0 +1,11 @@
+{
+	x: 16.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "c62ed6ee",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_starmetal"
+		}]
+	}]
+}
