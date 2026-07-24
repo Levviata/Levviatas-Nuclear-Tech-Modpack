@@ -1,6 +1,6 @@
 {
-	x: 42.0d,
-	y: -14.5d,
+	x: 9.5d,
+	y: 9.0d,
 	text: [
 		"The Catalytic Reformer can produce exquisite petrochemicals from \"basic\" Crude Oil by-products.",
 		"",
@@ -9,6 +9,7 @@
 	dependencies: [
 		"f90a1d32"
 	],
+	size: 1.5d,
 	tasks: [{
 		uid: "ffbc21f3",
 		type: "item",
