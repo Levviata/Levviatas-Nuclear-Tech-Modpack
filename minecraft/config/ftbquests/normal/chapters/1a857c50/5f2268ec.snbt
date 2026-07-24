@@ -1,0 +1,17 @@
+{
+	x: 10.5d,
+	y: -3.5d,
+	text: [
+		"By dissolving Scraps in a Ore Acidizer you can obtain Arsenic, it's an important material used for Versatile Integrated Circuits and Arsenic Bronze."
+	],
+	dependencies: [
+		"84cccbc5"
+	],
+	tasks: [{
+		uid: "9ccfed5d",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_arsenic"
+		}]
+	}]
+}
