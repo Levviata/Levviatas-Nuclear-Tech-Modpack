@@ -12,29 +12,9 @@
       "output2": ["PETROLEUM",20]
     },
     {
-      "input": "DIESEL_CRACK",
-      "output1": ["KEROSENE",40],
-      "output2": ["PETROLEUM",30]
-    },
-    {
-      "input": "DIESEL",
-      "output1": ["KEROSENE",40],
-      "output2": ["PETROLEUM",30]
-    },
-    {
-      "input": "WOODOIL",
-      "output1": ["HEATINGOIL",40],
-      "output2": ["AROMATICS",10]
-    },
-    {
-      "input": "KEROSENE",
-      "output1": ["PETROLEUM",60],
-      "output2": ["NONE",0]
-    },
-    {
-      "input": "HEATINGOIL_VACUUM",
-      "output1": ["HEATINGOIL",80],
-      "output2": ["REFORMGAS",20]
+      "input": "OIL",
+      "output1": ["CRACKOIL",80],
+      "output2": ["PETROLEUM",20]
     },
     {
       "input": "BITUMEN",
@@ -42,9 +22,24 @@
       "output2": ["AROMATICS",20]
     },
     {
-      "input": "OIL",
-      "output1": ["CRACKOIL",80],
-      "output2": ["PETROLEUM",20]
+      "input": "DIESEL",
+      "output1": ["KEROSENE",40],
+      "output2": ["PETROLEUM",30]
+    },
+    {
+      "input": "DIESEL_CRACK",
+      "output1": ["KEROSENE",40],
+      "output2": ["PETROLEUM",30]
+    },
+    {
+      "input": "HEATINGOIL_VACUUM",
+      "output1": ["HEATINGOIL",80],
+      "output2": ["REFORMGAS",20]
+    },
+    {
+      "input": "SMEAR",
+      "output1": ["NAPHTHA",60],
+      "output2": ["PETROLEUM",40]
     },
     {
       "input": "REFORMATE",
@@ -52,9 +47,14 @@
       "output2": ["REFORMGAS",60]
     },
     {
-      "input": "SMEAR",
-      "output1": ["NAPHTHA",60],
-      "output2": ["PETROLEUM",40]
+      "input": "KEROSENE",
+      "output1": ["PETROLEUM",60],
+      "output2": ["NONE",0]
+    },
+    {
+      "input": "WOODOIL",
+      "output1": ["HEATINGOIL",40],
+      "output2": ["AROMATICS",10]
     }
   ]
 }

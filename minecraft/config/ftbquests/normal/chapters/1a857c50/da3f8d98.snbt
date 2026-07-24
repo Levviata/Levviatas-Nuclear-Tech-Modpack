@@ -1,9 +1,25 @@
 {
-	x: -4.5d,
-	y: -3.5d,
+	title: "Electric Tools",
+	x: -4.273809523809518d,
+	y: -3.6428571428571317d,
+	text: [
+		"The Electric Chainsaw is an axe with abilities that chops mobs into tiny pieces. ",
+		"",
+		"It must be powered and has abilities: Vein Miner 5, AoE 2, Flat AoE 2, Silk Touch, and Fortune 2.",
+		" It also has two Weapon Modifiers, Painsaw and Decapitator.",
+		"",
+		" Mobs will drop Small Pile of Nitra on death which can be crafted into Nitra or Stimpacks, Nitra can duplicate some types of bullets. ",
+		"",
+		"",
+		"The Impact Drill is a pickaxe with high damage that must be powered, it has the same abilities as it's Electric cousin excluding the Weapon Modifiers.",
+		"",
+		"",
+		"The Spiral Drill is a shovel with decent damage that must be powered, it has the same abilities."
+	],
 	dependencies: [
 		"6dfb480a"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "885cf376",
 		type: "item",
