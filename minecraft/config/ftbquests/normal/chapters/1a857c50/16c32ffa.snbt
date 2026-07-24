@@ -1,11 +1,26 @@
 {
+	title: "Turret AI-Chip",
+	icon: {
+		id: "hbm:turret_chip",
+		tag: {}
+	},
 	x: 4.0d,
 	y: -11.0d,
+	text: [
+		"You can run turrets fine without it, which is definitely not intended but whatever. Seems like its optional for now."
+	],
 	dependencies: [
 		"e05443a9"
 	],
+	dependency_requirement: "one_completed",
+	optional: true,
+	or_tasks: true,
 	tasks: [{
-		uid: "0ef78171",
+		uid: "0d0101df",
+		type: "checkmark"
+	},
+	{
+		uid: "0e9912fd",
 		type: "item",
 		items: [{
 			id: "hbm:turret_chip",
