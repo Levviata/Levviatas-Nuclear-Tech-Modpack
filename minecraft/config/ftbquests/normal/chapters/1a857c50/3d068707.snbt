@@ -1,0 +1,23 @@
+{
+	x: 19.0d,
+	y: -5.0d,
+	description: "Very useful",
+	text: [
+		"The Acidizer Input Partitioner stores up to nine Ore Acidizer Inputs and releases them if they match the required input size.",
+		"Invalid items can be extracted from the side."
+	],
+	hide_dependency_lines: true,
+	min_required_dependencies: 2,
+	dependencies: [
+		"4d4393b6",
+		"a14582da",
+		"f959f4ae"
+	],
+	tasks: [{
+		uid: "a7aeb516",
+		type: "item",
+		items: [{
+			item: "hbm:crane_partitioner"
+		}]
+	}]
+}
