@@ -1,0 +1,16 @@
+{
+	x: 9.5d,
+	y: -3.5d,
+	dependencies: [
+		"2208844f"
+	],
+	tasks: [{
+		uid: "891839a6",
+		type: "item",
+		items: [{
+			item: "hbm:ammo_bag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

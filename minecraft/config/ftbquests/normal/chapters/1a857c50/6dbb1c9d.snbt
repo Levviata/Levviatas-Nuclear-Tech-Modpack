@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b6841627",
+		type: "item",
+		items: [{
+			item: "hbm:jetpack_glider"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

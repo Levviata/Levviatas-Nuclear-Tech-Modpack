@@ -1,6 +1,9 @@
 {
 	x: 9.5d,
 	y: 0.0d,
+	text: [
+		"The Vacuum Refinery "
+	],
 	dependencies: [
 		"99183935"
 	],

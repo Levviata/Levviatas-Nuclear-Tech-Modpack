@@ -1,0 +1,27 @@
+{
+	title: "Factories",
+	x: 5.5d,
+	y: 2.0d,
+	text: [
+		"The Assembly and Chemical Factory work x2 times faster but needs twice the power. ",
+		"It also must be cooled with water and produces Low-Pressure Steam as a side product."
+	],
+	dependencies: [
+		"99183935"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "8509598d",
+		type: "item",
+		items: [{
+			item: "hbm:machine_assembly_factory"
+		}]
+	},
+	{
+		uid: "7de8b08d",
+		type: "item",
+		items: [{
+			item: "hbm:machine_chemical_factory"
+		}]
+	}]
+}

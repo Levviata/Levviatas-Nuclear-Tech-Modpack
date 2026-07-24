@@ -1,0 +1,20 @@
+{
+	x: 11.5d,
+	y: -3.5d,
+	description: "§e§nRequires:§r§e Industrial Smokestack",
+	text: [
+		""
+	],
+	min_required_dependencies: 1,
+	dependencies: [
+		"6e8da64d",
+		"84cccbc5"
+	],
+	tasks: [{
+		uid: "b7fefc7d",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 131"
+		}]
+	}]
+}

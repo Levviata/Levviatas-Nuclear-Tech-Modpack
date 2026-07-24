@@ -1,0 +1,19 @@
+{
+	x: 42.0d,
+	y: -14.5d,
+	text: [
+		"The Catalytic Reformer can produce exquisite petrochemicals from \"basic\" Crude Oil by-products.",
+		"",
+		"For example, Light Oil converts into Aromatic Hydrocarbons, Reformate Gas, and Liquid Hydrogen."
+	],
+	dependencies: [
+		"f90a1d32"
+	],
+	tasks: [{
+		uid: "ffbc21f3",
+		type: "item",
+		items: [{
+			item: "hbm:machine_catalytic_reformer"
+		}]
+	}]
+}

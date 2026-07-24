@@ -1,0 +1,20 @@
+{
+	x: 12.5d,
+	y: 3.5d,
+	description: "§e§nRequires:§r§e Fullerene Solution",
+	text: [
+		"Crystalline Fullerite is an essential material for end-game products and machines like the Heavy Duty Element or the mighty FEnSU.",
+		"",
+		"It's relevant in the mid-game as ingredient for the Pyrolysis Oven and Overdrive Upgrade Mk.II and III"
+	],
+	dependencies: [
+		"64c1c604"
+	],
+	tasks: [{
+		uid: "220efe40",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_cft"
+		}]
+	}]
+}

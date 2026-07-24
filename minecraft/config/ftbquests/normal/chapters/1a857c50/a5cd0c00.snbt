@@ -1,0 +1,21 @@
+{
+	x: -6.5d,
+	y: 6.5d,
+	text: [
+		"This process also produces Unsaturated Hydrocarbons but you have likely gathered that already so there is no need to submit the fluid again."
+	],
+	dependencies: [
+		"1f7408ee"
+	],
+	tasks: [{
+		uid: "67edf594",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 68"
+		}]
+	},
+	{
+		uid: "9113b2d1",
+		type: "checkmark"
+	}]
+}

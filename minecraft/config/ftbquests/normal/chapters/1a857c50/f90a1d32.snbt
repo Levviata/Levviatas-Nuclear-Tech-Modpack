@@ -1,0 +1,18 @@
+{
+	x: 40.0d,
+	y: -14.5d,
+	description: "§e§nRequires:§r§e Any Hard Plastic, Solvent",
+	text: [
+		""
+	],
+	dependencies: [
+		"1efd7841"
+	],
+	tasks: [{
+		uid: "9c2314a4",
+		type: "item",
+		items: [{
+			item: "hbm:circuit 1 11"
+		}]
+	}]
+}

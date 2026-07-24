@@ -1,6 +1,21 @@
 {
 	x: 9.5d,
-	y: -1.5d,
+	y: -2.0d,
+	text: [
+		"Weapon Steel is an useful material used to make a lot of things: ",
+		"",
+		"- Armor Piercing rounds",
+		"- Casings",
+		"- Two cool weapons: Grenade Machine Gun and Chemthrower",
+		"- Weapon mod parts",
+		"- Grenade charges and shells",
+		"- Armor insert",
+		"- Nuclear warheads",
+		"- PWR Neutron Reflector"
+	],
+	dependencies: [
+		"1c848d12"
+	],
 	tasks: [{
 		uid: "fb42e3cf",
 		type: "item",

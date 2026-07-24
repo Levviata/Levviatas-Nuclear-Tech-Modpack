@@ -1,0 +1,14 @@
+{
+	x: 13.5d,
+	y: -0.5d,
+	dependencies: [
+		"8a76f5ce"
+	],
+	tasks: [{
+		uid: "cad1d8c2",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_saturnite"
+		}]
+	}]
+}

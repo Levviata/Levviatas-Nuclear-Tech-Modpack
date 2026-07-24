@@ -1,0 +1,14 @@
+{
+	x: -7.0d,
+	y: 10.5d,
+	dependencies: [
+		"6e938840"
+	],
+	tasks: [{
+		uid: "3a0b93bd",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 83"
+		}]
+	}]
+}

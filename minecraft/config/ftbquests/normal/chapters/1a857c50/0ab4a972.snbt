@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: 2.0d,
+	dependencies: [
+		"66d64b7f"
+	],
+	tasks: [{
+		uid: "fc558bc7",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_pvc"
+		}],
+		count: 2L,
+		ignore_nbt: 1b
+	}]
+}

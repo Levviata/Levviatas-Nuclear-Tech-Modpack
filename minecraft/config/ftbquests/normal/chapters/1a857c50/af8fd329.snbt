@@ -1,0 +1,14 @@
+{
+	x: 10.5d,
+	y: 3.5d,
+	dependencies: [
+		"64c1c604"
+	],
+	tasks: [{
+		uid: "6a7ade62",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_pc"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 1.875d,
+	dependencies: [
+		"99183935"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "82e94343",
+		type: "item",
+		items: [{
+			item: "hbm:machine_radiolysis"
+		}]
+	}]
+}
