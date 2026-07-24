@@ -1,6 +1,6 @@
 {
-	x: 7.0d,
-	y: 4.0d,
+	x: -4.5d,
+	y: -0.5d,
 	text: [
 		"Conveyor Sorters are blocks that can sort various items to a specific conveyor belt. They do not have a buffer and simple move items to connected conveyor belts based on their filter options, therefore they can sort items as quickly as they receive them.",
 		"",
@@ -14,7 +14,7 @@
 		"- Wildcard, if the item doesn't match with any of the filters"
 	],
 	dependencies: [
-		"f959f4ae"
+		"4d4393b6"
 	],
 	tasks: [{
 		uid: "8951487d",

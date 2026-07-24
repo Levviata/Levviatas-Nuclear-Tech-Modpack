@@ -1,6 +1,6 @@
 {
 	title: "Dissolved Seared",
-	x: 29.5d,
+	x: 30.0d,
 	y: -10.0d,
 	text: [
 		"Searing duplicates the product, normal product gives 2x, roasted gives 4x.",

@@ -1,6 +1,6 @@
 {
 	title: "Higher Weight Primary Fraction",
-	x: 22.5d,
+	x: 23.0d,
 	y: -6.0d,
 	text: [
 		"The Higher Weight of the Primary Fraction of the ore gives more or less quantity of a specific material. For Heavy Metal it gives more tungsten."

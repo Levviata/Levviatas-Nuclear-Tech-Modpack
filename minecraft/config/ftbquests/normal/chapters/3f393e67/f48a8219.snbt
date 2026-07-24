@@ -1,6 +1,6 @@
 {
 	x: 7.0d,
-	y: 6.0d,
+	y: 5.5d,
 	text: [
 		"The Conveyor Splitter is a type of conveyor belt that splits items evenly onto 2 lanes.",
 		"",

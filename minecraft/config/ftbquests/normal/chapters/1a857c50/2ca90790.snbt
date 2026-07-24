@@ -1,6 +1,6 @@
 {
 	title: "Cleaned Roasted",
-	x: 29.5d,
+	x: 30.0d,
 	y: -15.5d,
 	text: [
 		"Roasting gives Vitriol which is a source of Mercury and Iodine powder. If it's seared it gives 2x the output of normal product."
