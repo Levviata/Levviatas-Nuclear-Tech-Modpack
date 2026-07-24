@@ -769,6 +769,11 @@ crafting.shapedBuilder() // bring back old glory
         .replaceByName()
         .register()
 
+// paa hazmat to paa armor
+crafting.addShapeless(item('hbm:paa_plate'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_plate')])
+crafting.addShapeless(item('hbm:paa_legs'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_legs')])
+crafting.addShapeless(item('hbm:paa_boots'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_boots')])
+
 // pink fluid
 crafting.addShapeless(item('hbm:syringe_mkunicorn'), [item('hbm:nugget_euphemium'), item('hbm:syringe_empty')])
 
