@@ -1,10 +1,13 @@
 {
 	x: -6.7261904761904745d,
 	y: -1.294642857142854d,
+	text: [
+		"The Centrifuge is a machine that separates product into smaller bits, it's widely used in Bedrock Ore processing."
+	],
 	dependencies: [
 		"6dfb480a"
 	],
-	size: 1.25d,
+	size: 1.5d,
 	tasks: [{
 		uid: "48668cea",
 		type: "item",
