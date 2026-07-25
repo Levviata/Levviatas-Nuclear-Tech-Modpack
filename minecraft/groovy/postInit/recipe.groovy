@@ -769,6 +769,10 @@ crafting.shapedBuilder() // bring back old glory
         .replaceByName()
         .register()
 
+// no one told me this thing doesnt work and I've been including it for the past 6 months as a working mechanic
+// remove unused item
+crafting.removeByOutput(item('hbm:template_folder'))
+
 // paa hazmat to paa armor
 crafting.addShapeless(item('hbm:paa_plate'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_plate')])
 crafting.addShapeless(item('hbm:paa_legs'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_legs')])
