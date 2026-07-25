@@ -1,0 +1,14 @@
+{
+	x: 18.0d,
+	y: 1.5d,
+	dependencies: [
+		"47aeecca"
+	],
+	tasks: [{
+		uid: "dee3a776",
+		type: "item",
+		items: [{
+			item: "hbm:ring_starmetal"
+		}]
+	}]
+}

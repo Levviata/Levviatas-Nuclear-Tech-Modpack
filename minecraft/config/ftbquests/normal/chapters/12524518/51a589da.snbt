@@ -1,0 +1,11 @@
+{
+	x: -8.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "5cdf7419",
+		type: "item",
+		items: [{
+			item: "hbm:watz"
+		}]
+	}]
+}

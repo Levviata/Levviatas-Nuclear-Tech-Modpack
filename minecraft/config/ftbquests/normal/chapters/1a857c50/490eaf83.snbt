@@ -1,0 +1,14 @@
+{
+	x: -7.5d,
+	y: 11.0d,
+	dependencies: [
+		"6e938840"
+	],
+	tasks: [{
+		uid: "b4f6d9f4",
+		type: "item",
+		items: [{
+			item: "hbm:plate_kevlar"
+		}]
+	}]
+}

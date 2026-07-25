@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: 10.5d,
+	tasks: [{
+		uid: "efcfde5c",
+		type: "item",
+		items: [{
+			item: "hbm:machine_hydrotreater"
+		}]
+	}]
+}
