@@ -1,0 +1,22 @@
+{
+	x: -8.0d,
+	y: 9.5d,
+	text: [
+		"Bakelite is the more immediate cousin of the plastic family.",
+		"",
+		"It can be produced in a Chemical Plant with 500mB of Aromatic Hydrocarbons and 500mB of Petroleum Gas.",
+		"",
+		"The difference between regular polymers is that you may craft it with 1 B of Aro Hydrocarbons and 1 B of Petro Gas (and glassware), making the equivalent of two polymer ingots at once, in a crafting table!",
+		"The powder may be cooked in any oven to get the ingot."
+	],
+	dependencies: [
+		"6e938840"
+	],
+	tasks: [{
+		uid: "9ac81f03",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bakelite"
+		}]
+	}]
+}
