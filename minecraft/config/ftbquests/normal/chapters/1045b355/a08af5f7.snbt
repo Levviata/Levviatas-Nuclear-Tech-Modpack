@@ -2,7 +2,7 @@
 	title: "Just Enough Items and WAILA",
 	icon: "hbm:block_waste_painted",
 	x: 2.0690476190476232d,
-	y: -0.0035714285714334437d,
+	y: 0.9964285714285666d,
 	shape: "octagon",
 	description: "How to see recipes and how to inspect blocks",
 	text: [

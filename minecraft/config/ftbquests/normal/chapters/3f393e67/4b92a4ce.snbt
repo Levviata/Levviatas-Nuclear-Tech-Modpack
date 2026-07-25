@@ -1,6 +1,6 @@
 {
-	x: 1.5d,
-	y: 11.5d,
+	x: 4.5d,
+	y: 8.5d,
 	text: [
 		"The Multi Fluid Identifier can apply an identifier to pipes, machines, or tanks.",
 		"",

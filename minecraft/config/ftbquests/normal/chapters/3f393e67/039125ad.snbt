@@ -1,6 +1,6 @@
 {
-	x: 2.0d,
-	y: 12.5d,
+	x: 6.0d,
+	y: 8.5d,
 	text: [
 		"Moves fluids from A to B with the appropiate Fluid Identifier."
 	],
