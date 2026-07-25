@@ -1,0 +1,18 @@
+{
+	x: 22.0d,
+	y: 7.0d,
+	description: "§e§nRequires:§r§e Fusion Reactor Vessel",
+	text: [
+		""
+	],
+	dependencies: [
+		"f99bc25c"
+	],
+	tasks: [{
+		uid: "06a4967d",
+		type: "item",
+		items: [{
+			item: "hbm:pellet_charged"
+		}]
+	}]
+}

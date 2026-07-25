@@ -1,6 +1,6 @@
 {
-	x: -4.5d,
-	y: 18.0d,
+	x: -6.0d,
+	y: 19.0d,
 	text: [
 		"Place a heat box below to produce energy.",
 		"",
@@ -11,6 +11,7 @@
 		"083d7aa0"
 	],
 	dependency_requirement: "one_completed",
+	size: 1.5d,
 	tasks: [{
 		uid: "f2754936",
 		type: "item",

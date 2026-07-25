@@ -1,14 +1,15 @@
 {
-	x: -6.0d,
-	y: 21.0d,
+	x: -1.0d,
+	y: 22.0d,
 	text: [
-		"Smelt enough steel, tungsten and cobalt into a crucible then cast into an ingot.",
+		"High-Speed Steel is an useful material used widely in the early and mid game, it's used in the Pumpjack, the Electric Tools, the Builder's Jetpack, etc.",
 		"",
-		"Needed to make the next important machine, the Industrial Mixer."
+		"Smelt enough steel, tungsten and cobalt into a crucible then cast into an ingot."
 	],
 	dependencies: [
 		"82d71470"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "3a0e194f",
 		type: "item",

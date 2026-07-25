@@ -1,0 +1,46 @@
+{
+	x: -8.0d,
+	y: -8.5d,
+	text: [
+		"Cobalt Armor is crafted with Cobalt Billets, it gives equal protection to diamond armor while giving 25% radiation resistance."
+	],
+	dependencies: [
+		"ffca85fd"
+	],
+	tasks: [{
+		uid: "1f26514a",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "aa2edef4",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7b84e799",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2fe62ef6",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

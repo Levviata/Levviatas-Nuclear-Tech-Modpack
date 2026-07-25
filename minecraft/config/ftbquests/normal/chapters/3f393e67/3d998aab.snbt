@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: 31.0d,
+	dependencies: [
+		"f6c76b50"
+	],
+	tasks: [{
+		uid: "a0483b8f",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 38"
+		}]
+	},
+	{
+		uid: "252ee1b3",
+		type: "fluid",
+		fluid: "hydrogen"
+	}]
+}

@@ -1,0 +1,43 @@
+{
+	x: -10.0d,
+	y: -7.0d,
+	dependencies: [
+		"ffca85fd"
+	],
+	tasks: [{
+		uid: "c5bbdf36",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "47f7e209",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "20543642",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e45e08f9",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

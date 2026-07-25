@@ -1,6 +1,6 @@
 {
-	x: -1.0d,
-	y: 23.5d,
+	x: -1.5d,
+	y: 24.5d,
 	text: [
 		"Used for making carbon wires and graphite electrodes (for the Arc Welder machine), later on may be used to make pellets for nuclear reactors."
 	],

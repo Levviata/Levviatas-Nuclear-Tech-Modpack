@@ -9,9 +9,9 @@
 		"You can roast other fuels like lignite."
 	],
 	dependencies: [
-		"64546c02",
 		"82d71470"
 	],
+	size: 1.5d,
 	tasks: [{
 		uid: "8ed8b701",
 		type: "item",

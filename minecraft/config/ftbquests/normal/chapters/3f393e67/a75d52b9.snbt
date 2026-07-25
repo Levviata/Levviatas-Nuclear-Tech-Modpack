@@ -1,6 +1,6 @@
 {
-	x: -5.5d,
-	y: 18.0d,
+	x: -6.0d,
+	y: 21.0d,
 	description: "Aerial killing machine",
 	text: [
 		"Turns plank into sticks, sticks into saw dust.",
@@ -14,6 +14,7 @@
 		"083d7aa0"
 	],
 	dependency_requirement: "one_completed",
+	size: 1.25d,
 	tasks: [{
 		uid: "5e1dd1ca",
 		type: "item",

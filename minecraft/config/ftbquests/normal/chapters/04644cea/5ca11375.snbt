@@ -1,7 +1,7 @@
 {
 	title: "Mid Game",
-	x: -4.761904761904795d,
-	y: 10.035714285714285d,
+	x: -6.0d,
+	y: 11.5d,
 	shape: "pentagon",
 	size: 1.25d,
 	tasks: [{

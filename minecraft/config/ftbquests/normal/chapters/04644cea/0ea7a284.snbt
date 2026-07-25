@@ -1,11 +1,11 @@
 {
 	x: -5.0d,
-	y: 10.5d,
+	y: 13.5d,
 	tasks: [{
-		uid: "206d1afd",
+		uid: "ca80d0e7",
 		type: "item",
 		items: [{
-			item: "hbm:ingot_weaponsteel"
+			item: "hbm:ingot_tantalium"
 		}]
 	}]
 }
