@@ -1,7 +1,7 @@
 {
 	title: "Coal and Black Lung, Second Revision Edition",
 	icon: "minecraft:coal",
-	x: -5.5d,
+	x: -8.0d,
 	y: 10.5d,
 	description: "Inhale coal dust, exhale silicosis",
 	text: [

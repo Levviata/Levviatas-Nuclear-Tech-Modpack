@@ -1,5 +1,5 @@
 {
-	x: 2.0d,
+	x: 1.5d,
 	y: 8.5d,
 	text: [
 		"The Burner Press uses fuel and a stamp to process metal. Stamps have limited durability, and will need to be replaced occasionally.",
@@ -13,6 +13,7 @@
 	dependencies: [
 		"00fafa6c"
 	],
+	size: 1.5d,
 	tasks: [{
 		uid: "73b40f45",
 		type: "item",

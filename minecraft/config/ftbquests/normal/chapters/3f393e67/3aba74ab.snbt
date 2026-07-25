@@ -1,6 +1,6 @@
 {
 	title: "Iron Anvil",
-	x: -2.0d,
+	x: -1.5d,
 	y: 8.5d,
 	description: "Tier 1",
 	text: [
@@ -11,6 +11,7 @@
 	dependencies: [
 		"00fafa6c"
 	],
+	size: 1.5d,
 	tasks: [{
 		uid: "d9b4578b",
 		type: "item",

@@ -25,9 +25,7 @@
 		"- Advanced Alloy has been removed since version 1.0.27_X5719, Steel and Titanium tools have better stats to counteract."
 	],
 	dependencies: [
-		"3aba74ab",
-		"e4708a01",
-		"8d91f096"
+		"9fd8c6c1"
 	],
 	size: 1.5d,
 	tasks: [{

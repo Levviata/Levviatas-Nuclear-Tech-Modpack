@@ -1,21 +1,18 @@
 {
-	x: 0.0d,
-	y: 8.5d,
+	title: "Machine Template Folder",
+	icon: "hbm:template_folder",
+	x: -4.0d,
+	y: 6.5d,
+	description: "Removed",
 	text: [
-		"The machine template folder is a tool that produces templates, stamps, and fluid identifiers.",
-		"The folder has a search bar from which you select the templates or identifiers to craft, with the result going directly in your inventory if you have the required ingredients."
-	],
-	dependencies: [
-		"00fafa6c"
+		"The machine template folder was a tool that produces templates, stamps, and fluid identifiers.",
+		"The folder had a search bar from which you selected the templates or identifiers to craft, with the result going directly in your inventory if you have the required ingredients.",
+		"",
+		"It was used in machines to select recipes."
 	],
 	tasks: [{
-		uid: "2a3fe6cb",
-		type: "item",
-		items: [{
-			item: "hbm:template_folder"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+		uid: "bcf0069e",
+		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "f1ce90b0",

@@ -1,6 +1,6 @@
 {
-	x: 5.5d,
-	y: 8.5d,
+	x: 0.0d,
+	y: 12.0d,
 	text: [
 		"With plate stamps you make plates.",
 		"With wire stamps you make wires.",
@@ -8,11 +8,12 @@
 		"You can make plates and wires of a variety of ingots, like steel, copper, iron, etc. ",
 		"You will be frequently making steel, iron, and copper plates and Minecraft Grade copper, and gold wires, specially Minecraft Grade wires since those are for Motors and Red Copper Cable"
 	],
-	hide_dependency_lines: true,
 	dependencies: [
+		"3aba74ab",
 		"e4708a01",
-		"8d91f096"
+		"1c276e12"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "410a48ed",
 		type: "item",

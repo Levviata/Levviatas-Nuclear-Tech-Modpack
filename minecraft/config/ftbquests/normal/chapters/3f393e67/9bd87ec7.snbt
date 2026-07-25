@@ -1,6 +1,6 @@
 {
 	title: "Leather Mask With Makeshift Filter",
-	x: -8.5d,
+	x: -11.0d,
 	y: 9.5d,
 	description: "Equip a Makeshift filter onto your leather mask",
 	text: [
