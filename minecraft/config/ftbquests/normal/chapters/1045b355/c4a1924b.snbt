@@ -1,0 +1,26 @@
+{
+	title: "Optimization",
+	icon: "minecraft:tnt",
+	x: 2.0d,
+	y: -1.0d,
+	shape: "octagon",
+	description: "For a world without 1.12.2 OptiFine.",
+	text: [
+		"I have added the best optimizations in the world for 1.12.2 Forge, you could even cremate your computer and Minecraft would still run fine.",
+		"",
+		"",
+		"If you are hard-headed and want OptiFine you'll need to remove:",
+		"",
+		"- Nothirium and RenderLib",
+		"- Naughtirium",
+		"- Maybe Alfheim",
+		"- Your soul",
+		"",
+		"I have not tested OptiFine so it might explode your computer, world, and pet, it is an harsh mod for the enviroment."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "bbb8d7be",
+		type: "checkmark"
+	}]
+}
