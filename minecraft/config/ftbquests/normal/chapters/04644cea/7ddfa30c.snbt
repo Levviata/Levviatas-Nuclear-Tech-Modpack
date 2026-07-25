@@ -1,0 +1,15 @@
+{
+	x: -6.0d,
+	y: 14.0d,
+	description: "Not useful",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "d57c7d6c",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_lanthanium"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: -8.0d,
+	y: 12.5d,
+	tasks: [{
+		uid: "39b58d59",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_pc"
+		}]
+	},
+	{
+		uid: "f1627521",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_pvc"
+		}]
+	}]
+}

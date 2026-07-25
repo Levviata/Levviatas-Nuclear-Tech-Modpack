@@ -1,0 +1,11 @@
+{
+	x: -5.0d,
+	y: 9.5d,
+	tasks: [{
+		uid: "3386d9ee",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_niobium"
+		}]
+	}]
+}

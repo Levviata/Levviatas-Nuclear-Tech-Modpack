@@ -1,0 +1,11 @@
+{
+	x: -9.5d,
+	y: 16.0d,
+	tasks: [{
+		uid: "6c89de79",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_uranium_fuel"
+		}]
+	}]
+}

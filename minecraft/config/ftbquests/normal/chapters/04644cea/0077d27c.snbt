@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 9.5d,
+	tasks: [{
+		uid: "2903666d",
+		type: "item",
+		items: [{
+			item: "hbm:cinnabar"
+		}]
+	}]
+}

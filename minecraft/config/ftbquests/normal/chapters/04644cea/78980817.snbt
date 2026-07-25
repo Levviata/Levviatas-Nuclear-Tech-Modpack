@@ -1,0 +1,11 @@
+{
+	x: -8.5d,
+	y: 14.5d,
+	tasks: [{
+		uid: "5931b300",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_u235"
+		}]
+	}]
+}

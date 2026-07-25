@@ -1,0 +1,12 @@
+{
+	x: 2.5d,
+	y: 16.5d,
+	tasks: [{
+		uid: "0aa67d52",
+		type: "item",
+		items: [{
+			id: "hbm:ingot_electronium",
+			tag: {}
+		}]
+	}]
+}

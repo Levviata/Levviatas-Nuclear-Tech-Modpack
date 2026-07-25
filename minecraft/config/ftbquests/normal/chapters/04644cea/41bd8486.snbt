@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "cd549c6e",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_raw 1 41"
+		}]
+	}]
+}
