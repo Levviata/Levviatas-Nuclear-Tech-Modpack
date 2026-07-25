@@ -1,34 +1,18 @@
 {
 	title: "Machine Template Folder",
 	icon: "hbm:template_folder",
-	x: -4.0d,
-	y: 6.5d,
+	x: 0.0d,
+	y: 6.75d,
 	description: "Removed",
 	text: [
-		"The machine template folder was a tool that produces templates, stamps, and fluid identifiers.",
+		"The machine template folder was a tool that produced templates, stamps, and fluid identifiers.",
 		"The folder had a search bar from which you selected the templates or identifiers to craft, with the result going directly in your inventory if you have the required ingredients.",
 		"",
 		"It was used in machines to select recipes."
 	],
+	size: 0.8d,
 	tasks: [{
 		uid: "bcf0069e",
 		type: "checkmark"
-	}],
-	rewards: [{
-		uid: "f1ce90b0",
-		type: "xp",
-		xp: 100
-	},
-	{
-		uid: "aa70a809",
-		type: "item",
-		item: "futuremc:dye",
-		count: 32
-	},
-	{
-		uid: "e83ecfb5",
-		type: "item",
-		item: "minecraft:paper",
-		count: 16
 	}]
 }
