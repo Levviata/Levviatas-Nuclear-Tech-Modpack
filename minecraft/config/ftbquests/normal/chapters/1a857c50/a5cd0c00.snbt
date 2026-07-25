@@ -2,7 +2,7 @@
 	x: -6.5d,
 	y: 6.5d,
 	text: [
-		"This process also produces Unsaturated Hydrocarbons but you have likely gathered that already so there is no need to submit the fluid again."
+		"This process also produces Unsaturated Hydrocarbons but you have likely gathered that already so be spared of the quest."
 	],
 	dependencies: [
 		"1f7408ee"
