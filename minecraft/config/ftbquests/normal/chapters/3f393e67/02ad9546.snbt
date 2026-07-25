@@ -1,0 +1,30 @@
+{
+	x: 8.5d,
+	y: 18.0d,
+	text: [
+		"Cobalt is a Rare Earth ore which appears randomly around the world.",
+		"",
+		"It's used in High-Speed Steel, Laboratory Glassware, and may be breed in a Breeding Reactor into Cobalt-60."
+	],
+	tasks: [{
+		uid: "15f1a63e",
+		type: "item",
+		items: [{
+			item: "hbm:ore_cobalt"
+		}]
+	},
+	{
+		uid: "18dc520f",
+		type: "item",
+		items: [{
+			item: "hbm:ore_nether_cobalt"
+		}]
+	},
+	{
+		uid: "ec7cec16",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_cobalt"
+		}]
+	}]
+}

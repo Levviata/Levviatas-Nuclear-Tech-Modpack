@@ -1,11 +1,11 @@
 {
-	x: -8.0d,
-	y: -8.5d,
+	x: 10.5d,
+	y: 17.0d,
 	text: [
 		"Cobalt Armor is crafted with Cobalt Billets, it gives equal protection to diamond armor while giving 25% radiation resistance."
 	],
 	dependencies: [
-		"ffca85fd"
+		"02ad9546"
 	],
 	tasks: [{
 		uid: "1f26514a",
@@ -42,5 +42,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5949cad0",
+		type: "item",
+		item: "hbm:ingot_cobalt",
+		count: 15
 	}]
 }

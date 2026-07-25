@@ -1,8 +1,14 @@
 {
-	x: -10.0d,
-	y: -7.0d,
+	title: "Cobalt Tools",
+	x: 10.5d,
+	y: 19.0d,
+	text: [
+		"Cobalt Sword has 13 damage and a decent attack speed.",
+		"",
+		"Cobalt Pickaxe, Axe, and Shovel have Vein Miner 4, Silk Touch, and Fortune I."
+	],
 	dependencies: [
-		"ffca85fd"
+		"02ad9546"
 	],
 	tasks: [{
 		uid: "c5bbdf36",
@@ -39,5 +45,16 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6a059444",
+		type: "item",
+		item: "hbm:ingot_cobalt",
+		count: 16
+	},
+	{
+		uid: "86a220d1",
+		type: "item",
+		item: "hbm:cobalt_hoe"
 	}]
 }
