@@ -1,0 +1,18 @@
+{
+	x: 20.0d,
+	y: 7.0d,
+	description: "§e§nRequires:§r§e Electrolysis Machine",
+	text: [
+		""
+	],
+	dependencies: [
+		"d19941b2"
+	],
+	tasks: [{
+		uid: "016205ad",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 8"
+		}]
+	}]
+}
