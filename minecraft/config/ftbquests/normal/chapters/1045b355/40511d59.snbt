@@ -4,15 +4,15 @@
 	y: 0.0d,
 	shape: "pentagon",
 	text: [
-		"No matter what your end goal is, the very beginning of the tech tree always looks the same. You need to get these three things:",
+		"No matter what your end goal is, the very beginning of the tech tree always looks the same. You'll need to get these three things:",
 		"",
-		"- A burner press, which is made from iron, a piston and a furnace",
+		"- A Burner Press, which is made from iron, a piston and a furnace",
 		"",
-		"- A special anvil, made from either iron or lead.",
+		"- A NTM Anvil, made from either iron or lead.",
 		"",
-		"- A machine template folder, made from paper and any dye.",
+		"- A Flat Stamp, made of any material.",
 		"",
-		"I'll guide you through these machines in the next chapter."
+		"Next on, i tell you how to get them."
 	],
 	size: 1.5d,
 	tasks: [{
@@ -24,5 +24,17 @@
 		uid: "9918a407",
 		type: "xp",
 		xp: 10
+	},
+	{
+		uid: "1f43dada",
+		type: "item",
+		item: "hbm:coffee",
+		count: 2
+	},
+	{
+		uid: "3fff4501",
+		type: "item",
+		item: "hbm:nugget",
+		count: 3
 	}]
 }
