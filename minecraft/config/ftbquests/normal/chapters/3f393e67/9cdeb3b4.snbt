@@ -3,9 +3,9 @@
 	x: 10.5d,
 	y: 19.0d,
 	text: [
-		"Cobalt Sword has 13 damage and a decent attack speed.",
+		"The Cobalt Sword has 13 damage without any weapon modifier.",
 		"",
-		"Cobalt Pickaxe, Axe, and Shovel have Vein Miner 4, Silk Touch, and Fortune I."
+		"The Cobalt Pickaxe, Axe, and Shovel have Vein Miner 4, Silk Touch, and Fortune I."
 	],
 	dependencies: [
 		"02ad9546"
@@ -50,7 +50,7 @@
 		uid: "6a059444",
 		type: "item",
 		item: "hbm:ingot_cobalt",
-		count: 16
+		count: 6
 	},
 	{
 		uid: "86a220d1",

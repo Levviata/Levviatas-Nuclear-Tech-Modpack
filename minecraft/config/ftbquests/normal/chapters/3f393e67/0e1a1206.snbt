@@ -2,7 +2,9 @@
 	x: 10.5d,
 	y: 17.0d,
 	text: [
-		"Cobalt Armor is crafted with Cobalt Billets, it gives equal protection to diamond armor while giving 25% radiation resistance."
+		"Cobalt Armor is crafted with Cobalt Billets, it gives equal protection to diamond armor while giving 25% radiation resistance.",
+		"",
+		"As a full set it provides 10% physical protection if total damage from a hit received is 2% physical."
 	],
 	dependencies: [
 		"02ad9546"
@@ -47,6 +49,6 @@
 		uid: "5949cad0",
 		type: "item",
 		item: "hbm:ingot_cobalt",
-		count: 15
+		count: 6
 	}]
 }
