@@ -4,6 +4,7 @@
 	text: [
 		"The Annihilator is a simple machine that destroys items and fluids.",
 		"",
+		"When destroyed:",
 		"- Radioactive items will produce a quintuple of its radioactive value as chunk radiation (max 1000 RADs).",
 		"",
 		"- Fluids will generate x3 its pollution.",

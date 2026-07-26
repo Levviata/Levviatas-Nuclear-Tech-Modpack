@@ -5,7 +5,7 @@
 	text: [
 		"Steel armor is a great early armor that provides same armor protection as diamond without the armor toughness. ",
 		"",
-		"As a full set it gives 2% physical resistance."
+		"As a full set it provides 10% physical protection if total damage from a hit received is 2% physical."
 	],
 	dependencies: [
 		"86867f7a"

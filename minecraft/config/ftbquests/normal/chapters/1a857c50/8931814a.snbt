@@ -3,7 +3,7 @@
 	y: 0.0d,
 	shape: "hexagon",
 	text: [
-		"The Oil Refinery refines Crude Oil into exquisite fuels.",
+		"The Oil Refinery refines Crude Oil into exquisite petrochemicals.",
 		"",
 		"These fuels may be used for many useful things: ",
 		"",

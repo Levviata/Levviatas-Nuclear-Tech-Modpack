@@ -5,11 +5,9 @@
 	text: [
 		"Needs a fluid identifier.",
 		"",
-		"Removes fluids from the machine its attached to.",
+		"Removes fluids from the duct its attached to.",
 		"",
-		"The box with the vent must be placed adjacent to the machine in order to drain, the big pipe at the end should be unobstructated since that's where fluids exit.",
-		"",
-		"You can't attach this to a Tank, you may use fluid ducts with the correct fluid identifier to store fluid."
+		"The box with the vent must be placed adjacent to a duct in order to drain, the big pipe at the end should be unobstructated since that's where fluids exit."
 	],
 	dependencies: [
 		"82d71470"
