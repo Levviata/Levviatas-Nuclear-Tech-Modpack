@@ -1,0 +1,51 @@
+{
+	title: "Starmetal Tools",
+	x: 19.5d,
+	y: 3.0d,
+	description: "§e§nRequires:§r§e Decorated Cobalt Tools",
+	text: [
+		"The Starmetal Sword has 26 damage and has Stunning 3, Decapitator and Luck of the Collector weapon modifiers.",
+		"",
+		"The Pickaxe, Axe, and Shovel have Vein Miner 6, AoE 2 and Flat AoE 2, Silk Touch, and Fortune 5. They also inflict Stunning 3.",
+		"As a bonus, the Axe has Decapitator."
+	],
+	dependencies: [
+		"abfc425a"
+	],
+	tasks: [{
+		uid: "afc3d45f",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "770a85a8",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a280e6f0",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "530371a9",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

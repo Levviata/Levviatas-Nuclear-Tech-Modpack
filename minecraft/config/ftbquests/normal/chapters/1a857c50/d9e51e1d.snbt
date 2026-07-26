@@ -1,0 +1,51 @@
+{
+	title: "Starmetal Armor",
+	x: 16.5d,
+	y: 1.5d,
+	description: "§e§nRequires:§r§e Cobalt Armor",
+	text: [
+		"The Starmetal Armor gives equal protection to diamond and provides 90% radiation resistance.",
+		"",
+		"As a full set it provides 25% physical protection if total damage from a hit received is 3% physical.",
+		"If it's Other damage, protect 25% if received type is over 1% total."
+	],
+	dependencies: [
+		"47aeecca"
+	],
+	tasks: [{
+		uid: "fd529ae8",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a4815a93",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "60162614",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "202e3358",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

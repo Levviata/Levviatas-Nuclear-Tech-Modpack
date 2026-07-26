@@ -1,0 +1,18 @@
+{
+	title: "This quest treeline is invisible!",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "octagon",
+	description: "so you know.",
+	text: [
+		""
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "e90d7f80",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

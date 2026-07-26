@@ -1,0 +1,18 @@
+{
+	x: 10.5d,
+	y: 13.0d,
+	dependencies: [
+		"44a9da40"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "5410aaf1",
+		type: "item",
+		items: [{
+			id: "hbm:sat_scanner",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

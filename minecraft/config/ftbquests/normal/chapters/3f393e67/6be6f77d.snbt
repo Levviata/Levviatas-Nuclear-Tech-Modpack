@@ -1,0 +1,55 @@
+{
+	x: 12.5d,
+	y: 19.0d,
+	dependencies: [
+		"9cdeb3b4"
+	],
+	tasks: [{
+		uid: "475a3684",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_decorated_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2926cc41",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_decorated_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9348958b",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_decorated_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ad4db6da",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_decorated_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "feb25f03",
+		type: "item",
+		item: "hbm:ingot_meteorite",
+		count: 4
+	},
+	{
+		uid: "43a77c01",
+		type: "item",
+		item: "hbm:ingot_cobalt",
+		count: 2
+	}]
+}

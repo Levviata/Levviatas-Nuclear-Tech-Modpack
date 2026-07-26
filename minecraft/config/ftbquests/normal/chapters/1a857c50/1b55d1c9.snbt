@@ -1,0 +1,21 @@
+{
+	x: 18.5d,
+	y: 3.5d,
+	text: [
+		"When hitting an enemy, shoot 12 Gauge rounds from the inventory.",
+		"",
+		"Applicable to Chestplates in the Servo slot."
+	],
+	dependencies: [
+		"abfc425a"
+	],
+	tasks: [{
+		uid: "e9aa6950",
+		type: "item",
+		items: [{
+			item: "hbm:ballistic_gauntlet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

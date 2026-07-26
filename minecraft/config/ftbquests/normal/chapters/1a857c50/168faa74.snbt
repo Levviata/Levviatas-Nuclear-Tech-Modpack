@@ -1,0 +1,19 @@
+{
+	title: "Rosenberg Pest Control Box",
+	x: 17.5d,
+	y: 3.5d,
+	text: [
+		"The Rosenberg Pest Control Box does what it says, it kills mobs in a 15m radius if powered. ",
+		"Spark Battery can't be crafted anymore so it can't self-charge.",
+		"",
+		"Each one drains 500kHE/s."
+	],
+	dependencies: [
+		"abfc425a"
+	],
+	tasks: [{
+		uid: "460be10e",
+		type: "checkmark",
+		icon: "hbm:radiobox"
+	}]
+}

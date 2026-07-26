@@ -1,0 +1,54 @@
+{
+	title: "Bismuth Armor",
+	x: 16.5d,
+	y: 3.0d,
+	description: "§e§nRequires:§r§e Bismuth",
+	text: [
+		"Bismuth Armor is a great armor set that provides Jump Boost and Speed VII, Regeneration II, Night Vision, and the ability to dash 3 times.",
+		"",
+		"As a full set it provides 50% Fire protection if total damage from a hit received is 3% Fire.",
+		"If it's Physical damage, protect 15% if received type is over 2% total.",
+		"For Explosion, protect 25% if its over 5%.",
+		"For Other, protect 25% if its over 2%.",
+		"All Fall damage is reduced by 100%."
+	],
+	dependencies: [
+		"abfc425a"
+	],
+	tasks: [{
+		uid: "d48ffb8d",
+		type: "item",
+		items: [{
+			item: "hbm:bismuth_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f36f358e",
+		type: "item",
+		items: [{
+			item: "hbm:bismuth_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0c8ed12d",
+		type: "item",
+		items: [{
+			item: "hbm:bismuth_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "31a93397",
+		type: "item",
+		items: [{
+			item: "hbm:bismuth_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

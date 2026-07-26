@@ -1,0 +1,12 @@
+{
+	x: 13.0d,
+	y: 13.0d,
+	size: 1.5d,
+	tasks: [{
+		uid: "a567714a",
+		type: "item",
+		items: [{
+			item: "hbm:sat_base"
+		}]
+	}]
+}

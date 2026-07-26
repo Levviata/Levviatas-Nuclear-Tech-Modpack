@@ -1,0 +1,17 @@
+{
+	x: 11.0d,
+	y: 11.0d,
+	dependencies: [
+		"44a9da40"
+	],
+	tasks: [{
+		uid: "d3afe4dd",
+		type: "item",
+		items: [{
+			id: "hbm:sat_foeq",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
