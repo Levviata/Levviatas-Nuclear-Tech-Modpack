@@ -2,7 +2,8 @@
 	x: 12.0d,
 	y: 0.0d,
 	text: [
-		"Dandelions (and Jungle Wood) may be crafted into Latex and then cooked in a furnace to get a Latex Bar, they are used for many things like Conveyors, armor, etc."
+		"Dandelions may be crafted into Latex and cooked in a furnace to get Latex Bar,",
+		"they are used for conveyors, machines, food and more."
 	],
 	tasks: [{
 		uid: "baa76210",

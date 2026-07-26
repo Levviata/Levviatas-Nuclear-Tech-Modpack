@@ -1,18 +1,24 @@
 {
+	title: "Aluminium",
 	x: 8.5d,
 	y: -1.0d,
+	description: "Cryolite bearing",
+	text: [
+		"Aluminium-Bearing Ore can be used to make Fire Clay which is smelted into Fire Bricks, these can make new machines to process Cryolite.",
+		"",
+		"The ore is Cryolite which is a mix of Aluminium and Sodium, to get actual Aluminium you'll need to make a Crucible, step by step next chapter."
+	],
 	tasks: [{
-		uid: "933a6424",
+		uid: "62689ee5",
 		type: "item",
 		items: [{
-			item: "hbm:ingot_aluminium"
-		}],
-		count: 16L
+			item: "hbm:ore_aluminium"
+		}]
 	}],
 	rewards: [{
-		uid: "f67cf8df",
+		uid: "0908410f",
 		type: "item",
-		item: "hbm:ingot_aluminium",
-		count: 16
+		item: "hbm:chunk_ore 1 2",
+		count: 3
 	}]
 }

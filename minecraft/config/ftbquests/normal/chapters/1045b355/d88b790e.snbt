@@ -1,6 +1,9 @@
 {
 	x: 11.0d,
 	y: 0.0d,
+	text: [
+		"Sugar is a source of Ethanol which later makes Solid Fuel."
+	],
 	tasks: [{
 		uid: "26da415f",
 		type: "item",
@@ -20,5 +23,10 @@
 		type: "item",
 		item: "minecraft:reeds",
 		count: 8
+	},
+	{
+		uid: "e370c4c6",
+		type: "item",
+		item: "hbm:solid_fuel"
 	}]
 }

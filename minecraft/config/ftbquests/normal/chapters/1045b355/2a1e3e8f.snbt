@@ -1,10 +1,10 @@
 {
-	x: 11.5d,
+	x: 12.0d,
 	y: -1.0d,
 	text: [
 		"For Stimpacks and Herbal Paste.",
 		"",
-		"Stimpacks heal you and Herbal Paste removes radiation (comes with a cost)."
+		"Stimpacks heal you and Herbal Paste removes radiation (with a cost)."
 	],
 	tasks: [{
 		uid: "cdd6a243",

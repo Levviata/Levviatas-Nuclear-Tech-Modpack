@@ -2,7 +2,7 @@
 	x: 10.0d,
 	y: 0.0d,
 	text: [
-		"Biomass is required later to make Solid Fuel, one of the best fuel in the game."
+		"Biomass is a source of Bio Gas which later makes Solid Fuel."
 	],
 	tasks: [{
 		uid: "dc88d04e",
