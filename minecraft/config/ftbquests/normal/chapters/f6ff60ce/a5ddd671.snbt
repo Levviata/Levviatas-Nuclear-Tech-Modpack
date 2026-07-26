@@ -1,6 +1,6 @@
 {
-	x: -0.5d,
-	y: 1.0d,
+	x: -6.5d,
+	y: 2.5d,
 	text: [
 		"Beryllium Deco Blocks are a decoration block that can be deconstructed in an NTM anvil for materials."
 	],

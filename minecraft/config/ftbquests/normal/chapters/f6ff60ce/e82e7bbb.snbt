@@ -1,6 +1,6 @@
 {
-	x: -1.0d,
-	y: 0.0d,
+	x: -7.0d,
+	y: 1.5d,
 	text: [
 		"Steel Deco Blocks are a decoration block that can be deconstructed in an NTM anvil for materials."
 	],
