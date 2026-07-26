@@ -1,9 +1,8 @@
 {
 	x: 7.0d,
 	y: 1.0d,
-	description: "Pshh: Coal is deadly",
 	text: [
-		"Since coal gives you black lung, you will need to gather charcoal for now. It's not a rather friendly disease, I must say."
+		""
 	],
 	tasks: [{
 		uid: "75287ce8",
@@ -12,11 +11,23 @@
 			item: "minecraft:coal 1 1"
 		}],
 		count: 16L
+	},
+	{
+		uid: "bcaa5b77",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 16L
 	}],
 	rewards: [{
-		uid: "75f9ebd9",
+		uid: "66be2a93",
 		type: "item",
-		item: "minecraft:coal 1 1",
-		count: 32
+		item: "hbm:powder_coal"
+	},
+	{
+		uid: "e285a912",
+		type: "item",
+		item: "hbm:powder_asbestos"
 	}]
 }

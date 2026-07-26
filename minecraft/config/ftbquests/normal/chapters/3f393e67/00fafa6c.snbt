@@ -31,5 +31,10 @@
 		uid: "822025c1",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "a25977c6",
+		type: "item",
+		item: "hbm:bottle2_korl_special"
 	}]
 }

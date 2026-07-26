@@ -39,5 +39,10 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "a8f119cb",
+		type: "item",
+		item: "hbm:redstone_sword"
 	}]
 }

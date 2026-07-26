@@ -16,9 +16,8 @@
 		count: 3
 	},
 	{
-		uid: "b22c01f8",
+		uid: "2dcf911a",
 		type: "item",
-		item: "hbm:plant_flower 1 1",
-		count: 8
+		item: "hbm:plant_item 1 1"
 	}]
 }

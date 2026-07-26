@@ -46,5 +46,16 @@
 		uid: "ef9dfe9d",
 		type: "xp",
 		xp: 10
+	},
+	{
+		uid: "25de9ac1",
+		type: "item",
+		item: "hbm:can_mrsugar"
+	},
+	{
+		uid: "75b775ab",
+		type: "item",
+		item: "minecraft:cooked_beef",
+		count: 16
 	}]
 }

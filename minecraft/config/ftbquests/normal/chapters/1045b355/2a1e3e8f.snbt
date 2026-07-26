@@ -18,6 +18,11 @@
 		uid: "c3120221",
 		type: "item",
 		item: "hbm:syringe_metal_stimpak",
-		count: 4
+		count: 2
+	},
+	{
+		uid: "a63e4083",
+		type: "item",
+		item: "hbm:pill_herbal"
 	}]
 }
