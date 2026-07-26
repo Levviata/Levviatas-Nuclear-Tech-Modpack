@@ -1,0 +1,43 @@
+{
+	x: 11.0d,
+	y: -2.5d,
+	dependencies: [
+		"e4cc035e"
+	],
+	tasks: [{
+		uid: "82e2a126",
+		type: "item",
+		items: [{
+			item: "hbm:titanium_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "67fb66f1",
+		type: "item",
+		items: [{
+			item: "hbm:titanium_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "927fd5fc",
+		type: "item",
+		items: [{
+			item: "hbm:titanium_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e0ebd0d8",
+		type: "item",
+		items: [{
+			item: "hbm:titanium_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 7.0d,
+	dependencies: [
+		"60750f12"
+	],
+	tasks: [{
+		uid: "41166b30",
+		type: "item",
+		items: [{
+			item: "hbm:crystal_aluminium"
+		}]
+	}]
+}

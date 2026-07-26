@@ -1,0 +1,25 @@
+{
+	title: "Aluminium Ore Cluster",
+	icon: "hbm:cluster_aluminium",
+	x: 8.5d,
+	y: -2.5d,
+	text: [
+		"...You won't need a crucible for now, but you'll have to make it, eventually."
+	],
+	dependencies: [
+		"60750f12"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2ff1988c",
+		type: "item",
+		items: [{
+			item: "hbm:crystal_aluminium"
+		}]
+	}],
+	rewards: [{
+		uid: "6de39c15",
+		type: "xp",
+		xp: 50
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "910c73f6",
+		type: "item",
+		items: [{
+			item: "hbm:crystal_aluminium"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "HIDDEN QUESTS",
+	x: 6.571428571428584d,
+	y: 5.000000000000007d,
+	description: "DO NOT TOUCH",
+	text: [
+		""
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "8091ed4a",
+		type: "item",
+		items: [{
+			item: "minecraft:barrier"
+		}]
+	}]
+}
