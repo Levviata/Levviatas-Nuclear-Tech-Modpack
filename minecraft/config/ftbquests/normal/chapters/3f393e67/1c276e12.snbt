@@ -8,6 +8,10 @@
 		"",
 		"Obsidian is the second best material for stamps having a durability of 512, first being Desh with infinite durability."
 	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"00fafa6c"
+	],
 	tasks: [{
 		uid: "3b8eb466",
 		type: "item",

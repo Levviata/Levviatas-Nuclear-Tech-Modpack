@@ -6,6 +6,10 @@
 		"",
 		"It's used in High-Speed Steel, Laboratory Glassware, and may be breed in a Breeding Reactor into Cobalt-60."
 	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"00fafa6c"
+	],
 	tasks: [{
 		uid: "15f1a63e",
 		type: "item",
