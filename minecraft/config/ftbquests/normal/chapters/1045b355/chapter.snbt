@@ -17,5 +17,16 @@
 		],
 		click: "https://nucleartech.wiki/wiki/Main_Page",
 		dev: false
+	},
+	{
+		x: -3.0d,
+		y: -5.5d,
+		width: 3.2d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "minecraft:textures/items/structure_void.png",
+		hover: [],
+		click: "",
+		dev: false
 	}]
 }
