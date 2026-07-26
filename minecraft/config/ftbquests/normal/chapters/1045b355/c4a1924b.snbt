@@ -22,5 +22,11 @@
 	tasks: [{
 		uid: "bbb8d7be",
 		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "70ebefa1",
+		type: "item",
+		item: "minecraft:cooked_beef",
+		count: 16
 	}]
 }

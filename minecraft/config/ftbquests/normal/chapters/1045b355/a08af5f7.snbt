@@ -36,5 +36,10 @@
 		uid: "1d8dac96",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "43abc244",
+		type: "item",
+		item: "hbm:cigarette"
 	}]
 }
