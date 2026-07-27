@@ -19,5 +19,14 @@
 /minecraft/vintagefix/
 /minecraft/xaero/
 /minecraft/XaeroWaypoints_BACKUP240807/
-/minecraft/config/hbmConfig/
+# these recursively regenerate which is not good for the commit history
+/minecraft/config/hbmConfig/_hbmArmor.json
+/minecraft/config/hbmConfig/_hbmFallout.json
+/minecraft/config/hbmConfig/_hbmFluidTraits.json
+/minecraft/config/hbmConfig/_hbmItemPools.json
+/minecraft/config/hbmConfig/_hbmRadResist.json.json
+/minecraft/config/hbmConfig/_hbmRadResist.json
+# all of these too
 /minecraft/config/hbmRecipes/
+
+/minecraft/local/ftbquests/
