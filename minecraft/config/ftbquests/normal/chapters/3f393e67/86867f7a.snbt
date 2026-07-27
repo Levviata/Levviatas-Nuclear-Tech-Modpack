@@ -4,7 +4,7 @@
 	text: [
 		"Steel is the most important ingot in NTM, most machines are made out of steel one way or the other. ",
 		"",
-		"You will always need this stuff, so might as well start producing large amounts early on, you won't regret it."
+		"You will always need this stuff, so might as well start producing large amounts early, you won't regret it."
 	],
 	dependencies: [
 		"a488de09"
