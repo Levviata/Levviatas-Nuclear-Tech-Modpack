@@ -23,5 +23,10 @@
 		uid: "9d42d045",
 		type: "item",
 		item: "hbm:pollution_detector"
+	},
+	{
+		uid: "6eacce15",
+		type: "random",
+		table: 2
 	}]
 }
