@@ -3,6 +3,7 @@
 	icon: "hbm:ingot_asbestos",
 	x: -5.5d,
 	y: 10.5d,
+	shape: "square",
 	description: "Financial compensation refused",
 	text: [
 		"Mesothelioma is a disease added by Nuclear Tech Mod. ",

@@ -3,6 +3,7 @@
 	icon: "minecraft:coal",
 	x: -6.5d,
 	y: 10.5d,
+	shape: "square",
 	description: "Inhale coal dust, exhale silicosis",
 	text: [
 		"Black Lung, or silicosis, is a disease added by Nuclear Tech Mod.",

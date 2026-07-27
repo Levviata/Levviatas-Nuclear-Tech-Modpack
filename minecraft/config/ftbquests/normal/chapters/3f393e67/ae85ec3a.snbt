@@ -3,13 +3,13 @@
 	icon: "hbm:canister_fuel 1 80",
 	x: -0.6654761904761912d,
 	y: 23.414285714285704d,
+	shape: "square",
 	text: [
 		"If you are roasting coal in the oven you get coal tar creosote as a side product, this may be stored and refined into solid fuel, though it isn't that efficient."
 	],
 	dependencies: [
 		"12d9934e"
 	],
-	optional: true,
 	tasks: [{
 		uid: "ecf72248",
 		type: "checkmark"

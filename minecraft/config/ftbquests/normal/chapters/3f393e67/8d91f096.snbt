@@ -3,6 +3,7 @@
 	icon: "hbm:template_folder",
 	x: 0.0d,
 	y: 6.75d,
+	shape: "square",
 	description: "Removed",
 	text: [
 		"The machine template folder was a tool that produced templates, stamps, and fluid identifiers.",
