@@ -22,9 +22,8 @@
 		}]
 	}],
 	rewards: [{
-		uid: "bb6cbb02",
-		type: "item",
-		item: "hbm:ingot_titanium",
-		count: 4
+		uid: "e890d3c1",
+		type: "xp",
+		xp: 20
 	}]
 }

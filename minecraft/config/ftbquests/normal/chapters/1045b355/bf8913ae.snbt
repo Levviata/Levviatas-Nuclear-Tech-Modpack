@@ -14,11 +14,17 @@
 		items: [{
 			item: "hbm:ore_aluminium"
 		}]
+	},
+	{
+		uid: "7a7f2790",
+		type: "item",
+		items: [{
+			item: "hbm:chunk_ore 1 2"
+		}]
 	}],
 	rewards: [{
-		uid: "0908410f",
-		type: "item",
-		item: "hbm:chunk_ore 1 2",
-		count: 3
+		uid: "94a6f3bc",
+		type: "xp",
+		xp: 20
 	}]
 }

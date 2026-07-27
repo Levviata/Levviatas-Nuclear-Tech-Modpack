@@ -57,16 +57,9 @@
 		xp: 20
 	},
 	{
-		uid: "778797c6",
+		uid: "44c70082",
 		type: "item",
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				filling: 1,
-				fuze: 1
-			}
-		},
-		count: 2
+		item: "hbm:ingot_titanium",
+		count: 4
 	}]
 }

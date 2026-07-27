@@ -45,5 +45,16 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1a42c11d",
+		type: "item",
+		item: "hbm:ingot_titanium",
+		count: 4
+	},
+	{
+		uid: "e3cd200e",
+		type: "xp",
+		xp: 20
 	}]
 }

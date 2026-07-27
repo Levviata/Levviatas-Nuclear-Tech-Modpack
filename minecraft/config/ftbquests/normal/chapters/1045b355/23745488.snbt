@@ -29,5 +29,10 @@
 		uid: "e285a912",
 		type: "item",
 		item: "hbm:powder_asbestos"
+	},
+	{
+		uid: "31ed3389",
+		type: "random",
+		table: 1
 	}]
 }

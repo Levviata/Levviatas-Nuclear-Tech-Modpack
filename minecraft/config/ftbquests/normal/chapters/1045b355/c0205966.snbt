@@ -10,13 +10,18 @@
 		type: "item",
 		items: [{
 			item: "hbm:ingot_lead"
-		}],
-		count: 12L
+		}]
+	},
+	{
+		uid: "5c12da75",
+		type: "item",
+		items: [{
+			item: "hbm:ore_lead"
+		}]
 	}],
 	rewards: [{
-		uid: "6d2dc61f",
-		type: "item",
-		item: "hbm:ingot_lead",
-		count: 12
+		uid: "80ba400e",
+		type: "xp",
+		xp: 20
 	}]
 }
