@@ -1,6 +1,10 @@
 {
-	x: 9.0d,
-	y: 0.0d,
+	title: "Lead",
+	x: 10.5d,
+	y: 1.0d,
+	text: [
+		"Lead ore is found below Y 35 and it's used for rounds, radiation protection, and some specific items."
+	],
 	tasks: [{
 		uid: "00591b9b",
 		type: "item",

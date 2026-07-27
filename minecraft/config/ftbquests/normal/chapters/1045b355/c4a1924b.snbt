@@ -3,7 +3,7 @@
 	icon: "minecraft:tnt",
 	x: 2.0d,
 	y: -1.0d,
-	shape: "octagon",
+	shape: "rsquare",
 	description: "For a world without 1.12.2 OptiFine.",
 	text: [
 		"I have added the best optimizations in the world for 1.12.2 Forge, you could even cremate your computer and Minecraft would still run fine.",

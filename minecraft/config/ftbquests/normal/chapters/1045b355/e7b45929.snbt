@@ -1,6 +1,12 @@
 {
 	x: 8.0d,
 	y: 0.0d,
+	title: "Copper",
+	x: 8.5d,
+	y: 1.0d,
+	text: [
+		"Copper ore appears naturally below Y 50 and its widely used for machines and items."
+	],
 	tasks: [{
 		uid: "314d803a",
 		type: "item",
