@@ -1,6 +1,10 @@
 {
+	title: "Titanium Tools",
 	x: 11.0d,
 	y: -2.5d,
+	text: [
+		"Titanium tools are equivalent to diamond "
+	],
 	dependencies: [
 		"e4cc035e"
 	],
