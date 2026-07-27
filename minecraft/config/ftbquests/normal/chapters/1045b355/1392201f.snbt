@@ -3,7 +3,9 @@
 	x: 11.0d,
 	y: -2.5d,
 	text: [
-		"Titanium tools are equivalent to diamond "
+		"Titanium tools are equivalent to diamond with 43% less durability but slightly better damage.",
+		"",
+		"It can mine obsidian."
 	],
 	dependencies: [
 		"e4cc035e"
@@ -43,5 +45,28 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "84ae0e20",
+		type: "item",
+		item: "hbm:titanium_hoe"
+	},
+	{
+		uid: "873dfd6f",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "778797c6",
+		type: "item",
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 1,
+				fuze: 1
+			}
+		},
+		count: 2
 	}]
 }
