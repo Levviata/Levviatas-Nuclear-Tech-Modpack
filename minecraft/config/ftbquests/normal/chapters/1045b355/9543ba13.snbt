@@ -1,0 +1,42 @@
+{
+	x: 9.0d,
+	y: 2.5d,
+	shape: "pentagon",
+	description: "Grinding? I call that paying with time.",
+	text: [
+		""
+	],
+	dependencies: [
+		"e7b45929"
+	],
+	tasks: [{
+		uid: "f83ac038",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_copper"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "7c958f36",
+		type: "loot",
+		title: "Gunpowder Grenades",
+		table: 0
+	},
+	{
+		uid: "a69a664c",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "512451fa",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "1a487fdb",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 16
+	}]
+}

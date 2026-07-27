@@ -1,0 +1,36 @@
+{
+	x: 11.0d,
+	y: 2.5d,
+	dependencies: [
+		"c0205966"
+	],
+	tasks: [{
+		uid: "cc658c6a",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_lead"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "874a63b2",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "6071ce68",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "0695bf58",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "08343417",
+		type: "item",
+		item: "hbm:ingot_lead",
+		count: 16
+	}]
+}

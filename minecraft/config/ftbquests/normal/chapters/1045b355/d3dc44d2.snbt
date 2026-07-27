@@ -1,0 +1,36 @@
+{
+	x: 9.0d,
+	y: -2.5d,
+	dependencies: [
+		"bf8913ae"
+	],
+	tasks: [{
+		uid: "db426155",
+		type: "item",
+		items: [{
+			item: "hbm:chunk_ore 1 2"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "394a2c60",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "e0c61e20",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "74154fb1",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "ccaf66ce",
+		type: "item",
+		item: "hbm:chunk_ore 1 2",
+		count: 16
+	}]
+}

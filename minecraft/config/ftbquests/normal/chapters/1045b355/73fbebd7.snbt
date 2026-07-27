@@ -1,0 +1,37 @@
+{
+	x: 12.0d,
+	y: -3.0d,
+	shape: "pentagon",
+	dependencies: [
+		"e4cc035e"
+	],
+	tasks: [{
+		uid: "517447e0",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_titanium"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "40c7a984",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "812a5aa8",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "8623f2d9",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "35c2f6ee",
+		type: "item",
+		item: "hbm:ingot_titanium",
+		count: 16
+	}]
+}

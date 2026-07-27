@@ -1,0 +1,33 @@
+{
+	x: 8.0d,
+	y: 2.5d,
+	text: [
+		"The Dwarven Pickaxe is equivalent to an Iron Pickaxe but with special abilities.",
+		"",
+		"It has AoE and Flat AoE.",
+		"Press Right-Click while holding the pickaxe to cycle through the abilities."
+	],
+	dependencies: [
+		"e7b45929"
+	],
+	tasks: [{
+		uid: "ddd2253d",
+		type: "item",
+		items: [{
+			item: "hbm:dwarven_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f4174bbb",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 8
+	},
+	{
+		uid: "944ca3ea",
+		type: "random",
+		table: 1
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	x: 10.0d,
+	y: 2.5d,
+	description: "Iron replacement suplement",
+	text: [
+		"Do you dare do it?"
+	],
+	dependencies: [
+		"c0205966"
+	],
+	tasks: [{
+		uid: "918baa8c",
+		type: "item",
+		items: [{
+			item: "hbm:apple_lead 1 1"
+		}]
+	},
+	{
+		uid: "c465df2d",
+		type: "item",
+		items: [{
+			item: "hbm:apple_lead 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "974aa82f",
+		type: "random",
+		table: 0
+	}]
+}
