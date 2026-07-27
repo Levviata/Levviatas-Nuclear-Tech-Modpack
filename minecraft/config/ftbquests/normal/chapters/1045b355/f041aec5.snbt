@@ -27,5 +27,17 @@
 		uid: "6289c916",
 		type: "item",
 		item: "hbm:canned_conserve 1 20"
+	},
+	{
+		uid: "2cbc08d8",
+		type: "item",
+		item: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "hbm:entity_elder_one"
+				}
+			}
+		}
 	}]
 }

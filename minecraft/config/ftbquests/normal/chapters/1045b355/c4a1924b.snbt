@@ -24,9 +24,8 @@
 		type: "checkmark"
 	}],
 	rewards: [{
-		uid: "70ebefa1",
-		type: "item",
-		item: "minecraft:cooked_beef",
-		count: 16
+		uid: "963b25a2",
+		type: "random",
+		table: 1
 	}]
 }

@@ -15,21 +15,8 @@
 		}]
 	}],
 	rewards: [{
-		uid: "f7e3cfd6",
-		type: "item",
-		item: "hbm:solid_fuel",
-		count: 8
-	},
-	{
-		uid: "55ce6cea",
-		type: "item",
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				filling: 0,
-				fuze: 0
-			}
-		}
+		uid: "c9241969",
+		type: "random",
+		table: 3
 	}]
 }

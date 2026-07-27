@@ -28,9 +28,8 @@
 		count: 4
 	},
 	{
-		uid: "b7cdf284",
-		type: "item",
-		item: "hbm:coal_infernal",
-		count: 32
+		uid: "88db7bf6",
+		type: "random",
+		table: 3
 	}]
 }

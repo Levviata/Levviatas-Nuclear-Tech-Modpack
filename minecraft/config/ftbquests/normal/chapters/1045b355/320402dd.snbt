@@ -30,9 +30,8 @@
 		item: "hbm:plushie 1 2"
 	},
 	{
-		uid: "8b15b6e8",
-		type: "item",
-		item: "minecraft:cooked_beef",
-		count: 16
+		uid: "8cdee88d",
+		type: "random",
+		table: 1
 	}]
 }

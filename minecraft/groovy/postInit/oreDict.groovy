@@ -4,6 +4,13 @@ log.info('Loading oreDict.gvy')
 ore_dict.add('ironAnvil', item('hbm:anvil_iron'))
 ore_dict.add('ironAnvil', item('hbm:anvil_lead'))
 
+oreDict.add('stoneResource', item('hbm:stone_resource:0'))
+oreDict.add('stoneResource', item('hbm:stone_resource:1'))
+oreDict.add('stoneResource', item('hbm:stone_resource:2'))
+oreDict.add('stoneResource', item('hbm:stone_resource:3'))
+oreDict.add('stoneResource', item('hbm:stone_resource:4'))
+oreDict.add('stoneResource', item('hbm:stone_resource:5'))
+
 ore_dict.add('foodCheese', item('hbm:cheese'))
 ore_dict.add('foodCheese', item('hbm:cheese_quesadilla'))
 ore_dict.add('foodCheese', item('hbm:canned_conserve:4'))

@@ -18,5 +18,10 @@
 	tasks: [{
 		uid: "bcf0069e",
 		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "5c9231c9",
+		type: "xp",
+		xp: 10
 	}]
 }

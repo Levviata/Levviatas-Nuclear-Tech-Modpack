@@ -26,15 +26,13 @@
 		xp: 10
 	},
 	{
-		uid: "1f43dada",
-		type: "item",
-		item: "hbm:coffee",
-		count: 2
+		uid: "bcca0603",
+		type: "random",
+		table: 2
 	},
 	{
-		uid: "3fff4501",
-		type: "item",
-		item: "hbm:nugget",
-		count: 3
+		uid: "e7b5f710",
+		type: "random",
+		table: 1
 	}]
 }

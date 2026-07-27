@@ -38,8 +38,8 @@
 		xp: 100
 	},
 	{
-		uid: "43abc244",
-		type: "item",
-		item: "hbm:cigarette"
+		uid: "d831e118",
+		type: "random",
+		table: 2
 	}]
 }

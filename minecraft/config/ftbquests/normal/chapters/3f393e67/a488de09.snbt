@@ -58,5 +58,10 @@
 		type: "item",
 		item: "hbm:ingot_aluminium",
 		count: 16
+	},
+	{
+		uid: "bb662cae",
+		type: "random",
+		table: 2
 	}]
 }

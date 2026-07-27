@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:fluid_tank_empty"
 		}]
+	}],
+	rewards: [{
+		uid: "9c53476e",
+		type: "xp",
+		xp: 10
 	}]
 }

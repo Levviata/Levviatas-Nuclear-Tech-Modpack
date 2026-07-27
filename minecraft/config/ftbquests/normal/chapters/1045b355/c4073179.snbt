@@ -35,14 +35,8 @@
 		xp: 10
 	},
 	{
-		uid: "cad794f9",
-		type: "item",
-		item: "hbm:can_redbomb"
-	},
-	{
-		uid: "382d4a3d",
-		type: "item",
-		item: "minecraft:cooked_beef",
-		count: 16
+		uid: "9c2a9b68",
+		type: "random",
+		table: 1
 	}]
 }

@@ -24,5 +24,10 @@
 		items: [{
 			item: "hbm:machine_annihilator"
 		}]
+	}],
+	rewards: [{
+		uid: "1097f48c",
+		type: "random",
+		table: 1
 	}]
 }

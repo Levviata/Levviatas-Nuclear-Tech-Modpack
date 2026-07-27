@@ -26,5 +26,15 @@
 		uid: "8a53049f",
 		type: "checkmark",
 		icon: "hbm:iv_xp"
+	}],
+	rewards: [{
+		uid: "1a3894e4",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "70898145",
+		type: "random",
+		table: 1
 	}]
 }

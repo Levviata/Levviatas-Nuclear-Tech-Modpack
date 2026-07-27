@@ -27,9 +27,8 @@
 		count: 3
 	},
 	{
-		uid: "7c3a2a46",
-		type: "item",
-		item: "hbm:lignite",
-		count: 32
+		uid: "14a5e37f",
+		type: "random",
+		table: 3
 	}]
 }
