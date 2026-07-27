@@ -16,27 +16,25 @@
 		"",
 		"- Chrysotile (asbestos), ",
 		"",
-		"- and Sulfurous Stone (sulfur. Avoid this one in the early game).",
+		"- and Sulfurous Stone (sulfur).",
 		"",
 		"",
-		"These resource blocks are spread around the world like patches and are extremely important for automating progression later.",
-		"",
-		"If you want to mark these resource patches in some way, you can make waypoints by pressing B: set a name for the waypoint and click \"Confirm\"."
+		"These resource blocks are spread around the world like patches and can be used to automate resource gathering."
 	],
 	tasks: [{
-		uid: "1ddb2f7a",
+		uid: "e3880ca8",
 		type: "item",
 		items: [{
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any oreHematite"
+					Name: "Any stoneResource"
 				}
 			},
 			ForgeCaps: {
 				Parent: {
 					id: "ore",
-					data: "oreHematite"
+					data: "stoneResource"
 				}
 			}
 		}]
@@ -45,5 +43,10 @@
 		uid: "a8f119cb",
 		type: "item",
 		item: "hbm:redstone_sword"
+	},
+	{
+		uid: "fd5de3a1",
+		type: "random",
+		table: 1
 	}]
 }
