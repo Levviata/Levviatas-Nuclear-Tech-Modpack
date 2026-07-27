@@ -2,7 +2,7 @@
 	x: 2.0d,
 	y: 15.0d,
 	text: [
-		"Primarly used to craft Cable, Motors, and Advanced Alloy."
+		"Minecraft Grade Copper is an alloy of copper and redstone, its widely used in electric things like cables or magnet coils."
 	],
 	dependencies: [
 		"a488de09"

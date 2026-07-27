@@ -14,14 +14,18 @@
 		uid: "15f1a63e",
 		type: "item",
 		items: [{
-			item: "hbm:ore_cobalt"
-		}]
-	},
-	{
-		uid: "18dc520f",
-		type: "item",
-		items: [{
-			item: "hbm:ore_nether_cobalt"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreCobalt"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "oreCobalt"
+				}
+			}
 		}]
 	},
 	{
