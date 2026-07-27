@@ -1,6 +1,6 @@
 {
 	title: "Lead",
-	x: 10.5d,
+	x: 12.0d,
 	y: 1.0d,
 	text: [
 		"Lead ore is found below Y 35 and it's used for rounds, radiation protection, and some specific items."

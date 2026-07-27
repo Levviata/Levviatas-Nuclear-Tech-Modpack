@@ -33,8 +33,13 @@
 		xp: 100
 	},
 	{
-		uid: "a25977c6",
-		type: "item",
-		item: "hbm:bottle2_korl_special"
+		uid: "ef13b2aa",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "2c2f913d",
+		type: "random",
+		table: 1
 	}]
 }
