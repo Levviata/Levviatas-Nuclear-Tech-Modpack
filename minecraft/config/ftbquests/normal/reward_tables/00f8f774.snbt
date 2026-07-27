@@ -1,0 +1,38 @@
+{
+	title: "Fuel",
+	loot_size: 1,
+	use_title: true,
+	rewards: [{
+		item: "hbm:solid_fuel",
+		count: 16,
+		weight: 2
+	},
+	{
+		item: "hbm:rocket_fuel",
+		count: 16
+	},
+	{
+		item: "minecraft:coal",
+		count: 32,
+		weight: 4
+	},
+	{
+		item: "hbm:coal_infernal",
+		count: 32,
+		weight: 4
+	},
+	{
+		item: "hbm:coke",
+		count: 32,
+		weight: 3
+	},
+	{
+		item: "minecraft:lava_bucket",
+		weight: 4
+	},
+	{
+		item: "minecraft:coal_block",
+		count: 16,
+		weight: 4
+	}]
+}
