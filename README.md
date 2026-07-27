@@ -9,3 +9,8 @@ Features:
 
 - 0 euros towards my jubilation (yet).
 
+
+Trivia:
+
+- The modpack's birthday is the 15 of September.
+
