@@ -780,6 +780,11 @@ crafting.shapedBuilder() // bring back old glory
         .replaceByName()
         .register()
 
+// provisional Neutron Reflector recipes as the new Blast Furnace doesn't have the recipe for it yet
+// Remove when fixed
+crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coal'), ore('Tungsten')])
+crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coke'), ore('Tungsten')])
+
 // no one told me this thing doesnt work and I've been including it for the past 6 months as a working mechanic
 // remove unused item
 crafting.removeByOutput(item('hbm:template_folder'))
