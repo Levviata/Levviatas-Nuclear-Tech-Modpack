@@ -1,7 +1,0 @@
-{
-	title: "Ores",
-	icon: "minecraft:gold_ore",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

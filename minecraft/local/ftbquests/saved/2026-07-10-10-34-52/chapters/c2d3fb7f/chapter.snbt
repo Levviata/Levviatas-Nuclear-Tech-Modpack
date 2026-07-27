@@ -1,7 +1,0 @@
-{
-	title: "Vanilla",
-	icon: "minecraft:crafting_table",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

@@ -1,7 +1,0 @@
-{
-	title: "Automation",
-	icon: "hbm:conveyor_wand 1 3",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}
