@@ -2,7 +2,7 @@
 	title: "What me do next?",
 	x: 13.75d,
 	y: 0.0d,
-	shape: "pentagon",
+	shape: "rsquare",
 	text: [
 		"No matter what your end goal is, the very beginning of the tech tree always looks the same. You'll need to get these three things:",
 		"",

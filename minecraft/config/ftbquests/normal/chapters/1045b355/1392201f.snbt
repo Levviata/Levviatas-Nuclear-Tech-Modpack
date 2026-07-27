@@ -1,6 +1,6 @@
 {
 	title: "Titanium Tools",
-	x: 11.0d,
+	x: 13.0d,
 	y: -2.5d,
 	text: [
 		"Titanium tools are equivalent to diamond with 43% less durability but slightly better damage.",

@@ -2,7 +2,7 @@
 	title: "Mods",
 	x: 0.0d,
 	y: -2.5d,
-	shape: "hexagon",
+	shape: "square",
 	description: "How many and what they do",
 	text: [
 		"43, there are 43 mods.",

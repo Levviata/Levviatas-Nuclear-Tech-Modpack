@@ -1,6 +1,6 @@
 {
 	title: "Titanium Armor",
-	x: 10.0d,
+	x: 11.0d,
 	y: -2.5d,
 	text: [
 		"Titanium armor has equal protection to diamond with 32% less durability and it gives 9.8% radiation resistance. ",

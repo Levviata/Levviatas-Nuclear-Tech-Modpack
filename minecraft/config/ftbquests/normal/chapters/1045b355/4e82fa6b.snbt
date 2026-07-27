@@ -1,0 +1,30 @@
+{
+	title: "Rewards",
+	x: 4.0d,
+	y: 1.5d,
+	shape: "square",
+	description: "Rules and ideology.",
+	text: [
+		"As I'm a farmer and not a cow, I will give you rewards based on if you deserve it or not.",
+		"",
+		"Paying with time is stupid, so I'll have you work hard and varied for it or nothing.",
+		"These quests are easily identified by their shape because those are nice and easy to see.",
+		"",
+		"Grinding quest, pentagon shaped: Grenades, Food, and a Treat while giving some of the grinded items too.",
+		"Progression quesst, hexagon shaped: Refund some of the ingredients and XP",
+		"Milestone quest, gear shaped: More ingredients and more XP",
+		"Other quests, usually circles: Varies",
+		"Information quests, squares or rounded squares.",
+		"",
+		"Examples:",
+		"",
+		"Grinding for copper ingots will yield you Grenades, Food, and a Treat (randomized).",
+		"Progression could be getting a Burner Press or a Soldering Station, these machines are interesting and unlock more recipes, get part of the ingredients back and XP.",
+		"Milestone could be completing a complicated quest treeline, making a new reactor, or making a key machine for progression like the Blast Furnace. More ingredients and XP."
+	],
+	tasks: [{
+		uid: "8a53049f",
+		type: "checkmark",
+		icon: "hbm:iv_xp"
+	}]
+}

@@ -3,7 +3,7 @@
 	icon: "minecraft:log",
 	x: 4.0d,
 	y: 0.0d,
-	shape: "pentagon",
+	shape: "square",
 	description: "May contain traces of bombs",
 	text: [
 		"One thing you should do if you are brave enough is looting structures. Nuclear Tech Mod adds a variety of structures filled with cool loot and lore, some of which lets you speed out of the early game.",

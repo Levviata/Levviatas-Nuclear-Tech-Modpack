@@ -1,7 +1,7 @@
 {
 	title: "Aluminium Ore Cluster",
 	icon: "hbm:cluster_aluminium",
-	x: 8.5d,
+	x: 8.0d,
 	y: -2.5d,
 	text: [
 		"...You won't need a crucible for now, but you'll have to make it, eventually."

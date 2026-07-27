@@ -3,7 +3,7 @@
 	icon: "hbm:block_waste_painted",
 	x: 2.0690476190476232d,
 	y: 0.9964285714285666d,
-	shape: "octagon",
+	shape: "rsquare",
 	description: "How to see recipes and how to inspect blocks",
 	text: [
 		"I'll give you a few tips about how to use JEI and WAILA, these are important mods that you'll use. If you know how, go to the next quest.",

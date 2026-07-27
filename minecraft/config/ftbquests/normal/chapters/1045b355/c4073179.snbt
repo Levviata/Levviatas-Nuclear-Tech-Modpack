@@ -3,7 +3,7 @@
 	icon: "minecraft:planks",
 	x: 5.625d,
 	y: 0.0d,
-	shape: "pentagon",
+	shape: "square",
 	description: "Stockpile ores, charcoal, clay, sand, and dandelions",
 	text: [
 		"After you got some of that loot candy from buildings (bet you didn't get any loser) and progressed the vanilla early game, you'll need to gather a bunch of materials to start making machines and better tools.",

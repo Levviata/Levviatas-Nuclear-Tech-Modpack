@@ -2,6 +2,7 @@
 	title: "Stone Resources",
 	x: 4.0d,
 	y: -1.5d,
+	shape: "square",
 	text: [
 		"In the world there are certain stone resources that are needed later on in progression and in large quantities, these stones are:",
 		" ",
