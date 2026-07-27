@@ -1,0 +1,36 @@
+{
+	title: "Pepperbox",
+	x: 9.5d,
+	y: 2.5d,
+	text: [
+		"The Pepperbox is the earliest availaible gun, as ammo it uses Ball and Powder or its variants.",
+		"",
+		"It deals 5 damage and it can be modified."
+	],
+	dependencies: [
+		"e7b45929"
+	],
+	tasks: [{
+		uid: "135339a2",
+		type: "item",
+		items: [{
+			item: "hbm:ammo_standard"
+		}],
+		count: 6L
+	},
+	{
+		uid: "9bff2b78",
+		type: "item",
+		items: [{
+			item: "hbm:gun_pepperbox"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5effa9ce",
+		type: "item",
+		item: "hbm:ammo_standard",
+		count: 16
+	}]
+}
