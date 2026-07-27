@@ -1,0 +1,20 @@
+{
+	title: "Food",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:cooked_beef",
+		count: 16
+	},
+	{
+		item: "minecraft:cooked_porkchop",
+		count: 16
+	},
+	{
+		item: "minecraft:cooked_chicken",
+		count: 16
+	},
+	{
+		item: "minecraft:pumpkin_pie",
+		count: 16
+	}]
+}

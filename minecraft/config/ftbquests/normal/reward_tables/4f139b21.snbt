@@ -1,0 +1,150 @@
+{
+	title: "Treats",
+	loot_size: 1,
+	rewards: [{
+		item: "hbm:syringe_metal_medx",
+		weight: 4
+	},
+	{
+		item: "hbm:radaway_strong",
+		count: 2,
+		weight: 4
+	},
+	{
+		item: "hbm:radaway",
+		count: 2,
+		weight: 4
+	},
+	{
+		item: "hbm:syringe_awesome",
+		weight: 4
+	},
+	{
+		item: "hbm:static_sandwich",
+		weight: 4
+	},
+	{
+		item: "hbm:can_mug",
+		weight: 4
+	},
+	{
+		item: "hbm:can_redbomb",
+		weight: 4
+	},
+	{
+		item: "hbm:can_mrsugar",
+		weight: 4
+	},
+	{
+		item: "hbm:can_overcharge",
+		weight: 4
+	},
+	{
+		item: "hbm:cotton_candy",
+		weight: 4
+	},
+	{
+		item: "hbm:schnitzel_vegan",
+		weight: 4
+	},
+	{
+		item: "hbm:nugget",
+		weight: 4
+	},
+	{
+		item: "hbm:loop_stew",
+		weight: 4
+	},
+	{
+		item: "hbm:canned_conserve",
+		weight: 4
+	},
+	{
+		item: "hbm:syringe_metal_super",
+		weight: 4
+	},
+	{
+		item: "hbm:syringe_metal_psycho",
+		weight: 4
+	},
+	{
+		item: "hbm:pill_iodine",
+		count: 8,
+		weight: 4
+	},
+	{
+		item: "hbm:cigarette",
+		weight: 4
+	},
+	{
+		item: "hbm:chocolate",
+		weight: 4
+	},
+	{
+		item: "hbm:coffee_radium",
+		weight: 4
+	},
+	{
+		item: "hbm:pancake",
+		weight: 4
+	},
+	{
+		item: "hbm:bottle_cherry",
+		weight: 4
+	},
+	{
+		item: "hbm:bottle_sparkle",
+		weight: 4
+	},
+	{
+		item: "hbm:bottle_rad",
+		weight: 4
+	},
+	{
+		item: "hbm:bottle_nuka",
+		weight: 4
+	},
+	{
+		item: "hbm:med_bag",
+		weight: 4
+	},
+	{
+		item: "hbm:bottle2_fritz_special",
+		weight: 4
+	},
+	{
+		item: "hbm:bottle2_korl_special",
+		weight: 4
+	},
+	{
+		item: "hbm:coffee",
+		weight: 4
+	},
+	{
+		item: "hbm:apple_euphemium"
+	},
+	{
+		item: "hbm:apple_schrabidium",
+		weight: 2
+	},
+	{
+		item: "hbm:apple_schrabidium 1 1",
+		weight: 2
+	},
+	{
+		item: "hbm:apple_schrabidium 1 2",
+		weight: 2
+	},
+	{
+		item: "hbm:apple_lead",
+		weight: 3
+	},
+	{
+		item: "hbm:apple_lead 1 1",
+		weight: 3
+	},
+	{
+		item: "hbm:apple_lead 1 2",
+		weight: 3
+	}]
+}
