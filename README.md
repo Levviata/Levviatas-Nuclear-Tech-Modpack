@@ -12,5 +12,5 @@ Features:
 
 Trivia:
 
-- The modpack's birthday is the 15 of September.
+- The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
 
