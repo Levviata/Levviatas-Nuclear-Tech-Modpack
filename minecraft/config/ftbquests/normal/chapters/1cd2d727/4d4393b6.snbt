@@ -9,7 +9,7 @@
 		"",
 		"Mine with a pickaxe to remove.",
 		"",
-		"(I changed the recipe of 4 Ropes, 2 Iron Plates, and 2 Iron Ingots to give x32 conveyors instead of 16, you are welcome)."
+		"(recipe change, rope + iron + iron plate recipe was change to output 32, the one with latex is now more expensive using iron plates)"
 	],
 	tasks: [{
 		uid: "d5d01b26",

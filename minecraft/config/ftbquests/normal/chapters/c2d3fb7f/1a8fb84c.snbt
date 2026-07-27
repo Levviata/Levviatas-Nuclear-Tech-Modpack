@@ -2,7 +2,7 @@
 	x: 12.0d,
 	y: 4.5d,
 	text: [
-		"Needed to make silicon. With silicon you can make Refined Storage's machines."
+		"Needed to make silicon."
 	],
 	dependencies: [
 		"9bcc9848"
