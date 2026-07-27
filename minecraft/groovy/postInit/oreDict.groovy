@@ -11,6 +11,11 @@ oreDict.add('stoneResource', item('hbm:stone_resource:3'))
 oreDict.add('stoneResource', item('hbm:stone_resource:4'))
 oreDict.add('stoneResource', item('hbm:stone_resource:5'))
 
+oreDict.add('coal', item('minecraft:coal'))
+oreDict.add('coal', item('hbm:powder_coal'))
+
+oreDict.add('Tungsten', item('hbm:powder_tungsten'))
+
 ore_dict.add('foodCheese', item('hbm:cheese'))
 ore_dict.add('foodCheese', item('hbm:cheese_quesadilla'))
 ore_dict.add('foodCheese', item('hbm:canned_conserve:4'))
