@@ -1,0 +1,31 @@
+{
+	x: 11.0d,
+	y: 2.0d,
+	shape: "pentagon",
+	dependencies: [
+		"2208844f"
+	],
+	tasks: [{
+		uid: "02c349ac",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_weaponsteel"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "9115da30",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "af4ba9b9",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "69c68e40",
+		type: "random",
+		table: 1
+	}]
+}
