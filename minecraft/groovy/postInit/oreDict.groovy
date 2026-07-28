@@ -14,6 +14,9 @@ oreDict.add('stoneResource', item('hbm:stone_resource:5'))
 oreDict.add('coal', item('minecraft:coal'))
 oreDict.add('coal', item('hbm:powder_coal'))
 
+// goofy how it isnt included by default
+oreDict.add('blockSlag', item('hbm:block_slag:1'))
+
 oreDict.add('Tungsten', item('hbm:powder_tungsten'))
 
 ore_dict.add('foodCheese', item('hbm:cheese'))
