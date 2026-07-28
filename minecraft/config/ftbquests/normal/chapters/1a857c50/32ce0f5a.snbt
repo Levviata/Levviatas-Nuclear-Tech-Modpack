@@ -1,0 +1,26 @@
+{
+	x: 15.0d,
+	y: -11.5d,
+	text: [
+		"The Large Mining Drill is a machine which drills in a 3x3 area, it's mainly used to extract Bedrock Ore.",
+		"",
+		"It needs a Drillbit, power, and solvent (if required).",
+		"",
+		"The machine has 5 levers:",
+		"",
+		"1. Toggles on or off",
+		"2. Silktouch",
+		"3. Shred ores",
+		"4. Vein mining",
+		"5. Construct walls",
+		"",
+		"Silktouch and Vein mining are only availaible if the Drillbits have the ability."
+	],
+	tasks: [{
+		uid: "9ff24950",
+		type: "item",
+		items: [{
+			item: "hbm:machine_excavator"
+		}]
+	}]
+}
