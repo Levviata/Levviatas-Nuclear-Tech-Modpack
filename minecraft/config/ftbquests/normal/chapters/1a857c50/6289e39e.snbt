@@ -1,5 +1,5 @@
 {
-	x: 13.0d,
+	x: 13.5d,
 	y: -3.5d,
 	description: "§e§nRequires:§r§e Industrial Smokestack",
 	text: [
@@ -7,7 +7,6 @@
 	],
 	min_required_dependencies: 1,
 	dependencies: [
-		"6e8da64d",
 		"84cccbc5"
 	],
 	tasks: [{
