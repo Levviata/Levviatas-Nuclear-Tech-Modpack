@@ -20,3 +20,13 @@ Trivia:
 
 - The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
 
+## Quests and Progression
+So far I have done:
+
+- Early Game: 100%.
+- Oil Age/Refining (mid-game): 67%.
+- Refined Storage: Less than I would prefer.
+- Reactors: 33%.
+- Weapons, Missiles, Grenades: Starting out.
+- Ores and Ingots: 75%~ (some are missing).
+- Recipe Changes: 10% (optional)
