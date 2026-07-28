@@ -1,6 +1,16 @@
 {
 	x: 7.0d,
 	y: -7.5d,
+	text: [
+		"The Survey Scanner scans the depths below your feet in a 10 block radius for useful materials.",
+		"",
+		"It can find:",
+		"- Bedrock Ore ",
+		"- Coltan ",
+		"- Depth Rock ",
+		"- Schist",
+		"- Oil"
+	],
 	dependencies: [
 		"e05443a9"
 	],
@@ -13,5 +23,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b91df72b",
+		type: "command",
+		auto: "invisible",
+		command: "/ftbquests change_progress reset @p 0f29a16e"
 	}]
 }
