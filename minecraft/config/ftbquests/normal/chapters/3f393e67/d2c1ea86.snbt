@@ -1,0 +1,31 @@
+{
+	x: 1.0d,
+	y: 23.5d,
+	shape: "pentagon",
+	dependencies: [
+		"48a2a7c5"
+	],
+	tasks: [{
+		uid: "f9c0c892",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_dura_steel"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "b27684c7",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "a7a4a722",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "e76fbbe4",
+		type: "random",
+		table: 2
+	}]
+}

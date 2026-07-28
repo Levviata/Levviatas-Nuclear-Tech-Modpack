@@ -1,0 +1,121 @@
+{
+	title: "Starmetal Fan",
+	x: 21.5d,
+	y: 2.5d,
+	shape: "pentagon",
+	description: "You know what to do",
+	text: [
+		""
+	],
+	dependencies: [
+		"d9e51e1d",
+		"0276c74c"
+	],
+	tasks: [{
+		uid: "b148380b",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d573e5b4",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b81fddc5",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "eef3192d",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6485bdaf",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6b0b2548",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c8575d76",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c340f1c4",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fb67d24c",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "95dab6b7",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "3c9a98be",
+		type: "random",
+		table: 5
+	},
+	{
+		uid: "0c3b6a11",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "0e50d14c",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "9af6128b",
+		type: "item",
+		item: "hbm:ingot_starmetal",
+		count: 16
+	}]
+}
