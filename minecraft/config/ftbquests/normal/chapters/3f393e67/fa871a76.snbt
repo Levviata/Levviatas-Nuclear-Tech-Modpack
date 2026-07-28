@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 16.0d,
+	dependencies: [
+		"86867f7a"
+	],
+	tasks: [{
+		uid: "fed648b9",
+		type: "item",
+		items: [{
+			item: "hbm:grenade_shell"
+		}]
+	}]
+}
