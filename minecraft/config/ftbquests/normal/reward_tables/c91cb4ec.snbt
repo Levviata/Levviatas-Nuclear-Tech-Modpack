@@ -326,6 +326,1542 @@
 		item: {
 			id: "hbm:grenade_universal",
 			tag: {
+				shell: 0,
+				filling: 2,
+				fuze: 0,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 0,
+				extra: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 0,
+				shell: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 0,
+				extra: 2,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 0,
+				shell: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 2,
+				fuze: 1,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 1,
+				shell: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 3,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 2,
+				fuze: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 2,
+				shell: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 3,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 2,
+				fuze: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 3,
+				extra: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 3,
+				extra: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 3,
+				shell: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 3,
+				shell: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 2,
+				fuze: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 4,
+				extra: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 4,
+				shell: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 4,
+				extra: 2,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 4,
+				shell: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 3,
+				fuze: 0,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 0,
+				extra: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 0,
+				shell: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 0,
+				extra: 2,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 0,
+				shell: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 3,
+				fuze: 1,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 1,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 1,
+				shell: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 3,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 3,
+				fuze: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 1,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 2,
+				shell: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 3,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 3,
+				fuze: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 3,
+				extra: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 3,
+				extra: 1,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 3,
+				shell: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 3,
+				shell: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 3,
+				fuze: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 4,
+				extra: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 4,
+				shell: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 4,
+				extra: 2,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 4,
+				shell: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 3,
+				fuze: 0,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 0,
+				extra: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 0,
+				shell: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 0,
+				extra: 2,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 0,
+				shell: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 4,
+				fuze: 1,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 1,
+				shell: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 3,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 4,
+				fuze: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 2,
+				shell: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 3,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 4,
+				fuze: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 3,
+				extra: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 3,
+				extra: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 3,
+				shell: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 3,
+				shell: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 4,
+				fuze: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 4,
+				extra: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 4,
+				shell: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 4,
+				extra: 2,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 4,
+				shell: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 5,
+				fuze: 1,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 1,
+				shell: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 1,
+				extra: 3,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 5,
+				fuze: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 2,
+				shell: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 2,
+				extra: 3,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 5,
+				fuze: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 3,
+				extra: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 3,
+				extra: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 3,
+				shell: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 3,
+				shell: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				filling: 5,
+				fuze: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 4,
+				extra: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 4,
+				shell: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 0,
+				fuze: 4,
+				extra: 2,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 4,
+				shell: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 2,
+				fuze: 0,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 0,
+				extra: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 0,
+				shell: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 0,
+				extra: 2,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 0,
+				shell: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 2,
+				fuze: 1,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 1,
+				extra: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 1,
+				extra: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 1,
+				shell: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 1,
+				extra: 3,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 2,
+				fuze: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 2,
+				extra: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 2,
+				extra: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 2,
+				shell: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 2,
+				extra: 3,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 2,
+				fuze: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 3,
+				extra: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 3,
+				extra: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 3,
+				shell: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 3,
+				shell: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 2,
+				fuze: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 4,
+				extra: 0,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 4,
+				shell: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 4,
+				extra: 2,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 4,
+				shell: 1,
+				filling: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
 				shell: 1,
 				filling: 1,
 				fuze: 0,
@@ -646,307 +2182,13 @@
 		item: {
 			id: "hbm:grenade_universal",
 			tag: {
-				shell: 0,
-				filling: 2,
-				fuze: 0,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 0,
-				extra: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				extra: 1,
-				fuze: 0,
-				shell: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 0,
-				extra: 2,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				extra: 3,
-				fuze: 0,
-				shell: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				filling: 2,
-				fuze: 1,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 1,
-				extra: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 1,
-				extra: 1,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				extra: 2,
-				fuze: 1,
-				shell: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 1,
-				extra: 3,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				filling: 2,
-				fuze: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 2,
-				extra: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 2,
-				extra: 1,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				extra: 2,
-				fuze: 2,
-				shell: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 2,
-				extra: 3,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				filling: 2,
-				fuze: 3,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 3,
-				extra: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 3,
-				extra: 1,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				extra: 2,
-				fuze: 3,
-				shell: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				extra: 3,
-				fuze: 3,
-				shell: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				filling: 2,
-				fuze: 4,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 4,
-				extra: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				extra: 1,
-				fuze: 4,
-				shell: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				fuze: 4,
-				extra: 2,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				extra: 3,
-				fuze: 4,
-				shell: 0,
-				filling: 2,
-				eqipped: 0b
-			}
-		}
-	},
-	{
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				fuze: 0,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -955,10 +2197,11 @@
 				shell: 1,
 				fuze: 0,
 				extra: 0,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -967,10 +2210,11 @@
 				extra: 1,
 				fuze: 0,
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -979,10 +2223,11 @@
 				shell: 1,
 				fuze: 0,
 				extra: 2,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -991,21 +2236,23 @@
 				extra: 3,
 				fuze: 0,
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
 			id: "hbm:grenade_universal",
 			tag: {
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				fuze: 1,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1014,10 +2261,11 @@
 				shell: 1,
 				fuze: 1,
 				extra: 0,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1026,10 +2274,11 @@
 				shell: 1,
 				fuze: 1,
 				extra: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1038,10 +2287,11 @@
 				extra: 2,
 				fuze: 1,
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1050,21 +2300,23 @@
 				shell: 1,
 				fuze: 1,
 				extra: 3,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
 			id: "hbm:grenade_universal",
 			tag: {
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				fuze: 2,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1073,10 +2325,11 @@
 				shell: 1,
 				fuze: 2,
 				extra: 0,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1085,10 +2338,11 @@
 				shell: 1,
 				fuze: 2,
 				extra: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1097,10 +2351,11 @@
 				extra: 2,
 				fuze: 2,
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1109,21 +2364,23 @@
 				shell: 1,
 				fuze: 2,
 				extra: 3,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
 			id: "hbm:grenade_universal",
 			tag: {
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				fuze: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1132,10 +2389,11 @@
 				shell: 1,
 				fuze: 3,
 				extra: 0,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1144,10 +2402,11 @@
 				shell: 1,
 				fuze: 3,
 				extra: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1156,10 +2415,11 @@
 				extra: 2,
 				fuze: 3,
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1168,21 +2428,23 @@
 				extra: 3,
 				fuze: 3,
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
 			id: "hbm:grenade_universal",
 			tag: {
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				fuze: 4,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1191,10 +2453,11 @@
 				shell: 1,
 				fuze: 4,
 				extra: 0,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1203,10 +2466,11 @@
 				extra: 1,
 				fuze: 4,
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1215,10 +2479,11 @@
 				shell: 1,
 				fuze: 4,
 				extra: 2,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
 		item: {
@@ -1227,363 +2492,586 @@
 				extra: 3,
 				fuze: 4,
 				shell: 1,
-				filling: 2,
+				filling: 3,
 				eqipped: 0b
 			}
-		}
+		},
+		count: 4
 	},
 	{
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                filling: 3,
-                fuze: 0,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 0,
-                extra: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                extra: 1,
-                fuze: 0,
-                shell: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 0,
-                extra: 2,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                extra: 3,
-                fuze: 0,
-                shell: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                filling: 3,
-                fuze: 1,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 1,
-                extra: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 1,
-                extra: 1,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                extra: 2,
-                fuze: 1,
-                shell: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 1,
-                extra: 3,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                filling: 3,
-                fuze: 2,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 2,
-                extra: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 2,
-                extra: 1,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                extra: 2,
-                fuze: 2,
-                shell: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 2,
-                extra: 3,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                filling: 3,
-                fuze: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 3,
-                extra: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 3,
-                extra: 1,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                extra: 2,
-                fuze: 3,
-                shell: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                extra: 3,
-                fuze: 3,
-                shell: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                filling: 3,
-                fuze: 4,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 4,
-                extra: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                extra: 1,
-                fuze: 4,
-                shell: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 0,
-                fuze: 4,
-                extra: 2,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                extra: 3,
-                fuze: 4,
-                shell: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 1,
-                filling: 3,
-                fuze: 0,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 1,
-                fuze: 0,
-                extra: 0,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                extra: 1,
-                fuze: 0,
-                shell: 1,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                shell: 1,
-                fuze: 0,
-                extra: 2,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    },
-    {
-        item: {
-            id: "hbm:grenade_universal",
-            tag: {
-                extra: 3,
-                fuze: 0,
-                shell: 1,
-                filling: 3,
-                eqipped: 0b
-            }
-        }
-    }]
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 3,
+				fuze: 0,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 0,
+				extra: 0,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 0,
+				shell: 1,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 0,
+				extra: 2,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 0,
+				shell: 1,
+				filling: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 4,
+				fuze: 1,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 1,
+				extra: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 1,
+				extra: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 1,
+				shell: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 1,
+				extra: 3,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 4,
+				fuze: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 2,
+				extra: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 2,
+				extra: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 2,
+				shell: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 2,
+				extra: 3,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 4,
+				fuze: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 3,
+				extra: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 3,
+				extra: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 3,
+				shell: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 3,
+				shell: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 4,
+				fuze: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 4,
+				extra: 0,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 4,
+				shell: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 4,
+				extra: 2,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 4,
+				shell: 1,
+				filling: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 5,
+				fuze: 1,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 1,
+				extra: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 1,
+				extra: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 1,
+				shell: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 1,
+				extra: 3,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 5,
+				fuze: 2,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 2,
+				extra: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 2,
+				extra: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 2,
+				shell: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 2,
+				extra: 3,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 5,
+				fuze: 3,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 3,
+				extra: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 3,
+				extra: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 2,
+				fuze: 3,
+				shell: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 3,
+				shell: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				filling: 5,
+				fuze: 4,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 4,
+				extra: 0,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 1,
+				fuze: 4,
+				shell: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 1,
+				fuze: 4,
+				extra: 2,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "hbm:grenade_universal",
+			tag: {
+				extra: 3,
+				fuze: 4,
+				shell: 1,
+				filling: 5,
+				eqipped: 0b
+			}
+		},
+		count: 4
+	}]
 }
