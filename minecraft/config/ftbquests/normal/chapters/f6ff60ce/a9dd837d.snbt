@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 10.0d,
+	dependencies: [
+		"0f29a16e"
+	],
+	tasks: [{
+		uid: "83f105d7",
+		type: "observation",
+		match_type: "block_id",
+		match: "hbm:ore_bedrock_block",
+		timer: 0L
+	}]
+}

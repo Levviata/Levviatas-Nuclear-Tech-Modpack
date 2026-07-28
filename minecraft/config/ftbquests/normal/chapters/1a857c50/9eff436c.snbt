@@ -1,0 +1,25 @@
+{
+	icon: "hbm:ore_bedrock_block",
+	x: 17.0d,
+	y: -7.5d,
+	text: [
+		"You got it without the Survey Scanner! That's either one lucky strip mining session or you got wall hacks."
+	],
+	dependencies: [
+		"d50ab900"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fbad6c23",
+		type: "observation",
+		title: "Saw Bedrock Ore",
+		match_type: "block_id",
+		match: "hbm:ore_bedrock_block",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "b74d553b",
+		type: "xp",
+		xp: 500
+	}]
+}

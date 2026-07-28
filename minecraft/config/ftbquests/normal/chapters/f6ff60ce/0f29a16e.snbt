@@ -1,0 +1,17 @@
+{
+	title: "Trigger",
+	x: 3.5d,
+	y: 10.0d,
+	text: [
+		"if got What me do next quest, give access to quest.",
+		"",
+		"if Survey Scanner quest gets completed, remove access"
+	],
+	tasks: [{
+		uid: "377b80dd",
+		type: "item",
+		items: [{
+			item: "minecraft:structure_void"
+		}]
+	}]
+}
