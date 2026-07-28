@@ -1,0 +1,31 @@
+{
+	x: 5.0d,
+	y: 6.5d,
+	shape: "pentagon",
+	dependencies: [
+		"e977319c"
+	],
+	tasks: [{
+		uid: "80569d1b",
+		type: "item",
+		items: [{
+			item: "hbm:syringe_metal_stimpak"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "e4ddd430",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "57aa1633",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "86f48227",
+		type: "random",
+		table: 2
+	}]
+}

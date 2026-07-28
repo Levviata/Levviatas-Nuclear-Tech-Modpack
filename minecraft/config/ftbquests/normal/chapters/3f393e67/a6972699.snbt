@@ -1,0 +1,37 @@
+{
+	x: 5.5d,
+	y: 3.5d,
+	shape: "pentagon",
+	dependencies: [
+		"f959f4ae"
+	],
+	tasks: [{
+		uid: "a8a7b057",
+		type: "item",
+		items: [{
+			item: "hbm:conveyor"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "d4bb31b0",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "25f386f9",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "28fdeefc",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "71c85fe8",
+		type: "item",
+		item: "hbm:conveyor",
+		count: 32
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	shape: "pentagon",
+	dependencies: [
+		"99183935"
+	],
+	tasks: [{
+		uid: "85d77b6d",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_cdalloy"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "145370dc",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "52103244",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "505acbe9",
+		type: "random",
+		table: 1
+	}]
+}

@@ -1,0 +1,40 @@
+{
+	x: 7.0d,
+	y: 2.5d,
+	shape: "pentagon",
+	dependencies: [
+		"23745488"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "94ff9555",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 80L
+	},
+	{
+		uid: "4da90bd7",
+		type: "item",
+		items: [{
+			item: "minecraft:coal 1 1"
+		}],
+		count: 80L
+	}],
+	rewards: [{
+		uid: "a6672de3",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "f8940a31",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "1f5dff0d",
+		type: "random",
+		table: 2
+	}]
+}

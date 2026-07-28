@@ -1,0 +1,44 @@
+{
+	title: "Plastic Man",
+	x: 11.0d,
+	y: 5.5d,
+	shape: "pentagon",
+	description: "12x of each",
+	text: [
+		""
+	],
+	dependencies: [
+		"af8fd329"
+	],
+	tasks: [{
+		uid: "fd912359",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_pvc"
+		}],
+		count: 12L
+	},
+	{
+		uid: "c8e141d5",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_pc"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "ba47de4b",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "8a9cfa94",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "086ca50b",
+		type: "random",
+		table: 1
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	title: "Risky Stone",
+	x: 4.0d,
+	y: -3.0d,
+	shape: "pentagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"7763ca46"
+	],
+	tasks: [{
+		uid: "48e74aa4",
+		type: "item",
+		items: [{
+			item: "hbm:stone_resource"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "87f779e9",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "bfd7319b",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "4e0fbb7e",
+		type: "random",
+		table: 2
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	x: 12.0d,
+	y: 22.5d,
+	shape: "pentagon",
+	description: "Get the miserably forgotten hoe!",
+	text: [
+		""
+	],
+	dependencies: [
+		"6be6f77d"
+	],
+	tasks: [{
+		uid: "2c2b215a",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_decorated_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a09cd92d",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "cb6e5790",
+		type: "item",
+		item: "hbm:ingot_meteorite",
+		count: 5
+	}]
+}

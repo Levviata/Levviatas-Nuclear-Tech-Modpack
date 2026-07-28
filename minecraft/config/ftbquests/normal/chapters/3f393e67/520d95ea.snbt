@@ -1,0 +1,37 @@
+{
+	x: 8.0d,
+	y: 17.5d,
+	shape: "pentagon",
+	dependencies: [
+		"02ad9546"
+	],
+	tasks: [{
+		uid: "ecd6f1f5",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_cobalt"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "78ebc412",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "f516aef1",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "abf7c8ba",
+		type: "item",
+		item: "hbm:ingot_cobalt",
+		count: 4
+	},
+	{
+		uid: "5e9a8b0d",
+		type: "random",
+		table: 4
+	}]
+}

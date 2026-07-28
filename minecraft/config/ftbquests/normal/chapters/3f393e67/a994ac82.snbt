@@ -1,0 +1,117 @@
+{
+	title: "Cobalt Fan",
+	x: 14.0d,
+	y: 17.5d,
+	shape: "pentagon",
+	description: "Get it all!",
+	text: [
+		""
+	],
+	dependencies: [
+		"0e1a1206",
+		"9cdeb3b4"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "4883553b",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cab2eb8f",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "62efe995",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "400e6bb9",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "85779e12",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0cfd7fd6",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "18611fb0",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ad70faf4",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9697139e",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6927de87",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "642bc770",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "8d70b0e5",
+		type: "item",
+		item: "hbm:ingot_cobalt",
+		count: 32
+	},
+	{
+		uid: "a6d51fa5",
+		type: "random",
+		table: 4
+	}]
+}

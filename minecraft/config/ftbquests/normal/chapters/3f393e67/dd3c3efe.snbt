@@ -1,0 +1,61 @@
+{
+	title: "64x Steel and 32x Red Copper",
+	x: 1.0d,
+	y: 15.5d,
+	shape: "pentagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"86867f7a",
+		"cb1a89bb"
+	],
+	tasks: [{
+		uid: "83f34d67",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_steel"
+		}],
+		count: 64L
+	},
+	{
+		uid: "0559c56b",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_red_copper"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "90cb41e2",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "73fe8618",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "2bf5bb94",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "e970460c",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "ac93e718",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 48
+	},
+	{
+		uid: "c62ffee2",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 32
+	}]
+}
