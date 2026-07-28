@@ -150,5 +150,8 @@
 	},
 	{
 		item: "hbm:crackpipe"
+	},
+	{
+		item: "hbm:syringe_taint"
 	}]
 }
