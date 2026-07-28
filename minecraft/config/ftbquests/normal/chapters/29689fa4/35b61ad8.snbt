@@ -1,0 +1,31 @@
+{
+	title: "Sulfuric By-Product",
+	x: 5.0d,
+	y: 3.5d,
+	text: [
+		"To get the maximum product you may roast the product and then sear it in an Electric Furnace, this produces 4x seared product which can be washed as the final step (requiring 4 times less product) "
+	],
+	dependencies: [
+		"3afe8736",
+		"ef416437",
+		"13833605"
+	],
+	tasks: [{
+		uid: "9f269cb6",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreSulfuric"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreSulfuric"
+				}
+			}
+		}]
+	}]
+}

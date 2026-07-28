@@ -1,0 +1,22 @@
+{
+	x: -11.0d,
+	y: 6.0d,
+	text: [
+		"Ore slop is a by-product of processing bedrock ore, it's used to make new full ores but it can be processed by itself to produce Mercury and other materials."
+	],
+	dependencies: [
+		"86b1a73e"
+	],
+	tasks: [{
+		uid: "25e6bf9d",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 142"
+		}]
+	},
+	{
+		uid: "7bd1edd9",
+		type: "fluid",
+		fluid: "slop"
+	}]
+}

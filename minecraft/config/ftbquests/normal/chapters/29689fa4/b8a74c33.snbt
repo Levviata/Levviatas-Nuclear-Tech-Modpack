@@ -1,0 +1,39 @@
+{
+	title: "Sulfuric Crystalline Results",
+	x: 14.5d,
+	y: 4.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"5dc2bdc0"
+	],
+	tasks: [{
+		uid: "ae0196c1",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1101"
+		}]
+	},
+	{
+		uid: "49276577",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1401"
+		}]
+	},
+	{
+		uid: "33361424",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1430"
+		}]
+	},
+	{
+		uid: "b8fdbe06",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 213"
+		}]
+	}]
+}

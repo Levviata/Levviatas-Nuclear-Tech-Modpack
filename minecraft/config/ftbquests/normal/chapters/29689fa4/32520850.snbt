@@ -1,0 +1,39 @@
+{
+	title: "Dissolved Non-Metal Results",
+	x: 13.5d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"d57fd7bd"
+	],
+	tasks: [{
+		uid: "54c0a9db",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1500"
+		}]
+	},
+	{
+		uid: "bae245bb",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 900"
+		}]
+	},
+	{
+		uid: "4938749f",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1600"
+		}]
+	},
+	{
+		uid: "695ff5e7",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 212"
+		}]
+	}]
+}

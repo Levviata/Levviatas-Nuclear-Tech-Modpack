@@ -1,0 +1,14 @@
+{
+	x: -6.0d,
+	y: 3.0d,
+	dependencies: [
+		"86b1a73e"
+	],
+	tasks: [{
+		uid: "efb1d4d7",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 2"
+		}]
+	}]
+}

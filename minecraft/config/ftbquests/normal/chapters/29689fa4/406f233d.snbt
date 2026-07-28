@@ -1,0 +1,32 @@
+{
+	title: "Dissolved Primary Fraction",
+	x: 2.0d,
+	y: 0.0d,
+	description: "2nd tier",
+	text: [
+		"Ore treated with Solvent will yield Sulfuric and Dissolved by-product, also Dissolved Separated Ore.",
+		"",
+		"Can be processed in a Ore Acidizer to acidize into Higher or Lower Weight."
+	],
+	dependencies: [
+		"1d8f8597"
+	],
+	tasks: [{
+		uid: "3b19ea71",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreDissolvedPrimaryFraction"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreDissolvedPrimaryFraction"
+				}
+			}
+		}]
+	}]
+}

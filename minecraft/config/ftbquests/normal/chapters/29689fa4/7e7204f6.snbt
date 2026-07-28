@@ -1,0 +1,32 @@
+{
+	title: "Cleaned Non-Metal Results",
+	x: 13.5d,
+	y: -3.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"eb54b04f"
+	],
+	tasks: [{
+		uid: "92b5d3ce",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1701"
+		}]
+	},
+	{
+		uid: "83ff27d8",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 1400"
+		}]
+	},
+	{
+		uid: "8329e20a",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 212"
+		}]
+	}]
+}

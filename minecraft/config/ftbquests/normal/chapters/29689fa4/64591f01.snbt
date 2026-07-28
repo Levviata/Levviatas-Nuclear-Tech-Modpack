@@ -1,0 +1,44 @@
+{
+	title: "Cleaned Heavy Metal Results",
+	x: 14.5d,
+	y: -3.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"eb54b04f"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "149ce73f",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 8300"
+		}],
+		count: 2L
+	},
+	{
+		uid: "62d5405c",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 7300"
+		}],
+		count: 2L
+	},
+	{
+		uid: "bdd37f7b",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_fragment 1 7900"
+		}],
+		count: 2L
+	},
+	{
+		uid: "fe7c6bad",
+		type: "item",
+		items: [{
+			item: "hbm:bedrock_ore_new 1 209"
+		}]
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Dissolved Washed",
+	x: 9.5d,
+	y: 0.0d,
+	text: [
+		"You may centrifuge the washed By-Product again or smelt it in an Arc Furnace, smelting will yield more quantity of a specific material. For example Heavy Metal By-Product yields x3 more it's rare materials. ",
+		"",
+		"The benefit of the centrifuge is that it will produce Ore Crumbs which can be smelt or acidized into a full Bedrock Ore using 64x crumbs and some Ore Slop fluid."
+	],
+	dependencies: [
+		"13833605"
+	],
+	tasks: [{
+		uid: "ec8606cd",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreDissolvedWashed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreDissolvedWashed"
+				}
+			}
+		}]
+	}]
+}

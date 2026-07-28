@@ -1,0 +1,35 @@
+{
+	title: "Washed Ore",
+	x: -3.5d,
+	y: 3.5d,
+	text: [
+		"Washing the produced ore will yield two times the product, it's an essential step."
+	],
+	dependencies: [
+		"23a63f65",
+		"8f798da2",
+		"38803324",
+		"35a1f284",
+		"298fc722",
+		"13d6a9a1"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "cec2721b",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreFullWashed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreFullWashed"
+				}
+			}
+		}]
+	}]
+}

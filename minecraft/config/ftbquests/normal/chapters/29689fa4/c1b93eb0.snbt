@@ -1,0 +1,29 @@
+{
+	title: "Sulfuric Roasted",
+	x: 9.0d,
+	y: 2.5d,
+	text: [
+		"Roasting gives Vitriol which is a source of Mercury and Iodine powder. If it's seared it gives 2x the output of normal product."
+	],
+	dependencies: [
+		"35b61ad8"
+	],
+	tasks: [{
+		uid: "91f22389",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bedrockOreSulfuricRoasted"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bedrockOreSulfuricRoasted"
+				}
+			}
+		}]
+	}]
+}
