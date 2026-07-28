@@ -785,6 +785,10 @@ crafting.shapedBuilder() // bring back old glory
 crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coal'), ore('Tungsten')])
 crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coke'), ore('Tungsten')])
 
+// tried to damage the item with 10 other methods, listening to events and shit, to it being a simple method, sad.
+crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_steel:*').reuse().transformDamage(2)])
+crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_titanium:*').reuse().transformDamage(2)])
+
 // no one told me this thing doesnt work and I've been including it for the past 6 months as a working mechanic
 // remove unused item
 crafting.removeByOutput(item('hbm:template_folder'))
