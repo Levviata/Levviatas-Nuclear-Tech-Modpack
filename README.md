@@ -7,8 +7,6 @@ Features:
 
 - So many [bad word] quests with exquisite text you'll gauge your eyes before reading it all (not recommended).
 
-- 0 euros towards my jubilation (yet).
-
 
 Trivia:
 
