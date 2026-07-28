@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.875
 gamma:1.0
 saturation:0.0
-renderDistance:16
+renderDistance:32
 guiScale:3
 particles:0
 bobView:true
@@ -50,7 +50,7 @@ showSubtitles:true
 realmsNotifications:true
 enableWeakAttacks:false
 autoJump:false
-narrator:2
+narrator:0
 tutorialStep:none
 key_key.attack:-100
 key_key.use:-99
@@ -186,10 +186,10 @@ soundCategory_music:0.0
 soundCategory_record:0.0
 soundCategory_weather:0.0
 soundCategory_block:1.0
-soundCategory_hostile:0.0
+soundCategory_hostile:1.0
 soundCategory_neutral:0.0
 soundCategory_player:1.0
-soundCategory_ambient:0.0
+soundCategory_ambient:1.0
 soundCategory_voice:0.0
 modelPart_cape:true
 modelPart_jacket:true
