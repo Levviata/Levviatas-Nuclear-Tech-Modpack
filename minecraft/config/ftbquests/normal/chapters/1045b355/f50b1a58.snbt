@@ -2,6 +2,10 @@
 	x: 7.0d,
 	y: 2.5d,
 	shape: "pentagon",
+	description: "OR quest",
+	text: [
+		""
+	],
 	dependencies: [
 		"23745488"
 	],

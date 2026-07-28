@@ -1,7 +1,7 @@
 {
 	x: 11.5d,
 	y: 2.5d,
-	description: "Iron replacement suplement",
+	description: "Iron replacement suplement (OR quest)",
 	text: [
 		"Do you dare do it?"
 	],
