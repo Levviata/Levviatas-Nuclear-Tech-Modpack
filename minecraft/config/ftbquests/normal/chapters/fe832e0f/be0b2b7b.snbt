@@ -5,8 +5,9 @@
 	shape: "rsquare",
 	text: [
 		"Weapons are a huge part of the mod, having a ton of diversity with part customization.",
+		"There are over 57 weapons in the mod.",
 		"",
-		"The Pepperbox is the first craftable weapon. There are over 57 weapons in the mod."
+		"The Pepperbox is the first craftable weapon. "
 	],
 	dependencies: [
 		"86867f7a",
