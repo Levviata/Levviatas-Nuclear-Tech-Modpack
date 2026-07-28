@@ -1,0 +1,14 @@
+{
+	x: 16.0d,
+	y: -4.0d,
+	dependencies: [
+		"64591f01"
+	],
+	tasks: [{
+		uid: "d4d9b59f",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bismuth"
+		}]
+	}]
+}

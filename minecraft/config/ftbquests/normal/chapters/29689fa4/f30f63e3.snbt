@@ -1,0 +1,14 @@
+{
+	x: 16.0d,
+	y: -3.0d,
+	dependencies: [
+		"64591f01"
+	],
+	tasks: [{
+		uid: "dafd3960",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_tantalium"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 16.0d,
+	y: -5.5d,
+	dependencies: [
+		"017ed2e6",
+		"e130e84a",
+		"92b5d3ce"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "95e72d41",
+		type: "item",
+		items: [{
+			item: "hbm:powder_chlorocalcite"
+		}]
+	}]
+}
