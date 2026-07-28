@@ -1,5 +1,64 @@
 {
 	title: "Accessories",
 	loot_size: 1,
-	rewards: []
+	rewards: [{
+		item: "hbm:protection_charm"
+	},
+	{
+		item: "hbm:pads_rubber"
+	},
+	{
+		item: "hbm:armor_polish"
+	},
+	{
+		item: "hbm:spider_milk"
+	},
+	{
+		item: "hbm:bandaid"
+	},
+	{
+		item: "hbm:insert_kevlar"
+	},
+	{
+		item: "hbm:wings_limp"
+	},
+	{
+		item: "hbm:scrumpy"
+	},
+	{
+		item: "hbm:heart_container"
+	},
+	{
+		item: "hbm:bathwater"
+	},
+	{
+		item: "hbm:heart_piece"
+	},
+	{
+		item: "hbm:bottled_cloud"
+	},
+	{
+		item: "hbm:industrial_magnet"
+	},
+	{
+		item: "hbm:quartz_plutonium"
+	},
+	{
+		item: "hbm:servo_set"
+	},
+	{
+		item: "hbm:cladding_paint"
+	},
+	{
+		item: "hbm:lodestone"
+	},
+	{
+		item: "hbm:morning_glory"
+	},
+	{
+		item: "hbm:wild_p"
+	},
+	{
+		item: "hbm:gas_tester"
+	}]
 }
