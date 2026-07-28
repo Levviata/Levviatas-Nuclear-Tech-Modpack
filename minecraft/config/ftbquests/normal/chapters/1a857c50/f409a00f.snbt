@@ -1,0 +1,22 @@
+{
+	x: 17.0d,
+	y: 5.0d,
+	description: "Infinite power!",
+	text: [
+		"(Rosenberg-only since the battery doesn't work anymore)"
+	],
+	dependencies: [
+		"f77a5823",
+		"168faa74"
+	],
+	hide: true,
+	tasks: [{
+		uid: "10a7199d",
+		type: "item",
+		items: [{
+			item: "hbm:battery_spark"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
