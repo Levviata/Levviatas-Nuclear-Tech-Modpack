@@ -147,5 +147,8 @@
 	{
 		item: "hbm:apple_lead 1 2",
 		weight: 3
+	},
+	{
+		item: "hbm:crackpipe"
 	}]
 }
