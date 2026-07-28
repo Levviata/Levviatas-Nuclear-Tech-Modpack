@@ -16,5 +16,16 @@
 		uid: "89cfa0c6",
 		type: "fluid",
 		fluid: "radiosolvent"
+	}],
+	rewards: [{
+		uid: "8d4abad1",
+		type: "command",
+		auto: "invisible",
+		command: "/ftbquests change_progress complete @p 84cccbc5"
+	},
+	{
+		uid: "9b86eb7f",
+		type: "xp",
+		xp: 20
 	}]
 }

@@ -12,5 +12,21 @@
 		items: [{
 			item: "hbm:fluid_icon 1 88"
 		}]
+	},
+	{
+		uid: "04eb57e2",
+		type: "fluid",
+		fluid: "radiosolvent"
+	}],
+	rewards: [{
+		uid: "08e4b863",
+		type: "command",
+		auto: "invisible",
+		command: "/ftbquests change_progress complete @p 6e8da64d"
+	},
+	{
+		uid: "09252ea7",
+		type: "xp",
+		xp: 20
 	}]
 }
