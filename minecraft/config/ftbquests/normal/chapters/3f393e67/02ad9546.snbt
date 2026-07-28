@@ -4,7 +4,11 @@
 	text: [
 		"Cobalt is a Rare Earth ore which appears randomly around the world.",
 		"",
-		"It's used in High-Speed Steel, Laboratory Glassware, and may be breed in a Breeding Reactor into Cobalt-60."
+		"It's used in High-Speed Steel, Laboratory Glassware, and may be breed in a Breeding Reactor into Cobalt-60.",
+		"",
+		"Trivia:",
+		"",
+		"- Just like Niobium, Cobalt isn't actually a rare earth ore."
 	],
 	hide_dependency_lines: true,
 	dependencies: [
