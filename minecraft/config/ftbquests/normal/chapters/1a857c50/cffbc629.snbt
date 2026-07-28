@@ -1,19 +1,30 @@
 {
 	title: "Bedrock Ore Mining",
-	x: 10.0d,
+	x: 15.0d,
 	y: -7.5d,
 	description: "Bismuth for you, the grandma and the dog",
 	text: [
-		"Bedrock Ore is a special type of ore present in the bedrock layer, it always appears below depth ore veins and can't be depleted.",
+		"Bedrock Ore is a special type of ore present in the bedrock layer, it always appears below depth-ore veins and can't be depleted.",
 		"",
-		"You may use a Survey Scanner to scan the ores directly under your feet, then if Bedrock Ore is present, you may check the quality using a Bedrock Ore Density Scanner.",
+		"The Bedrock Ore Density Scanner shows you the quality of the resources present in the ore.",
+		"This will also show the tier of drillbit and solvent needed to extract the resources:",
 		"",
-		"The Bedrock Ore Density Scanner shows you the quality of the resources present in the ore and the tier of solvent needed to extract the resources:",
+		"- Tier 1, Steel Drillbit, no acid.",
+		"- Tier 2, High-Speed Drillbit, Water.",
+		"- Tier 3, Desh Drillbit, Sulfuric Acid.",
+		"- Tier 4, Technetium Drillbit, unknown to me (haven't seen this one).",
 		"",
-		"- "
+		"A higher tier doesn't guarantee better materials.",
+		"I'm unsure if certain concentrations of ore require specific Acids, but I know that each tier above 1 requires an acid.",
+		"",
+		"",
+		"This quest unlocks the \"Bedrock Ore\" Chapter, check it out!"
 	],
+	min_required_dependencies: 2,
 	dependencies: [
-		"876bbe0e"
+		"32ce0f5a",
+		"876bbe0e",
+		"9eff436c"
 	],
 	size: 1.5d,
 	tasks: [{
@@ -24,13 +35,6 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
-	},
-	{
-		uid: "e295c718",
-		type: "item",
-		items: [{
-			item: "hbm:machine_excavator"
-		}]
 	},
 	{
 		uid: "c6528e88",
