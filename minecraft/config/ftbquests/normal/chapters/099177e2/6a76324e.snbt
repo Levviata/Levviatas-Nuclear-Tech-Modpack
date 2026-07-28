@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		"Missiles are huge propelled metal cilinders with explosives.",
+		"",
+		"In the mod there are overr"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "f5874a34",
+		type: "item",
+		items: [{
+			item: "hbm:machine_missile_assembly"
+		}]
+	}]
+}

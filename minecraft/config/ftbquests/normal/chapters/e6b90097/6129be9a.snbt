@@ -1,0 +1,29 @@
+{
+	title: "Grenades",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		"Grenades have since been reworked and are completely customizable.",
+		"",
+		"There are over 159 custom combinations! Ain't that cool."
+	],
+	dependencies: [
+		"fa871a76",
+		"1a857c50"
+	],
+	dependency_requirement: "one_completed",
+	size: 2.0d,
+	tasks: [{
+		uid: "3a96f313",
+		type: "checkmark",
+		icon: {
+			id: "hbm:grenade_universal",
+			tag: {
+				shell: 2,
+				filling: 6,
+				fuze: 0
+			}
+		}
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Weapons",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		"Weapons are a huge part of the mod, having a ton of diversity with part customization.",
+		"",
+		"The Pepperbox is the first craftable weapon. There are over 57 weapons in the mod."
+	],
+	dependencies: [
+		"86867f7a",
+		"b51e7fe3"
+	],
+	dependency_requirement: "one_completed",
+	size: 2.0d,
+	tasks: [{
+		uid: "6c3b6b90",
+		type: "checkmark",
+		icon: "hbm:gun_pepperbox"
+	}]
+}
