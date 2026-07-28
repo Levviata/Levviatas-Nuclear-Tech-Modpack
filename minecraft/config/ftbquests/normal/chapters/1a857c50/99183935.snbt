@@ -1,6 +1,7 @@
 {
 	x: 6.0d,
 	y: 0.0d,
+	shape: "hexagon",
 	dependencies: [
 		"66d64b7f"
 	],

@@ -2,6 +2,7 @@
 	title: "Iron Anvil",
 	x: -1.5d,
 	y: 8.5d,
+	shape: "hexagon",
 	description: "Tier 1",
 	text: [
 		"This special Anvil comes in tiers and is able to craft important early game machines like the Blast Furnace.",

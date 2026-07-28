@@ -1,6 +1,6 @@
 {
 	title: "Starmetal Armor",
-	x: 16.5d,
+	x: 19.5d,
 	y: 1.5d,
 	description: "§e§nRequires:§r§e Cobalt Armor",
 	text: [
@@ -47,5 +47,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d5f0b38d",
+		type: "xp",
+		xp: 20
 	}]
 }

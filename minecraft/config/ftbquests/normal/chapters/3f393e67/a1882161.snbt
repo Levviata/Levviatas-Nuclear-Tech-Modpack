@@ -16,5 +16,10 @@
 		items: [{
 			item: "hbm:machine_mixer"
 		}]
+	}],
+	rewards: [{
+		uid: "f4e04075",
+		type: "xp",
+		xp: 20
 	}]
 }

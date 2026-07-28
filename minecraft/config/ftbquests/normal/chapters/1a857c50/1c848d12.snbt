@@ -1,6 +1,7 @@
 {
 	x: 9.5d,
 	y: 0.0d,
+	shape: "hexagon",
 	text: [
 		"The Vacuum Refinery "
 	],

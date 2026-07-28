@@ -15,5 +15,10 @@
 		items: [{
 			item: "hbm:syringe_metal_stimpak"
 		}]
+	}],
+	rewards: [{
+		uid: "f94fe388",
+		type: "xp",
+		xp: 20
 	}]
 }

@@ -21,5 +21,10 @@
 		uid: "b979b1d0",
 		type: "item",
 		item: "hbm:spongebob_macaroni"
+	},
+	{
+		uid: "46350b0c",
+		type: "xp",
+		xp: 20
 	}]
 }
