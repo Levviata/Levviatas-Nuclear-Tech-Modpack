@@ -3,7 +3,7 @@
 	x: 17.0d,
 	y: -7.5d,
 	text: [
-		"You got it without the Survey Scanner! That's either one lucky strip mining session or you got wall hacks."
+		"You got it without the Survey Scanner! That's either one lucky strip mining session or you got x-ray hacks."
 	],
 	dependencies: [
 		"d50ab900"
