@@ -25,6 +25,7 @@ So far I have done:
 
 - Early Game: 100%.
 - Oil Age/Refining (mid-game): 67%.
+- End game: 0%.
 - Refined Storage: Less than I would prefer.
 - Reactors: 33%.
 - Weapons, Missiles, Grenades: Starting out.
