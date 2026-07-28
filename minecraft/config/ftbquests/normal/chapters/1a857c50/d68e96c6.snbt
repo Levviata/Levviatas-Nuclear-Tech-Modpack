@@ -1,0 +1,26 @@
+{
+	x: 10.0d,
+	y: -12.5d,
+	dependencies: [
+		"bf56011a"
+	],
+	tasks: [{
+		uid: "68c04d7b",
+		type: "item",
+		items: [{
+			item: "hbm:drillbit 1 7"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e57db59d",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "716aff19",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 24
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 11.5d,
+	y: -11.5d,
+	dependencies: [
+		"5bf99359"
+	],
+	tasks: [{
+		uid: "037988ad",
+		type: "item",
+		items: [{
+			item: "hbm:drillbit 1 4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "feb953a5",
+		type: "xp",
+		xp: 20
+	}]
+}

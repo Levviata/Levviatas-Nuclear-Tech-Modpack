@@ -1,0 +1,37 @@
+{
+	title: "Drillbits",
+	x: 13.5d,
+	y: -11.5d,
+	text: [
+		"Drillbits are inserted in the red glowing slot of the Large Mining Drill, they are used to mine various tiers of Bedrock Ore.",
+		"",
+		"Each drillbit can be tipped with diamond, this gives abilities. Better drillbits with diamond tips have even more abiltiies."
+	],
+	dependencies: [
+		"32ce0f5a"
+	],
+	tasks: [{
+		uid: "3a1f7ab3",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any anyDrillbit"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "anyDrillbit"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0c4cd7d5",
+		type: "xp",
+		xp: 20
+	}]
+}
