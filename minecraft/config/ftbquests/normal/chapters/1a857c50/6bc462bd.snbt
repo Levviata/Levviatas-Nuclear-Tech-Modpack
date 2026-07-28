@@ -1,6 +1,6 @@
 {
 	title: "Starmetal Fan",
-	x: 21.5d,
+	x: 22.0d,
 	y: 2.5d,
 	shape: "pentagon",
 	description: "You know what to do",

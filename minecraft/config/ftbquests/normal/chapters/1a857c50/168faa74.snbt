@@ -1,6 +1,6 @@
 {
 	title: "Rosenberg Pest Control Box",
-	x: 17.5d,
+	x: 18.0d,
 	y: 3.5d,
 	text: [
 		"The Rosenberg Pest Control Box does what it says, it kills mobs in a 15m radius if powered. ",

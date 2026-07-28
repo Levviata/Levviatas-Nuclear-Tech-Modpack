@@ -1,6 +1,6 @@
 {
 	title: "Factories",
-	x: 5.5d,
+	x: 6.0d,
 	y: 2.0d,
 	text: [
 		"The Assembly and Chemical Factory work x2 times faster but needs twice the power. ",

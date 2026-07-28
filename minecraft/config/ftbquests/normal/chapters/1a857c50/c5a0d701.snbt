@@ -1,6 +1,6 @@
 {
 	title: "Plastic Man",
-	x: 11.0d,
+	x: 11.5d,
 	y: 5.5d,
 	shape: "pentagon",
 	description: "12x of each",

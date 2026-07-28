@@ -1,6 +1,6 @@
 {
 	title: "Starmetal Armor",
-	x: 19.5d,
+	x: 20.0d,
 	y: 1.5d,
 	description: "§e§nRequires:§r§e Cobalt Armor",
 	text: [
