@@ -23,9 +23,8 @@
 		count: 16L
 	}],
 	rewards: [{
-		uid: "21a37ff8",
-		type: "item",
-		item: "hbm:conveyor_wand",
-		count: 64
+		uid: "361c5a27",
+		type: "xp",
+		xp: 20
 	}]
 }

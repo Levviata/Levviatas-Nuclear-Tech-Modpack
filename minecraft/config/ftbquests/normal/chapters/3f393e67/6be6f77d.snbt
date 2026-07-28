@@ -1,6 +1,10 @@
 {
-	x: 12.5d,
-	y: 19.0d,
+	title: "Cobalt Decorated Tools",
+	x: 12.0d,
+	y: 20.5d,
+	text: [
+		""
+	],
 	dependencies: [
 		"9cdeb3b4"
 	],
@@ -41,15 +45,8 @@
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "feb25f03",
-		type: "item",
-		item: "hbm:ingot_meteorite",
-		count: 4
-	},
-	{
-		uid: "43a77c01",
-		type: "item",
-		item: "hbm:ingot_cobalt",
-		count: 2
+		uid: "4bffe9eb",
+		type: "xp",
+		xp: 20
 	}]
 }

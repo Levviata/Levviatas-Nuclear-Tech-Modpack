@@ -18,14 +18,8 @@
 		count: 2L
 	}],
 	rewards: [{
-		uid: "011a1493",
-		type: "item",
-		item: "hbm:ingot_steel",
-		count: 16
-	},
-	{
 		uid: "fcdf8933",
 		type: "xp",
-		xp: 100
+		xp: 20
 	}]
 }

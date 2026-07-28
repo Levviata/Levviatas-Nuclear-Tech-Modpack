@@ -1,6 +1,6 @@
 {
-	x: 8.5d,
-	y: 18.0d,
+	x: 10.0d,
+	y: 17.5d,
 	text: [
 		"Cobalt is a Rare Earth ore which appears randomly around the world.",
 		"",
@@ -34,5 +34,15 @@
 		items: [{
 			item: "hbm:ingot_cobalt"
 		}]
+	}],
+	rewards: [{
+		uid: "4981e0fd",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "c82f8134",
+		type: "random",
+		table: 1
 	}]
 }

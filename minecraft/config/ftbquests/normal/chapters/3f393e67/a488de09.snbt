@@ -63,5 +63,10 @@
 		uid: "bb662cae",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "dc1151e3",
+		type: "random",
+		table: 3
 	}]
 }

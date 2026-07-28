@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:powder_cadmium"
 		}]
+	}],
+	rewards: [{
+		uid: "b5b42ff1",
+		type: "xp",
+		xp: 20
 	}]
 }

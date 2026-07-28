@@ -12,5 +12,10 @@
 		}],
 		count: 2L,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e67d628f",
+		type: "xp",
+		xp: 20
 	}]
 }

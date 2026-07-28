@@ -1,7 +1,7 @@
 {
 	title: "Cobalt Tools",
-	x: 10.5d,
-	y: 19.0d,
+	x: 12.0d,
+	y: 18.5d,
 	text: [
 		"The Cobalt Sword has 13 damage without any weapon modifier.",
 		"",
@@ -47,14 +47,8 @@
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "6a059444",
-		type: "item",
-		item: "hbm:ingot_cobalt",
-		count: 6
-	},
-	{
-		uid: "86a220d1",
-		type: "item",
-		item: "hbm:cobalt_hoe"
+		uid: "118821e5",
+		type: "xp",
+		xp: 20
 	}]
 }

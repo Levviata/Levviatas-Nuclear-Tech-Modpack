@@ -15,14 +15,8 @@
 		}]
 	}],
 	rewards: [{
-		uid: "e9777451",
-		type: "item",
-		item: "hbm:ingot_red_copper",
-		count: 16
-	},
-	{
 		uid: "5e6cdb53",
 		type: "xp",
-		xp: 100
+		xp: 20
 	}]
 }

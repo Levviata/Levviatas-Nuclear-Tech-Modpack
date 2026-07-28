@@ -23,9 +23,8 @@
 		}]
 	}],
 	rewards: [{
-		uid: "abcbf1f4",
-		type: "item",
-		item: "hbm:ingot_biorubber",
-		count: 16
+		uid: "f044c3ef",
+		type: "xp",
+		xp: 20
 	}]
 }

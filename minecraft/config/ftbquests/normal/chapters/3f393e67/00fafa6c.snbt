@@ -33,11 +33,6 @@
 		xp: 100
 	},
 	{
-		uid: "ef13b2aa",
-		type: "random",
-		table: 2
-	},
-	{
 		uid: "2c2f913d",
 		type: "random",
 		table: 1

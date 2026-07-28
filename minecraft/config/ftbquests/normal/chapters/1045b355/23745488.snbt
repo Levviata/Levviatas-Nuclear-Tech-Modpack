@@ -21,16 +21,6 @@
 		count: 16L
 	}],
 	rewards: [{
-		uid: "66be2a93",
-		type: "item",
-		item: "hbm:powder_coal"
-	},
-	{
-		uid: "e285a912",
-		type: "item",
-		item: "hbm:powder_asbestos"
-	},
-	{
 		uid: "31ed3389",
 		type: "random",
 		table: 1
