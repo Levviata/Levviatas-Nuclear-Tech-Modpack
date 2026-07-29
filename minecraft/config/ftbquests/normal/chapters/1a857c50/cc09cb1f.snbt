@@ -1,6 +1,9 @@
 {
 	x: -3.0d,
 	y: -4.0d,
+	text: [
+		"Asphalt is a block that increases player movement by 50% when walked on."
+	],
 	dependencies: [
 		"5ac22a0a"
 	],
@@ -18,5 +21,10 @@
 		items: [{
 			item: "hbm:asphalt_light"
 		}]
+	}],
+	rewards: [{
+		uid: "493ef9ea",
+		type: "xp",
+		xp: 20
 	}]
 }

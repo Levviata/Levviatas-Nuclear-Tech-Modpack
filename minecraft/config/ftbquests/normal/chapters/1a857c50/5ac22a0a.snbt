@@ -1,6 +1,16 @@
 {
 	x: -2.5d,
 	y: -3.0d,
+	text: [
+		"Bitumen is refined from Heavy Oil.",
+		"",
+		"It can make",
+		"- Asphalt",
+		"- Petroleum Coke and Coker Oil",
+		"- Oil Tar",
+		"- Can be cracked in a Catalytic Cracking Tower",
+		"- Can be separated into Aromatic Carbons and Crude Oil"
+	],
 	dependencies: [
 		"38d3870b"
 	],
