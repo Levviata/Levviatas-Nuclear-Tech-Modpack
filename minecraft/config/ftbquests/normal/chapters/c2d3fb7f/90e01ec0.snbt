@@ -22,5 +22,10 @@
 		type: "item",
 		item: "minecraft:diamond",
 		count: 4
+	},
+	{
+		uid: "dfd78128",
+		type: "xp",
+		xp: 20
 	}]
 }

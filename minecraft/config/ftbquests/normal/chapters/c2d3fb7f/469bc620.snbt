@@ -13,5 +13,9 @@
 		items: [{
 			item: "futuremc:smoker"
 		}]
+	rewards: [{
+		uid: "5026d257",
+		type: "xp",
+		xp: 10
 	}]
 }

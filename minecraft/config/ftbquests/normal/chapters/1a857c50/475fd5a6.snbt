@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_gascent"
 		}]
+	}],
+	rewards: [{
+		uid: "eef97699",
+		type: "xp",
+		xp: 20
 	}]
 }

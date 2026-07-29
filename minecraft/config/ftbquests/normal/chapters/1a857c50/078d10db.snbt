@@ -1,6 +1,7 @@
 {
 	x: -8.0d,
 	y: -4.5d,
+	shape: "hexagon",
 	text: [
 		"The Centrifuge is a machine that separates product into smaller bits, it's widely used in Bedrock Ore processing."
 	],
@@ -14,5 +15,10 @@
 		items: [{
 			item: "hbm:machine_centrifuge"
 		}]
+	}],
+	rewards: [{
+		uid: "85e2993b",
+		type: "xp",
+		xp: 20
 	}]
 }

@@ -1,6 +1,5 @@
 {
 	x: -4.5d,
-	y: 2.0d,
 	y: 2.5d,
 	text: [
 		"Gasoline is a good combustible that generates 1.51MHE per bucket.",
@@ -22,5 +21,10 @@
 		items: [{
 			item: "hbm:fluid_icon 1 46"
 		}]
+	}],
+	rewards: [{
+		uid: "7afe97f4",
+		type: "xp",
+		xp: 20
 	}]
 }

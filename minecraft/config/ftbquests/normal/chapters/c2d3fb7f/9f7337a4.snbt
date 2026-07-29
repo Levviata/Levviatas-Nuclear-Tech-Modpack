@@ -16,5 +16,15 @@
 		type: "advancement",
 		advancement: "minecraft:end/dragon_egg",
 		criterion: ""
+	}],
+	rewards: [{
+		uid: "54b98c7c",
+		type: "xp",
+		xp: 500
+	},
+	{
+		uid: "710c9660",
+		type: "random",
+		table: 2
 	}]
 }

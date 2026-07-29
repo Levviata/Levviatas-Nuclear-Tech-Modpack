@@ -18,5 +18,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ac4ad55e",
+		type: "xp",
+		xp: 20
 	}]
 }

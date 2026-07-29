@@ -11,5 +11,15 @@
 		type: "dimension",
 		icon: "minecraft:netherrack",
 		dim: -1
+	}],
+	rewards: [{
+		uid: "54b7b8be",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "a7628c3c",
+		type: "random",
+		table: 2
 	}]
 }
