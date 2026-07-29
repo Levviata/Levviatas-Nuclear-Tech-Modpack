@@ -11,7 +11,7 @@
 		items: [{
 			item: "hbm:ingot_dura_steel"
 		}],
-		count: 16L
+		count: 32L
 	}],
 	rewards: [{
 		uid: "b27684c7",
