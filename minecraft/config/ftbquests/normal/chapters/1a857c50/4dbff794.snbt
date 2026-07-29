@@ -1,0 +1,32 @@
+{
+	x: 2.5d,
+	y: -2.0d,
+	text: [
+		"The Ferrouranium Anvil is made from 10 Ferrouranium Ingots, its tier is 4.",
+		"",
+		"Its able to make:",
+		"- Wires",
+		"- Cooling tower",
+		"- Deuterium Extraction Tower",
+		"- Bismuth Compound",
+		"- Reactive Armor Plating (for the HEV suit)",
+		"- Lunar Plating",
+		"- Plate Fuels for the Research Reactor",
+		"- Recycle RBMK parts and Research Reactor"
+	],
+	dependencies: [
+		"66f71656"
+	],
+	tasks: [{
+		uid: "682885b0",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_ferrouranium"
+		}]
+	}],
+	rewards: [{
+		uid: "ef470b72",
+		type: "xp",
+		xp: 20
+	}]
+}
