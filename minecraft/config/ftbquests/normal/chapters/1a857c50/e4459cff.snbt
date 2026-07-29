@@ -1,6 +1,7 @@
 {
 	x: 13.5d,
 	y: 5.5d,
+	shape: "hexagon",
 	description: "§e§nRequires:§r§e Any Hard Plastic, Versatile Circuit Board",
 	text: [
 		"The Pyrolysis Oven is an useful machine capable of working like a Combination Oven and a more efficient Industrial Solidifier with some other unique recipes mixed in.",
