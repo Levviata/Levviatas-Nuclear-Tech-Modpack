@@ -8,6 +8,7 @@
 		"f547edc2",
 		"f99bc25c"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "06a4967d",
 		type: "item",
