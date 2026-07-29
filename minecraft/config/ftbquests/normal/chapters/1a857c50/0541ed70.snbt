@@ -1,0 +1,13 @@
+{
+	x: 16.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "3985cb9f",
+		type: "item",
+		items: [{
+			item: "hbm:injector_5htp"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
