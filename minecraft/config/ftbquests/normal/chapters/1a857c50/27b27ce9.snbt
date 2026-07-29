@@ -1,0 +1,46 @@
+{
+	title: "Gender Swapping Tactics",
+	x: -3.5d,
+	y: -5.5d,
+	shape: "pentagon",
+	text: [
+		"The gas from the Estradiol Solution may turn players into something bizarre."
+	],
+	dependencies: [
+		"0dd396a4"
+	],
+	tasks: [{
+		uid: "576de05d",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 110"
+		}]
+	},
+	{
+		uid: "0347088b",
+		type: "fluid",
+		fluid: "estradiol"
+	},
+	{
+		uid: "94e3e3ff",
+		type: "item",
+		items: [{
+			item: "hbm:disperser_canister 1 110"
+		}]
+	}],
+	rewards: [{
+		uid: "f600f8d4",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "900a50c7",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "b4c8fe63",
+		type: "random",
+		table: 5
+	}]
+}
