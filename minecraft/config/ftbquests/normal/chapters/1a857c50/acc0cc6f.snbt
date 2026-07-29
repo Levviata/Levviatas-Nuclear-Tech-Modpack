@@ -2,6 +2,13 @@
 	x: 9.5d,
 	y: 8.0d,
 	description: "§e§nRequires:§r§e Integrated Circuit Board",
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"37308693"
+	],
 	tasks: [{
 		uid: "444af21d",
 		type: "item",

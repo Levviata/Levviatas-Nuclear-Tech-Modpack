@@ -1,6 +1,6 @@
 {
-	x: 2.5d,
-	y: 12.0d,
+	x: 15.0d,
+	y: -5.5d,
 	description: "§e§nRequires:§r§e Any Hard Plastic, Solvent",
 	text: [
 		""
