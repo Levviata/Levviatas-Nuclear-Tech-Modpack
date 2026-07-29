@@ -780,6 +780,53 @@ crafting.shapedBuilder() // bring back old glory
         .replaceByName()
         .register()
 
+// security armor, base recipes suck
+crafting.shapedBuilder()
+        .name(resource('hbm:security_helmet'))
+        .output(item('hbm:security_helmet'))
+        .row('AAA')
+        .row('BGB')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', ore('ingotAnyPlastic'))
+        .key('G', ore('anyReinforcedPane'))
+        .replaceByName()
+        .register()
+
+crafting.shapedBuilder()
+        .name(resource('hbm:security_plate'))
+        .output(item('hbm:security_plate'))
+        .row('KAK')
+        .row('PKP')
+        .row('AKA')
+        .key('A', item('hbm:plate_polymer'))
+        .key('P', ore('ingotAnyPlastic'))
+        .key('K', item('hbm:plate_kevlar'))
+        .replaceByName()
+        .register()
+
+crafting.shapedBuilder()
+        .name(resource('hbm:security_legs'))
+        .output(item('hbm:security_legs'))
+        .row('PAP')
+        .row('K K')
+        .row('A A')
+        .key('A', item('hbm:plate_polymer'))
+        .key('P', ore('ingotAnyPlastic'))
+        .key('K', item('hbm:plate_kevlar'))
+        .replaceByName()
+        .register()
+
+crafting.shapedBuilder()
+        .name(resource('hbm:security_boots'))
+        .output(item('hbm:security_boots'))
+        .row('A A')
+        .row('P P')
+        .key('A', item('hbm:ingot_steel'))
+        .key('P', ore('ingotAnyPlastic'))
+        .replaceByName()
+        .register()
+
+
 // provisional Neutron Reflector recipes as the new Blast Furnace doesn't have the recipe for it yet
 // Remove when fixed
 crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coal'), ore('Tungsten')])
