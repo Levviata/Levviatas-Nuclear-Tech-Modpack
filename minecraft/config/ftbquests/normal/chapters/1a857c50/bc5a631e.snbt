@@ -15,5 +15,10 @@
 		items: [{
 			item: "hbm:turret_chekhov"
 		}]
+	}],
+	rewards: [{
+		uid: "728b49b0",
+		type: "xp",
+		xp: 20
 	}]
 }

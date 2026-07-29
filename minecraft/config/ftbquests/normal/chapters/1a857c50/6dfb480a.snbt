@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:ingot_polymer"
 		}]
+	}],
+	rewards: [{
+		uid: "2a201eab",
+		type: "xp",
+		xp: 20
 	}]
 }

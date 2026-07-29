@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:ingot_desh"
 		}]
+	}],
+	rewards: [{
+		uid: "c1ec02f9",
+		type: "xp",
+		xp: 20
 	}]
 }

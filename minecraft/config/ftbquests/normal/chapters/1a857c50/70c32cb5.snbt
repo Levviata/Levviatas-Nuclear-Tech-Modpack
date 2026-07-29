@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:fluid_icon 1 83"
 		}]
+	}],
+	rewards: [{
+		uid: "8a9c79a4",
+		type: "xp",
+		xp: 20
 	}]
 }

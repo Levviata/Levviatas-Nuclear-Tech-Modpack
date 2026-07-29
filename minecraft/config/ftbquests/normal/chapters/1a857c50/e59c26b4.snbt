@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:launch_pad_large"
 		}]
+	}],
+	rewards: [{
+		uid: "2ac12517",
+		type: "xp",
+		xp: 20
 	}]
 }

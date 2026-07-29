@@ -20,5 +20,10 @@
 			item: "minecraft:obsidian"
 		}],
 		count: 10L
+	}],
+	rewards: [{
+		uid: "10600a56",
+		type: "xp",
+		xp: 10
 	}]
 }

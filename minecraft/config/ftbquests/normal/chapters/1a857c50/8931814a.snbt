@@ -23,5 +23,10 @@
 		items: [{
 			item: "hbm:machine_refinery"
 		}]
+	}],
+	rewards: [{
+		uid: "6264a50f",
+		type: "xp",
+		xp: 20
 	}]
 }

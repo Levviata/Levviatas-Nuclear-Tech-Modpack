@@ -16,5 +16,10 @@
 		items: [{
 			item: "hbm:compact_launcher"
 		}]
+	}],
+	rewards: [{
+		uid: "3f9a6319",
+		type: "xp",
+		xp: 20
 	}]
 }

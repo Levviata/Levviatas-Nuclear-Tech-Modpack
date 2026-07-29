@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_solidifier"
 		}]
+	}],
+	rewards: [{
+		uid: "45be5248",
+		type: "xp",
+		xp: 20
 	}]
 }

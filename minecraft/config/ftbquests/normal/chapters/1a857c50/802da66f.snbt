@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_tower_small"
 		}]
+	}],
+	rewards: [{
+		uid: "a7be03ed",
+		type: "xp",
+		xp: 20
 	}]
 }

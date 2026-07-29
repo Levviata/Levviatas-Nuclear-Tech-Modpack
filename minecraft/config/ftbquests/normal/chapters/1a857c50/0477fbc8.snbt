@@ -18,5 +18,10 @@
 		items: [{
 			item: "hbm:ingot_bakelite"
 		}]
+	}],
+	rewards: [{
+		uid: "9a073ea8",
+		type: "xp",
+		xp: 20
 	}]
 }

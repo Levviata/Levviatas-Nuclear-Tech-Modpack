@@ -10,5 +10,10 @@
 		items: [{
 			item: "minecraft:obsidian"
 		}]
+	}],
+	rewards: [{
+		uid: "efe6d8eb",
+		type: "xp",
+		xp: 10
 	}]
 }

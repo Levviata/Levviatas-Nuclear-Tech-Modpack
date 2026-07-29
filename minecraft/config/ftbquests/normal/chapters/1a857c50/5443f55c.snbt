@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_radar"
 		}]
+	}],
+	rewards: [{
+		uid: "bd43e7f9",
+		type: "xp",
+		xp: 20
 	}]
 }

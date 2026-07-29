@@ -16,5 +16,10 @@
 		uid: "cc9c0662",
 		type: "fluid",
 		fluid: "carbondioxide"
+	}],
+	rewards: [{
+		uid: "13f2d887",
+		type: "xp",
+		xp: 20
 	}]
 }

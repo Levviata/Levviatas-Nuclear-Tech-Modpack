@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_liquefactor"
 		}]
+	}],
+	rewards: [{
+		uid: "c3e6cdb3",
+		type: "xp",
+		xp: 20
 	}]
 }

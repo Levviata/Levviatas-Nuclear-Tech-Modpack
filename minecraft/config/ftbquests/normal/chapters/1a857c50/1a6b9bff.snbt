@@ -15,5 +15,10 @@
 		items: [{
 			item: "hbm:turret_fritz"
 		}]
+	}],
+	rewards: [{
+		uid: "ab079122",
+		type: "xp",
+		xp: 20
 	}]
 }

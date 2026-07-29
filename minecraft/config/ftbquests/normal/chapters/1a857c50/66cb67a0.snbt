@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:turret_friendly"
 		}]
+	}],
+	rewards: [{
+		uid: "f5d28db7",
+		type: "xp",
+		xp: 20
 	}]
 }

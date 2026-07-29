@@ -15,5 +15,10 @@
 		items: [{
 			item: "hbm:turret_jeremy"
 		}]
+	}],
+	rewards: [{
+		uid: "4b8cfef5",
+		type: "xp",
+		xp: 20
 	}]
 }

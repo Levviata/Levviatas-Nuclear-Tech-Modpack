@@ -42,5 +42,10 @@
 		items: [{
 			item: "hbm:machine_ore_slopper"
 		}]
+	}],
+	rewards: [{
+		uid: "a45b8612",
+		type: "xp",
+		xp: 20
 	}]
 }

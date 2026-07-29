@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:plate_kevlar"
 		}]
+	}],
+	rewards: [{
+		uid: "ab0619c7",
+		type: "xp",
+		xp: 20
 	}]
 }

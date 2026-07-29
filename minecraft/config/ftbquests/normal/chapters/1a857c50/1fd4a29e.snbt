@@ -34,5 +34,10 @@
 			item: "hbm:struct_launcher"
 		}],
 		count: 80L
+	}],
+	rewards: [{
+		uid: "69518faf",
+		type: "xp",
+		xp: 20
 	}]
 }

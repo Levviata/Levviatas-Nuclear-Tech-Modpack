@@ -16,5 +16,10 @@
 		uid: "3c8847a4",
 		type: "fluid",
 		fluid: "gas"
+	}],
+	rewards: [{
+		uid: "ecd6f0b4",
+		type: "xp",
+		xp: 20
 	}]
 }

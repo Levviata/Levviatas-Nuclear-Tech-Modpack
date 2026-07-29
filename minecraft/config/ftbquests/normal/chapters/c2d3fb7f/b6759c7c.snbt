@@ -10,5 +10,10 @@
 		items: [{
 			item: "minecraft:diamond"
 		}]
+	}],
+	rewards: [{
+		uid: "ca12b088",
+		type: "xp",
+		xp: 10
 	}]
 }

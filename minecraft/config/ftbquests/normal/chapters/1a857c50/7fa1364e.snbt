@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:turret_arty"
 		}]
+	}],
+	rewards: [{
+		uid: "f6b7c514",
+		type: "xp",
+		xp: 20
 	}]
 }

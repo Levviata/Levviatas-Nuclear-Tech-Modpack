@@ -29,5 +29,10 @@
 		type: "command",
 		auto: "invisible",
 		command: "/ftbquests change_progress reset @p 0f29a16e"
+	},
+	{
+		uid: "76f81735",
+		type: "xp",
+		xp: 20
 	}]
 }

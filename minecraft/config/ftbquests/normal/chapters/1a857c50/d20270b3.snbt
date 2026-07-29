@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_pumpjack"
 		}]
+	}],
+	rewards: [{
+		uid: "03950a98",
+		type: "xp",
+		xp: 20
 	}]
 }

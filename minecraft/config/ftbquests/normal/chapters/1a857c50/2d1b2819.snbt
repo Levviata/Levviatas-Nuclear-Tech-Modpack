@@ -4,7 +4,7 @@
 	text: [
 		"Displays power usage.",
 		"",
-		"You may put one of these adjacent to a cable to connect it to the power grid, it will gauge of much power is being used at a time."
+		"You may put one of these adjacent to a cable to connect it to the power grid, it will gauge how much power is being used at a time."
 	],
 	dependencies: [
 		"37308693"
@@ -20,5 +20,10 @@
 		uid: "4ac6b853",
 		type: "item",
 		item: "hbm:battery_sc 1 1"
+	},
+	{
+		uid: "1a748303",
+		type: "xp",
+		xp: 20
 	}]
 }

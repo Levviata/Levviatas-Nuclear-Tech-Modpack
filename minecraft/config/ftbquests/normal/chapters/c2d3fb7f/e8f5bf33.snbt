@@ -15,5 +15,10 @@
 		icon: "minecraft:nether_brick",
 		advancement: "minecraft:nether/find_fortress",
 		criterion: ""
+	}],
+	rewards: [{
+		uid: "481e7202",
+		type: "xp",
+		xp: 20
 	}]
 }

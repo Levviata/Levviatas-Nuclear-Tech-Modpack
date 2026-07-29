@@ -15,5 +15,10 @@
 		items: [{
 			item: "minecraft:iron_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "fb9272aa",
+		type: "xp",
+		xp: 10
 	}]
 }

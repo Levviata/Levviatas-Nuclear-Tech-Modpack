@@ -1,6 +1,6 @@
 {
-	x: -6.0d,
-	y: -1.5d,
+	x: -5.5d,
+	y: -1.0d,
 	dependencies: [
 		"6dfb480a"
 	],
@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:fluid_pack_empty"
 		}]
+	}],
+	rewards: [{
+		uid: "2c20d38f",
+		type: "xp",
+		xp: 20
 	}]
 }

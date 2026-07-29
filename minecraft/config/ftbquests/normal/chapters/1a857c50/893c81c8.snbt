@@ -16,5 +16,10 @@
 		uid: "eb8e9be9",
 		type: "fluid",
 		fluid: "hotoil"
+	}],
+	rewards: [{
+		uid: "f4c6af2b",
+		type: "xp",
+		xp: 20
 	}]
 }

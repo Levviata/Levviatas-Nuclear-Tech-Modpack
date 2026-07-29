@@ -19,5 +19,10 @@
 		icon: "minecraft:ender_eye",
 		advancement: "minecraft:story/follow_ender_eye",
 		criterion: ""
+	}],
+	rewards: [{
+		uid: "c7b2bb9c",
+		type: "xp",
+		xp: 30
 	}]
 }

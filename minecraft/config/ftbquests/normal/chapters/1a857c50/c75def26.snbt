@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_fluidtank"
 		}]
+	}],
+	rewards: [{
+		uid: "3085420e",
+		type: "xp",
+		xp: 20
 	}]
 }

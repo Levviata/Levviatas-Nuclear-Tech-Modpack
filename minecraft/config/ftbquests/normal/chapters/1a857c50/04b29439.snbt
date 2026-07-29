@@ -18,9 +18,8 @@
 		}]
 	}],
 	rewards: [{
-		uid: "48a2c26c",
-		type: "item",
-		item: "hbm:fluid_tank_empty",
-		count: 7
+		uid: "b0f8a8eb",
+		type: "xp",
+		xp: 20
 	}]
 }

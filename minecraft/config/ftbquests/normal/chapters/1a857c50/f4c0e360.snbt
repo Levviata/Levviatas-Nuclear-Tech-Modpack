@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_electrolyser"
 		}]
+	}],
+	rewards: [{
+		uid: "472dcd8e",
+		type: "xp",
+		xp: 20
 	}]
 }

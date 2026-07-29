@@ -15,5 +15,10 @@
 		items: [{
 			item: "hbm:machine_industrial_boiler"
 		}]
+	}],
+	rewards: [{
+		uid: "4e7181a0",
+		type: "xp",
+		xp: 20
 	}]
 }

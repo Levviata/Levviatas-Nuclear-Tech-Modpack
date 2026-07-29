@@ -11,5 +11,10 @@
 		uid: "4ecd34e7",
 		type: "dimension",
 		dim: 1
+	}],
+	rewards: [{
+		uid: "239aa1ff",
+		type: "xp",
+		xp: 50
 	}]
 }

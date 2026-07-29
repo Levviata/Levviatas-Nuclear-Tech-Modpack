@@ -1,6 +1,7 @@
 {
 	x: -5.5d,
 	y: -7.5d,
+	shape: "hexagon",
 	dependencies: [
 		"7d695080"
 	],
@@ -10,5 +11,10 @@
 		items: [{
 			item: "hbm:circuit 1 5"
 		}]
+	}],
+	rewards: [{
+		uid: "a488db21",
+		type: "xp",
+		xp: 20
 	}]
 }

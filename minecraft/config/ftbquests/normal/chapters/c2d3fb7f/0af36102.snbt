@@ -10,5 +10,10 @@
 		items: [{
 			item: "minecraft:blaze_rod"
 		}]
+	}],
+	rewards: [{
+		uid: "85ac78e3",
+		type: "xp",
+		xp: 20
 	}]
 }

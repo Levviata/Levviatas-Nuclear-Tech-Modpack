@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:anvil_desh"
 		}]
+	}],
+	rewards: [{
+		uid: "1e482139",
+		type: "xp",
+		xp: 20
 	}]
 }

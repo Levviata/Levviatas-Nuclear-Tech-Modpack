@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:turret_sentry"
 		}]
+	}],
+	rewards: [{
+		uid: "e8edef97",
+		type: "xp",
+		xp: 20
 	}]
 }

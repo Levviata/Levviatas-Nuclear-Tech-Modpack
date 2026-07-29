@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_combustion_engine"
 		}]
+	}],
+	rewards: [{
+		uid: "90b1b798",
+		type: "xp",
+		xp: 20
 	}]
 }
