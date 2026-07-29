@@ -1,0 +1,22 @@
+{
+	x: 16.0d,
+	y: -6.0d,
+	text: [
+		"The Atomic Clock is mainly used for quantum circuits, it can also make Advanced Control Unit and Laser Grenade Charge."
+	],
+	dependencies: [
+		"80ab1daf"
+	],
+	tasks: [{
+		uid: "8195b025",
+		type: "item",
+		items: [{
+			item: "hbm:circuit 1 18"
+		}]
+	}],
+	rewards: [{
+		uid: "5c554a2d",
+		type: "xp",
+		xp: 20
+	}]
+}
