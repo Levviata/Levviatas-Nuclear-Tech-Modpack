@@ -1,11 +1,11 @@
 {
-	x: 22.0d,
-	y: 7.0d,
-	description: "§e§nRequires:§r§e Fusion Reactor Vessel",
+	x: 17.0d,
+	y: 8.0d,
 	text: [
 		""
 	],
 	dependencies: [
+		"f547edc2",
 		"f99bc25c"
 	],
 	tasks: [{
