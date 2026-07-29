@@ -1,0 +1,11 @@
+{
+	x: 15.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "9eb46cc2",
+		type: "item",
+		items: [{
+			item: "hbm:plate_mixed"
+		}]
+	}]
+}
