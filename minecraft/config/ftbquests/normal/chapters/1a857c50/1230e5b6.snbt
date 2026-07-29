@@ -1,0 +1,21 @@
+{
+	x: -9.0d,
+	y: 11.5d,
+	dependencies: [
+		"490eaf83"
+	],
+	tasks: [{
+		uid: "0c4fa269",
+		type: "item",
+		items: [{
+			item: "hbm:insert_kevlar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d7ecb7ba",
+		type: "xp",
+		xp: 20
+	}]
+}
