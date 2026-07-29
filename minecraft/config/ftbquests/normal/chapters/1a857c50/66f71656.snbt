@@ -1,0 +1,30 @@
+{
+	x: 4.0d,
+	y: -2.0d,
+	text: [
+		"Unlike Uranium-238, Ferrouranium is not radioactive.",
+		"",
+		"Its used to make:",
+		"",
+		"- Desh stamps",
+		"- Coilgun rounds and explosive rounds",
+		"- Tier 4 anvil",
+		"- Drillbit",
+		"- Ducrete (Concrete on steroids)"
+	],
+	dependencies: [
+		"6d882b87"
+	],
+	tasks: [{
+		uid: "2d3386c5",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_ferrouranium"
+		}]
+	}],
+	rewards: [{
+		uid: "8966c028",
+		type: "xp",
+		xp: 20
+	}]
+}
