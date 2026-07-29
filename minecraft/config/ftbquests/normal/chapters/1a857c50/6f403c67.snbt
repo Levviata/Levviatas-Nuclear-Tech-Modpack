@@ -1,0 +1,57 @@
+{
+	title: "Security Armor",
+	x: -8.0d,
+	y: 12.5d,
+	text: [
+		"Security Armor is a great overall set while being inexpensive.",
+		"",
+		"When all pieces worn it provides:",
+		"- 85% radiation protection.",
+		"- 50% physical protection if total damage received is 5% physical damage.",
+		"- 25% fire proteciton if total damage received is 2% fire damage."
+	],
+	dependencies: [
+		"490eaf83"
+	],
+	tasks: [{
+		uid: "e7b954b7",
+		type: "item",
+		items: [{
+			item: "hbm:security_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "601e85b6",
+		type: "item",
+		items: [{
+			item: "hbm:security_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "37d87cf5",
+		type: "item",
+		items: [{
+			item: "hbm:security_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d6fd91d2",
+		type: "item",
+		items: [{
+			item: "hbm:security_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e1394e9f",
+		type: "xp",
+		xp: 20
+	}]
+}
