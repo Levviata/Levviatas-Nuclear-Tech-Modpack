@@ -1,0 +1,24 @@
+{
+	x: 4.0d,
+	y: -3.5d,
+	text: [
+		"Uranium-238 is the least radioactive uranium isotope.",
+		"",
+		"It's used in ammunition and the production of Schrabidium and Ferrouranium."
+	],
+	dependencies: [
+		"475fd5a6"
+	],
+	tasks: [{
+		uid: "03d47254",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_u238"
+		}]
+	}],
+	rewards: [{
+		uid: "c0674cad",
+		type: "xp",
+		xp: 20
+	}]
+}
