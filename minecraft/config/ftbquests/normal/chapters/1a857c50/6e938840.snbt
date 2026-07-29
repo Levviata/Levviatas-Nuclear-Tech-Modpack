@@ -2,8 +2,10 @@
 	x: -5.5d,
 	y: 9.0d,
 	dependencies: [
-		"1f7408ee"
+		"1f7408ee",
+		"6c965f51"
 	],
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "28e78b19",
 		type: "item",
