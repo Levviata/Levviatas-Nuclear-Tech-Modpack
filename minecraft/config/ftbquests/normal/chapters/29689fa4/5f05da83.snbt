@@ -1,6 +1,10 @@
 {
 	x: 16.0d,
-	y: -5.5d,
+	y: -2.5d,
+	description: "§e§nRequires:§r§e Dissolved/Cleaned Light Metal or Cleaned Non-Metal",
+	text: [
+		""
+	],
 	dependencies: [
 		"017ed2e6",
 		"e130e84a",
