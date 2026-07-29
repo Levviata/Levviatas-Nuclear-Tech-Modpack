@@ -1,0 +1,31 @@
+{
+	x: 0.5535714285714306d,
+	y: 2.089285714285708d,
+	shape: "pentagon",
+	dependencies: [
+		"5b1b40f1"
+	],
+	tasks: [{
+		uid: "9617f6ba",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_desh"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "2f3e8231",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "d873f075",
+		type: "random",
+		table: 5
+	},
+	{
+		uid: "06899072",
+		type: "random",
+		table: 2
+	}]
+}
