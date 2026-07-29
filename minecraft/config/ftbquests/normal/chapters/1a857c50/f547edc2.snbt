@@ -67,6 +67,13 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "cd6cae99",
+		type: "item",
+		items: [{
+			item: "hbm:struct_torus_core"
+		}]
 	}],
 	rewards: [{
 		uid: "3a26766b",

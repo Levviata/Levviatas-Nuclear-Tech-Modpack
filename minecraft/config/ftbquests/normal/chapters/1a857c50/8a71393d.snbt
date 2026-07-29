@@ -10,5 +10,11 @@
 		items: [{
 			item: "hbm:fluid_icon 1 92"
 		}]
+	},
+	{
+		uid: "72ab4024",
+		type: "fluid",
+		fluid: "reformate",
+		amount: 1
 	}]
 }

@@ -15,6 +15,22 @@
 		items: [{
 			item: "hbm:fluid_icon 1 131"
 		}]
+	},
+	{
+		uid: "a5f6c85a",
+		type: "item",
+		items: [{
+			id: "hbm:pipette_laboratory",
+			tag: {
+				type: 131s,
+				fill: 50s,
+				capacity: 50s
+			}
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
 	rewards: [{
 		uid: "1c11bbca",
 		type: "item",

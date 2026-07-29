@@ -14,6 +14,14 @@
 		items: [{
 			item: "futuremc:smoker"
 		}]
+	},
+	{
+		uid: "bb938fac",
+		type: "item",
+		items: [{
+			item: "futuremc:grindstone"
+		}]
+	}],
 	rewards: [{
 		uid: "5026d257",
 		type: "xp",

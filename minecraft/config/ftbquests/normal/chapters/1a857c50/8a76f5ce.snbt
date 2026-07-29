@@ -10,5 +10,11 @@
 		items: [{
 			item: "hbm:fluid_icon 1 100"
 		}]
+	},
+	{
+		uid: "e6fa20ed",
+		type: "fluid",
+		fluid: "reformgas",
+		amount: 1
 	}]
 }

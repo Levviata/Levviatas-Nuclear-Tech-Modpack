@@ -10,5 +10,11 @@
 		items: [{
 			item: "hbm:fluid_icon 1 95"
 		}]
+	},
+	{
+		uid: "aea12f06",
+		type: "fluid",
+		fluid: "xylene",
+		amount: 1
 	}]
 }
