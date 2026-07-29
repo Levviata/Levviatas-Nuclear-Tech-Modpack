@@ -2,6 +2,7 @@
 	x: 9.5d,
 	y: 0.0d,
 	shape: "hexagon",
+	description: "§e§nRequires:§r§e Versatile Integrated Circuit",
 	text: [
 		"The Vacuum Refinery "
 	],

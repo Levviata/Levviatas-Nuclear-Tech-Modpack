@@ -1,6 +1,7 @@
 {
 	x: 9.5d,
 	y: 8.0d,
+	description: "§e§nRequires:§r§e Integrated Circuit Board",
 	tasks: [{
 		uid: "444af21d",
 		type: "item",

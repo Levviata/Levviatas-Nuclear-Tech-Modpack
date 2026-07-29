@@ -2,7 +2,7 @@
 	title: "Dissolved Primary Fraction",
 	x: 2.0d,
 	y: 0.0d,
-	description: "2nd tier",
+	description: "§e§nRequires:§r§e Solvent",
 	text: [
 		"Ore treated with Solvent will yield Sulfuric and Dissolved by-product, also Dissolved Separated Ore.",
 		"",

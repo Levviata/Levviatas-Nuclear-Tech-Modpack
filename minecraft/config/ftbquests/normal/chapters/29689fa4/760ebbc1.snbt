@@ -2,6 +2,7 @@
 	title: "Washed Ore",
 	x: -3.5d,
 	y: 3.5d,
+	description: "§e§nRequires:§r§e Ore Acidizer",
 	text: [
 		"Washing the produced ore will yield two times the product, it's an essential step."
 	],

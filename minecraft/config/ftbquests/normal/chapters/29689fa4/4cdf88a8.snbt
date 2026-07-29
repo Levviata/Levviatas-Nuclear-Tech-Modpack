@@ -2,6 +2,7 @@
 	title: "Dissolved Seared",
 	x: 9.0d,
 	y: 1.0d,
+	description: "§e§nRequires:§r§e Eletric Arc Furnace",
 	text: [
 		"Searing duplicates the product, normal product gives 2x, roasted gives 4x.",
 		"",

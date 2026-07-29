@@ -2,6 +2,7 @@
 	title: "Primary Fraction",
 	x: -0.5d,
 	y: 3.5d,
+	description: "§e§nRequires:§r§e Centrifuge",
 	text: [
 		"The Primary Fraction of the ore can be treated in many ways to yield a variety of products.",
 		"",

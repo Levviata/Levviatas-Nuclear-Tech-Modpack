@@ -2,7 +2,7 @@
 	title: "Sulfuric Primary Fraction",
 	x: 2.0d,
 	y: 3.5d,
-	description: "1st tier",
+	description: "§e§nRequires:§r§e Sulfuric Acid",
 	text: [
 		"Ore treated with Sulfuric Acid will yield Sulfuric by-product and Separated Sulfuric ore.",
 		"",

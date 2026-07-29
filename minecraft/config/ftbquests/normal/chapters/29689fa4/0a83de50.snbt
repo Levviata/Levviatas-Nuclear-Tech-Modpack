@@ -2,6 +2,7 @@
 	title: "Roasted Primary Fraction",
 	x: -0.5d,
 	y: 6.0d,
+	description: "§e§nRequires:§r§e Combination Oven",
 	text: [
 		"You may roast the ore to get Vitriol fluid, it's a source of Mercury and later on can be exposed in a SILEX with Infrared light to get Iodine powder.",
 		" It's an optional step which does not affect the end product.",

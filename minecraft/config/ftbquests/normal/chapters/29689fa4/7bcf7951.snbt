@@ -2,6 +2,7 @@
 	title: "Cleaned Seared",
 	x: 9.0d,
 	y: -2.5d,
+	description: "§e§nRequires:§r§e Eletric Arc Furnace",
 	text: [
 		"Searing duplicates the product, normal product gives 2x, roasted gives 4x.",
 		"",
