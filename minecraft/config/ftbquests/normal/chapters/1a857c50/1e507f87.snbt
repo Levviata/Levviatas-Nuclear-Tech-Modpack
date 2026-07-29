@@ -1,0 +1,14 @@
+{
+	x: 14.5d,
+	y: 1.0d,
+	dependencies: [
+		"0a012d55"
+	],
+	tasks: [{
+		uid: "f2ac01a5",
+		type: "item",
+		items: [{
+			item: "hbm:barrel_antimatter"
+		}]
+	}]
+}
