@@ -1,7 +1,6 @@
 {
-	x: 20.0d,
-	y: 7.0d,
-	description: "§e§nRequires:§r§e Electrolysis Machine",
+	x: 13.5d,
+	y: 8.0d,
 	text: [
 		""
 	],
