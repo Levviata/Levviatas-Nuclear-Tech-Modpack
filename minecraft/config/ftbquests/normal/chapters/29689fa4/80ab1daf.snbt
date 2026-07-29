@@ -1,0 +1,20 @@
+{
+	x: 16.0d,
+	y: -4.5d,
+	description: "§e§nRequires:§r§e Cleaned or Dissolved Rare Earth Ore",
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"ab50fcb5",
+		"d3d0be63"
+	],
+	tasks: [{
+		uid: "b4149c40",
+		type: "item",
+		items: [{
+			item: "hbm:powder_strontium"
+		}]
+	}]
+}
