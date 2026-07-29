@@ -1,0 +1,32 @@
+{
+	x: -7.5d,
+	y: -7.5d,
+	description: "§e§nRequires:§r§e Rubber Bar",
+	text: [
+		"The Laboratory Grade Pipette can hold 50mB of any non-antimatter liquid.",
+		"",
+		"Used in fluid quests."
+	],
+	dependencies: [
+		"a14582da"
+	],
+	tasks: [{
+		uid: "240b2eee",
+		type: "item",
+		items: [{
+			id: "hbm:pipette_laboratory",
+			tag: {
+				type: 0s,
+				fill: 0s,
+				capacity: 50s
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c2499d6e",
+		type: "xp",
+		xp: 20
+	}]
+}
