@@ -258,3 +258,6 @@ oreDict.add('anyDrillbit', item('hbm:drillbit:6'))
 oreDict.add('anyDrillbit', item('hbm:drillbit:7'))
 oreDict.add('anyDrillbit', item('hbm:drillbit:8'))
 oreDict.add('anyDrillbit', item('hbm:drillbit:9'))
+
+oreDict.add('anyReinforcedPane', item('hbm:reinforced_glass_pane'))
+oreDict.add('anyReinforcedPane', item('hbm:reinforced_laminate_pane'))
