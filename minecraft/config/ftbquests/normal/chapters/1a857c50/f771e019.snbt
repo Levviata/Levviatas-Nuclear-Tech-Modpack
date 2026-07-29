@@ -1,0 +1,27 @@
+{
+	x: -6.0d,
+	y: 3.0d,
+	text: [
+		"Leaded Gasoline is the most effective (but toxic) version of Gasoline, it generates 2.26MHE per bucket, thats an increase of 39%."
+	],
+	dependencies: [
+		"7ab8008a"
+	],
+	tasks: [{
+		uid: "cc5ea447",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 73"
+		}]
+	},
+	{
+		uid: "cf6d1b95",
+		type: "fluid",
+		fluid: "gasoline_leaded"
+	}],
+	rewards: [{
+		uid: "385d116d",
+		type: "xp",
+		xp: 20
+	}]
+}
