@@ -788,6 +788,50 @@ crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coke'), ore('Tung
 // tried to damage the item with 10 other methods, listening to events and shit, to it being a simple method, sad.
 crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_steel:*').reuse().transformDamage(2)])
 crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_titanium:*').reuse().transformDamage(2)])
+crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_desh').reuse()])
+
+// Sacrifice.
+crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_steel:*').reuse().transformDamage(2)])
+crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_titanium:*').reuse().transformDamage(2)])
+crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_desh').reuse()])
+
+// meteorite sword filler recipes
+crafting.shapedBuilder()
+        .output(item('hbm:meteorite_sword_machined'))
+        .row('AGA')
+        .row('GBG')
+        .row('AGA')
+        .key('A', item('hbm:circuit:9'))
+        .key('B', item('hbm:meteorite_sword_alloyed'))
+        .key('G', item('hbm:wire_dense:7900'))
+        .register()
+
+crafting.addShapeless(item('hbm:meteorite_sword_treated'), [ore('ntmchemistryset'), item('hbm:meteorite_sword_machined'), ore('container1000radiosolvent') * 16, ore('container1000bloodhot') * 16])
+crafting.addShapeless(item('hbm:meteorite_sword_treated'), [ore('ntmchemistryset'), item('hbm:meteorite_sword_machined'), ore('container16000radiosolvent'), ore('container16000bloodhot')])
+
+crafting.shapedBuilder()
+        .output(item('hbm:meteorite_sword_irradiated'))
+        .row('ADA')
+        .row('CBC')
+        .row('ADA')
+        .key('A', item('hbm:plate_bismuth'))
+        .key('B', item('hbm:meteorite_sword_bred'))
+        .key('C', item('hbm:ingot_polonium'))
+        .key('D', item('hbm:ingot_u235'))
+        .register()
+
+crafting.shapedBuilder()
+        .output(item('hbm:meteorite_sword_fused'))
+        .row('ADA')
+        .row('CBC')
+        .row('ADA')
+        .key('A', item('hbm:plate_dalekanium'))
+        .key('B', item('hbm:meteorite_sword_irradiated'))
+        .key('C', item('hbm:ingot_meteorite'))
+        .key('D', item('hbm:ingot_starmetal'))
+        .register()
+
+crafting.addShapeless(item('hbm:meteorite_sword_baleful'), [item('hbm:meteorite_sword_fused'), item('hbm:egg_balefire_shard')])
 
 // no one told me this thing doesnt work and I've been including it for the past 6 months as a working mechanic
 // remove unused item
