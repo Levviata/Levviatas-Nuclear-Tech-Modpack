@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: 11.5d,
+	tasks: [{
+		uid: "624cf70f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_radiolysis"
+		}]
+	}]
+}
