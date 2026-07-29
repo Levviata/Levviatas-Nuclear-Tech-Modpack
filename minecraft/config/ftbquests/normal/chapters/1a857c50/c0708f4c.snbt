@@ -1,0 +1,36 @@
+{
+	x: -7.0d,
+	y: -14.5d,
+	shape: "pentagon",
+	dependencies: [
+		"37308693"
+	],
+	tasks: [{
+		uid: "ea5d835e",
+		type: "item",
+		items: [{
+			item: "hbm:circuit 1 8"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "f72af590",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "440081cf",
+		type: "loot",
+		table: 1
+	},
+	{
+		uid: "8407e5ee",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "67361b47",
+		type: "random",
+		table: 5
+	}]
+}
