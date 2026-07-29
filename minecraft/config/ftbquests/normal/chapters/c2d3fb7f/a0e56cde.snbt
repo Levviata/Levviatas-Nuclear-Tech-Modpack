@@ -1,0 +1,26 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	shape: "pentagon",
+	dependencies: [
+		"b6759c7c"
+	],
+	tasks: [{
+		uid: "39ba586b",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "c72ecb8c",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "867e2ad0",
+		type: "random",
+		table: 2
+	}]
+}
