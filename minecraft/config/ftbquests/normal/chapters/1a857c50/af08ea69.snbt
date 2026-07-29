@@ -1,0 +1,31 @@
+{
+	x: -9.696428571428577d,
+	y: -5.553571428571431d,
+	shape: "pentagon",
+	dependencies: [
+		"017d61b7"
+	],
+	tasks: [{
+		uid: "f725b449",
+		type: "item",
+		items: [{
+			item: "hbm:solid_fuel"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "de00dbae",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "db37025f",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "c36c2183",
+		type: "random",
+		table: 5
+	}]
+}
