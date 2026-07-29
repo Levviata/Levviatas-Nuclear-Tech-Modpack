@@ -1,0 +1,37 @@
+{
+	x: -0.6583333333333101d,
+	y: 23.20476190476191d,
+	text: [
+		"Mercury is a toxic metal that's usually in liquid state.",
+		"",
+		"Its used to make Desh and Nitan 100 Octane Super Fuel.",
+		"",
+		"It can also be solidified into a drop of mercury."
+	],
+	dependencies: [
+		"12d9934e"
+	],
+	tasks: [{
+		uid: "5552447e",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 42"
+		}]
+	},
+	{
+		uid: "f6965cba",
+		type: "fluid",
+		fluid: "mercury"
+	}],
+	rewards: [{
+		uid: "ff0e9282",
+		type: "item",
+		item: "hbm:cinnabar",
+		count: 10
+	},
+	{
+		uid: "5ad559d8",
+		type: "xp",
+		xp: 20
+	}]
+}
