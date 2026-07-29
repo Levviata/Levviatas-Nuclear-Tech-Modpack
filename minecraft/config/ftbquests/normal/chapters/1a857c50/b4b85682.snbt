@@ -1,0 +1,17 @@
+{
+	x: -6.5d,
+	y: -1.5d,
+	description: "§e§nRequires:§r§e Kevlar Insert",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "0b79ecc6",
+		type: "item",
+		items: [{
+			item: "hbm:insert_sapi"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
