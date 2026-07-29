@@ -1,0 +1,31 @@
+{
+	x: -9.0d,
+	y: 8.5d,
+	shape: "pentagon",
+	dependencies: [
+		"0477fbc8"
+	],
+	tasks: [{
+		uid: "70849977",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bakelite"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "3b66f2b6",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "4db285a1",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "8c78e033",
+		type: "random",
+		table: 1
+	}]
+}
