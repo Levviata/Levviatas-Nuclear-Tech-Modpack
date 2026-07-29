@@ -1,0 +1,11 @@
+{
+	x: 8.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "6a5ea61c",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_schrabidium"
+		}]
+	}]
+}
