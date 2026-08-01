@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:powder_meteorite"
 		}]
+	}],
+	rewards: [{
+		uid: "866f24c9",
+		type: "xp",
+		xp: 20
 	}]
 }
