@@ -1,0 +1,37 @@
+{
+	title: "Light Oil Results",
+	x: -17.0d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "a836fea9",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 20"
+		}]
+	},
+	{
+		uid: "b85abf04",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 22"
+		}]
+	},
+	{
+		uid: "abb450e6",
+		type: "fluid",
+		fluid: "kerosene"
+	},
+	{
+		uid: "4aabbcd8",
+		type: "fluid",
+		fluid: "diesel"
+	}],
+	rewards: [{
+		uid: "616d3b0d",
+		type: "xp",
+		xp: 20
+	}]
+}

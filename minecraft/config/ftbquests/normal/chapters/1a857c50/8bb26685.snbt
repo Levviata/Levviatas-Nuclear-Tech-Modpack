@@ -1,0 +1,37 @@
+{
+	title: "Cooker Oil Results",
+	x: -17.0d,
+	y: 0.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "dec6e076",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 61"
+		}]
+	},
+	{
+		uid: "d534cc57",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 15"
+		}]
+	},
+	{
+		uid: "e27699fb",
+		type: "fluid",
+		fluid: "crackoil"
+	},
+	{
+		uid: "7ada5695",
+		type: "fluid",
+		fluid: "heatingoil"
+	}],
+	rewards: [{
+		uid: "2b7c4d72",
+		type: "xp",
+		xp: 20
+	}]
+}
