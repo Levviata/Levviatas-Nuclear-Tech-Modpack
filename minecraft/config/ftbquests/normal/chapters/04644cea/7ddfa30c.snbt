@@ -1,9 +1,12 @@
 {
 	x: -6.0d,
 	y: 14.0d,
-	description: "Not useful",
 	text: [
-		""
+		"Lanthanium is obtained in small quantites and usually too late to be useful.",
+		"",
+		"It can make Lanthanum Electrodes and Desh Powder.",
+		"",
+		"Lanthanium Electrodes are usually obtained after Desh which outclasses them, in rarity and durability."
 	],
 	tasks: [{
 		uid: "d57c7d6c",
