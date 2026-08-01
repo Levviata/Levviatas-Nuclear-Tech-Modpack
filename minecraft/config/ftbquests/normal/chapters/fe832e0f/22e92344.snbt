@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "429d9aa7",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_gunmetal"
+		}]
+	}]
+}
