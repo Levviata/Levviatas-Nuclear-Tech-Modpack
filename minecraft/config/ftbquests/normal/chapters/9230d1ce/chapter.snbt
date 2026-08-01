@@ -2,5 +2,19 @@
 	title: "Late Game",
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: ""
+	default_quest_shape: "",
+	images: [{
+		x: -2.0d,
+		y: 6.5d,
+		width: 1.55d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image6.png",
+		hover: [
+			"Particle Accelerator Tutorial",
+			"By Savage Vegetta"
+		],
+		click: "https://www.youtube.com/watch?v=os7E3b8NO64",
+		dev: false
+	}]
 }
