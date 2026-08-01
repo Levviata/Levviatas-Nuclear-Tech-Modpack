@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "e62dd070",
+		type: "item",
+		items: [{
+			item: "hbm:mine_fat"
+		}]
+	}]
+}
