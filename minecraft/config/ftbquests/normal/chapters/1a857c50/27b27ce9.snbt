@@ -17,11 +17,6 @@
 		}]
 	},
 	{
-		uid: "0347088b",
-		type: "fluid",
-		fluid: "estradiol"
-	},
-	{
 		uid: "94e3e3ff",
 		type: "item",
 		items: [{
