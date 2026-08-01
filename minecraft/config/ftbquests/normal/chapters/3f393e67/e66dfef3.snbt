@@ -1,6 +1,11 @@
 {
 	x: 6.5d,
 	y: 28.0d,
+	text: [
+		"The Industrial Smokestack reduces pollution emissions from machines by 90%.",
+		"",
+		"It can also produce two types of ash, Fine Soot being used for a late game material later."
+	],
 	dependencies: [
 		"974fcf0f"
 	],
