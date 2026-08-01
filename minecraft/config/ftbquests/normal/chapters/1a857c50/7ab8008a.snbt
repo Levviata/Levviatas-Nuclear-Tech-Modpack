@@ -2,7 +2,7 @@
 	x: -4.5d,
 	y: 2.5d,
 	text: [
-		"Gasoline is a good combustible that generates 1.51MHE per bucket.",
+		"Gasoline is a good combustible that generates 1.51MHE power per bucket.",
 		"",
 		"It can be mixed with lead additives to make it even better."
 	],

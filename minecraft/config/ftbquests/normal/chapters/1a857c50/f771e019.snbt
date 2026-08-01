@@ -2,7 +2,7 @@
 	x: -6.0d,
 	y: 3.0d,
 	text: [
-		"Leaded Gasoline is the most effective (but toxic) version of Gasoline, it generates 2.26MHE per bucket, thats an increase of 39%."
+		"Leaded Gasoline is the most effective (but toxic) version of Gasoline, it generates 2.26MHE power per bucket, thats an increase of 39%."
 	],
 	dependencies: [
 		"7ab8008a"

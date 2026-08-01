@@ -2,7 +2,7 @@
 	x: 6.5d,
 	y: 20.0d,
 	shape: "hexagon",
-	description: "Important machine",
+	description: "Factorio r us",
 	text: [
 		"The Assembly Machine (a.k.a Assembler) is the most important machine in the Nuclear Tech Mod. All other important machines or items are made using the Assembly Machine.",
 		"",
