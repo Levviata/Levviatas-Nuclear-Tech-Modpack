@@ -1,0 +1,20 @@
+{
+	x: -5.5d,
+	y: -15.5d,
+	dependencies: [
+		"37308693"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "b8438b0c",
+		type: "item",
+		items: [{
+			item: "hbm:machine_fel"
+		}]
+	}],
+	rewards: [{
+		uid: "7f5923a0",
+		type: "xp",
+		xp: 20
+	}]
+}
