@@ -16,5 +16,10 @@
 		items: [{
 			item: "hbm:machine_vacuum_distill"
 		}]
+	}],
+	rewards: [{
+		uid: "aae9ad9f",
+		type: "xp",
+		xp: 20
 	}]
 }

@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:machine_fraction_tower"
 		}]
+	}],
+	rewards: [{
+		uid: "33e3b66f",
+		type: "xp",
+		xp: 10
 	}]
 }

@@ -8,5 +8,15 @@
 		uid: "e4bc91d6",
 		type: "checkmark",
 		icon: "hbm:waste_earth"
+	}],
+	rewards: [{
+		uid: "248d54cb",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "bdf1c33d",
+		type: "xp",
+		xp: 10
 	}]
 }

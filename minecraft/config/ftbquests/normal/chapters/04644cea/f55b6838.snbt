@@ -8,5 +8,15 @@
 		uid: "ac076ff9",
 		type: "checkmark",
 		icon: "minecraft:grass"
+	}],
+	rewards: [{
+		uid: "083071cc",
+		type: "xp",
+		xp: 10
+	},
+	{
+		uid: "fdb86ac7",
+		type: "random",
+		table: 1
 	}]
 }

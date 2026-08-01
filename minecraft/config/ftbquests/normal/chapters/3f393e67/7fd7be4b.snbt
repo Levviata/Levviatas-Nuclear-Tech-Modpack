@@ -21,5 +21,10 @@
 		type: "item",
 		item: "hbm:powder_cement",
 		count: 8
+	},
+	{
+		uid: "81f58806",
+		type: "xp",
+		xp: 20
 	}]
 }

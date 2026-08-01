@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_crystallizer"
 		}]
+	}],
+	rewards: [{
+		uid: "3284c9f7",
+		type: "xp",
+		xp: 20
 	}]
 }

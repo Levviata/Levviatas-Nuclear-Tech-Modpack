@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:ingot_lanthanium"
 		}]
+	}],
+	rewards: [{
+		uid: "72390c86",
+		type: "item",
+		item: "minecraft:potato"
 	}]
 }

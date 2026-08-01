@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:pump_electric"
 		}]
+	}],
+	rewards: [{
+		uid: "98928ac5",
+		type: "xp",
+		xp: 20
 	}]
 }

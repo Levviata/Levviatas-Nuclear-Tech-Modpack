@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_catalytic_cracker"
 		}]
+	}],
+	rewards: [{
+		uid: "2d34e03c",
+		type: "xp",
+		xp: 20
 	}]
 }

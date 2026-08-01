@@ -8,5 +8,15 @@
 		uid: "9a4581af",
 		type: "checkmark",
 		icon: "hbm:waste_mycelium"
+	}],
+	rewards: [{
+		uid: "fb8e2e97",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "9fa2fb93",
+		type: "xp",
+		xp: 10
 	}]
 }

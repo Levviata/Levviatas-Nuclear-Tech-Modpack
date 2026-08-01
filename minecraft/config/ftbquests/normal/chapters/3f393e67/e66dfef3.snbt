@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:chimney_industrial"
 		}]
+	}],
+	rewards: [{
+		uid: "1e93f55b",
+		type: "xp",
+		xp: 20
 	}]
 }

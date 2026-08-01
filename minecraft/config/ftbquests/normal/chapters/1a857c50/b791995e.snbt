@@ -23,5 +23,10 @@
 		items: [{
 			item: "hbm:machine_chemical_factory"
 		}]
+	}],
+	rewards: [{
+		uid: "c0859bd9",
+		type: "xp",
+		xp: 20
 	}]
 }

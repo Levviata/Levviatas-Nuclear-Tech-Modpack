@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_fracking_tower"
 		}]
+	}],
+	rewards: [{
+		uid: "8d49a851",
+		type: "xp",
+		xp: 20
 	}]
 }

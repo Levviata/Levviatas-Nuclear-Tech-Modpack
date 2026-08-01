@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_radiolysis"
 		}]
+	}],
+	rewards: [{
+		uid: "f372df9f",
+		type: "xp",
+		xp: 20
 	}]
 }

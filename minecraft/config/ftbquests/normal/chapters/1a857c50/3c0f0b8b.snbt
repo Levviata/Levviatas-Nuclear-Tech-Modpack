@@ -12,5 +12,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b55a4e7a",
+		type: "xp",
+		xp: 20
 	}]
 }

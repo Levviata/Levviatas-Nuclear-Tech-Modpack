@@ -12,5 +12,10 @@
 		items: [{
 			item: "hbm:ingot_cdalloy"
 		}]
+	}],
+	rewards: [{
+		uid: "943e77b8",
+		type: "xp",
+		xp: 20
 	}]
 }

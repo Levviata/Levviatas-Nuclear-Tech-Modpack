@@ -22,5 +22,10 @@
 		items: [{
 			item: "hbm:machine_excavator"
 		}]
+	}],
+	rewards: [{
+		uid: "f9eb71f9",
+		type: "xp",
+		xp: 20
 	}]
 }
