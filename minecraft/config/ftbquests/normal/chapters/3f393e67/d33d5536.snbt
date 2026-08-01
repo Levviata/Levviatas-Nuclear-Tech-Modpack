@@ -1,0 +1,72 @@
+{
+	title: "Diesel-Powered Armor",
+	x: -7.0d,
+	y: 30.5d,
+	text: [
+		"The Diesel-Powered armor is a rather odd looking set that gives Speed and Jump Boost III.",
+		"",
+		"It provides no armor protection.",
+		"",
+		"As a set, it will provide:",
+		"- 50% fire protection if total damage received is 0.5% fire.",
+		"- 15% physical protection if total damage received is 1% phyiscal.",
+		"- 15% explosive proteciton if total damage received is 2% explosive.",
+		"- Always protects 10% from other sources of damage."
+	],
+	dependencies: [
+		"8a25fa82"
+	],
+	tasks: [{
+		uid: "80eb6811",
+		type: "item",
+		items: [{
+			id: "hbm:dieselsuit_helmet",
+			tag: {
+				fuel: 64000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "eebedd88",
+		type: "item",
+		items: [{
+			id: "hbm:dieselsuit_plate",
+			tag: {
+				fuel: 64000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bb9ba9e1",
+		type: "item",
+		items: [{
+			id: "hbm:dieselsuit_legs",
+			tag: {
+				fuel: 64000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b9d93402",
+		type: "item",
+		items: [{
+			id: "hbm:dieselsuit_boots",
+			tag: {
+				fuel: 64000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dceeb456",
+		type: "xp",
+		xp: 20
+	}]
+}
