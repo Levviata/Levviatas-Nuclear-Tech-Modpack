@@ -2,6 +2,7 @@
 	x: -8.5d,
 	y: -9.0d,
 	shape: "pentagon",
+	hide_dependency_lines: true,
 	dependencies: [
 		"37308693"
 	],
