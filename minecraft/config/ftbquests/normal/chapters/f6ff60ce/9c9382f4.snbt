@@ -1,0 +1,26 @@
+{
+	x: 0.0d,
+	y: 3.5d,
+	description: "the player doesnt want to read all that info",
+	text: [
+		"The Fusion Reactor Vessel is an expensive machine that requires the following:",
+		"",
+		"- For 484 Superconducting BSCCO Coils: 242 BSCCO ingots, 242 copper pipes, 242 Technetium or Cadmium Steel Ingots, 968 Plastic bars.",
+		"",
+		"- For 484 Cast Steel Plates: 1.452 Steel ingots.",
+		"",
+		"- For 160 Welded BSCCO Coil: 40 Welded Tungsten Plates, 80 Welded Steel Plate, 160 Beryllium Ingots.",
+		"",
+		"- For 280 Fusion Reactor Piping: 280 Hard plastic bars, 140 Copper pipe, 140 Motor,  70 Integrat ",
+		"",
+		"",
+		"As reward, rare materials are refunded 1/3, and common materials 1/2"
+	],
+	tasks: [{
+		uid: "1c4482af",
+		type: "item",
+		items: [{
+			item: "hbm:fusion_torus"
+		}]
+	}]
+}
