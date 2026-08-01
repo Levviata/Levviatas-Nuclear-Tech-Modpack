@@ -1,6 +1,7 @@
 {
 	x: 6.5d,
 	y: 29.5d,
+	shape: "pentagon",
 	dependencies: [
 		"e66dfef3"
 	],
@@ -11,5 +12,20 @@
 			item: "hbm:powder_ash 1 4"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "d926b072",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "f3b7193d",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "725dc442",
+		type: "random",
+		table: 1
 	}]
 }
