@@ -1,0 +1,15 @@
+{
+	x: 6.5d,
+	y: 29.5d,
+	dependencies: [
+		"e66dfef3"
+	],
+	tasks: [{
+		uid: "bec5627e",
+		type: "item",
+		items: [{
+			item: "hbm:powder_ash 1 4"
+		}],
+		count: 16L
+	}]
+}
