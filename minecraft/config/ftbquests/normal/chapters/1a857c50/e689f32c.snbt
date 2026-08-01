@@ -1,0 +1,25 @@
+{
+	x: 9.0d,
+	y: 4.0d,
+	description: "§e§nRequires:§r§e SAPI insert",
+	text: [
+		""
+	],
+	dependencies: [
+		"2208844f"
+	],
+	tasks: [{
+		uid: "acacfa80",
+		type: "item",
+		items: [{
+			item: "hbm:insert_esapi"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7f8dc1fb",
+		type: "xp",
+		xp: 20
+	}]
+}
