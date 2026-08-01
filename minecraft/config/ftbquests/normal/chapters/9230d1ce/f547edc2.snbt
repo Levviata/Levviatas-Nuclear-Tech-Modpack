@@ -1,18 +1,16 @@
 {
-	x: 16.0d,
-	y: 10.5d,
+	x: 5.0d,
+	y: 3.0d,
 	shape: "hexagon",
 	text: [
-		"The Fusion Reactor Vessel is an expensive machine that requires the following:",
+		"The Fusion Reactor Vessel is an expensive machine that can produce: ",
+		"- Helium-4 ",
+		"- Ionized Particles ",
+		"- Chlorophyte powder ",
+		"- Thermonuclear Ashes ",
+		"- Gold Powder",
 		"",
-		"- For 484 Superconducting BSCCO Coils: 242 BSCCO ingots, 242 copper pipes, 242 Technetium or Cadmium Steel Ingots, 968 Plastic bars.",
-		"",
-		"- For 484 Cast Steel Plates: 1.452 Steel ingots.",
-		"",
-		"- For 160 Welded BSCCO Coil: 40 Welded Tungsten Plates, 80 Welded Steel Plate, 160 Beryllium Ingots.",
-		"",
-		"- For 280 Fusion Reactor Piping: 280 Hard plastic bars, 140 Copper pipe, 140 Motor,  70 Integrated Circuit Board.",
-		"",
+		"Ionized Particles makes Schrabidium armor and particles, or Chlorophyte powder for tools.",
 		"",
 		"As reward, rare materials are refunded 1/3, and common materials 1/2"
 	],
@@ -78,7 +76,7 @@
 	rewards: [{
 		uid: "3a26766b",
 		type: "xp",
-		xp: 20
+		xp: 200
 	},
 	{
 		uid: "1e65d9bf",
@@ -133,5 +131,10 @@
 		type: "item",
 		item: "hbm:circuit 1 8",
 		count: 35
+	},
+	{
+		uid: "1410f6f6",
+		type: "random",
+		table: 2
 	}]
 }
