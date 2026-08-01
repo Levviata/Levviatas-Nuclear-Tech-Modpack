@@ -1,0 +1,14 @@
+{
+	x: 20.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "1532c348",
+		type: "item",
+		items: [{
+			id: "hbm:neutrino_lens",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

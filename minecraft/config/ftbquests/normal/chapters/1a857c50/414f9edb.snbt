@@ -1,0 +1,35 @@
+{
+	title: "Satellite Controls",
+	x: 20.5d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "81559cc5",
+		type: "item",
+		items: [{
+			item: "hbm:machine_satlinker"
+		}]
+	},
+	{
+		uid: "aeea54f3",
+		type: "item",
+		items: [{
+			id: "hbm:sat_interface",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c828223b",
+		type: "item",
+		items: [{
+			id: "hbm:sat_coord",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
