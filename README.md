@@ -1,7 +1,7 @@
 # LvNTM (Levviata's Nuclear Tech Modpack)
 
 Features:
-
+- 13 quest chapters with over 589 quests (and counting), all with high quality information.
 
 - 99% made with Levviata Brain Power(TM).
 
@@ -9,11 +9,7 @@ Features:
 
 - So optimized you could use your GPU + CPU to fly in real life (pure magic).
 
-- 13 quest chapters with over 589 quests (and counting), all with high quality information.
-
 - Over 7 custom Resource Packs (with new textures for weapons and tools).
-
-- So many [bad word] quests with exquisite text you'll gauge your eyes before reading it all (not recommended).
 
 
 Trivia:
