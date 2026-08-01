@@ -1,7 +1,7 @@
 {
 	title: "Cobalt Tools",
 	x: 12.0d,
-	y: 18.5d,
+	y: 18.0d,
 	text: [
 		"The Cobalt Sword has 13 damage without any weapon modifier.",
 		"",

@@ -1,6 +1,6 @@
 {
-	x: 3.0d,
-	y: 5.0d,
+	x: 3.5d,
+	y: 7.5d,
 	description: "§e§nRequires:§r§e Polymer",
 	text: [
 		""

@@ -1,6 +1,6 @@
 {
 	title: "Hazmat Suit",
-	x: 8.5d,
+	x: 9.5d,
 	y: 25.5d,
 	text: [
 		"The Hazmat Suit is an armor set which gives resistance to radiation, this set has 74% radiation protection."
