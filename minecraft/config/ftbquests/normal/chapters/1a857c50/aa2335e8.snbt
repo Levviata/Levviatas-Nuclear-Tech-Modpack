@@ -1,0 +1,39 @@
+{
+	title: "32x Mustard Willow",
+	x: 2.0d,
+	y: 1.5d,
+	shape: "pentagon",
+	description: "Mustard Valley",
+	text: [
+		""
+	],
+	dependencies: [
+		"dafb33f6"
+	],
+	tasks: [{
+		uid: "8de9e0ad",
+		type: "item",
+		items: [{
+			item: "hbm:plant_flower 1 2"
+		},
+		{
+			item: "hbm:plant_flower 1 3"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "7d2f39f4",
+		type: "random",
+		table: 5
+	},
+	{
+		uid: "825ffe28",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "19c62706",
+		type: "random",
+		table: 2
+	}]
+}
