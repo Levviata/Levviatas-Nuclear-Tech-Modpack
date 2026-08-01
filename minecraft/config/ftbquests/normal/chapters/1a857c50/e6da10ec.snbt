@@ -1,6 +1,13 @@
 {
 	x: 15.5d,
 	y: 2.0d,
+	description: "§e§nRequires:§r§e ESAPI Insert",
+	text: [
+		""
+	],
+	dependencies: [
+		"0a012d55"
+	],
 	tasks: [{
 		uid: "3fb99f96",
 		type: "item",
