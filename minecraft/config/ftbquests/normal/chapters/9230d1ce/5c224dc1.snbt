@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "f6ec4d73",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_dineutronium"
+		}]
+	}]
+}
