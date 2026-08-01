@@ -1,0 +1,24 @@
+{
+	x: -6.0d,
+	y: 23.0d,
+	text: [
+		"The Electric Furnace works as a slightly faster furnace but with power as fuel.",
+		"",
+		"It may be upgraded."
+	],
+	dependencies: [
+		"82d71470"
+	],
+	tasks: [{
+		uid: "17a884b4",
+		type: "item",
+		items: [{
+			item: "hbm:machine_electric_furnace_off"
+		}]
+	}],
+	rewards: [{
+		uid: "b2e4756a",
+		type: "xp",
+		xp: 20
+	}]
+}
