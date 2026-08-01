@@ -1,0 +1,15 @@
+{
+	x: -5.0d,
+	y: 4.0d,
+	dependencies: [
+		"c1de6dab",
+		"3679809f"
+	],
+	tasks: [{
+		uid: "d08d6589",
+		type: "item",
+		items: [{
+			item: "hbm:particle_strange"
+		}]
+	}]
+}

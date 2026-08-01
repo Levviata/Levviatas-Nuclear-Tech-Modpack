@@ -1,0 +1,14 @@
+{
+	x: -7.0d,
+	y: 4.0d,
+	dependencies: [
+		"7cd003ac"
+	],
+	tasks: [{
+		uid: "823cdd8c",
+		type: "item",
+		items: [{
+			item: "hbm:particle_sparkticle"
+		}]
+	}]
+}

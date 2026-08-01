@@ -1,0 +1,20 @@
+{
+	x: -7.0d,
+	y: 7.0d,
+	text: [
+		"The Tachyon Capsule is used to make Murky Wings, an End-game accessory.",
+		"",
+		"It's availaible after getting a Murky Anvil (which is post-digamma particle)."
+	],
+	dependencies: [
+		"c1de6dab",
+		"30fe3ed7"
+	],
+	tasks: [{
+		uid: "8078d57b",
+		type: "item",
+		items: [{
+			item: "hbm:particle_tachyon"
+		}]
+	}]
+}

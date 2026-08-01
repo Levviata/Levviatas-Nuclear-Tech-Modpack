@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: 10.5d,
+	dependencies: [
+		"7fe88f58"
+	],
+	tasks: [{
+		uid: "5905e94d",
+		type: "item",
+		items: [{
+			item: "hbm:pa_coil"
+		}],
+		ignore_nbt: 1b
+	}]
+}

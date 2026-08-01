@@ -1,0 +1,14 @@
+{
+	x: -7.0d,
+	y: 10.5d,
+	dependencies: [
+		"792bc355"
+	],
+	tasks: [{
+		uid: "f32a578f",
+		type: "item",
+		items: [{
+			item: "hbm:particle_aschrab"
+		}]
+	}]
+}
