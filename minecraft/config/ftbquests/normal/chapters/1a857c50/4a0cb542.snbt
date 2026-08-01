@@ -1,0 +1,26 @@
+{
+	x: 17.0d,
+	y: -4.0d,
+	dependencies: [
+		"f90a1d32"
+	],
+	tasks: [{
+		uid: "f5d90d24",
+		type: "item",
+		items: [{
+			id: "hbm:gun_tau",
+			tag: {
+				magtype: 144
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "de36dc44",
+		type: "item",
+		items: [{
+			item: "hbm:ammo_standard 1 70"
+		}]
+	}]
+}

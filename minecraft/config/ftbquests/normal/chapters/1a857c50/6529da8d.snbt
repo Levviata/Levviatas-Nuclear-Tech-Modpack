@@ -1,0 +1,31 @@
+{
+	x: 17.0d,
+	y: -7.0d,
+	dependencies: [
+		"f90a1d32"
+	],
+	tasks: [{
+		uid: "82470abd",
+		type: "item",
+		items: [{
+			item: "hbm:gun_lasrifle"
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4c31e04f",
+		type: "item",
+		title: "Any Capacitor",
+		items: [{
+			item: "hbm:ammo_standard 1 67"
+		},
+		{
+			item: "hbm:ammo_standard 1 68"
+		},
+		{
+			item: "hbm:ammo_standard 1 69"
+		}]
+	}]
+}
