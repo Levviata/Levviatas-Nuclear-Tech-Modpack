@@ -2,6 +2,7 @@
 	title: "Pre-Cement Materials",
 	x: 4.5d,
 	y: 25.0d,
+	description: "(OR task)",
 	text: [
 		"Limestone is found naturally in the world replacing patches of stone.",
 		"",
