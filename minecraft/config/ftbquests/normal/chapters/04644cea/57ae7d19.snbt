@@ -1,4 +1,5 @@
 {
+	disable_toast: true,
 	x: 0.0d,
 	y: 6.0d,
 	tasks: [{
