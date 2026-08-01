@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: 23.5d,
+	dependencies: [
+		"974fcf0f"
+	],
+	tasks: [{
+		uid: "68e54321",
+		type: "item",
+		items: [{
+			item: "hbm:powder_meteorite"
+		}]
+	}]
+}
