@@ -1,0 +1,22 @@
+{
+	x: -1.0d,
+	y: 14.5d,
+	dependencies: [
+		"694b23df"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "347ac8da",
+		type: "item",
+		items: [{
+			item: "hbm:meteorite_sword_baleful"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1c6b522f",
+		type: "xp",
+		xp: 500
+	}]
+}

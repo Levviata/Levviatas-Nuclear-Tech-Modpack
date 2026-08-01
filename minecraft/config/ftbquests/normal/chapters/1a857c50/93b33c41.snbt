@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 6.5d,
+	dependencies: [
+		"1e98b8dd"
+	],
+	tasks: [{
+		uid: "3cae151f",
+		type: "item",
+		items: [{
+			item: "hbm:meteorite_sword_seared"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

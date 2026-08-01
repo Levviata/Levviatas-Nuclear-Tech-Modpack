@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 15.0d,
+	dependencies: [
+		"cb829794"
+	],
+	tasks: [{
+		uid: "d7201001",
+		type: "item",
+		items: [{
+			item: "hbm:meteorite_sword_bred"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

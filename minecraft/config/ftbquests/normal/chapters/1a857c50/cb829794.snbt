@@ -1,0 +1,16 @@
+{
+	x: 5.5d,
+	y: 14.0d,
+	dependencies: [
+		"88d45280"
+	],
+	tasks: [{
+		uid: "befaa2a1",
+		type: "item",
+		items: [{
+			item: "hbm:meteorite_sword_etched"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 13.5d,
+	dependencies: [
+		"fea08acb"
+	],
+	tasks: [{
+		uid: "78f28160",
+		type: "item",
+		items: [{
+			item: "hbm:meteorite_sword_irradiated"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

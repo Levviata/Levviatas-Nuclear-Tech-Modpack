@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 7.5d,
+	dependencies: [
+		"93b33c41"
+	],
+	tasks: [{
+		uid: "bed17700",
+		type: "item",
+		items: [{
+			item: "hbm:meteorite_sword_reforged"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
