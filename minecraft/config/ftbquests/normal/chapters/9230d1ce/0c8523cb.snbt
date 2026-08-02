@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 5.0d,
+	dependencies: [
+		"ad84e484",
+		"9e6c2586"
+	],
+	tasks: [{
+		uid: "d2736e40",
+		type: "item",
+		items: [{
+			id: "hbm:ingot_u238m2",
+			tag: {}
+		}]
+	}]
+}

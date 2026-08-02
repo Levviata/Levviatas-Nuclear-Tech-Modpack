@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "05c71275",
+		type: "item",
+		items: [{
+			item: "hbm:book_of_"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

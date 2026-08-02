@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 5.0d,
+	dependencies: [
+		"ad84e484"
+	],
+	tasks: [{
+		uid: "6b4e207e",
+		type: "item",
+		items: [{
+			item: "hbm:mese_gavel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
