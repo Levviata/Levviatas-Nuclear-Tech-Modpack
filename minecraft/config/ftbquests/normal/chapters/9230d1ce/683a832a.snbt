@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 2.0d,
+	dependencies: [
+		"ad84e484"
+	],
+	tasks: [{
+		uid: "0aba2192",
+		type: "item",
+		items: [{
+			item: "hbm:balefire_and_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
