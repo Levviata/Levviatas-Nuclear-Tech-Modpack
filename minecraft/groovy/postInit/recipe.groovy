@@ -885,6 +885,32 @@ crafting.shapedBuilder()
 
 crafting.addShapeless(item('hbm:meteorite_sword_baleful'), [item('hbm:meteorite_sword_fused'), item('hbm:egg_balefire_shard')])
 
+// shimmer tools shouldnt be available in the mid game because they can break too many things, instantly
+crafting.shapedBuilder()
+        .name(resource('hbm:shimmer_head'))
+        .output(item('hbm:shimmer_head'))
+        .row('SSS')
+        .row('KAK')
+        .row('SSS')
+        .key('S', item('hbm:ingot_combine_steel'))
+        .key('K', item('hbm:block_combine_steel'))
+        .key('A', item('hbm:block_euphemium'))
+        .replaceByName()
+        .register()
+
+crafting.shapedBuilder()
+        .name(resource('hbm:shimmer_axe_head'))
+        .output(item('hbm:shimmer_axe_head'))
+        .row('SCC')
+        .row('SAK')
+        .row('SCC')
+        .key('S', item('hbm:plate_combine_steel'))
+        .key('K', item('hbm:block_combine_steel'))
+        .key('A', item('hbm:block_euphemium'))
+        .key('C', item('hbm:ingot_combine_steel'))
+        .replaceByName()
+        .register()
+
 // no one told me this thing doesnt work and I've been including it for the past 6 months as a working mechanic
 // remove unused item
 crafting.removeByOutput(item('hbm:template_folder'))
