@@ -5,6 +5,7 @@
 		"86c1bfd9",
 		"40eecbae"
 	],
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "6a5ea61c",
 		type: "item",
