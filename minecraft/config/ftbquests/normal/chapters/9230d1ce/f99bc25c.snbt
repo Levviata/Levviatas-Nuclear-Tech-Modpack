@@ -14,12 +14,5 @@
 		items: [{
 			item: "hbm:fluid_icon 1 8"
 		}]
-	},
-	{
-		uid: "d6a82de2",
-		type: "item",
-		items: [{
-			item: "hbm:fluid_icon 1 39"
-		}]
 	}]
 }
