@@ -1,0 +1,34 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	description: "§e§nRequires:§r§e Combine Steel",
+	text: [
+		""
+	],
+	dependencies: [
+		"29359305"
+	],
+	tasks: [{
+		uid: "6bebd276",
+		type: "item",
+		items: [{
+			item: "hbm:shimmer_sledge"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bd4373b3",
+		type: "item",
+		items: [{
+			item: "hbm:shimmer_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1703f688",
+		type: "xp",
+		xp: 500
+	}]
+}
