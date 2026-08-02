@@ -1,0 +1,22 @@
+{
+	x: -3.0d,
+	y: 3.5d,
+	description: "Don't break it!",
+	text: [
+		"The Polaroid is an interesting item that can't be used by the player, but rather changes each time you run the game, depending on its state (description) the game may change, revealing secrets, keep your eye balls open if something ain't right."
+	],
+	tasks: [{
+		uid: "41618c7f",
+		type: "item",
+		items: [{
+			item: "hbm:polaroid"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9afe5eea",
+		type: "xp",
+		xp: 10
+	}]
+}
