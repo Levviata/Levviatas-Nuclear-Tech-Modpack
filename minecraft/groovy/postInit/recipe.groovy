@@ -911,6 +911,7 @@ crafting.removeByOutput(item('refinedstorage:processor'))
 crafting.removeByOutput(item('refinedstorage:processor:1'))
 crafting.removeByOutput(item('refinedstorage:processor:2'))
 
+crafting.removeByOutput(item('hbm:machine_battery_potato'))
 
 // remove furnace raw processor recipe
 furnace.removeByOutput(item('refinedstorage:processor:3'))
