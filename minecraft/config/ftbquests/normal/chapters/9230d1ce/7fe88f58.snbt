@@ -12,6 +12,9 @@
 		"",
 		"To understand how it works, watch Savage Vegetta's tutorial."
 	],
+	dependencies: [
+		"fd2d6c96"
+	],
 	tasks: [{
 		uid: "5e40b22a",
 		type: "item",

@@ -6,6 +6,7 @@
 	],
 	dependencies: [
 		"f547edc2",
+		"81b43fe5",
 		"f99bc25c"
 	],
 	size: 1.25d,
