@@ -1,0 +1,58 @@
+{
+	x: 23.5d,
+	y: -1.0d,
+	text: [
+		"While it is technically possible to obtain the DNT armor after getting Yharonite, it might be extremely hard to do so because Fau Armor offers a huge protection boost agaisnt Ball's o Tron"
+	],
+	dependencies: [
+		"e7774335"
+	],
+	tasks: [{
+		uid: "a60af0a3",
+		type: "item",
+		items: [{
+			id: "hbm:dns_helmet",
+			tag: {
+				charge: 1000000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c7b28f05",
+		type: "item",
+		items: [{
+			id: "hbm:dns_plate",
+			tag: {
+				charge: 1000000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0b066fde",
+		type: "item",
+		items: [{
+			id: "hbm:dns_legs",
+			tag: {
+				charge: 1000000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7a4a3b34",
+		type: "item",
+		items: [{
+			id: "hbm:dns_boots",
+			tag: {
+				charge: 1000000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
