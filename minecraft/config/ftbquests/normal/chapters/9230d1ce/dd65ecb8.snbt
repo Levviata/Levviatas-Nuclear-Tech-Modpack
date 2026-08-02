@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: -5.5d,
+	dependencies: [
+		"e7774335"
+	],
+	tasks: [{
+		uid: "52b9ac6f",
+		type: "item",
+		items: [{
+			item: "hbm:watch"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

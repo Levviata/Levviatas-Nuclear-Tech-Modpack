@@ -1,0 +1,48 @@
+{
+	x: -4.5d,
+	y: 5.5d,
+	dependencies: [
+		"d34c47a8"
+	],
+	tasks: [{
+		uid: "ffc515be",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2d6cdaea",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6f9afc9c",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "de976786",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b8bb0994",
+		type: "xp",
+		xp: 100
+	}]
+}

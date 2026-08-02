@@ -1,0 +1,13 @@
+{
+	x: 17.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "05204169",
+		type: "item",
+		items: [{
+			item: "hbm:ams_core_thingy"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

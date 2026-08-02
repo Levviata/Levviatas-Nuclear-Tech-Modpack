@@ -1,0 +1,14 @@
+{
+	x: 20.0d,
+	y: -1.5d,
+	dependencies: [
+		"4112c1df"
+	],
+	tasks: [{
+		uid: "f284970e",
+		type: "item",
+		items: [{
+			item: "hbm:billet_yharonite"
+		}]
+	}]
+}

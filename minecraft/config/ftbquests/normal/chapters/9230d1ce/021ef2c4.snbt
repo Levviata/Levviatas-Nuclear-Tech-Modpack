@@ -1,0 +1,16 @@
+{
+	x: -2.5d,
+	y: 8.5d,
+	dependencies: [
+		"5c224dc1"
+	],
+	tasks: [{
+		uid: "d8687cc5",
+		type: "item",
+		items: [{
+			item: "hbm:laser_crystal_bale"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

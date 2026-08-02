@@ -1,0 +1,49 @@
+{
+	x: 17.5d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"4fe9f8c4"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "bdaf3ee1",
+		type: "item",
+		items: [{
+			item: "hbm:dfc_emitter"
+		}]
+	},
+	{
+		uid: "e0102c1e",
+		type: "item",
+		items: [{
+			item: "hbm:dfc_injector"
+		}]
+	},
+	{
+		uid: "14cf29f6",
+		type: "item",
+		items: [{
+			item: "hbm:dfc_receiver"
+		}]
+	},
+	{
+		uid: "42d20914",
+		type: "item",
+		items: [{
+			item: "hbm:dfc_stabilizer"
+		}]
+	},
+	{
+		uid: "52c72b70",
+		type: "item",
+		items: [{
+			item: "hbm:dfc_core"
+		}]
+	}],
+	rewards: [{
+		uid: "09a9bcac",
+		type: "xp",
+		xp: 100
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	title: "Bismuth Tools",
+	x: 5.0d,
+	y: 7.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7df97880"
+	],
+	tasks: [{
+		uid: "ba9dcb9f",
+		type: "item",
+		items: [{
+			item: "hbm:bismuth_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "19fa4d3b",
+		type: "item",
+		items: [{
+			item: "hbm:bismuth_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9292fb36",
+		type: "xp",
+		xp: 20
+	}]
+}

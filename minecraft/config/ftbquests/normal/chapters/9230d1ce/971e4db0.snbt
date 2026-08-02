@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: 10.0d,
+	shape: "hexagon",
+	dependencies: [
+		"27e13754"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "f4866e5b",
+		type: "item",
+		items: [{
+			item: "hbm:fusion_plasma_forge"
+		}]
+	}]
+}

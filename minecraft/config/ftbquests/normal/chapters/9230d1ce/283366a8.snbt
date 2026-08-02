@@ -1,0 +1,17 @@
+{
+	x: -6.5d,
+	y: 0.5d,
+	dependencies: [
+		"e8415758"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "44902346",
+		type: "item",
+		items: [{
+			item: "hbm:singularity_counter_resonant"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

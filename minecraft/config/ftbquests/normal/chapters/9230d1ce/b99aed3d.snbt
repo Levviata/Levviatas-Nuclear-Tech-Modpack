@@ -1,0 +1,55 @@
+{
+	x: 23.5d,
+	y: -2.5d,
+	dependencies: [
+		"e7774335"
+	],
+	tasks: [{
+		uid: "661e18e4",
+		type: "item",
+		items: [{
+			id: "hbm:fau_helmet",
+			tag: {
+				charge: 10000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5bab5d36",
+		type: "item",
+		items: [{
+			id: "hbm:fau_plate",
+			tag: {
+				charge: 10000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8615a64c",
+		type: "item",
+		items: [{
+			id: "hbm:fau_legs",
+			tag: {
+				charge: 10000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c70fb3e5",
+		type: "item",
+		items: [{
+			id: "hbm:fau_boots",
+			tag: {
+				charge: 10000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

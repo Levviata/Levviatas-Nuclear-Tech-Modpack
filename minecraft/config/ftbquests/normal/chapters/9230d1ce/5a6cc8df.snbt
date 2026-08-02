@@ -1,0 +1,35 @@
+{
+	x: -5.0d,
+	y: 4.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"d34c47a8"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "9308a39c",
+		type: "item",
+		items: [{
+			item: "hbm:apple_schrabidium"
+		}]
+	},
+	{
+		uid: "d60f8ba5",
+		type: "item",
+		items: [{
+			item: "hbm:apple_schrabidium 1 1"
+		}]
+	},
+	{
+		uid: "fbb83d5f",
+		type: "item",
+		items: [{
+			item: "hbm:apple_schrabidium 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "da6e5a18",
+		type: "xp",
+		xp: 100
+	}]
+}

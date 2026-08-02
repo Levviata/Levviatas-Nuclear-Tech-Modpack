@@ -1,0 +1,24 @@
+{
+	x: -9.5d,
+	y: 2.0d,
+	dependencies: [
+		"1fcab694",
+		"16036b6d",
+		"283366a8"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "7b2017fb",
+		type: "item",
+		items: [{
+			item: "hbm:singularity_spark"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2ba851d4",
+		type: "xp",
+		xp: 500
+	}]
+}

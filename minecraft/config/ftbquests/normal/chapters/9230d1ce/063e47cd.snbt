@@ -1,0 +1,18 @@
+{
+	x: 17.0d,
+	y: -5.5d,
+	dependencies: [
+		"dd65ecb8",
+		"96b82733"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "4848a910",
+		type: "item",
+		items: [{
+			item: "hbm:euphemium_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

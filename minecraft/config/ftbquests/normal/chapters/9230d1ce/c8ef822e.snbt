@@ -1,0 +1,19 @@
+{
+	x: 22.5d,
+	y: -4.0d,
+	dependencies: [
+		"e7774335"
+	],
+	tasks: [{
+		uid: "41478108",
+		type: "item",
+		items: [{
+			id: "hbm:crucible",
+			tag: {
+				charges: 16
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

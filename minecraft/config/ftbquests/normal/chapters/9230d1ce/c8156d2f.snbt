@@ -1,0 +1,17 @@
+{
+	x: 22.5d,
+	y: 1.0d,
+	dependencies: [
+		"e7774335"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "ad8cf788",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

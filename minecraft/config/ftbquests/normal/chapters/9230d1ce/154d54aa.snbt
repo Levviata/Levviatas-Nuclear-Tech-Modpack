@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: 3.0d,
+	dependencies: [
+		"f547edc2"
+	],
+	tasks: [{
+		uid: "1c652702",
+		type: "item",
+		items: [{
+			item: "hbm:powder_balefire"
+		}]
+	}]
+}

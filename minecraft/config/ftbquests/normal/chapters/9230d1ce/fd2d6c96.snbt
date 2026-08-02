@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -5.0d,
+	dependencies: [
+		"f37c9249"
+	],
+	tasks: [{
+		uid: "3eee052c",
+		type: "item",
+		items: [{
+			item: "hbm:circuit 1 15"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -4.0d,
+	y: 2.0d,
+	dependencies: [
+		"29359305"
+	],
+	tasks: [{
+		uid: "98b138d2",
+		type: "item",
+		items: [{
+			item: "hbm:singularity"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

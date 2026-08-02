@@ -1,0 +1,19 @@
+{
+	x: 6.5d,
+	y: -3.0d,
+	dependencies: [
+		"f37c9249"
+	],
+	tasks: [{
+		uid: "646656dd",
+		type: "item",
+		items: [{
+			id: "hbm:battery_pack",
+			Damage: 10s,
+			tag: {
+				charge: 0L
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

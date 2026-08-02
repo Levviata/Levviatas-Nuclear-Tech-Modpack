@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: 5.0d,
+	dependencies: [
+		"f547edc2"
+	],
+	tasks: [{
+		uid: "d01eedea",
+		type: "item",
+		items: [{
+			item: "hbm:powder_chlorophyte"
+		}]
+	}]
+}

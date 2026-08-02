@@ -1,0 +1,34 @@
+{
+	title: "Mese Tools",
+	x: 9.0d,
+	y: 6.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"16e73415"
+	],
+	tasks: [{
+		uid: "424b725f",
+		type: "item",
+		items: [{
+			item: "hbm:mese_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bd3f185f",
+		type: "item",
+		items: [{
+			item: "hbm:mese_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "774d2f2d",
+		type: "xp",
+		xp: 50
+	}]
+}

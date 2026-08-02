@@ -1,0 +1,35 @@
+{
+	title: "Chlorophyte Tools",
+	x: 7.0d,
+	y: 6.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"6871af1c",
+		"2b3c8a79"
+	],
+	tasks: [{
+		uid: "525dec24",
+		type: "item",
+		items: [{
+			item: "hbm:chlorophyte_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "600aa486",
+		type: "item",
+		items: [{
+			item: "hbm:chlorophyte_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fbaafcb9",
+		type: "xp",
+		xp: 50
+	}]
+}

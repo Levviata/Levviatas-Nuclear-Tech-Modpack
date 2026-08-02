@@ -1,0 +1,17 @@
+{
+	x: -7.0d,
+	y: 2.0d,
+	dependencies: [
+		"e8415758"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "c88d979d",
+		type: "item",
+		items: [{
+			item: "hbm:black_hole"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 2.5d,
+	dependencies: [
+		"e7774335"
+	],
+	tasks: [{
+		uid: "a0f2cca5",
+		type: "item",
+		items: [{
+			item: "hbm:insert_yharonite"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

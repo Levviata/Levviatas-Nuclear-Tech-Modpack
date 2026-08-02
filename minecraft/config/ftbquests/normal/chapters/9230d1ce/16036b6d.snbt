@@ -1,0 +1,17 @@
+{
+	x: -6.5d,
+	y: 3.5d,
+	dependencies: [
+		"e8415758"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "e08dea78",
+		type: "item",
+		items: [{
+			item: "hbm:singularity_super_heated"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

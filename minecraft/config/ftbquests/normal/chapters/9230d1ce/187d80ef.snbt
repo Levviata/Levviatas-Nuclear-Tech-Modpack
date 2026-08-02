@@ -1,0 +1,29 @@
+{
+	x: 7.0d,
+	y: 1.0d,
+	dependencies: [
+		"154d54aa"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "dd467fc1",
+		type: "item",
+		items: [{
+			item: "hbm:egg_balefire_shard"
+		}]
+	},
+	{
+		uid: "3d0e1645",
+		type: "item",
+		items: [{
+			item: "hbm:egg_balefire"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dd0da37f",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

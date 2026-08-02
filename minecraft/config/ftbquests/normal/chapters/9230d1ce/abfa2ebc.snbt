@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: 7.0d,
+	dependencies: [
+		"5c224dc1"
+	],
+	tasks: [{
+		uid: "e511b71e",
+		type: "item",
+		items: [{
+			item: "hbm:plate_dineutronium"
+		}]
+	}]
+}

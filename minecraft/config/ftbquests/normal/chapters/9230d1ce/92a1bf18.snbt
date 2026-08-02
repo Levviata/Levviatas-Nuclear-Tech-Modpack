@@ -1,0 +1,27 @@
+{
+	x: -5.5d,
+	y: 5.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"d34c47a8"
+	],
+	tasks: [{
+		uid: "1b3f2c75",
+		type: "item",
+		title: "Magnetized Tungsten",
+		items: [{
+			item: "hbm:scraps 1 38"
+		},
+		{
+			item: "hbm:ingot_magnetized_tungsten"
+		},
+		{
+			item: "hbm:powder_magnetized_tungsten"
+		}]
+	}],
+	rewards: [{
+		uid: "ebb30506",
+		type: "xp",
+		xp: 10
+	}]
+}

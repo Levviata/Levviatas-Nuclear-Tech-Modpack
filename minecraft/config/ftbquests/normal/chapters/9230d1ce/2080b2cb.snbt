@@ -1,0 +1,48 @@
+{
+	x: -4.0d,
+	y: 4.5d,
+	dependencies: [
+		"d34c47a8"
+	],
+	tasks: [{
+		uid: "87932c80",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d044d9cb",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "58627762",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8d9cf9b9",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a047204e",
+		type: "xp",
+		xp: 100
+	}]
+}

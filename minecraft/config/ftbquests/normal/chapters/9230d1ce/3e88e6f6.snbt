@@ -1,0 +1,24 @@
+{
+	x: 12.0d,
+	y: -1.5d,
+	shape: "gear",
+	dependencies: [
+		"f37c9249"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "6b3deba6",
+		type: "item",
+		items: [{
+			id: "hbm:sat_gerald",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d4a10d5b",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}
