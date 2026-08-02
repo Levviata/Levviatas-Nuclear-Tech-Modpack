@@ -2,6 +2,10 @@
 	x: 12.5d,
 	y: -2.0d,
 	shape: "hexagon",
+	description: "Can be obtained from the RBMK reactor",
+	text: [
+		""
+	],
 	dependencies: [
 		"6e8da64d",
 		"8a76f5ce"
