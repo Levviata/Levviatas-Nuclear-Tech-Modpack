@@ -1,6 +1,6 @@
 {
-	x: 16.0d,
-	y: -6.0d,
+	x: 1.0d,
+	y: 7.0d,
 	text: [
 		"The Atomic Clock is mainly used for quantum circuits, it can also make Advanced Control Unit and Laser Grenade Charge."
 	],
