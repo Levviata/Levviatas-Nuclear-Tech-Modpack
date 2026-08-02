@@ -1,7 +1,7 @@
 {
 	title: "Particle Accelerator",
-	x: -0.5d,
-	y: 7.0d,
+	x: 2.0d,
+	y: -5.0d,
 	shape: "hexagon",
 	text: [
 		"The Particle Accelerator is a complex modular machine that produces particles of all sorts.",
