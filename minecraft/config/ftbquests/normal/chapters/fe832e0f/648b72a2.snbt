@@ -1,8 +1,11 @@
 {
-	x: -3.0d,
-	y: -0.5d,
 	x: 5.0d,
 	y: 0.5d,
+	description: "Deadly",
+	text: [
+		"The Fat Mine deals over 500 damage.  ",
+		"It explodes creating a 35x35 crater, dealing damage to anything in a 70 block radius."
+	],
 	tasks: [{
 		uid: "e62dd070",
 		type: "item",
