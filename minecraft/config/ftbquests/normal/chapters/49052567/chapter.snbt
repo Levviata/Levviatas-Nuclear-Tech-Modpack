@@ -1,5 +1,12 @@
 {
 	title: "Refined Storage",
+	icon: {
+		id: "refinedstorage:controller",
+		Damage: 1s,
+		tag: {
+			Energy: 32000
+		}
+	},
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: "",

@@ -1,5 +1,6 @@
 {
 	title: "Leftovers",
+	icon: "minecraft:structure_void",
 	description: [
 		"Recipe breakdowns and other quests that ",
 		"didn't get shipped in the final product"

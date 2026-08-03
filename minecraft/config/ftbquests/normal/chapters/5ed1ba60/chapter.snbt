@@ -1,5 +1,6 @@
 {
 	title: "Recipe Changes",
+	icon: "minecraft:command_block_minecart",
 	disable_toast: true,
 	always_invisible: false,
 	group: 0,

@@ -1,5 +1,9 @@
 {
 	title: "Late Game",
+	icon: {
+		id: "hbm:sat_gerald",
+		tag: {}
+	},
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: "",
