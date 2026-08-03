@@ -1,6 +1,11 @@
 {
-	x: 18.5d,
-	y: -6.5d,
+	x: 18.51190476190476d,
+	y: -6.642857142857139d,
+	text: [
+		"The Hydrotreater uses 1 PU (pressurized) Liquid Hydrogen to process petrochemicals.",
+		"",
+		"It can be used to speed up the production of some chemicals or make new fluids unique to the machine."
+	],
 	dependencies: [
 		"f90a1d32"
 	],
