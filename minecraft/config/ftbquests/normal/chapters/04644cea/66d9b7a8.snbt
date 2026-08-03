@@ -3,7 +3,8 @@
 	y: 10.0d,
 	description: "Patented by Pulmonar Cancer, Inc.",
 	text: [
-		"Will give you black lung which is not good for your lungs, you may wear a gas mask. ",
+		"When the ore is broken it spawns coal dust which will give you black lung, you will need to use a gas mask with filter.",
+		"",
 		"This mechanic is explained in the Early Game quest line."
 	],
 	tasks: [{
