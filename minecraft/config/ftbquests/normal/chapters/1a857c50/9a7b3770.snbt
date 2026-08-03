@@ -1,7 +1,8 @@
 {
 	title: "Light Oil Results",
-	x: -17.0d,
-	y: -1.0d,
+	icon: "hbm:fluid_icon 1 21",
+	x: -10.5d,
+	y: 0.5d,
 	text: [
 		""
 	],
