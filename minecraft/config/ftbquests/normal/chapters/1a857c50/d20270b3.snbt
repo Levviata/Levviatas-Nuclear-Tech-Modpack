@@ -1,6 +1,9 @@
 {
-	x: 1.5d,
-	y: 3.0d,
+	x: 0.5d,
+	y: 2.5d,
+	text: [
+		"The Pumpjack is an oil extracting machine, its faster than the Derrick and can extract Bedrock Oil"
+	],
 	dependencies: [
 		"5b1b40f1"
 	],
