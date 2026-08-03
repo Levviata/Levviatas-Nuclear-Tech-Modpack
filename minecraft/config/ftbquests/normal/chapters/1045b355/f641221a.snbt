@@ -1,0 +1,26 @@
+{
+	x: 8.0d,
+	y: -0.5d,
+	text: [
+		"Fireclay is used for making Firebricks which make the Crucible, a machine that can melt metals.",
+		"",
+		"It also makes some other machines."
+	],
+	dependencies: [
+		"48883b0c",
+		"bf8913ae"
+	],
+	tasks: [{
+		uid: "460a8484",
+		type: "item",
+		items: [{
+			item: "hbm:ball_fireclay"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "17490c85",
+		type: "xp",
+		xp: 10
+	}]
+}
