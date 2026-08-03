@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: 20.0d,
+	tasks: [{
+		uid: "086e1c82",
+		type: "item",
+		items: [{
+			item: "hbm:item_secret 1 2"
+		}]
+	}]
+}

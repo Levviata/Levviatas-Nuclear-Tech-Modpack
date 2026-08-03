@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 20.0d,
+	dependencies: [
+		"dd15826f"
+	],
+	tasks: [{
+		uid: "ee931e50",
+		type: "item",
+		items: [{
+			item: "hbm:item_secret 1 2"
+		}]
+	}]
+}
