@@ -1,8 +1,14 @@
 {
-	x: 17.5d,
-	y: 1.0d,
 	x: 17.0d,
 	y: 3.0d,
+	description: "I'm not gonna even question it.",
+	text: [
+		""
+	],
+	dependencies: [
+		"42e550a8"
+	],
+	hide: true,
 	tasks: [{
 		uid: "05204169",
 		type: "item",

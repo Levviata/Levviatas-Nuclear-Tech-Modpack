@@ -10,7 +10,10 @@
 	],
 	dependencies: [
 		"fa871a76",
-		"1a857c50"
+		"3d1c6a37",
+		"1a857c50",
+		"e861e9bc",
+		"9d7e8d90"
 	],
 	dependency_requirement: "one_completed",
 	size: 2.0d,
