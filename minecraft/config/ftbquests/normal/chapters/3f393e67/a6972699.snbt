@@ -29,9 +29,9 @@
 		table: 2
 	},
 	{
-		uid: "71c85fe8",
+		uid: "b881a024",
 		type: "item",
-		item: "hbm:conveyor",
+		item: "hbm:conveyor_wand",
 		count: 32
 	}]
 }
