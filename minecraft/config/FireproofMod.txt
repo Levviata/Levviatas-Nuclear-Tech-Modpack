@@ -9,6 +9,10 @@ hbm:euphemium_helmet
 hbm:euphemium_plate
 hbm:euphemium_legs
 hbm:euphemium_boots
+hbm:schrabidium_helmet
+hbm:schrabidium_plate
+hbm:schrabidium_legs
+hbm:schrabidium_boots
 hbm:dfc_emitter
 hbm:dfc_injector
 hbm:dfc_receiver
