@@ -1,0 +1,46 @@
+{
+	title: "Chicago Pile",
+	x: -7.5d,
+	y: 0.5d,
+	shape: "hexagon",
+	size: 1.5d,
+	tasks: [{
+		uid: "f58899a7",
+		type: "item",
+		items: [{
+			item: "hbm:block_graphite"
+		}]
+	},
+	{
+		uid: "03f3b158",
+		type: "item",
+		title: "Hand Drill",
+		items: [{
+			item: "hbm:hand_drill"
+		},
+		{
+			item: "hbm:hand_drill_desh"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c1bc203f",
+		type: "item",
+		title: "Any Fuel Rod",
+		items: [{
+			item: "hbm:pile_rod_uranium"
+		},
+		{
+			item: "hbm:pile_rod_source"
+		},
+		{
+			item: "hbm:pile_rod_lithium"
+		}]
+	}],
+	rewards: [{
+		uid: "a4237a79",
+		type: "xp",
+		xp: 10
+	}]
+}
