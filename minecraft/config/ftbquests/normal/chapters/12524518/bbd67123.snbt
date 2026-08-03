@@ -1,0 +1,27 @@
+{
+	x: -7.5d,
+	y: -1.5d,
+	dependencies: [
+		"2b92b8d2"
+	],
+	optional: true,
+	tasks: [{
+		uid: "a3acea45",
+		type: "item",
+		items: [{
+			item: "hbm:pile_rod_boron"
+		}]
+	},
+	{
+		uid: "5768fcb9",
+		type: "item",
+		items: [{
+			item: "hbm:pile_rod_detector"
+		}]
+	}],
+	rewards: [{
+		uid: "066d98d3",
+		type: "xp",
+		xp: 10
+	}]
+}
