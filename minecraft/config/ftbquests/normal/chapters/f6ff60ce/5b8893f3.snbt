@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 21.5d,
+	dependencies: [
+		"fa3941d8"
+	],
+	tasks: [{
+		uid: "93a70937",
+		type: "item",
+		items: [{
+			item: "hbm:polaroid"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

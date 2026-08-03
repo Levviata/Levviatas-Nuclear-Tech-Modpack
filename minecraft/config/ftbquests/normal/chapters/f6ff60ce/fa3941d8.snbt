@@ -1,0 +1,13 @@
+{
+	x: 5.5d,
+	y: 21.5d,
+	tasks: [{
+		uid: "605ab722",
+		type: "item",
+		items: [{
+			item: "hbm:polaroid"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
