@@ -1,10 +1,9 @@
 {
-	x: -3.0d,
-	y: 3.5d,
+	x: -3.5d,
+	y: 1.0d,
 	text: [
-		"Self-Charging Batteries are special batteries made from radioactive materials that produce energy constantly for free. They are not radioactive."
+		"Self-Charging Batteries are special batteries made from radioactive materials that produce energy constantly."
 	],
-	size: 1.25d,
 	tasks: [{
 		uid: "f42506f5",
 		type: "item",
