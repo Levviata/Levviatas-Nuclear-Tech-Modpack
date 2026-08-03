@@ -35,14 +35,6 @@
 - The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
 
 - Over 350 hours of development.
-
-## Quests and Progression
-So far I have done:
-
-- Early Game: 100%.
-- Oil Age/Refining (mid-game): 80%.
-- End game: 20%.
-- Refined Storage: Less than I would prefer.
 - Reactors: 33%.
 - Weapons, Missiles, Grenades: 1%.
 - Ores and Ingots: 78%.
