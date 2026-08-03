@@ -1,0 +1,37 @@
+{
+	title: "Music Discs",
+	x: -10.0d,
+	y: 10.0d,
+	shape: "square",
+	description: "Cool music.",
+	text: [
+		""
+	],
+	dependencies: [
+		"0477fbc8"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "06a3e8e7",
+		type: "item",
+		items: [{
+			item: "hbm:record_lc"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "957e7491",
+		type: "item",
+		items: [{
+			item: "hbm:record_ss"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5ff2e5d3",
+		type: "xp",
+		xp: 20
+	}]
+}

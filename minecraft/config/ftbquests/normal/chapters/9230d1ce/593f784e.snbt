@@ -1,0 +1,26 @@
+{
+	x: -6.5d,
+	y: 7.0d,
+	shape: "square",
+	description: "That's some cool music.",
+	text: [
+		""
+	],
+	dependencies: [
+		"fe345438"
+	],
+	tasks: [{
+		uid: "fbdec183",
+		type: "item",
+		items: [{
+			item: "hbm:record_vc"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "286f1365",
+		type: "xp",
+		xp: 10
+	}]
+}
