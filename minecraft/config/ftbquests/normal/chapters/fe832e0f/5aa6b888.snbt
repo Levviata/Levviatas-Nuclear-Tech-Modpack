@@ -1,0 +1,24 @@
+{
+	x: 0.5d,
+	y: 10.0d,
+	dependencies: [
+		"3a802c4f"
+	],
+	tasks: [{
+		uid: "73a31e90",
+		type: "item",
+		items: [{
+			id: "hbm:gun_congolake",
+			tag: {
+				timer_0: 7,
+				state_0: 0b,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 0b,
+				lastanim_0: 4
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

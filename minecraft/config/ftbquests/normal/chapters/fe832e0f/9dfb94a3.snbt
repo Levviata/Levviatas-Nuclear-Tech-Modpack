@@ -1,0 +1,25 @@
+{
+	x: 3.0d,
+	y: 18.5d,
+	dependencies: [
+		"deda0423"
+	],
+	tasks: [{
+		uid: "6566d886",
+		type: "item",
+		items: [{
+			id: "hbm:gun_minigun",
+			tag: {
+				state_0: 0b,
+				magtype: 64,
+				lastanim_0: 4,
+				timer_0: 20,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

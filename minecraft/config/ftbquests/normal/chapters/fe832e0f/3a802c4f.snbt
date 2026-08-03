@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 8.0d,
+	shape: "hexagon",
+	size: 1.25d,
+	tasks: [{
+		uid: "86eef0da",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_dura_steel"
+		}]
+	}]
+}

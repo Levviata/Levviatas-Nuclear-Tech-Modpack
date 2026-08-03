@@ -1,0 +1,13 @@
+{
+	x: -3.5d,
+	y: 11.0d,
+	shape: "hexagon",
+	size: 1.25d,
+	tasks: [{
+		uid: "ae54bf5f",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_desh"
+		}]
+	}]
+}

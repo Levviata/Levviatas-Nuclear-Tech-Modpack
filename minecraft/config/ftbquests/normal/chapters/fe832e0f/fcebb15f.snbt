@@ -1,0 +1,25 @@
+{
+	x: -2.0d,
+	y: 18.5d,
+	dependencies: [
+		"bc202618"
+	],
+	tasks: [{
+		uid: "4d034927",
+		type: "item",
+		items: [{
+			id: "hbm:gun_m2",
+			tag: {
+				state_0: 0b,
+				magtype: 125,
+				lastanim_0: 4,
+				timer_0: 10,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

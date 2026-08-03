@@ -1,0 +1,29 @@
+{
+	x: -4.0d,
+	y: 18.0d,
+	dependencies: [
+		"bc202618"
+	],
+	tasks: [{
+		uid: "243db1ff",
+		type: "item",
+		items: [{
+			id: "hbm:gun_quadro",
+			tag: {
+				state_0: 1b,
+				reload_0: 0b,
+				mouse1_0: 0b,
+				animtimer_0: 231,
+				mouse3_0: 0b,
+				timer_0: 0,
+				lastanim_0: 10,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 1b,
+				mouse2_0: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

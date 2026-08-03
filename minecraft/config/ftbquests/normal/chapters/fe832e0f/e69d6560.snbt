@@ -1,0 +1,29 @@
+{
+	x: 1.0d,
+	y: 18.0d,
+	dependencies: [
+		"deda0423"
+	],
+	tasks: [{
+		uid: "d5756ecc",
+		type: "item",
+		items: [{
+			id: "hbm:gun_lag",
+			tag: {
+				state_0: 0b,
+				reload_0: 0b,
+				mouse1_0: 0b,
+				animtimer_0: 130,
+				mouse3_0: 0b,
+				lastanim_0: 4,
+				timer_0: 7,
+				aiming: 0b,
+				cancel: 0b,
+				mouse2_0: 0b,
+				eqipped: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

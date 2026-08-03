@@ -1,0 +1,29 @@
+{
+	x: 2.5d,
+	y: 13.0d,
+	dependencies: [
+		"27d2816a"
+	],
+	tasks: [{
+		uid: "c5e06f1c",
+		type: "item",
+		items: [{
+			id: "hbm:gun_star_f",
+			tag: {
+				state_0: 0b,
+				reload_0: 0b,
+				mouse1_0: 0b,
+				animtimer_0: 12,
+				mouse3_0: 0b,
+				timer_0: 15,
+				lastanim_0: 4,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 0b,
+				mouse2_0: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

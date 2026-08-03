@@ -1,0 +1,24 @@
+{
+	x: 1.5d,
+	y: 9.5d,
+	dependencies: [
+		"3a802c4f"
+	],
+	tasks: [{
+		uid: "9fd12adb",
+		type: "item",
+		items: [{
+			id: "hbm:gun_liberator",
+			tag: {
+				timer_0: 20,
+				state_0: 0b,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 0b,
+				lastanim_0: 4
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
