@@ -1,0 +1,17 @@
+{
+	x: 2.5d,
+	y: 16.5d,
+	shape: "hexagon",
+	size: 1.25d,
+	tasks: [{
+		uid: "c5855a68",
+		type: "item",
+		title: "Technetium Ingot",
+		items: [{
+			item: "hbm:ingot_tcalloy"
+		},
+		{
+			item: "hbm:ingot_cdalloy"
+		}]
+	}]
+}
