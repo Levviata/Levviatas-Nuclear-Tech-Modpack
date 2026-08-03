@@ -4,7 +4,7 @@
 	text: [
 		"The Industrial Mixer is an important machine that mixes liquids and solids to make new products.",
 		"",
-		"May make High-Performance Solvent, Nitric Acid, Fracking Solution, and many other important liquids"
+		"May make High-Performance Solvent, Nitric Acid, Fracking Solution, and many other important fluids."
 	],
 	dependencies: [
 		"48a2a7c5"
