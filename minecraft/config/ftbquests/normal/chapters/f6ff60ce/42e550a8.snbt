@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 11.0d,
+	dependencies: [
+		"978cd2df"
+	],
+	tasks: [{
+		uid: "575af0ce",
+		type: "item",
+		items: [{
+			item: "hbm:ams_core_thingy"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
