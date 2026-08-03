@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: 15.5d,
+	tasks: [{
+		uid: "591bf761",
+		type: "item",
+		items: [{
+			item: "hbm:grenade_shell 1 2"
+		}]
+	}]
+}
