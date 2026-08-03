@@ -19,5 +19,10 @@
 		items: [{
 			item: "hbm:machine_strand_caster"
 		}]
+	}],
+	rewards: [{
+		uid: "0767d060",
+		type: "xp",
+		xp: 10
 	}]
 }

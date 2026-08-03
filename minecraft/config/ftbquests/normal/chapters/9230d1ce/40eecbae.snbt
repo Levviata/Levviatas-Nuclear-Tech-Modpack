@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:ingot_schraranium"
 		}]
+	}],
+	rewards: [{
+		uid: "5078e041",
+		type: "xp",
+		xp: 10
 	}]
 }
