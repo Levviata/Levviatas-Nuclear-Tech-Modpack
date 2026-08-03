@@ -1,0 +1,24 @@
+{
+	x: -3.5d,
+	y: -1.0d,
+	shape: "hexagon",
+	text: [
+		"The Weapon Modification Table is able to insert accessories to guns, to use, place a gun in the left-most slot, starting down.",
+		"",
+		"If you hover your gun, it will tell you which accessories it accepts.",
+		"",
+		" If you have dual guns, you may select the second gun to modify it, that is the up and down arrows with a number to it's left, the number is the gun selected."
+	],
+	tasks: [{
+		uid: "a5610191",
+		type: "item",
+		items: [{
+			item: "hbm:machine_weapon_table"
+		}]
+	}],
+	rewards: [{
+		uid: "55238508",
+		type: "xp",
+		xp: 10
+	}]
+}
