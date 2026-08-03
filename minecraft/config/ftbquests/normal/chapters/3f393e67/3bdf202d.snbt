@@ -1,0 +1,31 @@
+{
+	x: 8.5d,
+	y: 20.0d,
+	shape: "pentagon",
+	dependencies: [
+		"8a720ae4"
+	],
+	tasks: [{
+		uid: "025f35b1",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_meteorite"
+		}],
+		count: 24L
+	}],
+	rewards: [{
+		uid: "12a0a1d5",
+		type: "random",
+		table: 5
+	},
+	{
+		uid: "a447379f",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "472b35b6",
+		type: "random",
+		table: 1
+	}]
+}
