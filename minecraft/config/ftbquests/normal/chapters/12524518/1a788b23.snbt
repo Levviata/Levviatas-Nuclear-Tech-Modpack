@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:machine_waste_drum"
 		}]
+	}],
+	rewards: [{
+		uid: "21e6ef27",
+		type: "xp",
+		xp: 10
 	}]
 }

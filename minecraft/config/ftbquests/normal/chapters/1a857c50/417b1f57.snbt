@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_hydrotreater"
 		}]
+	}],
+	rewards: [{
+		uid: "f71d75b7",
+		type: "xp",
+		xp: 10
 	}]
 }

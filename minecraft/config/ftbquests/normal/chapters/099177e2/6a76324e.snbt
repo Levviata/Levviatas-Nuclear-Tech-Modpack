@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:machine_missile_assembly"
 		}]
+	}],
+	rewards: [{
+		uid: "110abc83",
+		type: "xp",
+		xp: 10
 	}]
 }
