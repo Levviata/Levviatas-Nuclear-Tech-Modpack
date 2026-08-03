@@ -1,7 +1,7 @@
 {
 	title: "Weapons",
 	x: 0.0d,
-	y: 0.0d,
+	y: -1.0d,
 	shape: "rsquare",
 	text: [
 		"Weapons are a huge part of the mod, having a ton of diversity with part customization.",

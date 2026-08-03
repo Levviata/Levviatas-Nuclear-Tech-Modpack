@@ -1,6 +1,6 @@
 {
-	x: -3.0d,
-	y: -1.0d,
+	x: -3.125d,
+	y: 1.875d,
 	text: [
 		"The Spent Fuel Pool Drum can cool down spent fuel for recyling. ",
 		"",

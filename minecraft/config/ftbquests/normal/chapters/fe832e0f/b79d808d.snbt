@@ -1,6 +1,7 @@
 {
-	x: -1.0d,
-	y: 3.5d,
+	icon: "hbm:gun_drill",
+	x: 0.0d,
+	y: 6.0d,
 	description: "Utility",
 	text: [
 		"The Powered Drill is an useful utility weapon that mines blocks in a 2x3 area.",

@@ -1,6 +1,6 @@
 {
-	x: 6.5d,
-	y: -13.5d,
+	x: 7.0d,
+	y: -13.0d,
 	description: "Automatic see-through machine",
 	text: [
 		""
