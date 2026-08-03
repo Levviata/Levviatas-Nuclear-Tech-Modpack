@@ -2,6 +2,7 @@
 	title: "RBMK Nuclear Reactor",
 	x: 0.0d,
 	y: 6.0d,
+	shape: "hexagon",
 	description: "Meltdowns will void warranty.",
 	text: [
 		"The RBMK is a modular nuclear reactor that can make Bismuth and many other important products.",

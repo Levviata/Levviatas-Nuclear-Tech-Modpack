@@ -1,6 +1,7 @@
 {
 	x: 0.0d,
 	y: 0.5d,
+	shape: "hexagon",
 	text: [
 		"The ZIRNOX Nuclear Reactor is the cheapest nuclear reactor you will make early-on, it is also simple, being a single block without modular parts.",
 		"",
