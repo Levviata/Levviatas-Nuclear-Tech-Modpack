@@ -1,0 +1,18 @@
+{
+	x: -9.5d,
+	y: 4.5d,
+	description: "§e§nRequires:§r§e Euphemium",
+	text: [
+		""
+	],
+	dependencies: [
+		"76deb406"
+	],
+	tasks: [{
+		uid: "bcbc6c56",
+		type: "item",
+		items: [{
+			item: "hbm:powder_spark_mix"
+		}]
+	}]
+}

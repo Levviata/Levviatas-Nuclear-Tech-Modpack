@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: 4.0d,
+	dependencies: [
+		"92a1bf18"
+	],
+	tasks: [{
+		uid: "b62854cc",
+		type: "item",
+		items: [{
+			item: "hbm:powder_power"
+		}]
+	}]
+}
