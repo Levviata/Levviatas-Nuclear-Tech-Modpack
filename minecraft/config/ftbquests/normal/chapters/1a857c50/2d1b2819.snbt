@@ -1,6 +1,6 @@
 {
 	x: -4.0d,
-	y: -9.5d,
+	y: -10.0d,
 	text: [
 		"Displays power usage.",
 		"",

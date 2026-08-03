@@ -2,6 +2,7 @@
 	icon: "hbm:tnt_ntm",
 	x: 3.5d,
 	y: -1.0d,
+	shape: "square",
 	text: [
 		"Mines are explosives that are armed for close-proximity and will trigger if any entity steps near.",
 		"",
@@ -10,7 +11,7 @@
 		"",
 		"To defuse, use any defuser or use your hand if you are a true hero."
 	],
-	size: 1.25d,
+	size: 1.5d,
 	tasks: [{
 		uid: "01aa461c",
 		type: "checkmark",

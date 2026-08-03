@@ -1,8 +1,8 @@
 {
 	x: -7.5d,
-	y: 6.0d,
+	y: 6.5d,
 	shape: "hexagon",
-	size: 1.5d,
+	size: 2.0d,
 	tasks: [{
 		uid: "153394d3",
 		type: "item",

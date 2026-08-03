@@ -5,7 +5,7 @@
 	group: 0,
 	default_quest_shape: "",
 	images: [{
-		x: 3.0d,
+		x: 3.5d,
 		y: -3.5d,
 		width: 2.0d,
 		height: 3.0d,

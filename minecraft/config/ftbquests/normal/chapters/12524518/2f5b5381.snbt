@@ -1,5 +1,5 @@
 {
-	x: 2.0d,
+	x: 2.5d,
 	y: 0.5d,
 	text: [
 		"Your first fuel will be Natural Uranium, but you will want to move onto Uranium Fuel rods as fast as you can since when they are depleted and cooled they may be purified (in a PUREX) into useful materials like Plutonium and Technetium."

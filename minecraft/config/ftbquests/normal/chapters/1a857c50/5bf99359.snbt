@@ -1,7 +1,7 @@
 {
 	title: "Drillbits",
 	x: 13.5d,
-	y: -11.5d,
+	y: -12.0d,
 	text: [
 		"Drillbits are inserted in the red glowing slot of the Large Mining Drill, they are used to mine various tiers of Bedrock Ore.",
 		"",

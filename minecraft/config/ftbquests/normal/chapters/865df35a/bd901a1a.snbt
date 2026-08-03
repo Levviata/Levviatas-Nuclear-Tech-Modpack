@@ -2,9 +2,10 @@
 	title: "Machine Upgrades",
 	x: 0.0d,
 	y: -6.5d,
-	shape: "hexagon",
+	shape: "rsquare",
+	description: "All of the upgrades",
 	text: [
-		"Most upgrades are stackable."
+		""
 	],
 	dependencies: [
 		"84987810"

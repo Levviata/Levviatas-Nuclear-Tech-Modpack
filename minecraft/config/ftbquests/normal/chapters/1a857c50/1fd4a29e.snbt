@@ -1,6 +1,6 @@
 {
 	x: 2.0d,
-	y: -9.5d,
+	y: -10.0d,
 	text: [
 		"The Large Launch Table is a multi-block machine capable of launching every size of custom missile.",
 		"",

@@ -1,9 +1,11 @@
 {
+	disable_toast: true,
 	x: -1.5d,
-	y: 5.5d,
+	y: 5.25d,
 	dependencies: [
 		"86c1bfd9"
 	],
+	size: 0.75d,
 	tasks: [{
 		uid: "52d1f8af",
 		type: "item",

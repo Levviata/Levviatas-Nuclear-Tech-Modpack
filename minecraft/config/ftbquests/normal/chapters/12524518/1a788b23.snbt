@@ -1,12 +1,13 @@
 {
-	x: -3.125d,
-	y: 1.875d,
+	x: -3.5d,
+	y: 3.5d,
+	shape: "hexagon",
 	text: [
 		"The Spent Fuel Pool Drum can cool down spent fuel for recyling. ",
 		"",
 		"It can be surrounded by water on it's sides to speed up cooling."
 	],
-	size: 1.25d,
+	size: 1.5d,
 	tasks: [{
 		uid: "2b7528e5",
 		type: "item",

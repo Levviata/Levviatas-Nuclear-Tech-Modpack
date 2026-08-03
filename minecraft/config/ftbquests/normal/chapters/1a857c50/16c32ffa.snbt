@@ -5,7 +5,7 @@
 		tag: {}
 	},
 	x: 4.0d,
-	y: -11.5d,
+	y: -12.0d,
 	text: [
 		"You can run turrets fine without it, which is definitely not intended but whatever. Seems like its optional for now."
 	],

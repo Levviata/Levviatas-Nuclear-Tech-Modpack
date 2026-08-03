@@ -2,7 +2,7 @@
 	title: "Early Game",
 	x: 0.0d,
 	y: 7.5d,
-	shape: "pentagon",
+	shape: "rsquare",
 	size: 1.25d,
 	tasks: [{
 		uid: "ac076ff9",

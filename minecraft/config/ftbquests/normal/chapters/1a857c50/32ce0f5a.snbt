@@ -1,6 +1,6 @@
 {
 	x: 15.0d,
-	y: -11.5d,
+	y: -12.0d,
 	text: [
 		"The Large Mining Drill is a machine which drills in a 3x3 area, it's mainly used to extract Bedrock Ore.",
 		"",

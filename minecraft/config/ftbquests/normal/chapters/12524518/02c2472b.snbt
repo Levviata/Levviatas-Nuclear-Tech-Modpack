@@ -1,5 +1,5 @@
 {
-	x: 0.0d,
+	x: 0.5d,
 	y: 0.5d,
 	shape: "hexagon",
 	text: [
@@ -7,7 +7,7 @@
 		"",
 		"As fuel, it will accept ZIRNOX rods. "
 	],
-	size: 1.5d,
+	size: 2.0d,
 	tasks: [{
 		uid: "399333b0",
 		type: "item",

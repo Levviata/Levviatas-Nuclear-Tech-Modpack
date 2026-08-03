@@ -1,6 +1,6 @@
 {
 	x: 8.0d,
-	y: -9.5d,
+	y: -10.0d,
 	text: [
 		"The Silo Launch Pad can launch non-custom missiles, to use load with fuel, power, and a location. To launch, power with redstone."
 	],

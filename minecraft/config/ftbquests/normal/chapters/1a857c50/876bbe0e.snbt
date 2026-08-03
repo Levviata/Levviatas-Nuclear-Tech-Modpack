@@ -1,6 +1,6 @@
 {
 	x: 7.0d,
-	y: -7.5d,
+	y: -8.0d,
 	text: [
 		"The Survey Scanner scans the depths below your feet in a 10 block radius for useful materials.",
 		"",

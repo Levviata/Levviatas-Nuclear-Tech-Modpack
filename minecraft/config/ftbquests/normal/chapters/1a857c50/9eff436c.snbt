@@ -1,7 +1,7 @@
 {
 	icon: "hbm:ore_bedrock_block",
 	x: 13.5d,
-	y: -9.0d,
+	y: -9.5d,
 	text: [
 		"You got it without the Survey Scanner! That's either one lucky strip mining session or you got x-ray hacks."
 	],

@@ -1,6 +1,7 @@
 {
-	x: 17.0d,
-	y: -7.0d,
+	icon: "hbm:gun_lasrifle",
+	x: 17.01190476190476d,
+	y: -7.142857142857139d,
 	dependencies: [
 		"f90a1d32"
 	],

@@ -2,7 +2,7 @@
 	title: "End Game",
 	x: 0.5d,
 	y: 15.5d,
-	shape: "pentagon",
+	shape: "rsquare",
 	size: 1.25d,
 	tasks: [{
 		uid: "9a4581af",
