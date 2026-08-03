@@ -1,6 +1,9 @@
 {
 	x: 8.0d,
 	y: 2.0d,
+	text: [
+		"The Radiolysis Chamber can separate quimical compounds from fluids and generate electricity from RTG Pellets."
+	],
 	dependencies: [
 		"99183935"
 	],
