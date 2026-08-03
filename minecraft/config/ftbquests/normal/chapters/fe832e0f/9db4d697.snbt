@@ -2,7 +2,7 @@
 	x: 5.5d,
 	y: -0.5d,
 	text: [
-		"The Naval Mine always deals up to 53 damage.",
+		"The Naval Mine deals up to 53 damage.",
 		"It will trigger horizontally exploding in a 40x40 radius, hurting anything in a 45 block radius."
 	],
 	tasks: [{
