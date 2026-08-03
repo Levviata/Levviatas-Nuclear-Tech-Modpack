@@ -1,0 +1,13 @@
+{
+	x: 2.5d,
+	y: 14.0d,
+	tasks: [{
+		uid: "4326bb8b",
+		type: "item",
+		items: [{
+			item: "hbm:missile_shuttle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

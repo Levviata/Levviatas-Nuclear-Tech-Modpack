@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 24.0d,
+	size: 1.25d,
+	tasks: [{
+		uid: "ee4e5805",
+		type: "item",
+		items: [{
+			item: "hbm:missile_nuclear"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

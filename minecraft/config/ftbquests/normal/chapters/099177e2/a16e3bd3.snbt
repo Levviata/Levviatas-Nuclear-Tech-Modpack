@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "f8ba6ab2",
+		type: "item",
+		items: [{
+			item: "hbm:missile_cluster"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

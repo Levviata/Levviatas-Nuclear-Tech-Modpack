@@ -1,0 +1,13 @@
+{
+	x: -2.5d,
+	y: 14.0d,
+	tasks: [{
+		uid: "ee8ea434",
+		type: "item",
+		items: [{
+			item: "hbm:missile_stealth"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

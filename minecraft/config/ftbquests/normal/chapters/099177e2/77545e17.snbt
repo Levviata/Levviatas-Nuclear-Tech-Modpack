@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 23.5d,
+	size: 1.25d,
+	tasks: [{
+		uid: "d4bcd392",
+		type: "item",
+		items: [{
+			item: "hbm:missile_volcano"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 26.0d,
+	shape: "gear",
+	text: [
+		"The Damaged Doomsday Missile is found in militar-styled silos that randomly appear around the world, these contain dangerous turret which is a good indicator its the one."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "d7901ae3",
+		type: "item",
+		items: [{
+			item: "hbm:missile_doomsday"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

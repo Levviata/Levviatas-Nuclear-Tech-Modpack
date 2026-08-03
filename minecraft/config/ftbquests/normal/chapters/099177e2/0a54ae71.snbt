@@ -1,0 +1,29 @@
+{
+	title: "&dKerosene / Liquid Oxygen",
+	x: 0.0d,
+	y: 18.0d,
+	shape: "rsquare",
+	text: [
+		""
+	],
+	size: 1.25d,
+	or_tasks: true,
+	tasks: [{
+		uid: "1162602b",
+		type: "checkmark",
+		title: "Kerosene Missiles",
+		icon: "hbm:fluid_icon 1 22"
+	},
+	{
+		uid: "ddd40150",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 39"
+		}]
+	}],
+	rewards: [{
+		uid: "fa517666",
+		type: "xp",
+		xp: 10
+	}]
+}

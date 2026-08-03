@@ -1,0 +1,13 @@
+{
+	x: -0.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "d9f77127",
+		type: "item",
+		items: [{
+			item: "hbm:missile_schrabidium"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

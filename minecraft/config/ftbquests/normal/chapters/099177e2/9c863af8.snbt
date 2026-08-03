@@ -1,0 +1,28 @@
+{
+	title: "&9Kerosene / Hydrogen Peroxide",
+	x: 0.0d,
+	y: 13.5d,
+	shape: "rsquare",
+	text: [
+		""
+	],
+	size: 1.25d,
+	or_tasks: true,
+	tasks: [{
+		uid: "9d15c0c2",
+		type: "checkmark",
+		icon: "hbm:fluid_icon 1 22"
+	},
+	{
+		uid: "3df73bcb",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 35"
+		}]
+	}],
+	rewards: [{
+		uid: "1c1d59ed",
+		type: "xp",
+		xp: 10
+	}]
+}

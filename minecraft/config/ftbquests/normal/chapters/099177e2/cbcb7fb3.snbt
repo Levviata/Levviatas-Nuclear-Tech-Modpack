@@ -1,0 +1,13 @@
+{
+	x: -1.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "7baf3b3b",
+		type: "item",
+		items: [{
+			item: "hbm:missile_incendiary"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

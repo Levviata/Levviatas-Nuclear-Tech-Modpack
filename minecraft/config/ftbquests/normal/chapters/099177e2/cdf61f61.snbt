@@ -1,0 +1,29 @@
+{
+	title: "&bEthanol / Hydrogen Peroxide",
+	x: -0.02380952380951129d,
+	y: 9.229761904761922d,
+	shape: "rsquare",
+	text: [
+		""
+	],
+	size: 1.25d,
+	or_tasks: true,
+	tasks: [{
+		uid: "285efe1a",
+		type: "checkmark",
+		title: "Ethanol / Hydrogen Peroxide",
+		icon: "hbm:fluid_icon 1 59"
+	},
+	{
+		uid: "8feb42d9",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 35"
+		}]
+	}],
+	rewards: [{
+		uid: "e86b0f1a",
+		type: "xp",
+		xp: 10
+	}]
+}

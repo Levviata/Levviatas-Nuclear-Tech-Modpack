@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	shape: "square",
+	size: 1.75d,
+	tasks: [{
+		uid: "695f2c22",
+		type: "checkmark",
+		title: "Custom Missiles",
+		icon: {
+			id: "hbm:missile_custom",
+			tag: {
+				stability: 6916,
+				chip: 7012,
+				fuselage: 6968,
+				display: {
+					Name: "§5Polite Lad"
+				},
+				warhead: 6999,
+				thruster: 6896
+			}
+		}
+	}]
+}

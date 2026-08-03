@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "d8bd3db8",
+		type: "item",
+		items: [{
+			item: "hbm:missile_bhole"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

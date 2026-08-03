@@ -1,0 +1,21 @@
+{
+	title: "&6Pre-Fueled",
+	x: 0.0d,
+	y: 5.0d,
+	shape: "rsquare",
+	text: [
+		""
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "cc965cfa",
+		type: "checkmark",
+		title: "Pre-Fueled",
+		icon: "hbm:solid_fuel"
+	}],
+	rewards: [{
+		uid: "821faf95",
+		type: "xp",
+		xp: 10
+	}]
+}

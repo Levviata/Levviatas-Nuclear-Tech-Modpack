@@ -1,0 +1,13 @@
+{
+	x: -2.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "f6f89965",
+		type: "item",
+		items: [{
+			item: "hbm:missile_taint"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

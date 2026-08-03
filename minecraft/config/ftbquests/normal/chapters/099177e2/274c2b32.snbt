@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	shape: "square",
+	size: 1.75d,
+	tasks: [{
+		uid: "385cf292",
+		type: "checkmark",
+		title: "Premade Missiles",
+		icon: "hbm:missile_doomsday_rusted"
+	}]
+}

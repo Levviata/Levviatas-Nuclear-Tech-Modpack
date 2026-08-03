@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 19.5d,
+	tasks: [{
+		uid: "36c05963",
+		type: "item",
+		items: [{
+			item: "hbm:missile_drill"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
