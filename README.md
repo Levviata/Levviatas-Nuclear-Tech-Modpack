@@ -35,7 +35,3 @@
 - The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
 
 - Over 350 hours of development.
-- Reactors: 33%.
-- Weapons, Missiles, Grenades: 1%.
-- Ores and Ingots: 78%.
-- Recipe Changes: 10% (optional)
