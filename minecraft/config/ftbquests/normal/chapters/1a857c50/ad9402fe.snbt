@@ -1,0 +1,31 @@
+{
+	x: 10.5d,
+	y: -2.0d,
+	shape: "pentagon",
+	dependencies: [
+		"5f2268ec"
+	],
+	tasks: [{
+		uid: "4729fb7f",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_arsenic"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "39be58e9",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "f01cab6b",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "7e90bd2f",
+		type: "random",
+		table: 2
+	}]
+}
