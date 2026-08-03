@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 25.0d,
+	shape: "gear",
+	dependencies: [
+		"ff7e7462"
+	],
+	hide: true,
+	size: 1.25d,
+	tasks: [{
+		uid: "e3086fed",
+		type: "item",
+		items: [{
+			item: "hbm:item_secret 1 2"
+		}]
+	}]
+}
