@@ -1,6 +1,9 @@
 {
 	x: 7.5d,
 	y: -3.5d,
+	text: [
+		"Its getting removed next update so I wont make an effort give it a description."
+	],
 	dependencies: [
 		"99183935"
 	],
