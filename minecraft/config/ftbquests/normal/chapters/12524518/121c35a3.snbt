@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: -2.0d,
+	dependencies: [
+		"be64a57f"
+	],
+	tasks: [{
+		uid: "4d6d6187",
+		type: "item",
+		items: [{
+			item: "hbm:battery_sc 1 5"
+		}],
+		ignore_nbt: 1b
+	}]
+}
