@@ -5,9 +5,10 @@
 	text: [
 		"Missiles are huge propelled metal cilinders with explosives.",
 		"",
-		"In the mod there are overr"
+		"In the mod there are over 40 premade missiles.",
+		"There are also custom missiles with over ? configurations."
 	],
-	size: 2.0d,
+	size: 2.25d,
 	tasks: [{
 		uid: "f5874a34",
 		type: "item",
