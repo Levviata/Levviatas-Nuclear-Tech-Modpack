@@ -34,4 +34,4 @@
 
 - The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
 
-- Over 350 hours of development.
+- Over 429 hours of development.
