@@ -1,0 +1,24 @@
+{
+	x: -3.5d,
+	y: 10.5d,
+	shape: "hexagon",
+	text: [
+		"The Breeding Reactor is a specially useful machine that breeds radioactive materials into other products, usually more rare and useful."
+	],
+	dependencies: [
+		"99183935"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "8be899aa",
+		type: "item",
+		items: [{
+			item: "hbm:machine_reactor_breeding"
+		}]
+	}],
+	rewards: [{
+		uid: "faaf5e45",
+		type: "xp",
+		xp: 10
+	}]
+}
