@@ -1,0 +1,18 @@
+{
+	x: 6.5d,
+	y: -2.5d,
+	text: [
+		"The Shrapnel Mine deals over 10 damage, with shrapnel dealing even more damage.",
+		"It will hurt anything in a 6 block radius, but with shrapnel the range is even higher."
+	],
+	dependencies: [
+		"58977a2b"
+	],
+	tasks: [{
+		uid: "ab1dad7a",
+		type: "item",
+		items: [{
+			item: "hbm:mine_shrap"
+		}]
+	}]
+}

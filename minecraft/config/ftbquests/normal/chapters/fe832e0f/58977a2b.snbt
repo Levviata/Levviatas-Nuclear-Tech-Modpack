@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: -2.5d,
+	text: [
+		"The Anti-Personell Mine deals up to 10 damage. ",
+		"It will trigger in a 2 block radius, hurting anyone in a 6 block radius.",
+		"",
+		"If trigger by",
+		"- close proximity it will deal 5 damage.",
+		"- Breaking or detonating will deal 10 damage."
+	],
+	tasks: [{
+		uid: "3ce91358",
+		type: "item",
+		items: [{
+			item: "hbm:mine_ap"
+		}]
+	}]
+}
