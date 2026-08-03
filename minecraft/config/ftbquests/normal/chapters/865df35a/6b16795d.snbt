@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 4.0d,
+	shape: "square",
+	size: 1.25d,
+	tasks: [{
+		uid: "6f156cf8",
+		type: "item",
+		items: [{
+			item: "hbm:machine_forcefield"
+		}]
+	}]
+}

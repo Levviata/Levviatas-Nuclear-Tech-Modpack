@@ -1,0 +1,13 @@
+{
+	x: -5.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "6b92561a",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_gc_speed"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

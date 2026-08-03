@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "a390b101",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_stack_1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

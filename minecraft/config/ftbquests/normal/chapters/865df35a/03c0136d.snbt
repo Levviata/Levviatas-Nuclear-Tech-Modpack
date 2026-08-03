@@ -1,0 +1,13 @@
+{
+	x: -2.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "39630ab3",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_nullifier"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

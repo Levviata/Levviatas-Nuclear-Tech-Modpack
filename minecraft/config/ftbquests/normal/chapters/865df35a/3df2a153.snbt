@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "00bd2ea0",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_screm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

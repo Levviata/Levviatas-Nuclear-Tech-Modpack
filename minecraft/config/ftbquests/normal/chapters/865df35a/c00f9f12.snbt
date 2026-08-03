@@ -1,0 +1,20 @@
+{
+	x: 7.0d,
+	y: 4.0d,
+	shape: "square",
+	size: 1.25d,
+	tasks: [{
+		uid: "be2d1fb1",
+		type: "item",
+		items: [{
+			item: "hbm:crane_ejector"
+		}]
+	},
+	{
+		uid: "13ee970b",
+		type: "item",
+		items: [{
+			item: "hbm:crane_grabber"
+		}]
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Machine Upgrades",
+	x: 0.0d,
+	y: -6.5d,
+	shape: "hexagon",
+	text: [
+		"Most upgrades are stackable."
+	],
+	dependencies: [
+		"84987810"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "bdec3de4",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_template"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2de89a04",
+		type: "xp",
+		xp: 10
+	}]
+}

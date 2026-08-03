@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "3c9e89b4",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_power_1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

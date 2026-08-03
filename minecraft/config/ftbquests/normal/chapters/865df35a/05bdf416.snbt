@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: 4.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "9c9f41c5",
+		type: "item",
+		items: [{
+			item: "hbm:machine_mining_laser"
+		}]
+	}]
+}

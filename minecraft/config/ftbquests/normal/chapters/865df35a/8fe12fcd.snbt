@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "d72a5f2d",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_radius"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -7.0d,
+	y: 7.0d,
+	dependencies: [
+		"c2a26a48"
+	],
+	tasks: [{
+		uid: "ab7c0e71",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_afterburn_2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

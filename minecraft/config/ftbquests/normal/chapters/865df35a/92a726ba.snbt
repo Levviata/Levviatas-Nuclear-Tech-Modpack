@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 8.5d,
+	dependencies: [
+		"3349e037"
+	],
+	tasks: [{
+		uid: "60e2beb9",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_ejector_3"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
