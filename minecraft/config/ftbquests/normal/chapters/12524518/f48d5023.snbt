@@ -1,0 +1,25 @@
+{
+	x: -6.0d,
+	y: 3.5d,
+	text: [
+		"Its getting removed next update so I wont make an effort give it a description.",
+		"",
+		"It does what other reactors do, but in its own way, with different fuel and GUI. Just use the others."
+	],
+	dependencies: [
+		"99183935"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "48ff7da2",
+		type: "item",
+		items: [{
+			item: "hbm:machine_reactor_small_new"
+		}]
+	}],
+	rewards: [{
+		uid: "e04438f3",
+		type: "xp",
+		xp: 10
+	}]
+}
