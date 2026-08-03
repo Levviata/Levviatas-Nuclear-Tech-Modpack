@@ -5,7 +5,7 @@
 	shape: "square",
 	description: "How many and what they do",
 	text: [
-		"43, there are 43 mods.",
+		"44, there are 44 mods.",
 		"",
 		"Mods:",
 		"- Alfheim, lighting engine",
@@ -35,7 +35,7 @@
 		"- Refined Storage, hoarding issues fixed",
 		"- Universal Tweaks, communist bug fix",
 		"- Wawla, more things to look at",
-		"",
+		"- Fireproof Items Mod, you don't deserve this attention to detail",
 		"",
 		"",
 		"To be Removed (production mods):",
