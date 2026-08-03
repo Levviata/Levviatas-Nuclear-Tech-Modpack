@@ -1,0 +1,24 @@
+{
+	x: -3.5d,
+	y: 6.5d,
+	shape: "hexagon",
+	text: [
+		"The PUREX is a machine that processes nuclear waste into useful products.",
+		"It soft requirement for operation is the heavy use of Kerosene and Nitric acid.",
+		"",
+		"Its essential as it can process Technetium, better radioactive isotopes, and a variety of rare products exclusive to the machine."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "4eee1600",
+		type: "item",
+		items: [{
+			item: "hbm:machine_purex"
+		}]
+	}],
+	rewards: [{
+		uid: "19e0197a",
+		type: "xp",
+		xp: 10
+	}]
+}
