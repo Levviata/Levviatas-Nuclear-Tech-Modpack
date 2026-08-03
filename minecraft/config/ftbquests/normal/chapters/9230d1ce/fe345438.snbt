@@ -1,0 +1,23 @@
+{
+	x: -7.0d,
+	y: 6.0d,
+	description: "§e§nRequires:§r§e Watz Powerplant",
+	text: [
+		""
+	],
+	dependencies: [
+		"92a1bf18"
+	],
+	tasks: [{
+		uid: "5f1f075a",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_combine_steel"
+		}]
+	}],
+	rewards: [{
+		uid: "e9813a1e",
+		type: "xp",
+		xp: 10
+	}]
+}
