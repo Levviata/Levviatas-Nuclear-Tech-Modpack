@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:fast
-resourcePacks:["Levviata\u0027s NTM Weapons \u0026 Tools","1.12.2 ConverterNewEdition v1.8.zip","Barrier to NTM Icon","Command Block to Gas Centrifuge","Levviata\u0027s Images","NTM NMV-1.3.zip","Remove Chainsaw Sound","Structure Void to Wojaksona","Totem Sound to Half Life Med Shot"]
+resourcePacks:["Levviata\u0027s NTM Weapons \u0026 Tools","1.12.2 ConverterNewEdition v1.8.zip","Barrier to NTM Icon","Levviata\u0027s Images","NTM NMV-1.3.zip","Remove Chainsaw Sound","Structure Void to Wojaksona","Totem Sound to Half Life Med Shot","Command Block Conditional to Gas Centrifuge","Minecart Command Block to Cleanroom"]
 incompatibleResourcePacks:["NTM NMV-1.3.zip"]
 lastServer:
 lang:en_us
@@ -93,7 +93,7 @@ key_key.fsb_flashlight:77
 key_key.categories.hbm.calculator:49
 key_key.categories.hbm.toggleBack:46
 key_key.categories.hbm.toggleHUD:24
-key_key.categories.hbm.toggleMagnet:44
+key_key.categories.hbm.toggleMagnet:316
 key_key.categories.hbm.reload:19
 key_key.categories.hbm.dash:42
 key_key.categories.hbm.gunSecondary:-99
@@ -112,7 +112,7 @@ key_Toggle Raw Input:0
 key_Rescan Key:0
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
-key_key.jei.toggleCheatMode:0
+key_key.jei.toggleCheatMode:51
 key_key.jei.toggleEditMode:184:CONTROL
 key_key.jei.showRecipe:19
 key_key.jei.showUses:22
@@ -137,7 +137,7 @@ key_key.craftingtweaks.decompressAll:181
 key_key.craftingtweaks.refill_last:15:CONTROL
 key_key.craftingtweaks.refill_last_stack:58:CONTROL
 key_keybind.groovyscript.reload:199
-key_keybind.groovyscript.quick_reload:0
+key_keybind.groovyscript.quick_reload:52
 key_keybind.groovyscript.copy:0
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
@@ -183,9 +183,9 @@ key_gui.xaero_toggle_tracked_players_in_world:0
 key_key.entityculling.toggle:-1
 soundCategory_master:1.0
 soundCategory_music:0.0
-soundCategory_record:0.0
+soundCategory_record:1.0
 soundCategory_weather:0.0
-soundCategory_block:1.0
+soundCategory_block:0.22535211
 soundCategory_hostile:1.0
 soundCategory_neutral:0.0
 soundCategory_player:1.0
