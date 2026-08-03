@@ -1,0 +1,52 @@
+{
+	title: "Desh Tools",
+	x: 1.5d,
+	y: 4.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"5b1b40f1"
+	],
+	tasks: [{
+		uid: "2739f45f",
+		type: "item",
+		items: [{
+			item: "hbm:desh_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bcb4948f",
+		type: "item",
+		items: [{
+			item: "hbm:desh_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0f906326",
+		type: "item",
+		items: [{
+			item: "hbm:desh_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6422699b",
+		type: "item",
+		items: [{
+			item: "hbm:desh_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a7efbe32",
+		type: "xp",
+		xp: 10
+	}]
+}
