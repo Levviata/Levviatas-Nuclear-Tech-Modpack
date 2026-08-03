@@ -19,5 +19,15 @@
 		uid: "b0921819",
 		type: "xp",
 		xp: 10
+	},
+	{
+		uid: "c269349a",
+		type: "item",
+		item: {
+			id: "hbm:pellet_rtg_weak",
+			tag: {
+				PELLET_DEPLETION: 1752000000L
+			}
+		}
 	}]
 }
