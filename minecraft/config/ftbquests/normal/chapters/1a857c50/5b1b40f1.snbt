@@ -1,5 +1,5 @@
 {
-	x: -0.5d,
+	x: -1.0d,
 	y: 4.0d,
 	description: "No longer a Worker's choice",
 	text: [
@@ -8,6 +8,7 @@
 	dependencies: [
 		"04b29439"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "894e88b7",
 		type: "item",

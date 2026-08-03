@@ -2,7 +2,7 @@
 	title: "Machine Template Folder",
 	icon: "hbm:template_folder",
 	x: 0.0d,
-	y: 6.75d,
+	y: 7.1d,
 	shape: "square",
 	description: "Removed",
 	text: [
@@ -15,7 +15,7 @@
 	dependencies: [
 		"00fafa6c"
 	],
-	size: 0.8d,
+	size: 0.3d,
 	tasks: [{
 		uid: "bcf0069e",
 		type: "checkmark"
@@ -23,7 +23,7 @@
 	rewards: [{
 		uid: "5c9231c9",
 		type: "xp",
-		xp: 10
+		xp: 20
 	},
 	{
 		uid: "d78c655f",

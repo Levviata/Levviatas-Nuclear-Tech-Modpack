@@ -1,10 +1,11 @@
 {
 	title: "Satellite Controls",
-	x: 20.5d,
-	y: 0.0d,
+	x: 12.5d,
+	y: 9.0d,
 	text: [
 		""
 	],
+	hide_dependency_lines: true,
 	dependencies: [
 		"47aeecca"
 	],

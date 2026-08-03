@@ -1,6 +1,6 @@
 {
-	x: 11.51190476190476d,
-	y: -5.642857142857139d,
+	x: 8.5d,
+	y: -3.5d,
 	description: "§e§nRequires:§r§e Bismuth or Arsenic",
 	text: [
 		"The Versatile Integrated Circuit is a very important end-game circuit that can make Versatile Circuit Board."

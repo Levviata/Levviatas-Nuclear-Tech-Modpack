@@ -1,7 +1,7 @@
 {
 	title: "Music Discs",
 	x: -10.0d,
-	y: 10.0d,
+	y: 10.5d,
 	shape: "square",
 	description: "Cool music.",
 	text: [
