@@ -1,0 +1,12 @@
+{
+	icon: "hbm:machine_gascent",
+	x: -5.0d,
+	y: 4.0d,
+	shape: "square",
+	size: 1.25d,
+	tasks: [{
+		uid: "0df103f8",
+		type: "checkmark",
+		title: "Gas Centrifuge Upgrades"
+	}]
+}
