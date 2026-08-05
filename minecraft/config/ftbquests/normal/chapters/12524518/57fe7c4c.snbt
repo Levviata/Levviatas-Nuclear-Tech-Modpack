@@ -5,7 +5,7 @@
 	text: [
 		"Since the Watz reactor depletes the fission material very slowly the Absorber pellets are mainly for producing a higher amount of Poisonous Mud.",
 		"",
-		"Each pellet absorbs Flux at different efficiency scales."
+		"Each pellet absorbs (Neutron) Flux at different efficiency scales."
 	],
 	dependencies: [
 		"a9bd761a"
