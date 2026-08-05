@@ -1,0 +1,19 @@
+{
+	x: -10.0d,
+	y: 1.0d,
+	dependencies: [
+		"2b92b8d2"
+	],
+	tasks: [{
+		uid: "e6754c57",
+		type: "item",
+		items: [{
+			item: "hbm:pile_rod_plutonium"
+		}]
+	}],
+	rewards: [{
+		uid: "e1e04493",
+		type: "xp",
+		xp: 10
+	}]
+}

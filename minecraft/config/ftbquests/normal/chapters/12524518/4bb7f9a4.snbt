@@ -1,0 +1,21 @@
+{
+	x: -12.0d,
+	y: 1.0d,
+	dependencies: [
+		"156752f2",
+		"41631745"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "38f61238",
+		type: "item",
+		items: [{
+			item: "hbm:billet_pu_mix"
+		}]
+	}],
+	rewards: [{
+		uid: "7cc12f14",
+		type: "xp",
+		xp: 10
+	}]
+}
