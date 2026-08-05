@@ -1,0 +1,32 @@
+{
+	title: "Depleted Absorber Pellets",
+	x: -16.0d,
+	y: 6.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"57fe7c4c"
+	],
+	tasks: [{
+		uid: "9eb70ad9",
+		type: "item",
+		items: [{
+			item: "hbm:watz_pellet_depleted 1 7"
+		}]
+	},
+	{
+		uid: "09d5a156",
+		type: "item",
+		items: [{
+			item: "hbm:watz_pellet_depleted 1 8"
+		}]
+	},
+	{
+		uid: "9db54307",
+		type: "item",
+		items: [{
+			item: "hbm:watz_pellet_depleted 1 9"
+		}]
+	}]
+}

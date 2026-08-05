@@ -1,0 +1,46 @@
+{
+	title: "Absorber Pellets",
+	x: -12.0d,
+	y: 6.5d,
+	text: [
+		"Since the Watz reactor depletes the fission material very slowly the Absorber pellets are mainly for producing a higher amount of Poisonous Mud.",
+		"",
+		"Each pellet absorbs Flux at different efficiency scales."
+	],
+	dependencies: [
+		"a9bd761a"
+	],
+	tasks: [{
+		uid: "f842194a",
+		type: "item",
+		items: [{
+			id: "hbm:watz_pellet",
+			Damage: 7s,
+			tag: {
+				yield: 5.0E8d
+			}
+		}]
+	},
+	{
+		uid: "c58df3da",
+		type: "item",
+		items: [{
+			id: "hbm:watz_pellet",
+			Damage: 9s,
+			tag: {
+				yield: 5.0E8d
+			}
+		}]
+	},
+	{
+		uid: "f4ae04d9",
+		type: "item",
+		items: [{
+			id: "hbm:watz_pellet",
+			Damage: 8s,
+			tag: {
+				yield: 5.0E8d
+			}
+		}]
+	}]
+}

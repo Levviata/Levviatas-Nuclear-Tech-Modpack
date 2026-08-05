@@ -1,0 +1,14 @@
+{
+	x: -14.0d,
+	y: 6.5d,
+	dependencies: [
+		"c5d7f435"
+	],
+	tasks: [{
+		uid: "8726daf8",
+		type: "item",
+		items: [{
+			item: "hbm:watz_pellet_depleted 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -11.0d,
+	y: 7.0d,
+	text: [
+		"Produces Plutonium-239 and Bismuth."
+	],
+	dependencies: [
+		"a9bd761a"
+	],
+	tasks: [{
+		uid: "68d236b8",
+		type: "item",
+		items: [{
+			id: "hbm:watz_pellet",
+			Damage: 5s,
+			tag: {
+				yield: 5.0E8d
+			}
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -10.0d,
+	y: 5.5d,
+	text: [
+		"Produces more Solinium than Euphemium compared to a Schrabidium pellet."
+	],
+	dependencies: [
+		"a9bd761a"
+	],
+	tasks: [{
+		uid: "dae40996",
+		type: "item",
+		items: [{
+			id: "hbm:watz_pellet",
+			Damage: 1s,
+			tag: {
+				yield: 5.0E8d
+			}
+		}]
+	}]
+}

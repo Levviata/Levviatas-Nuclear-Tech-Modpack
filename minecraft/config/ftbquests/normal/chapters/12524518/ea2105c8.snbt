@@ -1,0 +1,20 @@
+{
+	x: -10.0d,
+	y: 4.5d,
+	text: [
+		"Produces Solinium and Euphemium."
+	],
+	dependencies: [
+		"a9bd761a"
+	],
+	tasks: [{
+		uid: "0dcf4d44",
+		type: "item",
+		items: [{
+			id: "hbm:watz_pellet",
+			tag: {
+				yield: 5.0E8d
+			}
+		}]
+	}]
+}

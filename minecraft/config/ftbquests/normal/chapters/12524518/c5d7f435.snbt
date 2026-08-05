@@ -1,0 +1,21 @@
+{
+	x: -10.0d,
+	y: 6.5d,
+	text: [
+		"Produces Solinium and Tantalium."
+	],
+	dependencies: [
+		"a9bd761a"
+	],
+	tasks: [{
+		uid: "4f2a3fce",
+		type: "item",
+		items: [{
+			id: "hbm:watz_pellet",
+			Damage: 2s,
+			tag: {
+				yield: 5.0E8d
+			}
+		}]
+	}]
+}

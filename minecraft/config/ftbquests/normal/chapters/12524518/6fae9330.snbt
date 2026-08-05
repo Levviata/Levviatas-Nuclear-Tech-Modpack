@@ -1,0 +1,26 @@
+{
+	x: -10.0d,
+	y: 7.5d,
+	text: [
+		"Produces equal amounts of Solinium and Tantalium."
+	],
+	dependencies: [
+		"a9bd761a"
+	],
+	tasks: [{
+		uid: "b1fc3398",
+		type: "item",
+		items: [{
+			id: "hbm:watz_pellet",
+			Damage: 3s,
+			tag: {
+				yield: 5.0E8d
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "4080a381",
+		type: "xp",
+		xp: 10
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: -10.0d,
+	y: 8.5d,
+	text: [
+		"Produces Plutonium-239 and Technetium-99."
+	],
+	dependencies: [
+		"a9bd761a"
+	],
+	tasks: [{
+		uid: "8d85845f",
+		type: "item",
+		items: [{
+			id: "hbm:watz_pellet",
+			Damage: 4s,
+			tag: {
+				yield: 5.0E8d
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "21c34173",
+		type: "xp",
+		xp: 10
+	}]
+}
