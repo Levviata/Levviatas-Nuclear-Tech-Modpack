@@ -1,0 +1,20 @@
+{
+	x: 21.333333333333343d,
+	y: 10.45238095238097d,
+	shape: "circle",
+	size: 1.5d,
+	tasks: [{
+		uid: "396e749a",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_balefire",
+			tag: {
+				yield: 1.0E8d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

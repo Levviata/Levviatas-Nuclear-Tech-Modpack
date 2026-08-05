@@ -1,0 +1,18 @@
+{
+	x: 5.5d,
+	y: 12.0d,
+	tasks: [{
+		uid: "c1840432",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_mox",
+			tag: {
+				yield: 1.0E8d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

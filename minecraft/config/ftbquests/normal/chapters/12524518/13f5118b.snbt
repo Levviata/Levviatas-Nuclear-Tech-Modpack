@@ -1,0 +1,17 @@
+{
+	title: "Mid Game Fuels",
+	icon: "hbm:waste_earth",
+	x: 8.0d,
+	y: 10.5d,
+	shape: "square",
+	description: "Post-oil",
+	text: [
+		""
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "31a94653",
+		type: "checkmark",
+		icon: "hbm:plant_dead"
+	}]
+}

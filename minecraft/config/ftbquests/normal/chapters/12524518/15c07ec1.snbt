@@ -1,0 +1,22 @@
+{
+	x: 10.0d,
+	y: 12.5d,
+	description: "Post-Bedrock ore",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "df25fe95",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_po210be",
+			tag: {
+				yield: 2.5E7d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

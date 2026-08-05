@@ -1,0 +1,18 @@
+{
+	x: 5.5d,
+	y: 9.0d,
+	tasks: [{
+		uid: "e74521ab",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_lep",
+			tag: {
+				yield: 1.0E8d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

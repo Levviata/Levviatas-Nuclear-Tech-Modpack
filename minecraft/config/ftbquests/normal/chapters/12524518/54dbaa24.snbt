@@ -1,0 +1,18 @@
+{
+	x: 17.5d,
+	y: 12.5d,
+	tasks: [{
+		uid: "aec7c5da",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_hes",
+			tag: {
+				yield: 1.0E8d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

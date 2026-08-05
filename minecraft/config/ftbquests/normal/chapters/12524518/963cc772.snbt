@@ -1,0 +1,22 @@
+{
+	x: 13.0d,
+	y: 10.5d,
+	dependencies: [
+		"60896a31",
+		"692339d5"
+	],
+	tasks: [{
+		uid: "de83ddf1",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_zfb_am_mix",
+			tag: {
+				yield: 5.0E7d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

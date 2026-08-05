@@ -1,0 +1,15 @@
+{
+	title: "End Game Fuels",
+	x: 16.0d,
+	y: 10.5d,
+	shape: "square",
+	text: [
+		""
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "e6413e01",
+		type: "checkmark",
+		icon: "hbm:waste_mycelium"
+	}]
+}

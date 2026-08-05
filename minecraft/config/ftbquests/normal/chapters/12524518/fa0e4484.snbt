@@ -1,0 +1,15 @@
+{
+	title: "Early Game Fuels",
+	x: 3.0d,
+	y: 10.5d,
+	shape: "square",
+	text: [
+		""
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "785b335b",
+		type: "checkmark",
+		icon: "minecraft:grass"
+	}]
+}

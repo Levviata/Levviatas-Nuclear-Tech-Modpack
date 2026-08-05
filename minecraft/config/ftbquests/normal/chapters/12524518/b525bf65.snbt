@@ -1,0 +1,22 @@
+{
+	x: 4.0d,
+	y: 14.0d,
+	description: "Post-First Reactor Run",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "82f794ed",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_thmeu",
+			tag: {
+				yield: 1.0E8d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 17.5d,
+	y: 8.5d,
+	description: "Post-Cyclotron",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "727d86e8",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_leaus",
+			tag: {
+				yield: 1.0E8d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

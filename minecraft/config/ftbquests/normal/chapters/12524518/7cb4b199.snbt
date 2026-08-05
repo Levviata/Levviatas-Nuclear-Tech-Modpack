@@ -1,0 +1,21 @@
+{
+	x: 11.5d,
+	y: 9.5d,
+	dependencies: [
+		"b8c346aa"
+	],
+	tasks: [{
+		uid: "f3c555b8",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_zfb_pu241",
+			tag: {
+				yield: 5.0E7d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

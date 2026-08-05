@@ -1,0 +1,20 @@
+{
+	x: 23.5d,
+	y: 10.5d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "6648ad13",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_drx",
+			tag: {
+				yield: 1.0E8d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

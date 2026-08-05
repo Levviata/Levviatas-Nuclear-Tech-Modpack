@@ -1,0 +1,22 @@
+{
+	x: 5.0d,
+	y: 10.5d,
+	description: "Post-PUREX",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "f27036fb",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_uzh",
+			tag: {
+				yield: 5.0E7d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 6.0d,
+	y: 14.0d,
+	description: "Recycled from RBMK or ZIRNOX rods",
+	text: [
+		""
+	],
+	dependencies: [
+		"b525bf65"
+	],
+	tasks: [{
+		uid: "6379684e",
+		type: "item",
+		items: [{
+			id: "hbm:rbmk_fuel_heu233",
+			tag: {
+				yield: 1.0E8d,
+				core: 20.0d,
+				hull: 20.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
