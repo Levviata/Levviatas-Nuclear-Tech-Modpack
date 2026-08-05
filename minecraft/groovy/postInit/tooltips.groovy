@@ -13,23 +13,35 @@ event_manager.listen { ItemTooltipEvent event ->
     if (event.getItemStack() in item('hbm:machine_fensu')) {
         event.getToolTip() << deprecatedNotice
     }
+    if (event.getItemStack() in item('hbm:machine_bat9000')) {
+        event.getToolTip() << deprecatedNotice
+    }
     if (event.getItemStack() in item('hbm:rad_absorber')) { // cant remove that special § letter from the tooltip, lame
-        event.getToolTip() << "§e Removes radiation from the current chunk."
-        event.getToolTip() << "§e -5 chunk rad / second"
+        event.getToolTip() << 'Removes radiation from the current chunk.'
+        event.getToolTip() << '-5 chunk rad / second'
     }
     if (event.getItemStack() in item('hbm:rad_absorber:1')) {
-        event.getToolTip() << "§e Removes radiation from the current chunk."
-        event.getToolTip() << "§e -20 chunk rad / second"
+        event.getToolTip() << 'Removes radiation from the current chunk.'
+        event.getToolTip() << '-20 chunk rad / second'
     }
     if (event.getItemStack() in item('hbm:rad_absorber:2')) {
-        event.getToolTip() << "§e Removes radiation from the current chunk."
-        event.getToolTip() << "§e -200 chunk rad / second"
+        event.getToolTip() << 'Removes radiation from the current chunk.'
+        event.getToolTip() << '-200 chunk rad / second'
     }
     if (event.getItemStack() in item('hbm:rad_absorber:3')) {
-        event.getToolTip() << "§e Removes radiation from the current chunk."
-        event.getToolTip() << "§e -20000 chunk rad / second"
+        event.getToolTip() << 'Removes radiation from the current chunk.'
+        event.getToolTip() << '-20000 chunk rad / second'
     }
     if (event.getItemStack() in item('hbm:muffler')) {
-        event.getToolTip() << "§e Probably useless."
+        event.getToolTip() << '(Probably useless).'
+    }
+    if (event.getItemStack() in item('hbm:redstone_sword')) {
+        event.getToolTip() << 'Modified stats'
+    }
+    if (event.getItemStack() in item('hbm:big_sword')) {
+        event.getToolTip() << 'Modified stats'
+    }
+    if (event.getItemStack() in item('hbm:steel_sword')) {
+        event.getToolTip() << 'Modified stats'
     }
 }
