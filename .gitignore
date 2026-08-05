@@ -30,3 +30,24 @@
 /minecraft/config/hbmRecipes/
 
 /minecraft/local/ftbquests/
+
+# stupid stupid weapons and missiles who cant stop reinstaintaing themselves
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/0a93525a.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/4f6b0ec8.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/5e7111de.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/6b0ea9b8.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/9bd34a9f.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/9dfb94a3.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/87ca630c.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/193b6d40.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/0354de87.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/41946da4.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/ac95e07c.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/c0dcc116.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/c2120580.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/cf0f8254.snbt
+/minecraft/config/ftbquests/normal/chapters/099177e2/d0bc3aa8.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/deaa657d.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/e69d6560.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/fba8359d.snbt
+/minecraft/config/ftbquests/normal/chapters/fe832e0f/fcebb15f.snbt
