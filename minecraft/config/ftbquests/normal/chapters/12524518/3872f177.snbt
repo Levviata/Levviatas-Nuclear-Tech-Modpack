@@ -1,6 +1,6 @@
 {
 	x: 10.0d,
-	y: 11.5d,
+	y: 8.5d,
 	description: "Post-Bedrock ore",
 	text: [
 		""
