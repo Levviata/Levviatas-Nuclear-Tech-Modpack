@@ -1,20 +1,96 @@
 {
+	title: "Watz Powerplant",
+	icon: "hbm:watz",
 	x: -7.5d,
 	y: 6.5d,
 	shape: "hexagon",
+	text: [
+		"The Watz Powerplant is a multiblock reactor that must be constructed. To start, place the Core Component, this will display an hologram that you can build on.",
+		"",
+		"To operate you will need:",
+		"- Watz Pressure Pump",
+		"- 64 Buckets of Coolant fluid",
+		"- 1 Coker Unit or Industrial Solidifcation Machine (to solidify the Poisonous Mud)",
+		"- 1 Heat Exchanging Heater",
+		"- 1 Boiler",
+		"- 1 Industrial Steam Turbine",
+		"- 1 Cooling Tower, Auxilary Cooling Tower, or any other Condenser.",
+		"- A steady supply of water",
+		"",
+		"To turn the machine send a redstone signal to the top of the Pressure Pump (red colored).",
+		"The ports on the top of the machine intake fluids, the bottom ones output.",
+		"",
+		"First feed the machine coolant, the coolant will get used and become hot, insert it into a Heat Exchanging Heater to cool it down.",
+		"Then use the heat from the Heater to boil water with a Boiler, the steam can be connected to an Industrial Steam Turbine which will produce power and Low-Pressure Steam.",
+		"Connect by-product steam into your Condenser of choice and feed the water back to your water line, that closes the loop and you lose no products.",
+		"",
+		"The Watz Powerplant by itself does not produce useful amounts of energy, at most, with the best fuel, it will produce 5MHE/s.",
+		"The useful part is the depleted pellets and the Poisonous Mud, which can produce rare products like Euphemium and Solinium, the Mud is used for Combine Steel (CMB Steel) which is also important.",
+		"",
+		"The powerplants can be stacked on top of eachother to work like one big reactor (though their inventories are separate)."
+	],
+	dependencies: [
+		"1f522b58"
+	],
 	size: 2.0d,
 	tasks: [{
-		uid: "153394d3",
-		type: "item",
-		items: [{
-			item: "hbm:watz"
-		}]
-	},
-	{
 		uid: "918393aa",
 		type: "item",
 		items: [{
 			item: "hbm:watz_pump"
 		}]
+	},
+	{
+		uid: "de8696e5",
+		type: "item",
+		items: [{
+			item: "hbm:struct_watz_core"
+		}]
+	},
+	{
+		uid: "e58e3b58",
+		type: "item",
+		items: [{
+			item: "hbm:watz_cooler"
+		}],
+		count: 26L
+	},
+	{
+		uid: "95e84860",
+		type: "item",
+		items: [{
+			item: "hbm:watz_element"
+		}],
+		count: 36L
+	},
+	{
+		uid: "6932153d",
+		type: "item",
+		items: [{
+			item: "hbm:watz_casing"
+		}],
+		count: 48L
+	},
+	{
+		uid: "9dbec352",
+		type: "item",
+		items: [{
+			item: "hbm:bolt 1 33"
+		}],
+		count: 192L
+	},
+	{
+		uid: "7c16ba9a",
+		type: "item",
+		items: [{
+			item: "hbm:boltgun"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "464cb71b",
+		type: "xp",
+		xp: 100
 	}]
 }
