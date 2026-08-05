@@ -12,8 +12,8 @@
 			tag: {
 				state_0: 0b,
 				magtype: 125,
-				timer_0: 10,
 				lastanim_0: 4,
+				timer_0: 10,
 				aiming: 0b,
 				cancel: 0b,
 				eqipped: 0b

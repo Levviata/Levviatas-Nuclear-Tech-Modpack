@@ -13,8 +13,8 @@
 				state_0: 0b,
 				lockedon: 0b,
 				lockonprogress: 0,
-				timer_0: 7,
 				lastanim_0: 4,
+				timer_0: 7,
 				aiming: 0b,
 				cancel: 0b,
 				eqipped: 0b

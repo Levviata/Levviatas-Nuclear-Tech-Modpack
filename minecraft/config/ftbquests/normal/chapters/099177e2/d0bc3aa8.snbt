@@ -11,12 +11,12 @@
 			id: "hbm:missile_custom",
 			tag: {
 				stability: 6916,
-				warhead: 6999,
+				chip: 7012,
+				fuselage: 6968,
 				display: {
 					Name: "§5Polite Lad"
 				},
-				fuselage: 6968,
-				chip: 7012,
+				warhead: 6999,
 				thruster: 6896
 			}
 		}
