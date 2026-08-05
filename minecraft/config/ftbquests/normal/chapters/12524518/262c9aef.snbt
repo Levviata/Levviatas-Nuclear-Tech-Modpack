@@ -1,7 +1,7 @@
 {
 	title: "RBMK Nuclear Reactor",
 	x: 0.5d,
-	y: 6.5d,
+	y: 10.5d,
 	shape: "hexagon",
 	description: "Meltdowns will void warranty.",
 	text: [
