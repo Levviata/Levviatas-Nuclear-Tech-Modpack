@@ -1,0 +1,41 @@
+{
+  "hbm:titanium_axe": {
+    "attackDamage": 10
+  },
+  "hbm:steel_axe": {
+    "attackDamage": 9
+  },
+  "hbm:desh_axe": {
+    "attackDamage": 11
+  },
+  "hbm:cobalt_axe": {
+    "attackDamage": 10.5
+  },
+  "hbm:cobalt_decorated_axe": {
+    "attackDamage": 13.5
+  },
+  "hbm:starmetal_axe": {
+    "attackDamage": 16
+  },
+  "hbm:schrabidium_axe": {
+    "attackDamage": 31
+  },
+  "hbm:meteorite_sword_baleful": {
+    "attackDamage": 81
+  },
+  "hbm:redstone_sword": {
+    "attackDamage": 6,
+    "maxHealth": 4,
+    "movementSpeed": 0.05
+  },
+  "hbm:big_sword": {
+    "attackDamage": 12.5,
+    "attackSpeed": -0.75,
+    "movementSpeed": -0.25
+  },
+  "hbm:steel_sword": {
+    "attackDamage": 11,
+    "attackSpeed": -0.676,
+    "armor": 4.0
+  }
+}
