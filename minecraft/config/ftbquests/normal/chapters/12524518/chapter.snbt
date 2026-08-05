@@ -14,5 +14,16 @@
 		hover: [],
 		click: "",
 		dev: false
+	},
+	{
+		x: -7.5d,
+		y: -4.0d,
+		width: 3.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image7.png",
+		hover: [],
+		click: "",
+		dev: false
 	}]
 }
