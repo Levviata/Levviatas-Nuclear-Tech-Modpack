@@ -1,0 +1,14 @@
+{
+	x: 12.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "343b1565",
+		type: "item",
+		items: [{
+			id: "hbm:rod_zirnox",
+			Damage: 9s,
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

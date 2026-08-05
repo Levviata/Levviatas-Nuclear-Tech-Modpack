@@ -1,0 +1,18 @@
+{
+	x: 11.5d,
+	y: 3.0d,
+	description: "Post-Schrabidium",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "0c3bb6e5",
+		type: "item",
+		items: [{
+			id: "hbm:rod_zirnox",
+			Damage: 8s,
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

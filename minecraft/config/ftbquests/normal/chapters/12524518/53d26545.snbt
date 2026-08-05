@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 0.0d,
+	dependencies: [
+		"cc0a8f0c"
+	],
+	tasks: [{
+		uid: "6a49429c",
+		type: "item",
+		items: [{
+			item: "hbm:rod_zirnox_tritium"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

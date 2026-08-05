@@ -1,0 +1,18 @@
+{
+	x: 12.5d,
+	y: 1.0d,
+	description: "Natural Thorium",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "8128be08",
+		type: "item",
+		items: [{
+			id: "hbm:rod_zirnox",
+			Damage: 2s,
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

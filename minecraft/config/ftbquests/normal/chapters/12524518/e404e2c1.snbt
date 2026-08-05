@@ -1,0 +1,16 @@
+{
+	icon: "hbm:rod_zirnox_empty",
+	x: 10.5d,
+	y: 0.5d,
+	shape: "square",
+	description: "All the rods",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "8041a21a",
+		type: "checkmark",
+		title: "Rods",
+		icon: "minecraft:grass"
+	}]
+}
