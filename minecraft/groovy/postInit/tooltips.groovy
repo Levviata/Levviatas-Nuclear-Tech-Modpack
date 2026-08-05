@@ -44,4 +44,7 @@ event_manager.listen { ItemTooltipEvent event ->
     if (event.getItemStack() in item('hbm:steel_sword')) {
         event.getToolTip() << 'Modified stats'
     }
+    if (event.getItemStack() in item('hbm:ore_nether_plutonium')) {
+        event.getToolTip() << 'Disabled by default.'
+    }
 }
