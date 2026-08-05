@@ -8,16 +8,7 @@
 		uid: "3945a45c",
 		type: "item",
 		items: [{
-			id: "hbm:gun_tesla_cannon",
-			tag: {
-				state_0: 0b,
-				magtype: 134,
-				lastanim_0: 4,
-				timer_0: 10,
-				aiming: 0b,
-				cancel: 0b,
-				eqipped: 0b
-			}
+			id: "hbm:gun_tesla_cannon"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

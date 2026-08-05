@@ -8,16 +8,7 @@
 		uid: "cba3562b",
 		type: "item",
 		items: [{
-			id: "hbm:gun_tau",
-			tag: {
-				state_0: 0b,
-				magtype: 144,
-				timer_0: 10,
-				lastanim_0: 4,
-				aiming: 0b,
-				cancel: 0b,
-				eqipped: 0b
-			}
+			id: "hbm:gun_tau"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

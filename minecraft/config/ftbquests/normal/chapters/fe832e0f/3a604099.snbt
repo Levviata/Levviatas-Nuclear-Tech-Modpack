@@ -1,6 +1,6 @@
 {
-	x: 1.5d,
-	y: 13.5d,
+	x: 2.0d,
+	y: 14.0d,
 	dependencies: [
 		"27d2816a"
 	],
@@ -8,15 +8,7 @@
 		uid: "6d63d83b",
 		type: "item",
 		items: [{
-			id: "hbm:gun_flamer_topaz",
-			tag: {
-				timer_0: 10,
-				state_0: 0b,
-				aiming: 0b,
-				cancel: 0b,
-				eqipped: 0b,
-				lastanim_0: 4
-			}
+			id: "hbm:gun_flamer_topaz"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

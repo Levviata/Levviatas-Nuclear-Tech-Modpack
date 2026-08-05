@@ -8,15 +8,7 @@
 		uid: "2e76262e",
 		type: "item",
 		items: [{
-			id: "hbm:gun_flaregun",
-			tag: {
-				timer_0: 7,
-				state_0: 0b,
-				aiming: 0b,
-				cancel: 0b,
-				eqipped: 0b,
-				lastanim_0: 4
-			}
+			id: "hbm:gun_flaregun"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,15 +8,7 @@
 		uid: "dd817088",
 		type: "item",
 		items: [{
-			id: "hbm:gun_laser_pistol_pew_pew",
-			tag: {
-				timer_0: 10,
-				state_0: 0b,
-				aiming: 0b,
-				cancel: 0b,
-				eqipped: 0b,
-				lastanim_0: 4
-			}
+			id: "hbm:gun_laser_pistol_pew_pew"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

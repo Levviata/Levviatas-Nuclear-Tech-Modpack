@@ -8,20 +8,7 @@
 		uid: "beaf6bf3",
 		type: "item",
 		items: [{
-			id: "hbm:gun_chemthrower",
-			tag: {
-				state_0: 1b,
-				reload_0: 0b,
-				mouse1_0: 0b,
-				animtimer_0: 408,
-				mouse3_0: 0b,
-				timer_0: 0,
-				lastanim_0: 10,
-				aiming: 0b,
-				cancel: 0b,
-				eqipped: 1b,
-				mouse2_0: 0b
-			}
+			id: "hbm:gun_chemthrower"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

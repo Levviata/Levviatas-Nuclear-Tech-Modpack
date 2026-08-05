@@ -12,21 +12,7 @@
 		uid: "b33ea4d5",
 		type: "item",
 		items: [{
-			id: "hbm:gun_charge_thrower",
-			tag: {
-				state_0: 1b,
-				reload_0: 0b,
-				mouse1_0: 0b,
-				animtimer_0: 488,
-				mouse3_0: 0b,
-				timer_0: 0,
-				lastanim_0: 10,
-				lasthook: -1,
-				aiming: 0b,
-				cancel: 0b,
-				eqipped: 1b,
-				mouse2_0: 0b
-			}
+			item: "hbm:gun_charge_thrower"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

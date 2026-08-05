@@ -8,17 +8,7 @@
 		uid: "08d51d11",
 		type: "item",
 		items: [{
-			id: "hbm:gun_stinger",
-			tag: {
-				state_0: 0b,
-				lockedon: 0b,
-				lockonprogress: 0,
-				lastanim_0: 4,
-				timer_0: 7,
-				aiming: 0b,
-				cancel: 0b,
-				eqipped: 0b
-			}
+			id: "hbm:gun_stinger"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
