@@ -5,7 +5,8 @@
 		"After removing the fuel from the ZINOX Rod, you will get Depleted Uranium Fuel, you will need to cool it down."
 	],
 	dependencies: [
-		"6c9b8a55"
+		"6c9b8a55",
+		"1a788b23"
 	],
 	tasks: [{
 		uid: "54f6645c",
