@@ -33,7 +33,7 @@
   - Quests have treats and fun explosives
   - Swords are proper and are flipped horizontally
   - Stat rebalances for useless or forgotten items (Redstone and Great sword)
-  - Informative tooltips for machines
+  - Informative tooltips for machines (ex: if they are deprecated, how they work)
   - Recipes for items that have none or are improper (Neutron Reflector, Meteor swords, etc).
 
 - So optimized you could use your motherboard to fly in real life (pure magic, aladdin style).
