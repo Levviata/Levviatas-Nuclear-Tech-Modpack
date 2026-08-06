@@ -5,8 +5,10 @@
 	shape: "square",
 	size: 1.25d,
 	tasks: [{
-		uid: "0df103f8",
-		type: "checkmark",
-		title: "Gas Centrifuge Upgrades"
+		uid: "414d57a2",
+		type: "item",
+		items: [{
+			item: "hbm:machine_gascent"
+		}]
 	}]
 }
