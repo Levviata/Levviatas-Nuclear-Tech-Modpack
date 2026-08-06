@@ -1,6 +1,8 @@
 {
-	x: -6.0d,
-	y: 3.5d,
+	x: -4.5d,
+	y: 8.5d,
+	shape: "hexagon",
+	description: "(Deprecated)",
 	text: [
 		"Its getting removed next update so I wont make an effort give it a description.",
 		"",
@@ -9,7 +11,7 @@
 	dependencies: [
 		"99183935"
 	],
-	size: 1.25d,
+	size: 1.5d,
 	tasks: [{
 		uid: "48ff7da2",
 		type: "item",
