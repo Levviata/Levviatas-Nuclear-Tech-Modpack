@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: 5.5d,
+	description: "§e§nRequires:§r§e Polymer, Military Grade Circuit Board, Technetium Steel",
+	text: [
+		""
+	],
+	dependencies: [
+		"b9376292"
+	],
+	tasks: [{
+		uid: "208b7d33",
+		type: "item",
+		items: [{
+			id: "refinedstorage:storage_disk",
+			tag: {
+				IdMost: 3364443781475748989L,
+				IdLeast: -6926509682966692232L
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

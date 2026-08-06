@@ -1,0 +1,23 @@
+{
+	x: 2.5d,
+	y: 3.0d,
+	text: [
+		"The Disk Drive can store up to 8 Storage Disks.",
+		"",
+		"The Disk Manipulator can extract or insert items, to change it, choose the last option, Access Type (left most, gray option with arrows)"
+	],
+	tasks: [{
+		uid: "14e5a89b",
+		type: "item",
+		items: [{
+			item: "refinedstorage:disk_drive"
+		}]
+	},
+	{
+		uid: "577c7d15",
+		type: "item",
+		items: [{
+			item: "refinedstorage:disk_manipulator"
+		}]
+	}]
+}
