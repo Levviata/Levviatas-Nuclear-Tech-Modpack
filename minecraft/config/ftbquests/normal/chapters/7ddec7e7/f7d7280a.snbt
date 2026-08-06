@@ -1,8 +1,8 @@
 {
 	title: "Nether",
 	icon: "minecraft:netherrack",
-	x: -6.75d,
-	y: 1.5d,
+	x: 7.516369047619044d,
+	y: 5.904761904761891d,
 	shape: "pentagon",
 	text: [
 		"Vanilla nether ores"
