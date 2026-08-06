@@ -1,6 +1,6 @@
 {
-	x: 0.0d,
-	y: -10.0d,
+	x: -2.5d,
+	y: -4.0d,
 	text: [
 		"The Compact Launch Pad can launch custom missiles, it must be fueled, powered, and given a target. To launch, power with redstone.",
 		"",

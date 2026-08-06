@@ -1,6 +1,6 @@
 {
-	x: 6.0d,
-	y: -10.0d,
+	x: 2.5d,
+	y: 2.0d,
 	text: [
 		"The Launch Pad is the earliest available non-custom missile launcher, it must be loaded with fluids, powered, and given a target. To launch, power with redstone."
 	],
