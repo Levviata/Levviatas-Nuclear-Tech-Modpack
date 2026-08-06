@@ -1,0 +1,40 @@
+{
+	x: -7.5d,
+	y: -6.0d,
+	shape: "pentagon",
+	text: [
+		"By tumbling redstone ore in a centrifuger, you get a drop of mercury, this can be used to make desh.",
+		"Redstone Crystals also work too."
+	],
+	dependencies: [
+		"078d10db"
+	],
+	tasks: [{
+		uid: "d32db0ca",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_mercury"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "0f54e689",
+		type: "xp",
+		xp: 10
+	},
+	{
+		uid: "5efe92e0",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "a8e74991",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "812ddb69",
+		type: "random",
+		table: 1
+	}]
+}
