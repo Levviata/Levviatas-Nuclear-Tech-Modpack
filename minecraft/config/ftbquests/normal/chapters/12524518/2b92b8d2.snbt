@@ -5,7 +5,7 @@
 	shape: "hexagon",
 	description: "Plutonium",
 	text: [
-		"The Chicago Pile is made using a hand drill on a block of graphite, now the drilled graphite may store radioactive rods.",
+		"The Chicago Pile is made using a hand drill on a block of graphite, the drilled graphite may store radioactive rods.",
 		"",
 		"A common configuration is 3x3 blocks, fuel rods on the sides and in the center a neutron source rod, see image for example.",
 		"",
