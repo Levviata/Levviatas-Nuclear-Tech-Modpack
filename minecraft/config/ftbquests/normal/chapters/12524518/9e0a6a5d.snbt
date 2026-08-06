@@ -1,0 +1,15 @@
+{
+	x: -9.0d,
+	y: 15.0d,
+	description: "Unused",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "54213280",
+		type: "item",
+		items: [{
+			item: "hbm:rod 1 13"
+		}]
+	}]
+}

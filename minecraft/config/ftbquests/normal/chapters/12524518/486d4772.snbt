@@ -1,0 +1,11 @@
+{
+	x: -7.5d,
+	y: 15.0d,
+	tasks: [{
+		uid: "56ba1e2f",
+		type: "item",
+		items: [{
+			item: "hbm:rod 1 2"
+		}]
+	}]
+}
