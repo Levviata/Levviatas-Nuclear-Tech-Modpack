@@ -1,4 +1,9 @@
+def recipeCount = 0;
+def replacedCount = 0;
+def removedCount = 0;
+
 crafting.addShapeless(item('hbm:ball_fireclay'), [item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('hbm:ingot_aluminium')])
+recipeCount++
 
 crafting.shapedBuilder()
         .output(item('hbm:lung_diagnostic'))
@@ -13,6 +18,7 @@ crafting.shapedBuilder()
         .key('F', item('hbm:powder_coal'))
         .key('G', item('hbm:powder_asbestos'))
         .register()
+recipeCount++
 
 /* its good but i want players to be forced to use universal buckets
 crafting.shapedBuilder()
@@ -38,6 +44,7 @@ crafting.shapedBuilder()
         .key('B', item('minecraft:stonebrick:*'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:writer'))
@@ -52,6 +59,7 @@ crafting.shapedBuilder()
         .key('E', item('refinedstorage:processor', 5))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:wrench'))
@@ -63,6 +71,7 @@ crafting.shapedBuilder()
         .key('B', item('refinedstorage:processor', 3))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:wireless_transmitter'))
@@ -76,6 +85,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:processor', 5))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:wireless_grid'))
@@ -89,6 +99,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:processor', 5))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:wireless_crafting_monitor'))
@@ -102,6 +113,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:processor', 5))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:upgrade'))
@@ -115,6 +127,7 @@ crafting.shapedBuilder()
         .key('D', ore('ingotAnyResistantAlloy'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:storage_monitor'))
@@ -130,6 +143,7 @@ crafting.shapedBuilder()
         .key('F', item('refinedstorage:core', 1))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:storage_housing'))
@@ -143,6 +157,7 @@ crafting.shapedBuilder()
         .key('B', item('hbm:circuit:9'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:stack_upgrade'))
@@ -154,6 +169,7 @@ crafting.shapedBuilder()
         .key('B', item('refinedstorage:upgrade', 2))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:speed_upgrade'))
@@ -166,6 +182,7 @@ crafting.shapedBuilder()
         .key('C', item('refinedstorage:upgrade'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:security_manager'))
@@ -179,6 +196,7 @@ crafting.shapedBuilder()
         .key('D', item('hbm:cm_block'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:security_card'))
@@ -191,6 +209,7 @@ crafting.shapedBuilder()
         .key('C', item('refinedstorage:processor', 4))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:reader'))
@@ -205,6 +224,7 @@ crafting.shapedBuilder()
         .key('E', item('refinedstorage:processor', 5))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:range_upgrade'))
@@ -217,6 +237,7 @@ crafting.shapedBuilder()
         .key('C', item('refinedstorage:upgrade'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:processor_binding'))
@@ -228,6 +249,7 @@ crafting.shapedBuilder()
         .key('B', ore('slimeball'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:portable_grid'))
@@ -241,6 +263,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:processor:4'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:pattern'))
@@ -254,6 +277,7 @@ crafting.shapedBuilder()
         .key('G', item('hbm:circuit:7'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:network_transmitter'))
@@ -264,11 +288,11 @@ crafting.shapedBuilder()
         .key('A', item('minecraft:ender_pearl'))
         .key('B', item('refinedstorage:core'))
         .key('C', item('hbm:cm_block'))
-
         .key('D', item('refinedstorage:core', 1))
         .key('E', item('refinedstorage:processor', 5))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:network_receiver'))
@@ -283,6 +307,7 @@ crafting.shapedBuilder()
         .key('E', item('minecraft:ender_pearl'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:network_card'))
@@ -295,6 +320,7 @@ crafting.shapedBuilder()
         .key('C', item('refinedstorage:processor:4'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:interface'))
@@ -309,6 +335,7 @@ crafting.shapedBuilder()
         .key('E', item('refinedstorage:exporter'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:grid'))
@@ -324,12 +351,18 @@ crafting.shapedBuilder()
         .key('F', item('refinedstorage:core:1'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.replaceShapeless(item('refinedstorage:grid:1'), [item('refinedstorage:grid'), item('refinedstorage:processor:3'), item('minecraft:crafting_table')])
 crafting.replaceShapeless(item('refinedstorage:grid:2'), [item('refinedstorage:grid'), item('refinedstorage:processor:3'), item('refinedstorage:pattern')])
+replacedCount++
+replacedCount++
 
 crafting.replaceShapeless(item('refinedstorage:core'), [item('refinedstorage:processor:3'), item('hbm:powder_magic')])
 crafting.replaceShapeless(item('refinedstorage:core:1'), [item('refinedstorage:processor:3'), ore('dustAnyPropellant')])
+replacedCount++
+replacedCount++
+
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:filter'))
@@ -342,6 +375,7 @@ crafting.shapedBuilder()
         .key('C', item('minecraft:hopper'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:external_storage'))
@@ -357,6 +391,7 @@ crafting.shapedBuilder()
         .key('F', item('refinedstorage:processor:4'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:disk_manipulator'))
@@ -371,6 +406,7 @@ crafting.shapedBuilder()
         .key('E', item('refinedstorage:core:1'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:disk_drive'))
@@ -384,6 +420,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:processor:5'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:detector'))
@@ -398,6 +435,7 @@ crafting.shapedBuilder()
         .key('E', item('refinedstorage:processor:4'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:destructor'))
@@ -412,6 +450,7 @@ crafting.shapedBuilder()
         .key('E', item('refinedstorage:processor:4'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:cutting_tool'))
@@ -423,6 +462,7 @@ crafting.shapedBuilder()
         .key('B', ore('stickWood'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:crafting_upgrade'))
@@ -436,6 +476,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:upgrade'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:crafting_monitor'))
@@ -450,6 +491,7 @@ crafting.shapedBuilder()
         .key('E', item('hbm:cm_block'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:crafter_manager'))
@@ -464,6 +506,7 @@ crafting.shapedBuilder()
         .key('E', item('hbm:cm_block'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:crafter'))
@@ -478,6 +521,7 @@ crafting.shapedBuilder()
         .key('E', item('refinedstorage:core:1'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:controller'))
@@ -492,6 +536,7 @@ crafting.shapedBuilder()
         .key('N', item('hbm:battery_pack:6'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:constructor'))
@@ -506,8 +551,10 @@ crafting.shapedBuilder()
         .key('E', item('refinedstorage:processor:4'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.replaceShapeless(item('refinedstorage:relay'), [item('hbm:cm_block'), item('refinedstorage:cable'), item('minecraft:redstone_torch')])
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:cable'))
@@ -520,6 +567,7 @@ crafting.shapedBuilder()
         //.key('C', item('hbm:ingot_red_copper'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:64k_storage_part'))
@@ -533,6 +581,7 @@ crafting.shapedBuilder()
         .key('D', item('hbm:circuit:11'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('hbm:conveyor_wand_1'))
@@ -545,6 +594,7 @@ crafting.shapedBuilder()
         .key('I', item('minecraft:iron_ingot'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('hbm:conveyor_wand_2'))
@@ -557,6 +607,7 @@ crafting.shapedBuilder()
         .key('I', item('minecraft:iron_ingot'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:64k_storage_disk'))
@@ -571,6 +622,7 @@ crafting.shapedBuilder()
         .key('M', item('refinedstorage:storage_part:3'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:64k_storage_block'))
@@ -584,6 +636,7 @@ crafting.shapedBuilder()
         .key('D', item('hbm:cm_circuit:3'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:4k_storage_part'))
@@ -597,6 +650,7 @@ crafting.shapedBuilder()
         .key('D', item('hbm:circuit:8'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:4k_storage_disk'))
@@ -611,6 +665,7 @@ crafting.shapedBuilder()
         .key('M', item('refinedstorage:storage_part:1'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:4k_storage_block'))
@@ -624,6 +679,7 @@ crafting.shapedBuilder()
         .key('D', item('hbm:cm_circuit:1'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:1k_storage_part'))
@@ -637,6 +693,7 @@ crafting.shapedBuilder()
         .key('D', item('hbm:circuit:7'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:1k_storage_disk'))
@@ -651,6 +708,7 @@ crafting.shapedBuilder()
         .key('M', item('refinedstorage:storage_part'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:1k_storage_block'))
@@ -664,6 +722,7 @@ crafting.shapedBuilder()
         .key('D', item('hbm:cm_circuit'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:16k_storage_part'))
@@ -677,6 +736,7 @@ crafting.shapedBuilder()
         .key('D', item('hbm:circuit:9'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:16k_storage_disk'))
@@ -691,6 +751,7 @@ crafting.shapedBuilder()
         .key('M', item('refinedstorage:storage_part:2'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:16k_storage_block'))
@@ -704,6 +765,7 @@ crafting.shapedBuilder()
         .key('D', item('hbm:cm_circuit:2'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:fortune_1_upgrade'))
@@ -717,6 +779,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:upgrade'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:fortune_2_upgrade'))
@@ -730,6 +793,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:upgrade'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:fortune_3_upgrade'))
@@ -743,6 +807,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:upgrade'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:silk_touch_upgrade'))
@@ -756,6 +821,7 @@ crafting.shapedBuilder()
         .key('D', item('refinedstorage:upgrade'))
         .replaceByName()
         .register()
+replacedCount++
 /* if it aint broken dont fix it
 crafting.shapedBuilder()
         .name(resource('hbm:desh_sword'))
@@ -779,6 +845,7 @@ crafting.shapedBuilder() // bring back old glory
         .key('C', item('hbm:plate_iron'))
         .replaceByName()
         .register()
+replacedCount++
 
 // security armor, base recipes suck
 crafting.shapedBuilder()
@@ -794,6 +861,7 @@ crafting.shapedBuilder()
         .key('S', item('hbm:plate_steel'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('hbm:security_plate'))
@@ -806,6 +874,7 @@ crafting.shapedBuilder()
         .key('K', item('hbm:plate_kevlar'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('hbm:security_legs'))
@@ -818,6 +887,7 @@ crafting.shapedBuilder()
         .key('K', item('hbm:plate_kevlar'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('hbm:security_boots'))
@@ -830,22 +900,31 @@ crafting.shapedBuilder()
         .key('K', item('hbm:plate_kevlar'))
         .replaceByName()
         .register()
+replacedCount++
 
 
 // provisional Neutron Reflector recipes as the new Blast Furnace doesn't have the recipe for it yet
 // Remove when fixed
 crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coal'), ore('Tungsten')])
 crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coke'), ore('Tungsten')])
+recipeCount++
+recipeCount++
 
 // tried to damage the item with 10 other methods, listening to events and shit, to it being a simple method, sad.
 crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_steel:*').reuse().transformDamage(2)])
 crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_titanium:*').reuse().transformDamage(2)])
 crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_desh').reuse()])
+recipeCount++
+recipeCount++
+recipeCount++
 
 // Sacrifice.
 crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_steel:*').reuse().transformDamage(2)])
 crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_titanium:*').reuse().transformDamage(2)])
 crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_desh').reuse()])
+recipeCount++
+recipeCount++
+recipeCount++
 
 // meteorite sword filler recipes
 crafting.shapedBuilder()
@@ -857,9 +936,12 @@ crafting.shapedBuilder()
         .key('B', item('hbm:meteorite_sword_alloyed'))
         .key('G', item('hbm:wire_dense:7900'))
         .register()
+recipeCount++
 
 crafting.addShapeless(item('hbm:meteorite_sword_treated'), [ore('ntmchemistryset'), item('hbm:meteorite_sword_machined'), ore('container1000radiosolvent') * 16, ore('container1000bloodhot') * 16])
 crafting.addShapeless(item('hbm:meteorite_sword_treated'), [ore('ntmchemistryset'), item('hbm:meteorite_sword_machined'), ore('container16000radiosolvent'), ore('container16000bloodhot')])
+recipeCount++
+recipeCount++
 
 crafting.shapedBuilder()
         .output(item('hbm:meteorite_sword_irradiated'))
@@ -871,6 +953,7 @@ crafting.shapedBuilder()
         .key('C', item('hbm:ingot_polonium'))
         .key('D', item('hbm:ingot_u235'))
         .register()
+recipeCount++
 
 crafting.shapedBuilder()
         .output(item('hbm:meteorite_sword_fused'))
@@ -882,8 +965,10 @@ crafting.shapedBuilder()
         .key('C', item('hbm:ingot_meteorite'))
         .key('D', item('hbm:ingot_starmetal'))
         .register()
+recipeCount++
 
 crafting.addShapeless(item('hbm:meteorite_sword_baleful'), [item('hbm:meteorite_sword_fused'), item('hbm:egg_balefire_shard')])
+recipeCount++
 
 // shimmer tools shouldnt be available in the mid game because they can break too many things, instantly
 crafting.shapedBuilder()
@@ -897,6 +982,7 @@ crafting.shapedBuilder()
         .key('A', item('hbm:block_euphemium'))
         .replaceByName()
         .register()
+replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('hbm:shimmer_axe_head'))
@@ -910,39 +996,57 @@ crafting.shapedBuilder()
         .key('C', item('hbm:ingot_combine_steel'))
         .replaceByName()
         .register()
+replacedCount++
 
 // no one told me this thing doesnt work and I've been including it for the past 6 months as a working mechanic
 // remove unused item
 crafting.removeByOutput(item('hbm:template_folder'))
+removedCount++
 
 // paa hazmat to paa armor
 crafting.addShapeless(item('hbm:paa_plate'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_plate')])
 crafting.addShapeless(item('hbm:paa_legs'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_legs')])
 crafting.addShapeless(item('hbm:paa_boots'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_boots')])
+recipeCount++
+recipeCount++
+recipeCount++
 
 // pink fluid
 crafting.addShapeless(item('hbm:syringe_mkunicorn'), [item('hbm:nugget_euphemium'), item('hbm:syringe_empty')])
+recipeCount++
 
 // processor hbmified
 crafting.addShapeless(item('refinedstorage:processor:3'), [item('refinedstorage:processor_binding'), item('hbm:ingot_steel'), ore('ingotAnyRubber'), item('hbm:circuit:7')])
 crafting.addShapeless(item('refinedstorage:processor:4'), [item('refinedstorage:processor_binding'), item('hbm:ingot_desh'), ore('ingotAnyPlastic'), item('hbm:circuit:8')])
 crafting.addShapeless(item('refinedstorage:processor:5'), [item('refinedstorage:processor_binding'), ore('ingotAnyResistantAlloy'), ore('ingotAnyHardPlastic'), item('hbm:circuit:9')])
+recipeCount++
+recipeCount++
+recipeCount++
 
 // bye useless ingot
 crafting.removeByOutput(item('refinedstorage:quartz_enriched_iron'))
 crafting.removeByOutput(item('refinedstorage:quartz_enriched_iron_block'))
+removedCount++
+removedCount++
 
 // remove raw processor
 crafting.removeByOutput(item('refinedstorage:processor'))
 crafting.removeByOutput(item('refinedstorage:processor:1'))
 crafting.removeByOutput(item('refinedstorage:processor:2'))
+removedCount++
+removedCount++
+removedCount++
 
 crafting.removeByOutput(item('hbm:machine_battery_potato'))
+removedCount++
 
 // remove furnace raw processor recipe
 furnace.removeByOutput(item('refinedstorage:processor:3'))
 furnace.removeByOutput(item('refinedstorage:processor:4'))
 furnace.removeByOutput(item('refinedstorage:processor:5'))
+removedCount++
+removedCount++
+removedCount++
 
 
 // remove fluid parts because they are boooring, big tanks and barrels are immersive and fun
@@ -951,24 +1055,48 @@ crafting.removeByOutput(item('refinedstorage:fluid_storage'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage:1'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage:2'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage:3'))
+removedCount++
+removedCount++
+removedCount++
+removedCount++
 
 crafting.removeByOutput(item('refinedstorage:fluid_storage_disk'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:1'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:2'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:3'))
+removedCount++
+removedCount++
+removedCount++
+removedCount++
 
 crafting.removeByOutput(item('refinedstorage:fluid_storage_part'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage_part:1'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage_part:2'))
 crafting.removeByOutput(item('refinedstorage:fluid_storage_part:3'))
+removedCount++
+removedCount++
+removedCount++
+removedCount++
 
 furnace.removeByOutput(item('refinedstorage:silicon'))
+removedCount++
 
 crafting.removeByOutput(item('refinedstorage:fluid_interface'))
+removedCount++
 
 crafting.removeByOutput(item('refinedstorage:wireless_fluid_grid'))
 crafting.removeByOutput(item('refinedstorage:grid:3'))
+removedCount++
+removedCount++
 
 // remove casings as i prefer to use cm_block since its ntm's and thats better
 crafting.removeByOutput(item('refinedstorage:machine_casing'))
+removedCount++
+
+log.info("Adding " + recipeCount + " recipes.")
+log.info("Replacing " + replacedCount + " recipes.")
+log.info("Removed " + removedCount + " recipes.")
+def totalCount = removedCount + replacedCount + recipeCount
+log.info("Changed a total of " + totalCount + " recipes!")
+
 
