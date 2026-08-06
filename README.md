@@ -35,6 +35,7 @@
   - Stat rebalances for useless or forgotten items (Redstone and Great sword)
   - Informative tooltips for machines (ex: if they are deprecated, how they work, alternative names)
   - Recipes for items that have none or are improper (Neutron Reflector, Meteor swords, etc).
+  - Damage rebalance for axes
 
 - So optimized you could use your motherboard to fly in real life (pure magic, aladdin style).
 
