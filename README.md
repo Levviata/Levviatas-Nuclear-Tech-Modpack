@@ -27,7 +27,7 @@
 
 - Customized keybinds that work well with each other. (Todo: keybind map)
 
-- Many little details I put out with my Detail Brain-ChipTM software, this assures complete fun and quality. For example:
+- Many little details I put out with my Detail Brain-ChipTM hardware, this assures complete fun and quality. For example:
   - Late game machines, desh, schrabidium, etc. are fireproof.
   - Many fun grinding quests that make you progress
   - Quests have treats and fun explosives
