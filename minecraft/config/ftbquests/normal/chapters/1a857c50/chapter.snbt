@@ -3,5 +3,16 @@
 	icon: "hbm:ore_oil",
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: ""
+	default_quest_shape: "",
+	images: [{
+		x: -5.5d,
+		y: -18.5d,
+		width: 3.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image8.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
 }
