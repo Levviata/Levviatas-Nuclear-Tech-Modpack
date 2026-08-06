@@ -6,7 +6,9 @@
 	text: [
 		"Grenades have since been reworked and are completely customizable.",
 		"",
-		"There are over 159 custom combinations! Ain't that cool."
+		"There are over 159 custom combinations! Ain't that cool.",
+		"",
+		"To craft, you need a shell, a charge, and a fuse, you may also add an extra."
 	],
 	dependencies: [
 		"fa871a76",
@@ -28,5 +30,10 @@
 				fuze: 0
 			}
 		}
+	}],
+	rewards: [{
+		uid: "ba296b18",
+		type: "xp",
+		xp: 10
 	}]
 }
