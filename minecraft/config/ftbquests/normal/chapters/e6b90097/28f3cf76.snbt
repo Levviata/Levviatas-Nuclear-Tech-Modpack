@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "7b524247",
+		type: "item",
+		items: [{
+			item: "hbm:grenade_filling"
+		}]
+	}]
+}

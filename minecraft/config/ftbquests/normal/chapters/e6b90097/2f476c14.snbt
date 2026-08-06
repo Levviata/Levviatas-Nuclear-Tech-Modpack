@@ -1,0 +1,12 @@
+{
+	icon: "minecraft:chest",
+	x: -6.5d,
+	y: 2.5d,
+	shape: "square",
+	tasks: [{
+		uid: "23edcdb9",
+		type: "checkmark",
+		title: "Shells",
+		icon: "hbm:grenade_shell"
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 2.5d,
+	shape: "square",
+	tasks: [{
+		uid: "d9f9f4ff",
+		type: "checkmark",
+		title: "Charges",
+		icon: "hbm:det_charge"
+	}]
+}

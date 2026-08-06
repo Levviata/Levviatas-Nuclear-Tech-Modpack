@@ -1,0 +1,11 @@
+{
+	x: 6.5d,
+	y: 2.5d,
+	shape: "square",
+	tasks: [{
+		uid: "c915fc56",
+		type: "checkmark",
+		title: "Extras",
+		icon: "hbm:grenade_extra 1 1"
+	}]
+}

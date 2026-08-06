@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: 5.5d,
+	description: "High-Tech Shell only",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "a6adf4bc",
+		type: "item",
+		items: [{
+			item: "hbm:grenade_filling 1 6"
+		}]
+	}]
+}

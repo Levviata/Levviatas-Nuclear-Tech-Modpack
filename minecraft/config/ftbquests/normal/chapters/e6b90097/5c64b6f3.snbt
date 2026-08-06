@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 2.5d,
+	shape: "square",
+	tasks: [{
+		uid: "3aad0646",
+		type: "checkmark",
+		title: "Fuzes",
+		icon: "hbm:safety_fuse"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 6.5d,
+	description: "Nuclear Shell only",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "39635732",
+		type: "item",
+		items: [{
+			item: "hbm:grenade_filling 1 12"
+		}]
+	}]
+}
