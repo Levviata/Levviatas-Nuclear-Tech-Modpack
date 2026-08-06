@@ -1,12 +1,15 @@
 {
+	title: "Nether Plutonium Ore",
 	x: 2.0d,
 	y: 8.0d,
+	description: "Disabled by default",
+	text: [
+		""
+	],
 	tasks: [{
-		uid: "fe627931",
-		type: "item",
-		items: [{
-			item: "hbm:ore_nether_plutonium"
-		}]
+		uid: "5363d1d7",
+		type: "checkmark",
+		icon: "hbm:ore_nether_plutonium"
 	}],
 	rewards: [{
 		uid: "bc7b70d3",
