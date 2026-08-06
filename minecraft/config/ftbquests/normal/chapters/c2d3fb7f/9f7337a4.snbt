@@ -3,7 +3,6 @@
 	x: 22.25d,
 	y: 6.0d,
 	shape: "gear",
-	description: "The end, but not for the modpack!",
 	text: [
 		""
 	],
