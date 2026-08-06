@@ -1,5 +1,13 @@
 {
 	title: "Grenades",
+	icon: {
+		id: "hbm:grenade_universal",
+		tag: {
+			shell: 2,
+			filling: 6,
+			fuze: 0
+		}
+	},
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""
