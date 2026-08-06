@@ -1,0 +1,30 @@
+{
+	title: "Tantalium and Niobium",
+	x: -2.5d,
+	y: 8.5d,
+	text: [
+		"Obtained from mixing Crushed Coltan, Coal Powder, Hydrogen Peroxide, and Liquid Hydrogen in a Chemical Plant."
+	],
+	dependencies: [
+		"0cc7d46c"
+	],
+	tasks: [{
+		uid: "1a48e70f",
+		type: "item",
+		items: [{
+			item: "hbm:gem_tantalium"
+		}]
+	},
+	{
+		uid: "b06c5ca8",
+		type: "item",
+		items: [{
+			item: "hbm:powder_niobium"
+		}]
+	}],
+	rewards: [{
+		uid: "f76b4533",
+		type: "xp",
+		xp: 10
+	}]
+}

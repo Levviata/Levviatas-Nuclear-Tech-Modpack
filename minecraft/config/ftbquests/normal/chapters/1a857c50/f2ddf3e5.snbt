@@ -1,0 +1,16 @@
+{
+	x: -2.5d,
+	y: 11.5d,
+	text: [
+		"The Coltass is a compass that points toward the nearest Coltan deposit, its essential to make consistent amounts of Niobium and Tantalium."
+	],
+	tasks: [{
+		uid: "f348b686",
+		type: "item",
+		items: [{
+			item: "hbm:coltan_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
