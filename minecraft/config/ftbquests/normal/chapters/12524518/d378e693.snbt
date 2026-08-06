@@ -1,8 +1,7 @@
 {
-	x: -2.5d,
-	y: 8.5d,
+	x: -3.5d,
+	y: 16.0d,
 	shape: "hexagon",
-	description: "(Deprecated)",
 	text: [
 		"The Breeding Reactor is a specially useful machine that breeds radioactive materials into other products, usually more rare and useful."
 	],
