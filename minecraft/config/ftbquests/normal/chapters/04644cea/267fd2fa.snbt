@@ -1,0 +1,11 @@
+{
+	x: -13.0d,
+	y: 10.5d,
+	tasks: [{
+		uid: "00db5076",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_pb209"
+		}]
+	}]
+}

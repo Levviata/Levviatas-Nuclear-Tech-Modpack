@@ -1,0 +1,11 @@
+{
+	x: -13.5d,
+	y: 15.5d,
+	tasks: [{
+		uid: "1bf55cf5",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_neptunium"
+		}]
+	}]
+}

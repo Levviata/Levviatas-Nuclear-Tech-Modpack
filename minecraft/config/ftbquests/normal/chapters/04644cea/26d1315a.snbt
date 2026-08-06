@@ -1,0 +1,11 @@
+{
+	x: -16.0d,
+	y: 10.5d,
+	tasks: [{
+		uid: "22477697",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_astatine"
+		}]
+	}]
+}

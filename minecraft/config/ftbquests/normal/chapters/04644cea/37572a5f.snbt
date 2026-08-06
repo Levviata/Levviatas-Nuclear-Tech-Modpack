@@ -1,0 +1,11 @@
+{
+	x: -14.5d,
+	y: 9.5d,
+	tasks: [{
+		uid: "61c8e9ff",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_iodine"
+		}]
+	}]
+}

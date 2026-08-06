@@ -1,0 +1,11 @@
+{
+	x: -14.5d,
+	y: 17.5d,
+	tasks: [{
+		uid: "cbbd0592",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bromine"
+		}]
+	}]
+}

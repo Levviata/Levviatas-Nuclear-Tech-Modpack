@@ -1,0 +1,11 @@
+{
+	x: -13.5d,
+	y: 9.5d,
+	tasks: [{
+		uid: "dd7041c7",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_au198"
+		}]
+	}]
+}

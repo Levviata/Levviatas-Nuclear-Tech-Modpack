@@ -1,0 +1,11 @@
+{
+	x: -13.5d,
+	y: 13.5d,
+	tasks: [{
+		uid: "06ae746b",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_mox_fuel"
+		}]
+	}]
+}

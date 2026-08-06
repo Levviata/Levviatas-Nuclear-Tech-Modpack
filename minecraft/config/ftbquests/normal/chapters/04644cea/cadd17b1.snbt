@@ -1,0 +1,11 @@
+{
+	x: -15.5d,
+	y: 13.5d,
+	tasks: [{
+		uid: "d9b4ba50",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_thorium_fuel"
+		}]
+	}]
+}

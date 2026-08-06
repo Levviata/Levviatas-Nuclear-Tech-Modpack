@@ -1,0 +1,11 @@
+{
+	x: -13.0d,
+	y: 18.5d,
+	tasks: [{
+		uid: "1e9de2cc",
+		type: "item",
+		items: [{
+			item: "hbm:lithium"
+		}]
+	}]
+}
