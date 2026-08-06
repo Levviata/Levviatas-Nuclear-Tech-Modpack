@@ -3,7 +3,7 @@
 	y: 4.0d,
 	description: "No longer a Worker's choice",
 	text: [
-		""
+		"Desh is an exotic superalloy"
 	],
 	dependencies: [
 		"04b29439"
