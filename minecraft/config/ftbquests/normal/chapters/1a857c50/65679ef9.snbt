@@ -1,18 +1,25 @@
 {
 	x: 18.5d,
-	y: -2.5d,
+	y: -3.0d,
 	description: "§aRequires blueprint",
 	text: [
-		""
+		"The Radiation-Powered Engine can turn Long-Lived and Short-Lived nuclear waste into power.",
+		"The radiation is negated inside the machine so the chunk won't contaminate."
 	],
 	dependencies: [
 		"47aeecca"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "8cca97e4",
 		type: "item",
 		items: [{
 			item: "hbm:machine_radgen"
 		}]
+	}],
+	rewards: [{
+		uid: "54da6d66",
+		type: "xp",
+		xp: 10
 	}]
 }
