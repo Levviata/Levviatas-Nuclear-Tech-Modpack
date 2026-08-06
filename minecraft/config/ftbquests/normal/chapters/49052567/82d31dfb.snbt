@@ -1,0 +1,26 @@
+{
+	x: 5.0d,
+	y: 4.0d,
+	text: [
+		"The Constructor places block directly on front of it.",
+		"",
+		"The Destructor destroys any block directly on front."
+	],
+	dependencies: [
+		"ab56cf1e"
+	],
+	tasks: [{
+		uid: "ba4cf3b1",
+		type: "item",
+		items: [{
+			item: "refinedstorage:constructor"
+		}]
+	},
+	{
+		uid: "a59057bc",
+		type: "item",
+		items: [{
+			item: "refinedstorage:destructor"
+		}]
+	}]
+}

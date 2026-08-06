@@ -1,0 +1,21 @@
+{
+	x: 5.5d,
+	y: 8.0d,
+	text: [
+		"The Speed Upgrade improves the transference rate of",
+		"- Importers and Exporters",
+		"- Constructors and Destructors",
+		"- Disk Interface",
+		"- And Autocrafter"
+	],
+	dependencies: [
+		"ce9006d9"
+	],
+	tasks: [{
+		uid: "d3c9deba",
+		type: "item",
+		items: [{
+			item: "refinedstorage:upgrade 1 2"
+		}]
+	}]
+}

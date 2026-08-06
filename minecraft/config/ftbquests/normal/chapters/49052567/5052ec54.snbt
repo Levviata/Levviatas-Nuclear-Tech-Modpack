@@ -1,0 +1,43 @@
+{
+	title: "Destructor Upgrades",
+	x: 6.5d,
+	y: 8.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"ce9006d9"
+	],
+	tasks: [{
+		uid: "028fc42f",
+		type: "item",
+		title: "Fortune I Upgrade",
+		items: [{
+			item: "refinedstorage:upgrade 1 7"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "b289e025",
+		type: "item",
+		title: "Fortune II Upgrade",
+		items: [{
+			item: "refinedstorage:upgrade 1 8"
+		}]
+	},
+	{
+		uid: "4f0b5d4c",
+		type: "item",
+		title: "Fortune III Upgrade",
+		items: [{
+			item: "refinedstorage:upgrade 1 9"
+		}]
+	},
+	{
+		uid: "e21216e9",
+		type: "item",
+		items: [{
+			item: "refinedstorage:upgrade 1 6"
+		}]
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	x: 3.5d,
+	y: 1.0d,
+	text: [
+		"The Network Transmitter can connect to a Network Receiver at any distance (as long as the chunk is loaded) using a Network Card.",
+		"",
+		"To connect, right click a Receiver and insert the Card into the Transmitter. The Card will now show the coordinates of the receiver.",
+		"",
+		"The receiving network must not have a Controller as the Transmitter provides power and connects the receiving network's components.",
+		"",
+		"A Receiver can't have more than one Transmitter."
+	],
+	tasks: [{
+		uid: "95066c74",
+		type: "item",
+		items: [{
+			item: "refinedstorage:network_transmitter"
+		}]
+	},
+	{
+		uid: "5a0a52ea",
+		type: "item",
+		items: [{
+			item: "refinedstorage:network_receiver"
+		}]
+	},
+	{
+		uid: "277afd69",
+		type: "item",
+		items: [{
+			item: "refinedstorage:network_card"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

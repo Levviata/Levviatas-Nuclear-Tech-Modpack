@@ -1,0 +1,24 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	text: [
+		"The Writer and Reader can transfer items, energy and redstone."
+	],
+	dependencies: [
+		"ab56cf1e"
+	],
+	tasks: [{
+		uid: "a95b69e1",
+		type: "item",
+		items: [{
+			item: "refinedstorage:writer"
+		}]
+	},
+	{
+		uid: "c4092a90",
+		type: "item",
+		items: [{
+			item: "refinedstorage:reader"
+		}]
+	}]
+}

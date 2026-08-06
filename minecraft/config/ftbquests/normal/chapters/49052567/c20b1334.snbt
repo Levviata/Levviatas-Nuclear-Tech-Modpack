@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: 10.0d,
+	dependencies: [
+		"ce9006d9"
+	],
+	tasks: [{
+		uid: "54167d7e",
+		type: "item",
+		items: [{
+			item: "refinedstorage:upgrade 1 3"
+		}]
+	}]
+}

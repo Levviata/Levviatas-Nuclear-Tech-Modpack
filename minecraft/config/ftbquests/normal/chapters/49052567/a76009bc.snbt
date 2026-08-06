@@ -1,0 +1,22 @@
+{
+	x: 5.5d,
+	y: 9.0d,
+	text: [
+		"The Stack Upgrade improves the transference amount per tick.",
+		"",
+		"It works for",
+		"- Importer and Exporters",
+		"- Constructor",
+		"- Disk Interface"
+	],
+	dependencies: [
+		"ce9006d9"
+	],
+	tasks: [{
+		uid: "989c09e9",
+		type: "item",
+		items: [{
+			item: "refinedstorage:upgrade 1 4"
+		}]
+	}]
+}

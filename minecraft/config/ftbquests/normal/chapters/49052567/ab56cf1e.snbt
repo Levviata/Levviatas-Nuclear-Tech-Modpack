@@ -1,0 +1,15 @@
+{
+	x: 3.5d,
+	y: 3.0d,
+	text: [
+		"The Cable can connect storage components.",
+		"It may be colored. Iif so, only same colored cables with connect."
+	],
+	tasks: [{
+		uid: "43208df4",
+		type: "item",
+		items: [{
+			item: "refinedstorage:cable"
+		}]
+	}]
+}

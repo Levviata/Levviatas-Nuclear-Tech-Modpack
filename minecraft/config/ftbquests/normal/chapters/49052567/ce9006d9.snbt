@@ -1,0 +1,12 @@
+{
+	x: 3.5d,
+	y: 8.5d,
+	size: 1.25d,
+	tasks: [{
+		uid: "561b8940",
+		type: "item",
+		items: [{
+			item: "refinedstorage:upgrade"
+		}]
+	}]
+}

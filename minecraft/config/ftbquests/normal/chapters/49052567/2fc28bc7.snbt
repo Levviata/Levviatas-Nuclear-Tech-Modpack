@@ -1,0 +1,17 @@
+{
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"The External Storage cable can connect a block with storage like a chest to the grid."
+	],
+	dependencies: [
+		"ab56cf1e"
+	],
+	tasks: [{
+		uid: "89b36e72",
+		type: "item",
+		items: [{
+			item: "refinedstorage:external_storage"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 5.0d,
+	y: 7.0d,
+	text: [
+		"The Range Upgrades improves the distane of Wireless Transmitters (different from a Network Transmitter).",
+		"",
+		"Each one gives +8 block range.",
+		"",
+		"The maximum bonus it will give is +32 blocks at a total range of 48 blocks."
+	],
+	dependencies: [
+		"ce9006d9"
+	],
+	tasks: [{
+		uid: "ae9e562b",
+		type: "item",
+		items: [{
+			item: "refinedstorage:upgrade 1 1"
+		}]
+	}]
+}

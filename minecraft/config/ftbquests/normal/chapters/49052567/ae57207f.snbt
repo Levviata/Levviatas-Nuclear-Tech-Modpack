@@ -1,0 +1,24 @@
+{
+	x: 5.0d,
+	y: 3.0d,
+	text: [
+		"The Importer and Exporter can interact with a Controller to import or extract resources from or to another source."
+	],
+	dependencies: [
+		"ab56cf1e"
+	],
+	tasks: [{
+		uid: "3dd1869c",
+		type: "item",
+		items: [{
+			item: "refinedstorage:importer"
+		}]
+	},
+	{
+		uid: "5663dc20",
+		type: "item",
+		items: [{
+			item: "refinedstorage:exporter"
+		}]
+	}]
+}
