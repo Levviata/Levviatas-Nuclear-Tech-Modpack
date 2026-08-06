@@ -1,7 +1,7 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.875
+fov:1.0
 gamma:1.0
 saturation:0.0
 renderDistance:12
@@ -136,7 +136,7 @@ key_key.craftingtweaks.decompressStack:0
 key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:15
 key_key.craftingtweaks.refill_last_stack:15
-key_keybind.groovyscript.reload:0
+key_keybind.groovyscript.reload:51
 key_keybind.groovyscript.quick_reload:52
 key_keybind.groovyscript.copy:0
 key_waila.keybind.wailaconfig:82
