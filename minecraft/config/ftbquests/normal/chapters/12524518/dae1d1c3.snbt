@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: 14.0d,
+	tasks: [{
+		uid: "05e00661",
+		type: "item",
+		items: [{
+			id: "hbm:plate_fuel_u233",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

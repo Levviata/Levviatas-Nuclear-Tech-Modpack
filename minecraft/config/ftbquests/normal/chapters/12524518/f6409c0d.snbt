@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: 12.5d,
+	tasks: [{
+		uid: "82c58cce",
+		type: "item",
+		items: [{
+			id: "hbm:plate_fuel_sa326",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

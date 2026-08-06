@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: 11.0d,
+	shape: "square",
+	tasks: [{
+		uid: "923ffa46",
+		type: "checkmark",
+		title: "Research Plates",
+		icon: {
+			id: "hbm:plate_fuel_sa326",
+			tag: {}
+		}
+	}]
+}

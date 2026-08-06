@@ -1,0 +1,14 @@
+{
+	x: -4.0d,
+	y: 13.0d,
+	tasks: [{
+		uid: "d0575c71",
+		type: "item",
+		items: [{
+			id: "hbm:plate_fuel_mox",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
