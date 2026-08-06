@@ -38,7 +38,7 @@
 
 - So optimized you could use your motherboard to fly in real life (pure magic, aladdin style).
 
-- 99% made with Levviata Brain Power(TM).
+- 99% made with Levviata Brain Power(TM), 1% merit to the GFP AI for relieving me of tedious work.
 
 
 ## Trivia
