@@ -1,6 +1,18 @@
 {
+	title: "FEL and SILEX",
 	x: -5.5d,
 	y: -16.0d,
+	description: "§e§nRequires:§r§e Desh",
+	text: [
+		"The SILEX is a machine that can separate useful isotopes by bombarding them with various waves of light.",
+		"",
+		"The FEL emits a variety of light waves using Laser Crystals.",
+		"",
+		"",
+		"To operate, place the FEL pointing to the laser port of the SILEX (see image for reference) or it will be destroyed. There must be a two block gap between them.",
+		"You may attach more SILEXs to the rest of the laser length.",
+		"To contain the laser, use Compound Mesh or any similar block with good radiation and blast resistance."
+	],
 	dependencies: [
 		"37308693"
 	],
@@ -11,10 +23,17 @@
 		items: [{
 			item: "hbm:machine_fel"
 		}]
+	},
+	{
+		uid: "f20b30ce",
+		type: "item",
+		items: [{
+			item: "hbm:machine_silex"
+		}]
 	}],
 	rewards: [{
 		uid: "7f5923a0",
 		type: "xp",
-		xp: 20
+		xp: 100
 	}]
 }
