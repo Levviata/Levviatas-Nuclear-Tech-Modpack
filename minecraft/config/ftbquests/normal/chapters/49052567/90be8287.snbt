@@ -1,6 +1,10 @@
 {
 	x: 0.0d,
 	y: 3.0d,
+	text: [
+		"The Controller supplies power to connected components, manages their power consumption, and connects them together."
+	],
+	size: 1.25d,
 	tasks: [{
 		uid: "7731c8ff",
 		type: "item",
