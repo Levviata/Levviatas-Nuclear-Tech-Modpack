@@ -1,6 +1,6 @@
 {
-	x: -7.5d,
-	y: 15.0d,
+	x: -13.5d,
+	y: 7.5d,
 	tasks: [{
 		uid: "ddca5190",
 		type: "item",

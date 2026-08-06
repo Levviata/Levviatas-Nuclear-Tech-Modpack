@@ -1,8 +1,8 @@
 {
 	title: "Vanilla Ingots",
 	icon: "minecraft:gold_block",
-	x: 7.5d,
-	y: 12.0d,
+	x: -3.5d,
+	y: -1.5d,
 	shape: "rsquare",
 	description: "and gems, and crystals, etc.",
 	text: [

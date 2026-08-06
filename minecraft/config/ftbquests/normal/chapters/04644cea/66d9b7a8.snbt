@@ -1,6 +1,6 @@
 {
-	x: 9.5d,
-	y: 10.0d,
+	x: -1.5d,
+	y: -3.5d,
 	description: "Patented by Pulmonar Cancer, Inc.",
 	text: [
 		"When the ore is broken it spawns coal dust which will give you black lung, you will need to use a gas mask with filter.",

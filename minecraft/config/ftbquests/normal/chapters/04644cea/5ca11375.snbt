@@ -1,8 +1,8 @@
 {
 	title: "Mid Game",
-	x: -6.0d,
-	y: 11.5d,
-	shape: "rsquare",
+	x: -14.5d,
+	y: 2.5d,
+	shape: "square",
 	size: 1.25d,
 	tasks: [{
 		uid: "e4bc91d6",

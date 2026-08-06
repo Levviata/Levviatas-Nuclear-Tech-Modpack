@@ -1,7 +1,7 @@
 {
 	disable_toast: true,
-	x: -2.0d,
-	y: 6.5d,
+	x: -23.0d,
+	y: 3.5d,
 	tasks: [{
 		uid: "176f5a58",
 		type: "item",

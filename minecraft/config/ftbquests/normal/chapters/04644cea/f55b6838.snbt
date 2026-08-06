@@ -1,7 +1,7 @@
 {
 	title: "Early Game",
-	x: 0.0d,
-	y: 7.5d,
+	x: -21.0d,
+	y: 4.5d,
 	shape: "rsquare",
 	size: 1.25d,
 	tasks: [{
