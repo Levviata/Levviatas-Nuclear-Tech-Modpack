@@ -8,7 +8,7 @@
 		"",
 		"Its essential as it can process Technetium, better radioactive isotopes, and a variety of rare products exclusive to the machine."
 	],
-	size: 1.5d,
+	size: 1.75d,
 	tasks: [{
 		uid: "4eee1600",
 		type: "item",
