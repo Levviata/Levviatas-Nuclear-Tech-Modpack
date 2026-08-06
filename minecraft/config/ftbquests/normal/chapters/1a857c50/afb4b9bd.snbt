@@ -1,0 +1,61 @@
+{
+	x: -8.0d,
+	y: -11.0d,
+	shape: "hexagon",
+	dependencies: [
+		"37308693"
+	],
+	tasks: [{
+		uid: "d32b6959",
+		type: "item",
+		items: [{
+			id: "hbm:t51_helmet",
+			tag: {
+				charge: 1000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bdfc017a",
+		type: "item",
+		items: [{
+			id: "hbm:t51_plate",
+			tag: {
+				charge: 1000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9064e111",
+		type: "item",
+		items: [{
+			id: "hbm:t51_legs",
+			tag: {
+				charge: 1000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7d72d504",
+		type: "item",
+		items: [{
+			id: "hbm:t51_boots",
+			tag: {
+				charge: 1000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d93a1d9d",
+		type: "xp",
+		xp: 10
+	}]
+}
