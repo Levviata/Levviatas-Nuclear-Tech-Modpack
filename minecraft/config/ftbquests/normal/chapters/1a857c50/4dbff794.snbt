@@ -1,6 +1,7 @@
 {
 	x: 2.5d,
 	y: -2.0d,
+	description: "Tier 4",
 	text: [
 		"The Ferrouranium Anvil is made from 10 Ferrouranium Ingots, its tier is 4.",
 		"",
