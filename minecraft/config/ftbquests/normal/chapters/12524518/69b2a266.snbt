@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: 18.0d,
+	shape: "square",
+	tasks: [{
+		uid: "7dd5781f",
+		type: "checkmark",
+		title: "Breeder Rods",
+		icon: "hbm:rod_empty"
+	}]
+}
