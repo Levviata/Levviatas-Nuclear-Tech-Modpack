@@ -1,6 +1,6 @@
 {
 	x: 17.5d,
-	y: 5.5d,
+	y: 5.0d,
 	description: "Post-Cyclotron",
 	text: [
 		""

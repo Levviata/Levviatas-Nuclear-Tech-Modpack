@@ -1,6 +1,6 @@
 {
 	x: -3.5d,
-	y: 1.0d,
+	y: 0.5d,
 	text: [
 		"Self-Charging Batteries are special batteries made from radioactive materials that produce energy constantly."
 	],

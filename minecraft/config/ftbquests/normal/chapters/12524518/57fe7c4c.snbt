@@ -1,6 +1,6 @@
 {
 	title: "Absorber Pellets",
-	x: -12.0d,
+	x: -12.5d,
 	y: 6.5d,
 	text: [
 		"Since the Watz reactor depletes the fission material very slowly the Absorber pellets are mainly for producing a higher amount of Poisonous Mud.",

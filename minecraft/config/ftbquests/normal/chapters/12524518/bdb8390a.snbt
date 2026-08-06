@@ -1,6 +1,6 @@
 {
 	x: 7.0d,
-	y: -0.5d,
+	y: -1.0d,
 	dependencies: [
 		"e19bedbd"
 	],

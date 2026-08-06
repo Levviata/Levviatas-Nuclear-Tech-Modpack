@@ -1,6 +1,6 @@
 {
 	x: -3.5d,
-	y: 6.5d,
+	y: 3.5d,
 	shape: "hexagon",
 	text: [
 		"The PUREX is a machine that processes nuclear waste into useful products.",

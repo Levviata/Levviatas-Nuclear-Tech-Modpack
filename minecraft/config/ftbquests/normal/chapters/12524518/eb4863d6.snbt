@@ -1,6 +1,6 @@
 {
 	x: 23.5d,
-	y: 7.5d,
+	y: 7.0d,
 	shape: "gear",
 	size: 2.0d,
 	tasks: [{

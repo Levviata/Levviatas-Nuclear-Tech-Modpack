@@ -1,6 +1,6 @@
 {
 	x: 8.5d,
-	y: -0.5d,
+	y: -1.0d,
 	dependencies: [
 		"bdb8390a"
 	],

@@ -1,6 +1,6 @@
 {
 	x: 12.5d,
-	y: 1.0d,
+	y: 0.5d,
 	description: "Natural Thorium",
 	text: [
 		""

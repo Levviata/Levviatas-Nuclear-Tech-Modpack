@@ -1,6 +1,6 @@
 {
 	x: 4.5d,
-	y: 0.5d,
+	y: 0.0d,
 	shape: "hexagon",
 	text: [
 		"The Spent Fuel Pool Drum can cool down spent fuel for recyling. ",
