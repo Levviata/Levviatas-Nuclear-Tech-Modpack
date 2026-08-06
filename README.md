@@ -19,19 +19,26 @@
 8.5/10 Impatient guy
 
 ## Features
-- 13 quest chapters with over 589 quests (and counting), all with high quality information.
-
-- 99% made with Levviata Brain Power(TM).
-
-- Many little details I put out with my Detail Brain-ChipTM software, this assures complete fun and quality.
+- 13 quest chapters with over 589 quests (and counting) with quality information, also pretty patterns 😏
 
 - Over 117 satisfying recipes that blend into NTM like mochi with green tea
 
+- Over 7 custom Resource Packs with new textures for weapons and tools.
+
 - Customized keybinds that work well with each other. (Todo: keybind map)
 
-- So optimized you could use your GPU + CPU to fly in real life (pure magic).
+- Many little details I put out with my Detail Brain-ChipTM software, this assures complete fun and quality. For example:
+  - Late game machines, desh, schrabidium, etc. are fireproof.
+  - Many fun grinding quests that make you progress
+  - Quests have treats and fun explosives
+  - Swords are proper and are flipped horizontally
+  - Stat rebalances for useless or forgotten items (Redstone and Great sword)
+  - Informative tooltips for machines
+  - Recipes for items that have none or are improper (Neutron Reflector, Meteor swords, etc).
 
-- Over 7 custom Resource Packs (with new textures for weapons and tools).
+- So optimized you could use your motherboard to fly in real life (pure magic, aladdin style).
+
+- 99% made with Levviata Brain Power(TM).
 
 
 ## Trivia
