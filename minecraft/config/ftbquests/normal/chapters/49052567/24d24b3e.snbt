@@ -1,5 +1,5 @@
 {
-	x: -2.0d,
+	x: -2.5d,
 	y: 3.0d,
 	description: "§e§nRequires:§r§e Latex Bar, Analog Circuit Board, Shredder, Crucible",
 	text: [

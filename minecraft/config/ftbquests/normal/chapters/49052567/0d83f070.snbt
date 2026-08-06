@@ -1,8 +1,8 @@
 {
 	title: "Fluids Parts",
 	icon: "refinedstorage:fluid_storage_part",
-	x: 1.5d,
-	y: 5.5d,
+	x: -4.0d,
+	y: 0.0d,
 	description: "Removed",
 	text: [
 		"Fluid Parts are removed in favour of NTM's fluid storage."
