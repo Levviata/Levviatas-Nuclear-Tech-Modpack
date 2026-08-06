@@ -1,0 +1,19 @@
+{
+	x: 21.0d,
+	y: -3.5d,
+	dependencies: [
+		"c1ea7b11"
+	],
+	tasks: [{
+		uid: "0f68e210",
+		type: "item",
+		items: [{
+			id: "hbm:bj_plate_jetpack",
+			tag: {
+				charge: 10000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

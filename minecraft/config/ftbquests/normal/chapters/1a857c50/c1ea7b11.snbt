@@ -1,0 +1,67 @@
+{
+	title: "Lunar Armor",
+	x: 20.0d,
+	y: -2.5d,
+	description: "§e§nRequires:§r§e Ferrouranium Anvil, Starmetal Armor",
+	text: [
+		""
+	],
+	dependencies: [
+		"47aeecca",
+		"d9e51e1d"
+	],
+	tasks: [{
+		uid: "6b72b288",
+		type: "item",
+		items: [{
+			id: "hbm:bj_helmet",
+			tag: {
+				charge: 10000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7193a22e",
+		type: "item",
+		title: "Lunar Cybernetic Plating",
+		items: [{
+			id: "hbm:bj_plate",
+			tag: {
+				charge: 10000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ae8e00ba",
+		type: "item",
+		items: [{
+			id: "hbm:bj_legs",
+			tag: {
+				charge: 10000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9cec9c38",
+		type: "item",
+		items: [{
+			id: "hbm:bj_boots",
+			tag: {
+				charge: 10000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ba4a9063",
+		type: "xp",
+		xp: 10
+	}]
+}
