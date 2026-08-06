@@ -47,4 +47,7 @@ event_manager.listen { ItemTooltipEvent event ->
     if (event.getItemStack() in item('hbm:ore_nether_plutonium')) {
         event.getToolTip() << 'Disabled by default.'
     }
+    if (event.getItemStack() in item('hbm:machine_drain')) { // i keep searching it as venting pipe so im adding it.
+        event.getToolTip() << '(a.k.a Venting Pipe)'
+    }
 }
