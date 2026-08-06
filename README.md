@@ -23,6 +23,10 @@
 
 - 99% made with Levviata Brain Power(TM).
 
+- Many little details I put out with my Detail Brain-ChipTM software, this assures complete fun and quality.
+
+- Over satisfyingly sexy recipes that blend into NTM like mochi with green tea
+
 - Customized keybinds that work well with each other. (Todo: keybind map)
 
 - So optimized you could use your GPU + CPU to fly in real life (pure magic).
