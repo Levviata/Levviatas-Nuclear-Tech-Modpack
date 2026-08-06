@@ -1,12 +1,11 @@
 {
-	x: -4.5d,
-	y: 8.5d,
+	x: -3.5d,
+	y: 9.0d,
 	shape: "hexagon",
-	description: "(Deprecated)",
 	text: [
 		"Its getting removed next update so I wont make an effort give it a description.",
 		"",
-		"It does what other reactors do, but in its own way, with different fuel and GUI. Just use the others."
+		"It does what other reactors do, but in its own way, with different fuel and GUI."
 	],
 	dependencies: [
 		"99183935"
