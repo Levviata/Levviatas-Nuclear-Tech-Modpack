@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: -10.5d,
+	tasks: [{
+		uid: "bb79bf45",
+		type: "item",
+		items: [{
+			item: "hbm:mp_thruster_15_balefire_large_rad"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

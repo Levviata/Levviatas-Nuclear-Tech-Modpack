@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: -6.0d,
+	shape: "square",
+	text: [
+		"Chips determine the accuracy of the missile."
+	],
+	tasks: [{
+		uid: "c1ff0ca8",
+		type: "checkmark",
+		title: "Chips",
+		icon: "hbm:circuit"
+	}]
+}

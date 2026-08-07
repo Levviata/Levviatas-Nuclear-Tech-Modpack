@@ -1,0 +1,13 @@
+{
+	x: 0.5d,
+	y: -9.5d,
+	tasks: [{
+		uid: "ac21f112",
+		type: "item",
+		items: [{
+			item: "hbm:mp_fuselage_10_15_hydrogen"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -6.0d,
+	shape: "square",
+	text: [
+		"Fins stabilize the missile and keep it on track."
+	],
+	tasks: [{
+		uid: "c3583538",
+		type: "checkmark",
+		title: "Fins",
+		icon: "hbm:fins_tri_steel"
+	}]
+}

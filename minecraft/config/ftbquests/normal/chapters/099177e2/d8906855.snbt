@@ -1,0 +1,13 @@
+{
+	x: 11.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "9e6e4865",
+		type: "item",
+		items: [{
+			item: "hbm:mp_thruster_10_xenon"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

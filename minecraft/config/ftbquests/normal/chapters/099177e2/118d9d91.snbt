@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: -6.0d,
+	shape: "square",
+	text: [
+		"Warheads are the explosive charge of the missile."
+	],
+	tasks: [{
+		uid: "d7fb7417",
+		type: "checkmark",
+		title: "Warheads",
+		icon: "hbm:mp_warhead_15_boxcar"
+	}]
+}

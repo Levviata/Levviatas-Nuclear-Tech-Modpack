@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: -12.0d,
+	tasks: [{
+		uid: "c8d9c0e5",
+		type: "item",
+		items: [{
+			item: "hbm:mp_thruster_20_solid_multier"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

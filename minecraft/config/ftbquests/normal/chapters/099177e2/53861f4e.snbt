@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: -9.0d,
+	tasks: [{
+		uid: "32112465",
+		type: "item",
+		items: [{
+			item: "hbm:mp_stability_15_thin"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

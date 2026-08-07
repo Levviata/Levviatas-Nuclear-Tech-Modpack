@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: -13.0d,
+	tasks: [{
+		uid: "9babe0ca",
+		type: "item",
+		items: [{
+			item: "hbm:mp_thruster_20_kerosene_triple"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

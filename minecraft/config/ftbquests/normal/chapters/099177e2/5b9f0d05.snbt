@@ -1,0 +1,13 @@
+{
+	x: -6.5d,
+	y: -10.0d,
+	tasks: [{
+		uid: "5617e4c5",
+		type: "item",
+		items: [{
+			item: "hbm:mp_warhead_15_incendiary"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

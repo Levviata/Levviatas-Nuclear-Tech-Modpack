@@ -1,0 +1,13 @@
+{
+	x: -3.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "4f097ffe",
+		type: "item",
+		items: [{
+			item: "hbm:mp_warhead_10_cloud"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

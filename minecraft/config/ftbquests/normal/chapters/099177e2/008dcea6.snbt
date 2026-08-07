@@ -1,0 +1,23 @@
+{
+	icon: "hbm:mp_fuselage_10_long_kerosene_sky",
+	x: 0.0d,
+	y: -6.0d,
+	shape: "square",
+	text: [
+		"Fuselage is the main body of the rocket.",
+		"They determine the fuel used, size, mass, and a decent portion of the HP.",
+		"",
+		"As a gift you get a cool fuselage."
+	],
+	tasks: [{
+		uid: "2a5c3eb4",
+		type: "checkmark",
+		title: "Fuselage",
+		icon: "hbm:mp_fuselage_15_hydrogen_cathedral"
+	}],
+	rewards: [{
+		uid: "b742c4ee",
+		type: "item",
+		item: "hbm:mp_fuselage_15_hydrogen_cathedral"
+	}]
+}

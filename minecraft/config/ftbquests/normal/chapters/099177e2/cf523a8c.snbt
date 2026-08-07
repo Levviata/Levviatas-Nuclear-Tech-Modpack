@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: -13.0d,
+	tasks: [{
+		uid: "8b924734",
+		type: "item",
+		items: [{
+			item: "hbm:mp_thruster_20_solid"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
