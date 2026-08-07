@@ -1,8 +1,12 @@
 {
-	x: -5.5d,
+	x: -6.0d,
 	y: 1.5d,
 	text: [
-		"The Wireless Grid no longer consumes energy."
+		"The Wireless Grid connects to a grid wirelessly with the help of a Wireless Transmitter (different from a network transmitter).",
+		"To connect, sneak and right-click a Controller.",
+		"To modify the contents, place a cable and on top place a Wireless Transmitter, the effective range is 16 blocks though it may be upgraded.",
+		"",
+		"No longer consumes energy."
 	],
 	dependencies: [
 		"24d24b3e"
