@@ -21,7 +21,7 @@ Pure distilled quirk
 8.5/10 Impatient guy
 
 ## Features
-- 15 quest chapters with over +600 quests with quality information, also pretty patterns 😏
+- 15 quest chapters with over +1000 quests with quality information, also pretty patterns 😏
 
 - Over 117 satisfying recipes that blend into NTM like mochi with green tea
 
