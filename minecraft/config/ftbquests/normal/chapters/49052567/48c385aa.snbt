@@ -1,11 +1,10 @@
 {
-	x: 3.5d,
+	x: 3.0d,
 	y: 5.0d,
 	text: [
 		"The Disk Drive can store up to 8 Storage Disks.",
 		"",
-		"The Disk Manipulator can extract or insert items into the grid changing the IO mode ",
-		"(to the left gray options, second option with an arrow)"
+		"The Disk Manipulator can extract or insert items into the grid from a Storage Disk."
 	],
 	tasks: [{
 		uid: "14e5a89b",
