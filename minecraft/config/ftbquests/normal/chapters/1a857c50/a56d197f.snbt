@@ -1,13 +1,14 @@
 {
 	x: 15.0d,
 	y: -3.5d,
-	description: "§e§nRequires:§r§e Millitary Grade Circuit",
+	description: "§e§nRequires:§r§e Millitary Grade Circuit, Builder's Jetpack",
 	text: [
 		""
 	],
 	hide_dependency_lines: true,
 	dependencies: [
-		"e05443a9"
+		"e05443a9",
+		"f8ad15eb"
 	],
 	tasks: [{
 		uid: "b9d80b40",
