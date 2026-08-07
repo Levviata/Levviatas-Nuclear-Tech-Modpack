@@ -1,6 +1,6 @@
 {
 	title: "NTM: Nether Ores",
-	x: 3.5d,
+	x: 4.0d,
 	y: 8.0d,
 	shape: "pentagon",
 	size: 1.25d,

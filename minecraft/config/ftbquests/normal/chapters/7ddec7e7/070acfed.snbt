@@ -1,6 +1,6 @@
 {
 	title: "Nether Plutonium Ore",
-	x: 2.0d,
+	x: 2.5d,
 	y: 8.0d,
 	description: "Disabled by default",
 	text: [
