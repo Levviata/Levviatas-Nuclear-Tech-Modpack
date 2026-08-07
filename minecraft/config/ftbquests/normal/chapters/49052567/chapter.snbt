@@ -12,11 +12,11 @@
 	default_quest_shape: "",
 	images: [{
 		x: 0.0d,
-		y: -2.5d,
-		width: 1.0d,
-		height: 1.0d,
+		y: -3.0d,
+		width: 3.0d,
+		height: 3.0d,
 		rotation: 0.0d,
-		image: "minecraft:textures/gui/presets/isles.png",
+		image: "lvimages:textures/image9.png",
 		hover: [
 			"Refined Storage Wiki"
 		],
