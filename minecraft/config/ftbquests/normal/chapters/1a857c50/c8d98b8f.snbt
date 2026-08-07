@@ -1,6 +1,6 @@
 {
-	x: 1.0d,
-	y: -13.5d,
+	x: 0.0d,
+	y: -12.0d,
 	description: "Creature lawmover",
 	text: [
 		""
