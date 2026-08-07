@@ -1,10 +1,13 @@
 {
 	title: "Coker Oil Results",
 	icon: "hbm:fluid_icon 1 105",
-	x: -13.5d,
-	y: 1.0d,
+	x: -10.5d,
+	y: -0.5d,
 	text: [
 		""
+	],
+	dependencies: [
+		"f6e39711"
 	],
 	tasks: [{
 		uid: "dec6e076",
