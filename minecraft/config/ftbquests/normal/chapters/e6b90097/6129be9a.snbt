@@ -6,9 +6,13 @@
 	text: [
 		"Grenades have since been reworked and are completely customizable.",
 		"",
-		"There are over 159 custom combinations! Ain't that cool.",
+		"There are over 14.950 custom combinations! Ain't that cool.",
 		"",
-		"To craft, you need a shell, a charge, and a fuse, you may also add an extra."
+		"To craft you need a",
+		"- Shell",
+		"- Charge",
+		"- Fuse",
+		"- Extra (optional)"
 	],
 	dependencies: [
 		"fa871a76",
