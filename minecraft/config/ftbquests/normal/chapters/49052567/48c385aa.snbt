@@ -1,6 +1,6 @@
 {
-	x: 3.0d,
-	y: 5.0d,
+	x: 3.5d,
+	y: 5.5d,
 	text: [
 		"The Disk Drive can store up to 8 Storage Disks.",
 		"",

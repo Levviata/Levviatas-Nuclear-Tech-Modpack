@@ -1,6 +1,6 @@
 {
-	x: 3.0d,
-	y: 1.0d,
+	x: 3.5d,
+	y: 0.5d,
 	text: [
 		"The Network Transmitter can connect to a Network Receiver at any distance using a Network Card (as long as the chunk is loaded).",
 		"",
