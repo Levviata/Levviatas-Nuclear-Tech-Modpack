@@ -1,6 +1,9 @@
 {
-	x: -4.0d,
+	x: -4.5d,
 	y: 6.0d,
+	text: [
+		"With the help of the Pattern Grid, the Pattern can copy a recipe which can be placed inside a Crafter to add the recipe to the Grid, allowing automation."
+	],
 	dependencies: [
 		"e5a14dda"
 	],
