@@ -1,7 +1,7 @@
 {
 	title: "Fluids Parts",
 	icon: "refinedstorage:fluid_storage_part",
-	x: -4.0d,
+	x: -4.5d,
 	y: 0.0d,
 	description: "Removed",
 	text: [
