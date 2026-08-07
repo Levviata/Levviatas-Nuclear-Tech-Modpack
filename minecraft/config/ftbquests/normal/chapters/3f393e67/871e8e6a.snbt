@@ -27,10 +27,5 @@
 			}
 		}],
 		ignore_nbt: 1b
-	}],
-	rewards: [{
-		uid: "835e3dbd",
-		type: "item",
-		item: "hbm:redstone_sword"
 	}]
 }
