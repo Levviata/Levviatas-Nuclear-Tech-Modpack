@@ -3,7 +3,7 @@
 	y: 10.0d,
 	description: "Tantalite",
 	text: [
-		"Coltan is used to make consistent amounts of Niobium and Tantalium."
+		"Coltan is used to make Niobium and Tantalium."
 	],
 	dependencies: [
 		"f2ddf3e5"
