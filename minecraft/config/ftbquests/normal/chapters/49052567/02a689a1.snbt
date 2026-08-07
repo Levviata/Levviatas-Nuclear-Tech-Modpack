@@ -1,6 +1,10 @@
 {
-	x: -5.5d,
+	x: -6.0d,
 	y: 7.5d,
+	text: [
+		"The Crafter can store up to 9 Patterns which can be crafted inside any Grid.",
+		"To get more slots, place more Crafters."
+	],
 	tasks: [{
 		uid: "98ce3edd",
 		type: "item",
