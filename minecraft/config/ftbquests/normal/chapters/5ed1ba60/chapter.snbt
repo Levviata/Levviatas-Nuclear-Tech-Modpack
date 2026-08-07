@@ -2,7 +2,7 @@
 	title: "Recipe Changes",
 	icon: "minecraft:command_block_minecart",
 	disable_toast: true,
-	always_invisible: false,
+	always_invisible: true,
 	group: 0,
 	default_quest_shape: ""
 }
