@@ -1,6 +1,6 @@
 # LvNTM (Levviata's Nuclear Tech Modpack)
 
-Pure distilled quirk
+https://modrinth.com/project/levviatas-nuclear-tech-modpack
 
 ## Reviews
 
