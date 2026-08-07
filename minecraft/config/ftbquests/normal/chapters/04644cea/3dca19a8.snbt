@@ -1,0 +1,11 @@
+{
+	x: -15.0d,
+	y: 17.5d,
+	tasks: [{
+		uid: "a5661456",
+		type: "item",
+		items: [{
+			item: "hbm:fragment_coltan"
+		}]
+	}]
+}
