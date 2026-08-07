@@ -1,8 +1,8 @@
 {
-	x: 3.5d,
+	x: 3.0d,
 	y: 1.0d,
 	text: [
-		"The Network Transmitter can connect to a Network Receiver at any distance (as long as the chunk is loaded) using a Network Card.",
+		"The Network Transmitter can connect to a Network Receiver at any distance using a Network Card (as long as the chunk is loaded).",
 		"",
 		"To connect, right click a Receiver and insert the Card into the Transmitter. The Card will now show the coordinates of the receiver.",
 		"",
