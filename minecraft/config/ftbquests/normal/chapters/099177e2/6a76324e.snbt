@@ -1,4 +1,6 @@
 {
+	title: "Missiles",
+	icon: "hbm:missile_anti_ballistic",
 	x: 0.0d,
 	y: 0.0d,
 	shape: "rsquare",
@@ -6,15 +8,12 @@
 		"Missiles are huge propelled metal cilinders with explosives.",
 		"",
 		"In the mod there are over 40 premade missiles.",
-		"There are also custom missiles with over ? configurations."
+		"There are also custom missiles with over 4.187.106 custom configurations!"
 	],
 	size: 2.25d,
 	tasks: [{
-		uid: "f5874a34",
-		type: "item",
-		items: [{
-			item: "hbm:machine_missile_assembly"
-		}]
+		uid: "6894201c",
+		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "110abc83",
