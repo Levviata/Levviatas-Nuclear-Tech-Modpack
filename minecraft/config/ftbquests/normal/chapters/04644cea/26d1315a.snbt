@@ -1,11 +1,16 @@
 {
-	x: -16.0d,
-	y: 10.5d,
+	title: "Astatine",
+	icon: "hbm:ingot_astatine",
+	x: -14.0d,
+	y: 17.5d,
+	text: [
+		""
+	],
 	tasks: [{
-		uid: "22477697",
+		uid: "b4c14e51",
 		type: "item",
 		items: [{
-			item: "hbm:ingot_astatine"
+			item: "hbm:powder_astatine"
 		}]
 	}]
 }

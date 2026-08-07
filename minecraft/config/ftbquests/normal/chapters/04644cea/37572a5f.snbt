@@ -1,11 +1,16 @@
 {
-	x: -14.5d,
-	y: 9.5d,
+	title: "Iodine",
+	icon: "hbm:ingot_iodine",
+	x: -16.0d,
+	y: 10.5d,
+	text: [
+		""
+	],
 	tasks: [{
-		uid: "61c8e9ff",
+		uid: "0dbd7964",
 		type: "item",
 		items: [{
-			item: "hbm:ingot_iodine"
+			item: "hbm:powder_iodine"
 		}]
 	}]
 }

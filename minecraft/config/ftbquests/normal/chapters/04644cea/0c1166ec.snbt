@@ -1,11 +1,16 @@
 {
-	x: -16.0d,
-	y: 16.5d,
+	title: "Tennessine-294",
+	icon: "hbm:ingot_tennessine",
+	x: -8.0d,
+	y: 6.0d,
+	text: [
+		""
+	],
 	tasks: [{
-		uid: "0e6037d9",
+		uid: "f308e01d",
 		type: "item",
 		items: [{
-			item: "hbm:ingot_tennessine"
+			item: "hbm:powder_tennessine"
 		}]
 	}]
 }

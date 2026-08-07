@@ -1,11 +1,16 @@
 {
-	x: -13.5d,
-	y: 17.5d,
+	title: "Cerium",
+	icon: "hbm:ingot_cerium",
+	x: -13.0d,
+	y: 10.5d,
+	text: [
+		""
+	],
 	tasks: [{
-		uid: "25f98e7f",
+		uid: "64918935",
 		type: "item",
 		items: [{
-			item: "hbm:ingot_cerium"
+			item: "hbm:powder_cerium"
 		}]
 	}]
 }
