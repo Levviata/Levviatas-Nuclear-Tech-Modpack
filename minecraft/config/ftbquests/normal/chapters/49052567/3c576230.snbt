@@ -1,6 +1,9 @@
 {
-	x: -5.5d,
+	x: -6.0d,
 	y: 3.0d,
+	text: [
+		"The Crafting Grid adds a crafting grid to the Grid's interface."
+	],
 	dependencies: [
 		"24d24b3e"
 	],
