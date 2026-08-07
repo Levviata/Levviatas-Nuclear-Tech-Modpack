@@ -1,24 +1,49 @@
 {
+	icon: {
+		id: "hbm:missile_custom",
+		tag: {
+			stability: 6916,
+			warhead: 6999,
+			display: {
+				Name: "§5Polite Lad"
+			},
+			fuselage: 6968,
+			chip: 7012,
+			thruster: 6896
+		}
+	},
 	x: 0.0d,
 	y: -3.0d,
 	shape: "square",
+	text: [
+		"Custom Missiles are assembled in a Missile Assembly Station.",
+		"",
+		"To make one you need a",
+		"- Missile Targeting Circuit",
+		"- Warhead",
+		"- Fuselage",
+		"- Fins (optional)",
+		"- Thrusters",
+		"",
+		"There are 5 sizes: ",
+		"- Size 10 (1.0m)",
+		"- Size 10/15 (1.0m top, 1.5 bottom)  ",
+		"- Size 15 (1.5m) ",
+		"- Size 15/20 (1.5m top, 2.0 bottom)",
+		"- Size 20 (2.0m)",
+		"",
+		"The parts must match sizes between themselves.",
+		"",
+		"For irregular fuselage sizes like 10/15, a warhead of size 10 fits with size 15 thruster for example.",
+		"",
+		"All missiles have HP which determine how hard is it to take down. This is specially important in mutliplayer agaisnt enemy Henry and Howard turrets."
+	],
 	size: 1.75d,
 	tasks: [{
-		uid: "695f2c22",
-		type: "checkmark",
-		title: "Custom Missiles",
-		icon: {
-			id: "hbm:missile_custom",
-			tag: {
-				stability: 6916,
-				chip: 7012,
-				fuselage: 6968,
-				display: {
-					Name: "§5Polite Lad"
-				},
-				warhead: 6999,
-				thruster: 6896
-			}
-		}
+		uid: "da9aa450",
+		type: "item",
+		items: [{
+			item: "hbm:machine_missile_assembly"
+		}]
 	}]
 }
