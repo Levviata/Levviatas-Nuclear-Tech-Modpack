@@ -3,6 +3,8 @@
 .idea
 flame
 lib
+minecraft/WailaErrorOutput.txt
+minecraft/WailaHandlerDump.md
 minecraft/XaeroWaypoints_BACKUP240807
 minecraft/build
 minecraft/cache
@@ -10,14 +12,19 @@ minecraft/coremods
 minecraft/craftdumper
 minecraft/crash-reports
 minecraft/jei_bookmarks.ini
+minecraft/knownkeys.txt
 minecraft/llibrary
 minecraft/local
 minecraft/logs
 minecraft/options.txt
+minecraft/resourcepacks/1.12.2 ConverterNewEdition v1.8.zip
+minecraft/resourcepacks/Refined Storage Silicon to Low Quality Silicon Rename - RSStLQS by Levviata
 minecraft/saves
 minecraft/screenshots
 minecraft/server-resource-packs
 minecraft/shaderpacks
 minecraft/texturepacks
+minecraft/usercache.json
+minecraft/usernamecache.json
 minecraft/vintagefix
 minecraft/xaero
