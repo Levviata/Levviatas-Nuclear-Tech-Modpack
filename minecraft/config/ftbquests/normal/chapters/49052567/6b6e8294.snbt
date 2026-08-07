@@ -1,8 +1,10 @@
 {
-	x: -5.5d,
+	x: -6.0d,
 	y: 4.5d,
 	text: [
-		"The Portable Grid no longer consumes energy."
+		"The Portable Grid can modify any disk directly. To use, put a disk in the top-right corner.",
+		"",
+		"No longer consumes energy."
 	],
 	dependencies: [
 		"24d24b3e"
