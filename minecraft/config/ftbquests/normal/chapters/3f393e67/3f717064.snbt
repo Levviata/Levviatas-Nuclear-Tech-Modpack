@@ -2,7 +2,8 @@
 	x: 12.5d,
 	y: 25.5d,
 	text: [
-		"For that \"this chunk is oddly hot, at what part of the reactor we are at Vladimir?\" look, medal not included, gives a great 99.6% radiation resistance at the cost of 40% reduced speed."
+		"For that Chernobyl Liquidator look, medal not included.",
+		"Gives a great 99.6% radiation resistance at the cost of 40% reduced speed."
 	],
 	dependencies: [
 		"6395fc11"
