@@ -2,6 +2,9 @@
 	x: 0.0d,
 	y: 3.0d,
 	shape: "square",
+	text: [
+		"The premade missiles come in many shapes and form, they are easier to assemble but lack complete flexibility."
+	],
 	size: 1.75d,
 	tasks: [{
 		uid: "385cf292",
