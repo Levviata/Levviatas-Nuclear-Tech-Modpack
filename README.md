@@ -1,5 +1,7 @@
 # LvNTM (Levviata's Nuclear Tech Modpack)
 
+Pure distilled quirk
+
 ## Reviews
 
 "This modpack is real and its coming after me."
@@ -19,11 +21,11 @@
 8.5/10 Impatient guy
 
 ## Features
-- 13 quest chapters with over 589 quests (and counting) with quality information, also pretty patterns 😏
+- 13 quest chapters with over +600 quests with quality information, also pretty patterns 😏
 
 - Over 117 satisfying recipes that blend into NTM like mochi with green tea
 
-- Over 7 custom Resource Packs with new textures for weapons and tools.
+- 3 custom Resource Packs with new textures for swords and tools.
 
 - Customized keybinds that work well with each other. (Todo: keybind map)
 
