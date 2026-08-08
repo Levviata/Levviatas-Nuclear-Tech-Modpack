@@ -1,6 +1,6 @@
 # LvNTM (Levviata's Nuclear Tech Modpack)
 
-https://modrinth.com/project/levviatas-nuclear-tech-modpack
+https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
 ## Reviews
 
