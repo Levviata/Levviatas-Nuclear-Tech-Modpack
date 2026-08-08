@@ -2,13 +2,15 @@
 
 https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
+Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of details and quests too at that.
+
 ## Reviews
 
 "This modpack is real and its coming after me."
 
 10/10 Levviata
 
-"Best ever modpack after ATN (All The Nights), ATN Team couldn't compete with this quality."
+"Best ever modpack after ATN (All The Nights), ATN Team couldn't even being to compete with this quality."
 
 9/10 AHC (ATN Hate Council)
 
@@ -27,7 +29,7 @@ https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
 - 3 custom Resource Packs with new textures for swords and tools.
 
-- Customized keybinds that work well with each other. (Todo: keybind map)
+- Customized keybinds that work well with each other. 
 
 - Many little details I put out with my Detail Brain-ChipTM hardware, this assures complete fun and quality. For example:
   - Late game machines, desh, schrabidium, etc. are fireproof.
@@ -35,7 +37,7 @@ https://modrinth.com/modpack/levviatas-nuclear-tech-pack
   - Quests have treats and fun explosives
   - Swords are proper and are flipped horizontally
   - Stat rebalances for useless or forgotten items (Redstone and Great sword)
-  - Informative tooltips for machines (ex: if they are deprecated, how they work, alternative names)
+  - Informative tooltips for machines (if they are deprecated, how they work, alternative names)
   - Recipes for items that have none or are improper (Neutron Reflector, Meteor swords, etc).
   - Damage rebalance for axes
 
