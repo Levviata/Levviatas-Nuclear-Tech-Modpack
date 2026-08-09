@@ -31,6 +31,7 @@
 	{
 		uid: "2cbc08d8",
 		type: "item",
+		title: "Spawn at your discretion",
 		item: {
 			id: "minecraft:spawn_egg",
 			tag: {
