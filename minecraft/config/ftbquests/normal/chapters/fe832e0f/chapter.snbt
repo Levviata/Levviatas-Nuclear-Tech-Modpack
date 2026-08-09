@@ -2,6 +2,6 @@
 	title: "Weapons",
 	icon: "hbm:gun_n_i_4_n_i",
 	always_invisible: false,
-	group: 0,
+	group: -560674171,
 	default_quest_shape: ""
 }

@@ -1,7 +1,5 @@
 {
-	title: "Ores",
-	icon: "minecraft:gold_ore",
-	disable_toast: true,
+	title: "Fluids",
 	always_invisible: false,
 	group: -560674171,
 	default_quest_shape: ""
