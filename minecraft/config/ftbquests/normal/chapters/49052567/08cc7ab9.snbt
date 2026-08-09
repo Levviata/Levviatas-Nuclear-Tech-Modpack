@@ -2,7 +2,7 @@
 	x: 5.5d,
 	y: 3.0d,
 	text: [
-		"The Writer and Reader can transfer items, energy and redstone."
+		"The Writer and Reader can transfer items, energy and redstone signals."
 	],
 	dependencies: [
 		"ab56cf1e"
