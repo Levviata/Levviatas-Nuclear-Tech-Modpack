@@ -2,8 +2,7 @@
 
 https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
-Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of details and quests too at that.
-
+Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
 ## Reviews
 
 "This modpack is real and its coming after me."
@@ -52,4 +51,3 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of de
 
 - Over 476 hours of development.
 
-- Moderately quirky
