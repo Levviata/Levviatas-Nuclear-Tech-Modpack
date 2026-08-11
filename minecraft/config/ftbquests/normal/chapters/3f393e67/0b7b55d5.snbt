@@ -1,0 +1,28 @@
+{
+	x: 2.5d,
+	y: 11.0d,
+	text: [
+		"The Dosimeter is the earliest available tool for diagnosing received radiation.",
+		"It accurately informs of any radiation up to 3.6 RADs / sec. ",
+		"",
+		"Its successor is the Geiger Counter."
+	],
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "cfaa4206",
+		type: "item",
+		items: [{
+			item: "hbm:dosimeter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e8ff5694",
+		type: "item",
+		item: "hbm:radaway",
+		count: 4
+	}]
+}
