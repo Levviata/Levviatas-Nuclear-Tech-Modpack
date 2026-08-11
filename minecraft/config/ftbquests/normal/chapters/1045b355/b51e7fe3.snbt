@@ -3,7 +3,7 @@
 	x: 10.0d,
 	y: 2.5d,
 	text: [
-		"The Pepperbox is the earliest availaible gun, as ammo it uses Ball and Powder or its variants.",
+		"The Pepperbox is the earliest available gun, as ammo it uses Ball and Powder or its variants.",
 		"",
 		"It deals 5 damage and it can be modified."
 	],
