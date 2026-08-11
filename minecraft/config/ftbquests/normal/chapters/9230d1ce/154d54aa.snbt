@@ -1,6 +1,9 @@
 {
 	x: 7.0d,
 	y: 3.0d,
+	text: [
+		"Thermonuclear ashes makes Balefire shards, which then can be crafted into a Balefire Egg."
+	],
 	dependencies: [
 		"f547edc2"
 	],
