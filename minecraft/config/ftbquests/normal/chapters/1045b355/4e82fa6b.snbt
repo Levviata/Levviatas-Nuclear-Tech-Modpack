@@ -7,19 +7,15 @@
 	text: [
 		"As I'm a farmer, not a cow, I will give you rewards based on if you deserve it or not.",
 		"",
-		"These quests are easily identified by their shape because those are nice and easy to see.",
+		"Quests are easily identified by their shape and they follow a common pattern:",
 		"",
-		"Grinding quest, pentagon shaped: Grenades, Food, and a Treat while giving some of the grinded items too.",
-		"Progression quesst, hexagon shaped: Refund some of the ingredients and XP",
-		"Milestone quest, gear shaped: More ingredients and more XP",
-		"Other quests, usually circles: Varies",
-		"Information quests, squares or rounded squares.",
+		"- Grinding quest, pentagon shaped: Grenades, Food, Treat, and more of the grinded item.",
 		"",
-		"Examples:",
+		"- Progression quest, hexagon shaped: Refund some of the ingredients and XP",
 		"",
-		"Grinding for copper ingots will yield you Grenades, Food, and a Treat (randomized).",
-		"Progression could be getting a Burner Press or a Soldering Station, these machines are interesting and unlock more recipes, get part of the ingredients back and XP.",
-		"Milestone could be completing a complicated quest treeline, making a new reactor, or making a key machine for progression like the Blast Furnace. More ingredients and XP."
+		"- Milestone quest, gear shaped: More ingredients and more XP",
+		"",
+		"- Information quest, squares and rounded squares: XP"
 	],
 	tasks: [{
 		uid: "8a53049f",
