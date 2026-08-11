@@ -1,0 +1,31 @@
+{
+	x: 7.0d,
+	y: -2.5d,
+	shape: "pentagon",
+	dependencies: [
+		"7c19025d"
+	],
+	tasks: [{
+		uid: "b785a088",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 80L
+	}],
+	rewards: [{
+		uid: "06c079b0",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "790cb532",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "e7c28072",
+		type: "random",
+		table: 2
+	}]
+}
