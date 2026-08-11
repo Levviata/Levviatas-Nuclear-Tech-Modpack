@@ -1,6 +1,6 @@
 {
-	x: 11.5d,
-	y: 5.5d,
+	x: -9.0d,
+	y: 0.0d,
 	tasks: [{
 		uid: "9421d06c",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 117"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "50f95453",
+		type: "fluid",
+		fluid: "chlorocalcite_cleaned"
 	}]
 }

@@ -1,6 +1,6 @@
 {
-	x: -8.5d,
-	y: 5.5d,
+	x: -11.5d,
+	y: 2.0d,
 	tasks: [{
 		uid: "85b1be11",
 		type: "item",
@@ -10,8 +10,8 @@
 		consume_items: true
 	},
 	{
-		uid: "9332ee6d",
+		uid: "5521d953",
 		type: "fluid",
-		fluid: "blood"
+		fluid: "slop"
 	}]
 }

@@ -1,6 +1,6 @@
 {
-	x: 17.5d,
-	y: 4.5d,
+	x: -3.5d,
+	y: -2.0d,
 	tasks: [{
 		uid: "bc808392",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 80"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "a1e903d2",
+		type: "fluid",
+		fluid: "coalcreosote"
 	}]
 }

@@ -1,6 +1,6 @@
 {
-	x: 21.5d,
-	y: 2.5d,
+	x: -6.0d,
+	y: -4.0d,
 	tasks: [{
 		uid: "1ddba34f",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 76"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "223d2247",
+		type: "fluid",
+		fluid: "coolant_hot"
 	}]
 }

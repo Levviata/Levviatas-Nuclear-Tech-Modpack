@@ -1,6 +1,6 @@
 {
-	x: 10.5d,
-	y: 4.5d,
+	x: -10.5d,
+	y: -2.0d,
 	tasks: [{
 		uid: "92d00bab",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 99"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "e9ce1b48",
+		type: "fluid",
+		fluid: "kerosene_reform"
 	}]
 }

@@ -1,6 +1,6 @@
 {
-	x: -8.5d,
-	y: 3.5d,
+	x: -10.5d,
+	y: 1.0d,
 	tasks: [{
 		uid: "032f9695",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 127"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "974ead91",
+		type: "fluid",
+		fluid: "sodium_hot"
 	}]
 }

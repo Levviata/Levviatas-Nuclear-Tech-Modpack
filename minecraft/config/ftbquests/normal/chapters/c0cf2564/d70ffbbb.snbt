@@ -1,6 +1,6 @@
 {
-	x: 23.5d,
-	y: 5.5d,
+	x: -11.0d,
+	y: -1.0d,
 	tasks: [{
 		uid: "a6f8301f",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 110"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "a926c40f",
+		type: "fluid",
+		fluid: "estradiol"
 	}]
 }

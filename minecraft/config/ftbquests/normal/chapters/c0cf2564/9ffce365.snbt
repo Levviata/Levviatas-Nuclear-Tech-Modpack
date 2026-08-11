@@ -1,6 +1,6 @@
 {
-	x: -1.5d,
-	y: 5.5d,
+	x: -4.5d,
+	y: 2.0d,
 	tasks: [{
 		uid: "ec3c98ad",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 32"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "19909288",
+		type: "fluid",
+		fluid: "schrabidic"
 	}]
 }

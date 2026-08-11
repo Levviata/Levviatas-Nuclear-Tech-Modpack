@@ -1,6 +1,6 @@
 {
-	x: 23.5d,
-	y: 4.5d,
+	x: -6.0d,
+	y: -1.0d,
 	tasks: [{
 		uid: "df3b2ef4",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 112"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "42e60727",
+		type: "fluid",
+		fluid: "sunfloweroil"
 	}]
 }

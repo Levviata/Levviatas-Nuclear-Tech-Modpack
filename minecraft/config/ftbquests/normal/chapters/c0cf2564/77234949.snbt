@@ -1,6 +1,6 @@
 {
-	x: 11.5d,
-	y: 3.5d,
+	x: -12.0d,
+	y: -3.0d,
 	tasks: [{
 		uid: "aa0f2b59",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 105"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "b8c3f0f5",
+		type: "fluid",
+		fluid: "oil_coker"
 	}]
 }

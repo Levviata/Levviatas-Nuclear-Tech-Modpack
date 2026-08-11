@@ -1,6 +1,6 @@
 {
-	x: -10.5d,
-	y: 8.5d,
+	x: -10.0d,
+	y: 4.0d,
 	tasks: [{
 		uid: "42656641",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 66"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "f5fa82ea",
+		type: "fluid",
+		fluid: "diesel_crack"
 	}]
 }

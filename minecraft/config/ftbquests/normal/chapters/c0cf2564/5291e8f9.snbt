@@ -1,6 +1,6 @@
 {
-	x: 0.5d,
-	y: 4.5d,
+	x: 18.0d,
+	y: -1.0d,
 	tasks: [{
 		uid: "7fe12e2e",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 87"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "9e04be78",
+		type: "fluid",
+		fluid: "oxyhydrogen"
 	}]
 }

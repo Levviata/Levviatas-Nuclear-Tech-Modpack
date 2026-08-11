@@ -1,6 +1,6 @@
 {
-	x: 25.5d,
-	y: 2.5d,
+	x: -2.0d,
+	y: -4.0d,
 	tasks: [{
 		uid: "f09750da",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 37"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "2370e7be",
+		type: "fluid",
+		fluid: "cryogel"
 	}]
 }

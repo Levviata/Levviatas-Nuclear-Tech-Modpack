@@ -1,6 +1,6 @@
 {
-	x: 24.5d,
-	y: 2.5d,
+	x: -3.0d,
+	y: -4.0d,
 	tasks: [{
 		uid: "599a1ea4",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 147"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "63ce66b0",
+		type: "fluid",
+		fluid: "perfluoromethyl_hot"
 	}]
 }

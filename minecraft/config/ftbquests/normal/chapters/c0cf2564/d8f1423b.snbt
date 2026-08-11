@@ -1,6 +1,6 @@
 {
-	x: 20.5d,
-	y: 3.5d,
+	x: -3.0d,
+	y: -3.0d,
 	tasks: [{
 		uid: "838023e1",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 64"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "5c6d08c8",
+		type: "fluid",
+		fluid: "naphtha_crack"
 	}]
 }

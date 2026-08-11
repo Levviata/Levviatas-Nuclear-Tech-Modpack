@@ -1,6 +1,6 @@
 {
-	x: 16.5d,
-	y: 5.5d,
+	x: 0.5d,
+	y: -2.0d,
 	tasks: [{
 		uid: "05c76493",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 150"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "d1f4f475",
+		type: "fluid",
+		fluid: "bauxite_solution"
 	}]
 }

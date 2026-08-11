@@ -1,6 +1,6 @@
 {
-	x: 13.5d,
-	y: 5.5d,
+	x: -7.0d,
+	y: 0.0d,
 	tasks: [{
 		uid: "eec75ac0",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 119"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "16b0b7ba",
+		type: "fluid",
+		fluid: "calcium_chloride"
 	}]
 }

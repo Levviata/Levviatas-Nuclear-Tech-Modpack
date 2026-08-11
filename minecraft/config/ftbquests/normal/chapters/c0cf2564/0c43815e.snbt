@@ -1,6 +1,6 @@
 {
-	x: 20.5d,
-	y: 4.5d,
+	x: -9.0d,
+	y: -1.0d,
 	tasks: [{
 		uid: "95c6a447",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 27"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "706b1cdf",
+		type: "fluid",
+		fluid: "biofuel"
 	}]
 }

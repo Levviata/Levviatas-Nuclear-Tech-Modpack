@@ -1,6 +1,6 @@
 {
-	x: 14.5d,
-	y: 3.5d,
+	x: -9.0d,
+	y: -3.0d,
 	tasks: [{
 		uid: "85f1052d",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 63"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "20428d42",
+		type: "fluid",
+		fluid: "hotcrackoil"
 	}]
 }

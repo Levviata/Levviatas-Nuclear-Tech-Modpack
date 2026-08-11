@@ -1,6 +1,6 @@
 {
-	x: -11.5d,
-	y: 9.5d,
+	x: -7.5d,
+	y: 3.0d,
 	tasks: [{
 		uid: "879895c3",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 131"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "7c0ce65b",
+		type: "fluid",
+		fluid: "fullerene"
 	}]
 }

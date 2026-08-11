@@ -1,6 +1,6 @@
 {
-	x: 18.5d,
-	y: 4.5d,
+	x: -2.5d,
+	y: -2.0d,
 	tasks: [{
 		uid: "83118a85",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 79"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "13926c81",
+		type: "fluid",
+		fluid: "woodoil"
 	}]
 }

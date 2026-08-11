@@ -1,6 +1,6 @@
 {
-	x: 19.5d,
-	y: 2.5d,
+	x: 21.0d,
+	y: -3.0d,
 	tasks: [{
 		uid: "d61e5f02",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 55"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "8c2c29d8",
+		type: "fluid",
+		fluid: "carbondioxide"
 	}]
 }

@@ -1,6 +1,6 @@
 {
-	x: 15.5d,
-	y: 2.5d,
+	x: 18.0d,
+	y: -3.0d,
 	tasks: [{
 		uid: "1e1a17f4",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 3"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "c4823dad",
+		type: "fluid",
+		fluid: "hotsteam"
 	}]
 }

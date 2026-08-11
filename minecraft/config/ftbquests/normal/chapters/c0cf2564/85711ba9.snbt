@@ -1,6 +1,6 @@
 {
-	x: 3.5d,
-	y: 5.5d,
+	x: -14.5d,
+	y: 3.0d,
 	tasks: [{
 		uid: "84634caf",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 58"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "37f01864",
+		type: "fluid",
+		fluid: "death"
 	}]
 }

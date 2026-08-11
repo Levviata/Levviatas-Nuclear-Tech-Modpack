@@ -1,6 +1,6 @@
 {
-	x: 21.5d,
-	y: 3.5d,
+	x: -2.0d,
+	y: -3.0d,
 	tasks: [{
 		uid: "fd6ac1cd",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 106"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "69819ed0",
+		type: "fluid",
+		fluid: "naphtha_coker"
 	}]
 }

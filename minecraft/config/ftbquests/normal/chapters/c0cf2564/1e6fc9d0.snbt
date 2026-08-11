@@ -1,6 +1,6 @@
 {
-	x: -9.5d,
-	y: 6.5d,
+	x: -5.5d,
+	y: 3.0d,
 	tasks: [{
 		uid: "beb3cbae",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 71"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "6872ea39",
+		type: "fluid",
+		fluid: "enderjuice"
 	}]
 }

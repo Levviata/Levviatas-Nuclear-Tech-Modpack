@@ -1,6 +1,6 @@
 {
-	x: 10.5d,
-	y: 3.5d,
+	x: -13.0d,
+	y: -3.0d,
 	tasks: [{
 		uid: "d127239a",
 		type: "item",
@@ -8,5 +8,10 @@
 			item: "hbm:fluid_icon 1 62"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "ab36b613",
+		type: "fluid",
+		fluid: "coaloil"
 	}]
 }
