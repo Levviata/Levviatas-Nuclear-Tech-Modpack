@@ -1,6 +1,9 @@
 {
 	x: 2.0d,
 	y: 7.5d,
+	text: [
+		"A special Nuclear Tech anvil that can make a variety of essential items."
+	],
 	dependencies: [
 		"5089b528"
 	],
