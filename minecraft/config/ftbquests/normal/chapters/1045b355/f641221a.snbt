@@ -2,9 +2,9 @@
 	x: 8.0d,
 	y: -0.5d,
 	text: [
-		"Fireclay is used for making Firebricks which make the Crucible, a machine that can melt metals.",
+		"Fireclay is used to make Firebricks which make the Crucible, a machine that can melt metals.",
 		"",
-		"It also makes some other machines."
+		"It also makes other useful machines."
 	],
 	dependencies: [
 		"48883b0c",
