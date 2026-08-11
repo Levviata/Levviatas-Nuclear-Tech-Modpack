@@ -1,0 +1,13 @@
+{
+	x: 5.5d,
+	y: 24.5d,
+	tasks: [{
+		uid: "61b9df2a",
+		type: "item",
+		items: [{
+			item: "hbm:egg_balefire"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

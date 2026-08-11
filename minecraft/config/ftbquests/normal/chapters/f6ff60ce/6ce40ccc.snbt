@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: 23.0d,
+	tasks: [{
+		uid: "af25dc47",
+		type: "item",
+		items: [{
+			item: "hbm:egg_balefire_shard"
+		}]
+	}]
+}
