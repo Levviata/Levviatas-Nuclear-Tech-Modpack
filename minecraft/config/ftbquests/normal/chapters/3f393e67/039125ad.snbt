@@ -20,10 +20,5 @@
 		type: "item",
 		item: "hbm:fluid_duct_mk2 1 1",
 		count: 64
-	},
-	{
-		uid: "de65c21a",
-		type: "item",
-		item: "hbm:gravel_diamond"
 	}]
 }
