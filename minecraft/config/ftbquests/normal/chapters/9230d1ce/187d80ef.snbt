@@ -1,10 +1,27 @@
 {
+	title: "Balefire",
 	x: 7.0d,
 	y: 1.0d,
+	text: [
+		"Balefire is an end game nuclear material that can be made into the second best RBMK fuel.",
+		"",
+		"The shard is used in",
+		"- Mini nuke",
+		"- Size 15 BF Warhead",
+		"- BF Rocket Fuel (the best fuel in the game)",
+		"- Meteorite Sword (custom recipe)",
+		"",
+		"The Egg can be used in a Balefire Bomb.",
+		"",
+		"Trivia:",
+		"- Balefire comes from the fanfic Fallout: Equestria. Its described as \"bottled, necromancy-enhanced dragon's breath\"."
+	],
 	dependencies: [
+		"6ce40ccc",
+		"d4c4de8a",
 		"154d54aa"
 	],
-	or_tasks: true,
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "dd467fc1",
 		type: "item",
