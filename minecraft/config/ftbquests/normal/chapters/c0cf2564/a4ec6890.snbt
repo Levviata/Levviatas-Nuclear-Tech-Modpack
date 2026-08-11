@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		"Fluids are an important part of the mod, some are deadly, some are inoffensive, some change your gender.",
+		"",
+		"You better watch out."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "322ae870",
+		type: "checkmark",
+		title: "Fluids",
+		icon: "hbm:fluid_icon 1 1"
+	}]
+}

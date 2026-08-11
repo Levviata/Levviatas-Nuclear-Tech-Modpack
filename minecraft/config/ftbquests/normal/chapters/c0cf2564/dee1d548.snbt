@@ -1,0 +1,11 @@
+{
+	x: -13.0d,
+	y: 0.5d,
+	shape: "square",
+	tasks: [{
+		uid: "45f3f89e",
+		type: "checkmark",
+		title: "Liquids",
+		icon: "hbm:fluid_icon 1 151"
+	}]
+}

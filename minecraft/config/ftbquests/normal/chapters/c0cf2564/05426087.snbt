@@ -1,0 +1,13 @@
+{
+	x: -8.5d,
+	y: 4.5d,
+	description: "{id:\"hbm:fluid_icon\",Count:1b,Damage:16s}",
+	tasks: [{
+		uid: "7a1e46bc",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 16"
+		}],
+		consume_items: true
+	}]
+}
