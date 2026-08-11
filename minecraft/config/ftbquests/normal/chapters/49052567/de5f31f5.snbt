@@ -1,0 +1,21 @@
+{
+	x: -8.0d,
+	y: 7.5d,
+	text: [
+		"The Crafting Monitor tracks any scheduled crafting in the grid.",
+		"",
+		"It displays the",
+		"- Item being crafted ",
+		"- Quantity requested",
+		"- Amount stored to craft it (not the total stored)",
+		"- Amount to craft",
+		"- Total time run"
+	],
+	tasks: [{
+		uid: "3ffb0357",
+		type: "item",
+		items: [{
+			item: "refinedstorage:crafting_monitor"
+		}]
+	}]
+}
