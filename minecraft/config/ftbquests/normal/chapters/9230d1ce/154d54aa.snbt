@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:powder_balefire"
 		}]
+	}],
+	rewards: [{
+		uid: "bd32cdcc",
+		type: "xp",
+		xp: 400
 	}]
 }

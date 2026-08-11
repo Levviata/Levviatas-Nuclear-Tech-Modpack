@@ -12,14 +12,9 @@
 		}]
 	}],
 	rewards: [{
-		uid: "04b86d5e",
+		uid: "50f6358f",
 		type: "item",
-		item: "hbm:gun_coilgun"
-	},
-	{
-		uid: "fd2746a5",
-		type: "item",
-		item: "hbm:ammo_standard 1 71",
-		count: 16
+		item: "hbm:ingot_red_copper",
+		count: 8
 	}]
 }
