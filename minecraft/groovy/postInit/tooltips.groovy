@@ -52,6 +52,6 @@ event_manager.listen { ItemTooltipEvent event ->
     }
     if (event.getItemStack() in item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_elder_one']])) { // i keep searching it as venting pipe so im adding it.
         event.getToolTip() << '§c Will not die no matter what. Genuinely.'
-        event.getToolTip() << 'But why would you try to kill quackos?'
+        event.getToolTip() << 'But why would you try to kill Quackos?'
     }
 }
