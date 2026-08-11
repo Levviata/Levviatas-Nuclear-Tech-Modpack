@@ -1,6 +1,10 @@
 {
 	x: 7.5d,
 	y: 9.0d,
+	text: [
+		"Flat stamps are used to make plates and wires later. ",
+		"Obsidian is a particular good choice to make them with."
+	],
 	dependencies: [
 		"97d44dd5"
 	],
