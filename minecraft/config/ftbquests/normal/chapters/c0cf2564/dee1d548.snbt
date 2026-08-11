@@ -2,6 +2,7 @@
 	x: 0.0d,
 	y: 2.5d,
 	shape: "square",
+	size: 1.25d,
 	tasks: [{
 		uid: "45f3f89e",
 		type: "checkmark",
