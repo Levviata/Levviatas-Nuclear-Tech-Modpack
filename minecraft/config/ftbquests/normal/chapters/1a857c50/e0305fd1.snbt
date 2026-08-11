@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 3.5d,
+	dependencies: [
+		"5b1b40f1"
+	],
+	tasks: [{
+		uid: "1fa511ae",
+		type: "item",
+		items: [{
+			item: "hbm:cladding_desh"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
