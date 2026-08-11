@@ -5,9 +5,7 @@
 	text: [
 		"The M1TTY Environment Suit Helmet is a great mid-game electric armor which gives you Speed and Jump Boost, while underwater Night Vision and ",
 		"",
-		"It is so cheap for what it does it's absurd, a must get.",
-		"",
-		"Has a pair of chest bumps for no reason, if you are a woman that's cool but if you are a guy you can put a white monster in there I guess, fa- oh I can't say that, right."
+		"It is so cheap for what it does it's absurd, a must get."
 	],
 	dependencies: [
 		"03f4949c",

@@ -1,7 +1,7 @@
 {
 	x: -2.5d,
 	y: 4.5d,
-	description: "{id:\"hbm:fluid_icon\",Count:1b,Damage:94s}",
+	description:
 	tasks: [{
 		uid: "f72d7994",
 		type: "item",
