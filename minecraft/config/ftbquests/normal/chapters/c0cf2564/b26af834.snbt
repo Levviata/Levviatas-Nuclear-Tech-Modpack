@@ -1,5 +1,5 @@
 {
-	x: 0.5d,
+	x: 0.0d,
 	y: 8.0d,
 	tasks: [{
 		uid: "eec75ac0",
