@@ -2,8 +2,7 @@
 
 https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
-Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of details and quests too at that.
-
+Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
 ## Reviews
 
 "This modpack is real and its coming after me."
@@ -25,11 +24,11 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of de
 ## Features
 - 15 quest chapters with over +1000 quests with quality information, also pretty patterns 😏
 
-- Over 117 satisfying recipes that blend into NTM like mochi with green tea
+- Over 117 recipes that marvelously blend into Nuclear Tech.
 
 - 3 custom Resource Packs with new textures for swords and tools.
 
-- Customized keybinds that work well with each other. 
+- Customized keybinds that work well with each other.
 
 - Many little details I put out with my Detail Brain-ChipTM hardware, this assures complete fun and quality. For example:
   - Late game machines, desh, schrabidium, etc. are fireproof.
@@ -45,11 +44,9 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of de
 
 - 99% made with Levviata Brain Power(TM), 1% merit to the GFP AI for relieving me of tedious work.
 
-
 ## Trivia
 
 - The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
 
 - Over 476 hours of development.
 
-- Moderately quirky
