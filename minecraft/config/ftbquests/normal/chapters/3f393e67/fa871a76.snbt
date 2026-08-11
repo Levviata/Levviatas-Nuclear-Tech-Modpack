@@ -1,6 +1,11 @@
 {
 	x: -2.0d,
 	y: 12.5d,
+	text: [
+		"Grenades are completely customizable and come in 4 types with over 159 different combinations.",
+		"",
+		"Check out the \"Grenades\" chapter!"
+	],
 	dependencies: [
 		"86867f7a"
 	],
@@ -9,6 +14,7 @@
 		type: "item",
 		items: [{
 			item: "hbm:grenade_shell"
-		}]
+		}],
+		count: 4L
 	}]
 }
