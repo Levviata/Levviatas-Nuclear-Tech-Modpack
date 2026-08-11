@@ -1,5 +1,6 @@
 {
 	title: "Fluids",
+	icon: "hbm:fluid_icon 1 41",
 	always_invisible: false,
 	group: -560674171,
 	default_quest_shape: ""
