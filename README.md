@@ -5,7 +5,7 @@ https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
 ## Reviews
 
-"This modpack is real and its coming after me."
+"This modpack is real and its coming after all of you."
 
 10/10 Levviata
 
