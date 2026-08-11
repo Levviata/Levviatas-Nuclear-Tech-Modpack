@@ -26,5 +26,11 @@
 		uid: "f044c3ef",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "aa6da3fd",
+		type: "item",
+		item: "hbm:ball_resin",
+		count: 4
 	}]
 }

@@ -1,6 +1,6 @@
 {
-	x: 2.0d,
-	y: 11.0d,
+	x: 1.5d,
+	y: 11.5d,
 	text: [
 		"Barrels are a easy and compact way to store a small quantity of fluids.",
 		"",
@@ -15,5 +15,11 @@
 		items: [{
 			item: "hbm:barrel_plastic"
 		}]
+	}],
+	rewards: [{
+		uid: "692f84aa",
+		type: "item",
+		item: "hbm:barrel_plastic",
+		count: 3
 	}]
 }

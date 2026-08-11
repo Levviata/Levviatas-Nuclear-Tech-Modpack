@@ -13,5 +13,21 @@
 		items: [{
 			item: "hbm:capacitor_gold"
 		}]
+	}],
+	rewards: [{
+		uid: "bb844d39",
+		type: "item",
+		item: "minecraft:golden_apple"
+	},
+	{
+		uid: "9f93e31c",
+		type: "item",
+		item: "minecraft:gold_block"
+	},
+	{
+		uid: "922ab2fc",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 8
 	}]
 }

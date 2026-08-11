@@ -9,11 +9,18 @@
 		type: "item",
 		items: [{
 			item: "hbm:fluid_tank_empty"
-		}]
+		}],
+		count: 8L
 	}],
 	rewards: [{
 		uid: "9c53476e",
 		type: "xp",
 		xp: 10
+	},
+	{
+		uid: "bd82bc34",
+		type: "item",
+		item: "hbm:fluid_tank_empty",
+		count: 32
 	}]
 }

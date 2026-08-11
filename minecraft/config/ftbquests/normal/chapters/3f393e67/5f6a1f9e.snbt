@@ -39,5 +39,11 @@
 		type: "item",
 		item: "hbm:red_pylon_medium_wood",
 		count: 6
+	},
+	{
+		uid: "b0e441a7",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 6
 	}]
 }

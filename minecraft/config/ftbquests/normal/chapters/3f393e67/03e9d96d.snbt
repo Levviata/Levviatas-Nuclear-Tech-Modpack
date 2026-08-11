@@ -15,5 +15,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "42d325c5",
+		type: "item",
+		item: "hbm:ingot_gunmetal",
+		count: 12
 	}]
 }

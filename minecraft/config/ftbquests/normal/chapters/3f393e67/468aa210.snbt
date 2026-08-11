@@ -38,5 +38,11 @@
 		type: "item",
 		item: "hbm:substation",
 		count: 2
+	},
+	{
+		uid: "6c8c0e5e",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 8
 	}]
 }

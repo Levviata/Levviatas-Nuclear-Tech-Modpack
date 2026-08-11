@@ -7,5 +7,10 @@
 		items: [{
 			item: "hbm:grenade_fuze"
 		}]
+	}],
+	rewards: [{
+		uid: "7b135f48",
+		type: "xp",
+		xp: 10
 	}]
 }

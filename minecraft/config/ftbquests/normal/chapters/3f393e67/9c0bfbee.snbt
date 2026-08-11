@@ -52,5 +52,11 @@
 		type: "item",
 		item: "hbm:capacitor_copper",
 		count: 3
+	},
+	{
+		uid: "725f0653",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 12
 	}]
 }

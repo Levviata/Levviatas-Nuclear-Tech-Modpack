@@ -14,7 +14,8 @@
 		type: "item",
 		items: [{
 			item: "hbm:pipe_anchor"
-		}]
+		}],
+		count: 2L
 	},
 	{
 		uid: "13415112",
@@ -24,5 +25,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ac6bf601",
+		type: "item",
+		item: "hbm:pipe_anchor",
+		count: 32
 	}]
 }

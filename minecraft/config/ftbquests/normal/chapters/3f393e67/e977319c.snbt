@@ -20,5 +20,11 @@
 		uid: "f94fe388",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "a4422ef4",
+		type: "item",
+		item: "hbm:plant_flower",
+		count: 8
 	}]
 }

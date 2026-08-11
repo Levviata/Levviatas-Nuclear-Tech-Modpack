@@ -25,6 +25,7 @@
 	rewards: [{
 		uid: "72ae7d00",
 		type: "item",
-		item: "hbm:ball_resin"
+		item: "hbm:ball_resin",
+		count: 16
 	}]
 }

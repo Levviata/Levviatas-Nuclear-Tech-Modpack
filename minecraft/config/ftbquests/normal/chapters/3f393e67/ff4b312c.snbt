@@ -23,5 +23,11 @@
 		type: "item",
 		item: "hbm:red_connector",
 		count: 7
+	},
+	{
+		uid: "4e68c0f6",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 8
 	}]
 }

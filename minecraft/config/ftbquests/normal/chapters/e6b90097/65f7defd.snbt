@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:grenade_filling 1 10"
 		}]
+	}],
+	rewards: [{
+		uid: "a4e6adfa",
+		type: "xp",
+		xp: 50
 	}]
 }

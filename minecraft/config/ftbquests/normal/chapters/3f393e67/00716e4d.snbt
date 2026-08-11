@@ -15,5 +15,11 @@
 		items: [{
 			item: "hbm:med_bag"
 		}]
+	}],
+	rewards: [{
+		uid: "d0b6971d",
+		type: "item",
+		item: "hbm:med_bag",
+		count: 4
 	}]
 }

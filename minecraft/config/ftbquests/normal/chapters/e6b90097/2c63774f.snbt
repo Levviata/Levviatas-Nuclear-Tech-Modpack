@@ -7,5 +7,10 @@
 		type: "checkmark",
 		title: "Extras",
 		icon: "hbm:grenade_extra 1 1"
+	}],
+	rewards: [{
+		uid: "6b185330",
+		type: "xp",
+		xp: 10
 	}]
 }

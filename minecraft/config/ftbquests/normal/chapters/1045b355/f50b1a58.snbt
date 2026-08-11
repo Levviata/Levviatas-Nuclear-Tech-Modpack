@@ -40,5 +40,10 @@
 		uid: "1f5dff0d",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "38dfcf6e",
+		type: "random",
+		table: 3
 	}]
 }

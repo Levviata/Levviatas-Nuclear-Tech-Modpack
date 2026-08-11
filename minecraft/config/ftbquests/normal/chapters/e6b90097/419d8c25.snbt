@@ -7,5 +7,10 @@
 		type: "checkmark",
 		title: "Charges",
 		icon: "hbm:det_charge"
+	}],
+	rewards: [{
+		uid: "50288686",
+		type: "xp",
+		xp: 10
 	}]
 }

@@ -8,5 +8,10 @@
 		type: "checkmark",
 		title: "Shells",
 		icon: "hbm:grenade_shell"
+	}],
+	rewards: [{
+		uid: "25616228",
+		type: "xp",
+		xp: 10
 	}]
 }

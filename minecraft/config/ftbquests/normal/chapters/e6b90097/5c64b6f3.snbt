@@ -7,5 +7,10 @@
 		type: "checkmark",
 		title: "Fuzes",
 		icon: "hbm:safety_fuse"
+	}],
+	rewards: [{
+		uid: "d5189837",
+		type: "xp",
+		xp: 10
 	}]
 }

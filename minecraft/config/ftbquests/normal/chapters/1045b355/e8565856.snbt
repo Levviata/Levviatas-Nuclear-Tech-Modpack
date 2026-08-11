@@ -31,5 +31,11 @@
 		uid: "4e0fbb7e",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "2062256b",
+		type: "item",
+		item: "hbm:sulfur",
+		count: 32
 	}]
 }

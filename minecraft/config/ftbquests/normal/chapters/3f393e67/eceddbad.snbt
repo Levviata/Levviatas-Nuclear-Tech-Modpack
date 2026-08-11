@@ -42,5 +42,11 @@
 		type: "item",
 		item: "hbm:red_pylon_steel_transformer",
 		count: 3
+	},
+	{
+		uid: "8eba9372",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 12
 	}]
 }
