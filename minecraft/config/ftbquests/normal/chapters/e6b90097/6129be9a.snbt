@@ -6,7 +6,7 @@
 	text: [
 		"Grenades have since been reworked and are completely customizable.",
 		"",
-		"There are over 14.950 custom combinations! Ain't that cool.",
+		"There are over 159 custom combinations!  Thats a lot trust me",
 		"",
 		"To craft you need a",
 		"- Shell",
@@ -39,5 +39,10 @@
 		uid: "ba296b18",
 		type: "xp",
 		xp: 10
+	},
+	{
+		uid: "a0a33ce2",
+		type: "random",
+		table: 1
 	}]
 }
