@@ -1,0 +1,14 @@
+{
+	title: "Quartz Enriched Iron",
+	x: -4.5d,
+	y: -1.5d,
+	description: "Removed",
+	text: [
+		"All recipes using Quartz Enriched Iron now use Steel."
+	],
+	tasks: [{
+		uid: "44668cff",
+		type: "checkmark",
+		icon: "refinedstorage:quartz_enriched_iron"
+	}]
+}
