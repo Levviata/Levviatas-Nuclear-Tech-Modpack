@@ -1,7 +1,6 @@
 {
 	x: 3.5d,
 	y: 3.5d,
-	description:
 	tasks: [{
 		uid: "d50e5b02",
 		type: "item",

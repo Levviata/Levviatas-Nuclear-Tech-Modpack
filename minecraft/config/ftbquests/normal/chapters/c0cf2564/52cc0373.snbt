@@ -1,7 +1,6 @@
 {
 	x: -4.5d,
 	y: 3.5d,
-	description:
 	tasks: [{
 		uid: "478ecf9f",
 		type: "item",
@@ -9,5 +8,10 @@
 			item: "hbm:fluid_icon 1 129"
 		}],
 		consume_items: true
+	},
+	{
+		uid: "8a602a34",
+		type: "fluid",
+		fluid: "thorium_salt_hot"
 	}]
 }
