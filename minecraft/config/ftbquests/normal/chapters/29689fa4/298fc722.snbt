@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:bedrock_ore_new 1 5"
 		}]
+	}],
+	rewards: [{
+		uid: "bef153bf",
+		type: "xp",
+		xp: 50
 	}]
 }
