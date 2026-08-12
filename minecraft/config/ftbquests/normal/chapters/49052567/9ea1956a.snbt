@@ -1,6 +1,9 @@
 {
 	x: 0.0d,
 	y: 1.5d,
+	text: [
+		"The Wrench can change the rotation of any RS machine, including cables."
+	],
 	tasks: [{
 		uid: "33759d53",
 		type: "item",
