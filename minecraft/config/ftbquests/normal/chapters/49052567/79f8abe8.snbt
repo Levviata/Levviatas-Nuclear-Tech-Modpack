@@ -1,0 +1,17 @@
+{
+	x: -8.0d,
+	y: 9.5d,
+	description: "Nuclear Tech",
+	text: [
+		"The Automatic Crafting Table is a lighting speed, powered machine that crafts the set recipe (blueprint grid) when items are feed into it.",
+		"",
+		"It's a good alternative to automatically craft very fast."
+	],
+	tasks: [{
+		uid: "5becd4ad",
+		type: "item",
+		items: [{
+			item: "hbm:machine_autocrafter"
+		}]
+	}]
+}
