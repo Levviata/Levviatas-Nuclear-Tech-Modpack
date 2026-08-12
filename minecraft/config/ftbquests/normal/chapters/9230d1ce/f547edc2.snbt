@@ -74,11 +74,6 @@
 		}]
 	}],
 	rewards: [{
-		uid: "3a26766b",
-		type: "xp",
-		xp: 200
-	},
-	{
 		uid: "1e65d9bf",
 		type: "item",
 		item: "hbm:ingot_bscco",
@@ -136,5 +131,10 @@
 		uid: "1410f6f6",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "951f6c27",
+		type: "xp_levels",
+		xp_levels: 15
 	}]
 }
