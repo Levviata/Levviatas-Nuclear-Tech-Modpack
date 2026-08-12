@@ -13,5 +13,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a139cad7",
+		type: "xp_levels",
+		xp_levels: 420
 	}]
 }
