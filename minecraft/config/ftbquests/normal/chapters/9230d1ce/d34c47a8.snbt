@@ -1,6 +1,11 @@
 {
 	x: -2.0d,
 	y: 4.5d,
+	text: [
+		"Schrabidium is an exotic, transuranic superactinide metal, possibly being the most known material of Nuclear Tech.",
+		"",
+		"It can be obtained with the Exposure Chamber with a Higgs Boson particle or it can be obtained through nuclear explosions (or the Cyclotron)."
+	],
 	dependencies: [
 		"86c1bfd9",
 		"40eecbae"
