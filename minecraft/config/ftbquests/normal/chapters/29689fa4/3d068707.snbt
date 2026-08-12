@@ -19,5 +19,10 @@
 		items: [{
 			item: "hbm:crane_partitioner"
 		}]
+	}],
+	rewards: [{
+		uid: "0f6ccf10",
+		type: "xp",
+		xp: 40
 	}]
 }

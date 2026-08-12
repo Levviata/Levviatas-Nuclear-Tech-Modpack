@@ -12,5 +12,10 @@
 		items: [{
 			item: "hbm:bedrock_ore_base"
 		}]
+	}],
+	rewards: [{
+		uid: "d0a89238",
+		type: "xp",
+		xp: 50
 	}]
 }

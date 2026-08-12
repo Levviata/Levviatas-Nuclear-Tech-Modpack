@@ -19,5 +19,10 @@
 		type: "checkmark",
 		title: "Gravel",
 		icon: "minecraft:gravel"
+	}],
+	rewards: [{
+		uid: "77f5160c",
+		type: "xp",
+		xp: 10
 	}]
 }

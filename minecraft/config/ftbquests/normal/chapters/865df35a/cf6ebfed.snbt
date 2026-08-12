@@ -12,5 +12,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "66f739db",
+		type: "xp_levels",
+		xp_levels: 4
 	}]
 }

@@ -29,5 +29,10 @@
 			}
 		}],
 		count: 2L
+	}],
+	rewards: [{
+		uid: "e18f79c9",
+		type: "xp",
+		xp: 15
 	}]
 }

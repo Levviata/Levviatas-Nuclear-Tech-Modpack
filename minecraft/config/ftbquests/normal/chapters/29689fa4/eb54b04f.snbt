@@ -27,5 +27,10 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "efeedd6c",
+		type: "xp",
+		xp: 20
 	}]
 }

@@ -25,5 +25,10 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "836beff9",
+		type: "xp",
+		xp: 20
 	}]
 }

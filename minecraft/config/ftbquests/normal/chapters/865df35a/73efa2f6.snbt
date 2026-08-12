@@ -12,5 +12,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c400c9da",
+		type: "xp_levels",
+		xp_levels: 4
 	}]
 }
