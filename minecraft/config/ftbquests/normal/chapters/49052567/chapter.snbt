@@ -12,7 +12,7 @@
 	default_quest_shape: "",
 	images: [{
 		x: 0.0d,
-		y: -3.0d,
+		y: -3.5d,
 		width: 3.0d,
 		height: 3.0d,
 		rotation: 0.0d,
