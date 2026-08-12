@@ -8,7 +8,7 @@ A curated list of optimization mods were also added, maximizing performance.
 
 OptiFine is disregarded and will cause issues, I have done my best to implement _almost_ all of its features. Though if you want shaders you'll have to use it (at your own discretion, without warranties). 
 
-For Cleanroom scroll down to its section.
+For Cleanroom, scroll down to its section.
 
 ## Reviews
 
