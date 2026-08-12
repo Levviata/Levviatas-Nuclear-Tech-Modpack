@@ -1,6 +1,6 @@
 {
-	x: -4.5d,
-	y: 7.5d,
+	x: -5.0d,
+	y: 8.0d,
 	text: [
 		"The Crafter Manager manages all Crafter components in the network, allowing to manipulate each instance in one inventory. "
 	],

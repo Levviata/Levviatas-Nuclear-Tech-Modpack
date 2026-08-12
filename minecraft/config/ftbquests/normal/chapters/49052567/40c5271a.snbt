@@ -1,6 +1,6 @@
 {
-	x: 5.0d,
-	y: 7.0d,
+	x: 6.0d,
+	y: 6.5d,
 	text: [
 		"The Range Upgrades improves the distane of Wireless Transmitters (different from a Network Transmitter).",
 		"",
