@@ -2,6 +2,9 @@
 	x: -7.0d,
 	y: 4.0d,
 	shape: "square",
+	text: [
+		"The Turbofan has three upgrades which improve the efficiency of the motor at the cost of increased fuel consumption."
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "5cdc0f1e",
