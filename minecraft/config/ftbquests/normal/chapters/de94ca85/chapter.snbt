@@ -2,16 +2,5 @@
 	title: "Checklists",
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: "",
-	images: [{
-		x: 0.0d,
-		y: 1.0d,
-		width: 1.0d,
-		height: 1.0d,
-		rotation: 0.0d,
-		image: "minecraft:textures/gui/presets/isles.png",
-		hover: [],
-		click: "command:/ftbquests open_book 1cd2d727",
-		dev: false
-	}]
+	default_quest_shape: ""
 }
