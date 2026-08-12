@@ -1,6 +1,14 @@
 {
 	x: -2.0d,
 	y: 2.0d,
+	description: "\"All japanese people need to die!\"",
+	text: [
+		"\"Fuck my geass got too powerful!\"",
+		"",
+		"\"Kill yourself japanese!\" (thunder)",
+		"",
+		"\"NOO Euphemia don't do it!\""
+	],
 	dependencies: [
 		"86c1bfd9"
 	],
@@ -10,5 +18,15 @@
 		items: [{
 			item: "hbm:ingot_euphemium"
 		}]
+	}],
+	rewards: [{
+		uid: "3cfbca37",
+		type: "xp_levels",
+		xp_levels: 20
+	},
+	{
+		uid: "97200037",
+		type: "item",
+		item: "hbm:gun_star_f"
 	}]
 }
