@@ -3,6 +3,11 @@
 https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
 Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
+
+A curated list of optimization mods were also added, maximizing performance.
+
+OptiFine is disregarded and will cause issues, I have done my best to implement almost all of its features.
+
 ## Reviews
 
 "This modpack is real and its coming after all of you."
@@ -22,13 +27,13 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of qu
 8.5/10 Impatient guy
 
 ## Features
-- 15 quest chapters with over +1000 quests with quality information, also pretty patterns 😏
+- 20 quest chapters with over +1300 quests, quests with quality information, also pretty patterns 😏
 
 - Over 117 recipes that marvelously blend into Nuclear Tech.
 
 - 3 custom Resource Packs with new textures for swords and tools.
 
-- Customized keybinds that work well with each other.
+- Complete, customized keybind map.
 
 - Many little details I put out with my Detail Brain-Chip(TM) hardware, this assures complete fun and quality. For example:
   - Late game machines, desh, schrabidium, etc. are fireproof.
@@ -50,3 +55,5 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of qu
 
 - Over 476 hours of development.
 
+#### It was all planned
+your satisfaction is measured.
