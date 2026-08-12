@@ -61,8 +61,8 @@ Added mods
 - JEI Area Fixer
 - Reach Fix
 Changed configs for
-- Unofficial Mouse Tweaks
-- HEI
+- Mouse Tweaks -> Unofficial Mouse Tweaks
+- JEI -> HEI
 - Universal Tweaks - Bugfixes.cfg B:"Banner Bounding Box" to false
 Add modpack icon to File Director screen
 
