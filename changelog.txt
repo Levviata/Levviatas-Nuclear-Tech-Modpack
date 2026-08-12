@@ -49,6 +49,7 @@ Add Schrabidium dependency to Dineutronium
 Added icon for Fluids chapter
 Remove Gavel reward from Fluid Duct
 Move Refined Storage wiki image
+Re-positioned many quests
 !!Added and improved rewards for many quests
 
 Added mods
