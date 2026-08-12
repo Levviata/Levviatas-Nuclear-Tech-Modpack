@@ -6,9 +6,9 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of qu
 
 A curated list of optimization mods were also added, maximizing performance.
 
-OptiFine is disregarded and will cause issues, I have done my best to implement _almost_ all of its features.
+OptiFine is disregarded and will cause issues, I have done my best to implement _almost_ all of its features, but if you want shaders you'll have to use it (on your own discretion). 
 
-You want shaders or Cleanroom? Scroll down to Shaders / Cleanroom section.
+For Cleanroom scroll down to its section.
 
 ## Reviews
 
@@ -51,12 +51,11 @@ You want shaders or Cleanroom? Scroll down to Shaders / Cleanroom section.
 
 - 99% made with Levviata Brain Power(TM).
 
-## Shaders / Cleanroom
-Inside your modpack instance in the config/mod-director folder you will find two special folders:
-- Shaders
+## Cleanroom
+Inside your modpack instance in the config/mod-director folder you will find a special folder:
 - Cleanroom
 
-These folder contain config files that will install the appropriate mods for these features.
+This folder contains config files that will install the appropriate mods for these features.
 
 To install the mods, move the config files out of their folders, so that they are together with the other config files.
 
