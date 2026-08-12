@@ -25,8 +25,6 @@
 /minecraft/config/hbmConfig/_hbmItemPools.json
 /minecraft/config/hbmConfig/_hbmRadResist.json.json
 /minecraft/config/hbmConfig/_hbmRadResist.json
-# all of these too
-/minecraft/config/hbmRecipes/
 
 /minecraft/local/ftbquests/
 
@@ -80,3 +78,48 @@
 /minecraft/config/ftbquests/normal/chapters/c0cf2564/addfluids.py
 /minecraft/config/ftbquests/normal/chapters/d9c82441/chapter.snbt
 /minecraft/local/
+/minecraft/config/hbmRecipes/_hbmAmmoPress.json
+/minecraft/config/hbmRecipes/_hbmAnnihilator.json
+/minecraft/config/hbmRecipes/_hbmAnvil.json
+/minecraft/config/hbmRecipes/_hbmArcFurnace.json
+/minecraft/config/hbmRecipes/_hbmArcWelder.json
+/minecraft/config/hbmRecipes/_hbmAssembler.json
+/minecraft/config/hbmRecipes/_hbmAssemblyMachine.json
+/minecraft/config/hbmRecipes/_hbmBlastFurnace.json
+/minecraft/config/hbmRecipes/_hbmBlastFurnaceLegacy.json
+/minecraft/config/hbmRecipes/_hbmBreeder.json
+/minecraft/config/hbmRecipes/_hbmCentrifuge.json
+/minecraft/config/hbmRecipes/_hbmChemicalPlant.json
+/minecraft/config/hbmRecipes/_hbmChemplant.json
+/minecraft/config/hbmRecipes/_hbmCoker.json
+/minecraft/config/hbmRecipes/_hbmCombination.json
+/minecraft/config/hbmRecipes/_hbmCompressor.json
+/minecraft/config/hbmRecipes/_hbmCracking.json
+/minecraft/config/hbmRecipes/_hbmCrucible.json
+/minecraft/config/hbmRecipes/_hbmCrucibleSmelting.json
+/minecraft/config/hbmRecipes/_hbmCrystallizer.json
+/minecraft/config/hbmRecipes/_hbmCustomMachines.json
+/minecraft/config/hbmRecipes/_hbmCyclotron.json
+/minecraft/config/hbmRecipes/_hbmElectrolyzerFluid.json
+/minecraft/config/hbmRecipes/_hbmElectrolyzerMetal.json
+/minecraft/config/hbmRecipes/_hbmFractions.json
+/minecraft/config/hbmRecipes/_hbmFuelpool.json
+/minecraft/config/hbmRecipes/_hbmFusion.json
+/minecraft/config/hbmRecipes/_hbmHydrotreating.json
+/minecraft/config/hbmRecipes/_hbmIrradiation.json
+/minecraft/config/hbmRecipes/_hbmIrradiationFluids.json
+/minecraft/config/hbmRecipes/_hbmLiquefactor.json
+/minecraft/config/hbmRecipes/_hbmMixer.json
+/minecraft/config/hbmRecipes/_hbmParticleAccelerator.json
+/minecraft/config/hbmRecipes/_hbmPedestal.json
+/minecraft/config/hbmRecipes/_hbmPlasmaForge.json
+/minecraft/config/hbmRecipes/_hbmPrecisionAssembly.json
+/minecraft/config/hbmRecipes/_hbmPress.json
+/minecraft/config/hbmRecipes/_hbmPUREX.json
+/minecraft/config/hbmRecipes/_hbmPyrolysis.json
+/minecraft/config/hbmRecipes/_hbmReforming.json
+/minecraft/config/hbmRecipes/_hbmRotaryFurnace.json
+/minecraft/config/hbmRecipes/_hbmShredder.json
+/minecraft/config/hbmRecipes/_hbmSoldering.json
+/minecraft/config/hbmRecipes/_hbmSolidifier.json
+/minecraft/config/hbmRecipes/REMOVE UNDERSCORE TO ENABLE RECIPE LOADING - RECIPES WILL RESET TO DEFAULT OTHERWISE
