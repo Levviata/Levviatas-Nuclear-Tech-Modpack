@@ -1,6 +1,12 @@
 {
-	x: -3.5d,
-	y: 6.0d,
+	x: -4.5d,
+	y: 7.0d,
+	description: "Tier 7",
+	text: [
+		"The Dineutronium Anvil is the last useful anvil in the game.",
+		"",
+		"It can make DNT Armor Plating, which enables the acquirement of the best armor in the game."
+	],
 	dependencies: [
 		"5c224dc1"
 	],
@@ -10,5 +16,10 @@
 		items: [{
 			item: "hbm:anvil_dnt"
 		}]
+	}],
+	rewards: [{
+		uid: "b119b00e",
+		type: "xp_levels",
+		xp_levels: 20
 	}]
 }
