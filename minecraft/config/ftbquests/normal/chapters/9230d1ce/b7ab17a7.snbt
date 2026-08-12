@@ -1,0 +1,32 @@
+{
+	x: -6.0d,
+	y: 6.0d,
+	shape: "pentagon",
+	dependencies: [
+		"062226c1"
+	],
+	tasks: [{
+		uid: "a4698401",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "23911c4b",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "b8d46f95",
+		type: "item",
+		item: "hbm:plushie 1 3"
+	},
+	{
+		uid: "67d1bffd",
+		type: "random",
+		table: 2
+	}]
+}
