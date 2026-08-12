@@ -32,5 +32,17 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "f08d7f5c",
+		type: "choice",
+		title: "Choose any Ore",
+		icon: "hbm:bedrock_ore_new 8 33",
+		table: 6
+	},
+	{
+		uid: "cc6037c3",
+		type: "xp",
+		xp: 20
 	}]
 }
