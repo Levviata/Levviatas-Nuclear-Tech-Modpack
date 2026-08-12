@@ -54,4 +54,20 @@ event_manager.listen { ItemTooltipEvent event ->
         event.getToolTip() << '§c Will not die no matter what. Genuinely.'
         event.getToolTip() << 'But why would you try to kill Quackos?'
     }
+    if (event.getItemStack() in item('hbm:mass_storage_wood')) {
+        event.getToolTip() << 'Tier: 1 / 4'
+        event.getToolTip() << 'Capacity: 1000 items'
+    }
+    if (event.getItemStack() in item('hbm:mass_storage_iron')) {
+        event.getToolTip() << 'Tier: 2 / 4'
+        event.getToolTip() << 'Capacity: 10000 items'
+    }
+    if (event.getItemStack() in item('hbm:mass_storage_desh')) {
+        event.getToolTip() << 'Tier: 3 / 4'
+        event.getToolTip() << 'Capacity: 100.000 items'
+    }
+    if (event.getItemStack() in item('hbm:mass_storage')) {
+        event.getToolTip() << 'Tier: 4 / 4'
+        event.getToolTip() << 'Capacity: 1.000.000 items'
+    }
 }

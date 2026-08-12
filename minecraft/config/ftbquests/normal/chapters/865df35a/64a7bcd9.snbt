@@ -1,6 +1,10 @@
 {
 	x: -7.0d,
 	y: 7.0d,
+	text: [
+		"Efficiency +333%",
+		"Consumption +200%"
+	],
 	dependencies: [
 		"c2a26a48"
 	],
