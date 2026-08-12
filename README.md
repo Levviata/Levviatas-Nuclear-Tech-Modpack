@@ -29,7 +29,7 @@ OptiFine is disregarded and will cause issues, I have done my best to implement 
 ## Features
 - 20 quest chapters with over +1300 quests, quests with quality information, also pretty patterns 😏
 
-- Over 117 recipes that marvelously blend into Nuclear Tech.
+- 117 custom recipes that implement QoL, rebalances, and Nuclear Tech compatibility.
 
 - 3 custom Resource Packs with new textures for swords and tools.
 
