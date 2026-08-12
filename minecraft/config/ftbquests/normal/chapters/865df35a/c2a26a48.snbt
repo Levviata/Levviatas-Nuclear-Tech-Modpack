@@ -1,6 +1,10 @@
 {
 	x: -7.0d,
 	y: 5.5d,
+	text: [
+		" Efficiency +133%",
+		" Consumption +100%"
+	],
 	tasks: [{
 		uid: "3f20432c",
 		type: "item",
