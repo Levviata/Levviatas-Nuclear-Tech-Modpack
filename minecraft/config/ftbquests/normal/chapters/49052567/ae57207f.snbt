@@ -1,8 +1,9 @@
 {
+	title: "Import and Exporter",
 	x: 4.5d,
 	y: 3.0d,
 	text: [
-		"The Importer and Exporter can interact with a Controller to import or extract resources from or to another source."
+		"The Importer and Exporter can interact with a Controller to import or extract resources to another source."
 	],
 	dependencies: [
 		"ab56cf1e"
