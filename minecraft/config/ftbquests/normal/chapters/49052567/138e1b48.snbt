@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: 7.797619047619044d,
+	text: [
+		"The recipe has been replaced, its made with",
+		"- Uranium Glass",
+		"- Military Grade Circuit",
+		"- Polymer or Bakelit Bar",
+		"- Technetium or Cadmium Steel Ingot",
+		"",
+		"This means Storage Disks are post-RBMK or ZIRNOX, which is about mid game."
+	],
+	tasks: [{
+		uid: "114f1a2c",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_housing"
+		}]
+	}]
+}
