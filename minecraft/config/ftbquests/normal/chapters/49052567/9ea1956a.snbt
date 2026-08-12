@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "33759d53",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
