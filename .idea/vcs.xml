@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minecraft/mods" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/minecraft/resourcepacks/Levviata's NTM Weapons &amp; Tools" vcs="Git" />
   </component>
 </project>
