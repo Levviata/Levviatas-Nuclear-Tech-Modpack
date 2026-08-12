@@ -162,6 +162,7 @@ key_key.refinedstorage.openWirelessFluidGrid:0
 key_key.refinedstorage.openPortableGrid:25
 key_key.refinedstorage.openWirelessCraftingMonitor:25
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
+key_wi-zoom.zoom:34
 key_gui.xaero_open_map:50
 key_gui.xaero_open_settings:27
 key_gui.xaero_world_map_server_settings:0
@@ -196,7 +197,7 @@ soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.0
-soundCategory_block:0.22535211
+soundCategory_block:0.0
 soundCategory_hostile:1.0
 soundCategory_neutral:0.0
 soundCategory_player:1.0
