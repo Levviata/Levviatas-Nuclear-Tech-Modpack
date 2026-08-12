@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 13.5d,
+	text: [
+		"The recipe has been replaced, its made with",
+		"- Basic Processor (not changed)",
+		"- Pulverized Enchanment"
+	],
+	tasks: [{
+		uid: "7a827fc4",
+		type: "item",
+		items: [{
+			item: "refinedstorage:core"
+		}]
+	}]
+}

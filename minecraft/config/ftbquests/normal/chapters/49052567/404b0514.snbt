@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 13.5d,
+	text: [
+		"The recipe has been replaced, its made with",
+		"- Basic Processor (not changed)",
+		"- Gunpowder, Cordite, Ballistite"
+	],
+	tasks: [{
+		uid: "dc01c7c7",
+		type: "item",
+		items: [{
+			item: "refinedstorage:core 1 1"
+		}]
+	}]
+}
