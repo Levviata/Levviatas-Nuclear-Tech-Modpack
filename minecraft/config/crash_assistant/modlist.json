@@ -397,6 +397,14 @@
     "curseForgeHash": 1231381817,
     "modrinthHash": "783157c607149875de1e045d72382d370256257c"
   },
+  "WI-Zoom-1.1-MC1.12.2-Forge.jar": {
+    "jarName": "WI-Zoom-1.1-MC1.12.2-Forge.jar",
+    "modId": "wi-zoom",
+    "name": "WI Zoom",
+    "version": "v1.1-MC1.12.2",
+    "curseForgeHash": 2048199175,
+    "modrinthHash": "af298de274e867507ac1995d8c802c07b327a3c6"
+  },
   "xaerolib-forge-1.12.2-1.7.1.jar": {
     "jarName": "xaerolib-forge-1.12.2-1.7.1.jar",
     "modId": "xaerolib",
