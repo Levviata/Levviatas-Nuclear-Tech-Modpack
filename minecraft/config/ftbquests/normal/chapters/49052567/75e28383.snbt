@@ -1,0 +1,15 @@
+{
+	x: 9.5d,
+	y: 1.5d,
+	description: "Tier 4, 1.000.000 item capacity",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "b1714dc8",
+		type: "item",
+		items: [{
+			item: "hbm:mass_storage"
+		}]
+	}]
+}

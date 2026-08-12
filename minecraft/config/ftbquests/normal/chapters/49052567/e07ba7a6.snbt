@@ -1,0 +1,22 @@
+{
+	x: 8.0d,
+	y: 3.0d,
+	shape: "square",
+	description: "NTM single item storage",
+	text: [
+		"Mass Storage Units are able to store a big quantity of the same type of item at the cost of only being able to fit one item type per unit.",
+		"",
+		"Each one has a Input and a Output (you can see the letters).",
+		"The middle slot sets the filter for the item to store, no item will go in if its empty.",
+		"Arrow pointing down gives you one item or a stack of item.",
+		"The Arrow with infinite sign enables or disables outputting all items at once",
+		"(so a stack will always come out at the output)."
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "310825cd",
+		type: "checkmark",
+		title: "Mass Storage Units",
+		icon: "hbm:block_waste_painted"
+	}]
+}

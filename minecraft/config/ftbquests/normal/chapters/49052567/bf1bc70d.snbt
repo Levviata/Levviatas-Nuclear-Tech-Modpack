@@ -1,0 +1,16 @@
+{
+	title: "Wood Mass Storage Unit",
+	x: 9.5d,
+	y: 4.5d,
+	description: "Tier 1, 1000 item capacity",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "f70359e4",
+		type: "item",
+		items: [{
+			item: "hbm:mass_storage_wood"
+		}]
+	}]
+}
