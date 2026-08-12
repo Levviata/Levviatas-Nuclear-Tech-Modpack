@@ -3,9 +3,9 @@
 	y: 9.0d,
 	shape: "hexagon",
 	text: [
-		"Its getting removed next update so I wont make an effort give it a description.",
+		"The research reactor is a non-power reactor intended for burning fuel efficiently and acting as a neutron source for Breeding Reactors.",
 		"",
-		"It does what other reactors do, but in its own way, with different fuel and GUI."
+		"(source: fandom wiki)"
 	],
 	dependencies: [
 		"99183935"
