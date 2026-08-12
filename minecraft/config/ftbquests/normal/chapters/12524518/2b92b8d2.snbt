@@ -8,6 +8,7 @@
 		"The Chicago Pile is made using a hand drill on a block of graphite, the drilled graphite may store radioactive rods.",
 		"",
 		"A common configuration is 3x3 blocks, fuel rods on the sides and in the center a neutron source rod, see image for example.",
+		"The flux of the neutron source reaches up to 2 blocks to its sides.",
 		"",
 		"A neutron source will breed any fuel rod adjacent to its sides, corners too.",
 		"",
