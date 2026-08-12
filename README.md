@@ -8,7 +8,7 @@ A curated list of optimization mods were also added, maximizing performance.
 
 OptiFine is disregarded and will cause issues, I have done my best to implement _almost_ all of its features.
 
-[You want shaders or Cleanroom?](https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack/edit/master/README.md#shaders--cleanroom)
+You want shaders or Cleanroom? Scroll down to Shaders / Cleanroom section.
 
 ## Reviews
 
