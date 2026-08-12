@@ -35,7 +35,7 @@ Added quests for
 - Alternative Balefire egg and shard (hidden)
 - ALL THE FLUIDS IN THE GAME OH YEAH (and they look nice)
 - Grinding:
-    - Iron
+    - Iron 
     - Blaze rods
     - Schrabidium Hoe
 - Lead and Desh cladding
@@ -61,8 +61,8 @@ Added mods
 - JEI Area Fixer
 - Reach Fix
 Changed configs for
-- Unofficial Mouse Tweaks
-- HEI
+- Mouse Tweaks -> Unofficial Mouse Tweaks
+- JEI -> HEI
 - Universal Tweaks - Bugfixes.cfg B:"Banner Bounding Box" to false
 Add modpack icon to File Director screen
 

@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: A bug that's bugging you
-title: "[Mr. Bug]"
+about: Something ain't right...
+title: "[Bug]"
 labels: ''
 assignees: ''
 
@@ -17,7 +17,7 @@ Minimal steps to reproduce the bug
 A clear and concise description of what you expected to happen.
 
 **Material**
-Logs, screenshots/videos, crash reports. For logs use https://mclo.gs/
+Logs, screenshots/videos, crash reports. For logs use https://mclo.gs/. Crash Assistant links go here.
 
 **Additional context:**
 - OS:
