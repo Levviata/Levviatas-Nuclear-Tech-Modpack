@@ -3,6 +3,13 @@
 https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
 Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
+
+A curated list of optimization mods were also added, maximizing performance.
+
+OptiFine is disregarded and will cause issues, I have done my best to implement _almost_ all of its features. Though if you want shaders you'll have to use it (at your own discretion, without warranties). 
+
+For Cleanroom scroll down to its section.
+
 ## Reviews
 
 "This modpack is real and its coming after all of you."
@@ -22,13 +29,13 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of qu
 8.5/10 Impatient guy
 
 ## Features
-- 15 quest chapters with over +1000 quests with quality information, also pretty patterns 😏
+- 20 quest chapters with over +1300 quests, quests with quality information, also pretty patterns 😏
 
-- Over 117 recipes that marvelously blend into Nuclear Tech.
+- 117 custom recipes that implement QoL, rebalances, and Nuclear Tech compatibility.
 
 - 3 custom Resource Packs with new textures for swords and tools.
 
-- Customized keybinds that work well with each other.
+- Complete, customized keybind map.
 
 - Many little details I put out with my Detail Brain-Chip(TM) hardware, this assures complete fun and quality. For example:
   - Late game machines, desh, schrabidium, etc. are fireproof.
@@ -44,9 +51,21 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of qu
 
 - 99% made with Levviata Brain Power(TM).
 
+## Cleanroom
+Inside your modpack instance in the config/mod-director folder you will find a special folder:
+- Cleanroom
+
+This folder contains config files that will install the appropriate mods for these features.
+
+To install the mods, move the config files out of their folders, so that they are together with the other config files.
+
+Upon starting the game, the modpack will install the mods needed for the features you desire. Enjoy.
+
 ## Trivia
 
 - The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
 
-- Over 476 hours of development.
+- Over 479 hours of development.
 
+#### It was all planned
+your satisfaction is measured.
