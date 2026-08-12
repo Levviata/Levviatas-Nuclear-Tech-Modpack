@@ -3,7 +3,9 @@
 	y: 16.0d,
 	shape: "hexagon",
 	text: [
-		"The Breeding Reactor is a specially useful machine that breeds radioactive materials into other products, usually more rare and useful."
+		"The Breeding Reactor is a specially useful machine that breeds radioactive materials into other products, usually more rare and useful.",
+		"",
+		"It must be placed adjacent to a working Research Reactor in order to begin transmutating."
 	],
 	dependencies: [
 		"99183935"
