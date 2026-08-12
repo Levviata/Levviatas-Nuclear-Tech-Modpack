@@ -28,5 +28,10 @@
 		uid: "6264a50f",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "09657f1b",
+		type: "choice",
+		table: 2
 	}]
 }
