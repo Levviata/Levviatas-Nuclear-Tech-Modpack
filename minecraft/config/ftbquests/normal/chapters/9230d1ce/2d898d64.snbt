@@ -1,9 +1,12 @@
 {
+	title: "Shimmer Tools",
 	x: -3.0d,
 	y: 3.0d,
 	description: "§e§nRequires:§r§e Combine Steel",
 	text: [
-		""
+		"Shimmer tools can break almost anything instantly by Right-Clicking, they also deal a good amount of damage.",
+		"",
+		"(custom recipe)"
 	],
 	dependencies: [
 		"29359305"
