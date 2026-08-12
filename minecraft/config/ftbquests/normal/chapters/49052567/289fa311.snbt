@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 15.0d,
+	text: [
+		"The recipe has been replaced, its made with",
+		"- Processor Binding",
+		"- Steel",
+		"- Latex or Rubber",
+		"- Analog Circuit",
+		"",
+		"No longer needs to be cooked."
+	],
+	tasks: [{
+		uid: "3e238549",
+		type: "item",
+		items: [{
+			item: "refinedstorage:processor 1 3"
+		}]
+	}]
+}
