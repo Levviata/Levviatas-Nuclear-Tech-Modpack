@@ -8,6 +8,8 @@ A curated list of optimization mods were also added, maximizing performance.
 
 OptiFine is disregarded and will cause issues, I have done my best to implement almost all of its features.
 
+[You want shaders or Cleanroom?](https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack/edit/master/README.md#shaders--cleanroom)
+
 ## Reviews
 
 "This modpack is real and its coming after all of you."
@@ -48,6 +50,17 @@ OptiFine is disregarded and will cause issues, I have done my best to implement 
 - So optimized you could use your motherboard to fly in real life (pure magic, aladdin style).
 
 - 99% made with Levviata Brain Power(TM).
+
+## Shaders / Cleanroom
+Inside your modpack instance in the config/mod-director folder you will find two special folders:
+- Shaders
+- Cleanroom
+
+These folder contain config files that will install the appropriate mods for these features.
+
+To install the mods, move the config files out of their folders, so that they are together with the other config files.
+
+Upon starting the game, the modpack will install the mods needed for the features you desire. Enjoy.
 
 ## Trivia
 
