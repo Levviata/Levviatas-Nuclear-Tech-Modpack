@@ -2,6 +2,9 @@
 	disable_toast: true,
 	x: -1.5d,
 	y: 5.25d,
+	text: [
+		"Schraranium only use is to obtain Schrabidium. It can be processed in many ways, but its preferred to get Schrabidium directly."
+	],
 	dependencies: [
 		"86c1bfd9"
 	],
