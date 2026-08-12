@@ -1,0 +1,28 @@
+{
+	title: "Bedrock Ore",
+	loot_size: 1,
+	rewards: [{
+		item: "hbm:bedrock_ore_new 1 32",
+		count: 8
+	},
+	{
+		item: "hbm:bedrock_ore_new 1 33",
+		count: 8
+	},
+	{
+		item: "hbm:bedrock_ore_new 1 34",
+		count: 8
+	},
+	{
+		item: "hbm:bedrock_ore_new 1 35",
+		count: 8
+	},
+	{
+		item: "hbm:bedrock_ore_new 1 36",
+		count: 8
+	},
+	{
+		item: "hbm:bedrock_ore_new 1 37",
+		count: 8
+	}]
+}
