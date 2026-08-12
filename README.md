@@ -59,7 +59,7 @@ This folder contains config files that will install the appropriate mods for Cle
 
 To install the mods, move the config files out of their folders, so that they are together with the other config files.
 
-Upon starting the game, the modpack will install the mods needed for Cleanroom. Enjoy.
+Upon starting the game, the modpack will install the mods. Enjoy.
 
 ## Trivia
 
