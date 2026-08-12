@@ -1,6 +1,10 @@
 {
 	x: 1.5d,
 	y: -4.0d,
+	text: [
+		"The Effectiveness Upgrade can be inserted in many machines. ",
+		"It will improve efficiency at the cost of increased consumption."
+	],
 	tasks: [{
 		uid: "ac0a44c8",
 		type: "item",
