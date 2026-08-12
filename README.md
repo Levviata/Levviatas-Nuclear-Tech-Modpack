@@ -5,7 +5,7 @@ https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
 ## Reviews
 
-"This modpack is real and its coming after me."
+"This modpack is real and its coming after all of you."
 
 10/10 Levviata
 
@@ -30,7 +30,7 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of qu
 
 - Customized keybinds that work well with each other.
 
-- Many little details I put out with my Detail Brain-ChipTM hardware, this assures complete fun and quality. For example:
+- Many little details I put out with my Detail Brain-Chip(TM) hardware, this assures complete fun and quality. For example:
   - Late game machines, desh, schrabidium, etc. are fireproof.
   - Many fun grinding quests that make you progress
   - Quests have treats and fun explosives
@@ -42,7 +42,7 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of qu
 
 - So optimized you could use your motherboard to fly in real life (pure magic, aladdin style).
 
-- 99% made with Levviata Brain Power(TM), 1% merit to the GFP AI for relieving me of tedious work.
+- 99% made with Levviata Brain Power(TM).
 
 ## Trivia
 
