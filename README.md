@@ -55,11 +55,11 @@ For Cleanroom scroll down to its section.
 Inside your modpack instance in the config/mod-director folder you will find a special folder:
 - Cleanroom
 
-This folder contains config files that will install the appropriate mods for these features.
+This folder contains config files that will install the appropriate mods for Cleanroom.
 
 To install the mods, move the config files out of their folders, so that they are together with the other config files.
 
-Upon starting the game, the modpack will install the mods needed for the features you desire. Enjoy.
+Upon starting the game, the modpack will install the mods needed for Cleanroom. Enjoy.
 
 ## Trivia
 
