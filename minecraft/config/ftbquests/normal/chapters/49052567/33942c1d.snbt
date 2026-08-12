@@ -14,5 +14,10 @@
 		items: [{
 			item: "refinedstorage:storage_part 1 3"
 		}]
+	}],
+	rewards: [{
+		uid: "6e31426a",
+		type: "xp",
+		xp: 400
 	}]
 }

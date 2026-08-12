@@ -10,5 +10,10 @@
 		items: [{
 			item: "refinedstorage:storage 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "f13922c0",
+		type: "xp",
+		xp: 100
 	}]
 }

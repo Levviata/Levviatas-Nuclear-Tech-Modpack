@@ -16,5 +16,10 @@
 			}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fcd52638",
+		type: "xp",
+		xp: 100
 	}]
 }

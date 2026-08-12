@@ -16,5 +16,10 @@
 			}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6be20383",
+		type: "xp",
+		xp: 200
 	}]
 }
