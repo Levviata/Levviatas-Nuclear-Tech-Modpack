@@ -42,7 +42,7 @@ Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of qu
 
 - So optimized you could use your motherboard to fly in real life (pure magic, aladdin style).
 
-- 99% made with Levviata Brain Power(TM), 1% merit to the GFP AI for relieving me of tedious work.
+- 99% made with Levviata Brain Power(TM).
 
 ## Trivia
 
