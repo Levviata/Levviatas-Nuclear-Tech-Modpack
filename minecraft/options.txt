@@ -144,6 +144,7 @@ key_key.craftingtweaks.decompressStack:74
 key_key.craftingtweaks.decompressAll:181
 key_key.craftingtweaks.refill_last:15:CONTROL
 key_key.craftingtweaks.refill_last_stack:58:CONTROL
+key_Dynamic Lights toggle:38
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_gnetum.config.keyMapping:207
@@ -197,7 +198,7 @@ soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.0
-soundCategory_block:0.0
+soundCategory_block:0.63380283
 soundCategory_hostile:1.0
 soundCategory_neutral:0.0
 soundCategory_player:1.0
