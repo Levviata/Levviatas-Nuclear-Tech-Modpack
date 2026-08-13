@@ -2,7 +2,7 @@
 	x: 8.0d,
 	y: 3.0d,
 	shape: "square",
-	description: "NTM single item storage",
+	description: "Nuclear Tech's single item storage",
 	text: [
 		"Mass Storage Units are able to store a big quantity of the same type of item at the cost of only being able to fit one item type per unit.",
 		"",
