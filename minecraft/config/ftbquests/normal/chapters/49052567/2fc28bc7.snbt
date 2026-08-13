@@ -2,7 +2,9 @@
 	x: 4.5d,
 	y: 2.0d,
 	text: [
-		"The External Storage cable can connect a block with storage like a chest to the grid."
+		"The External Storage cable can connect a block with storage, like a chest, to the grid.",
+		"",
+		"It will work as if it was a Storage Block."
 	],
 	dependencies: [
 		"ab56cf1e"
