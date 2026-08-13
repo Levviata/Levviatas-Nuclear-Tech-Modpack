@@ -3,7 +3,9 @@
 	x: 4.5d,
 	y: 3.0d,
 	text: [
-		"The Importer and Exporter can interact with a Controller to import or extract resources to another source."
+		"The Importer can interact with an external storage, like a chest, to pull its items into the grid.",
+		"",
+		"The Exporter can pull out items out of the grid into any other external storage."
 	],
 	dependencies: [
 		"ab56cf1e"
