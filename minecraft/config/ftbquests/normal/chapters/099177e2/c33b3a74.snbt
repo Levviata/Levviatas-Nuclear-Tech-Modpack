@@ -3,7 +3,9 @@
 	y: -6.0d,
 	shape: "square",
 	text: [
-		"Thrusters move the missile."
+		"Thrusters move the rocket and add HP. ",
+		"",
+		"Must match the fuselage's fuel type and bottom size."
 	],
 	tasks: [{
 		uid: "008c06e3",
