@@ -31,7 +31,7 @@ For Cleanroom, scroll down to its section.
 ## Features
 - 20 quest chapters with over +1300 quests, quests with quality information, also pretty patterns 😏
 
-- 117 custom recipes that implement QoL, rebalances, and Nuclear Tech compatibility.
+- 117 custom recipes that implement QoL, rebalances, and Nuclear Tech / Refined Storage compatibility.
 
 - 3 custom Resource Packs with new textures for swords and tools.
 
