@@ -3,7 +3,9 @@
 	y: -6.0d,
 	shape: "square",
 	text: [
-		"Fins stabilize the missile and keep it on track."
+		"Fins stabilize the missile and keep it on track.",
+		"",
+		"Must match the fuselage's size."
 	],
 	tasks: [{
 		uid: "c3583538",
