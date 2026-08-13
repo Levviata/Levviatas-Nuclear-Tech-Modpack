@@ -3,7 +3,9 @@
 	y: -6.0d,
 	shape: "square",
 	text: [
-		"Warheads are the explosive charge of the missile."
+		"Warheads are the explosive charge of the missile.",
+		"",
+		"Must match the fuselage's top size."
 	],
 	tasks: [{
 		uid: "d7fb7417",
