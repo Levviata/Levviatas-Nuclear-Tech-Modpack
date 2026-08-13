@@ -5,7 +5,12 @@
 	shape: "square",
 	text: [
 		"Fuselage is the main body of the rocket.",
-		"They determine the fuel used, size, mass, and a decent portion of the HP.",
+		"",
+		"They determine the: ",
+		"- Fuel used and storage amount",
+		"- Bottom size and Top Size",
+		"- Mass",
+		"- Main portion of the total HP",
 		"",
 		"As a gift you get a cool fuselage."
 	],
