@@ -4,7 +4,7 @@ https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
 Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
 
-A curated list of optimization mods were also added, maximizing performance.
+My curated list of optimization mods was also added, maximizing performance.
 
 OptiFine is disregarded and will cause issues, I have done my best to implement _almost_ all of its features. Though if you want shaders you'll have to use it (at your own discretion, without warranties). 
 
@@ -52,14 +52,14 @@ For Cleanroom, scroll down to its section.
 - 99% made with Levviata Brain Power(TM).
 
 ## Cleanroom
-Inside your modpack instance in the config/mod-director folder you will find a special folder:
+Inside your modpack instance folder you will find a special folder:
 - Cleanroom
 
 This folder contains config files that will install the appropriate mods for Cleanroom.
 
-To install the mods, move the config files out of their folders, so that they are together with the other config files.
+To install, move the config files out of their folders to config/mod-director, so that they are together with the other config files.
 
-Upon starting the game, the modpack will install the mods. Enjoy.
+Upon starting the game, the modpack will install them and you'll be able to setup Cleanroom with the Cleanroom Relauncher.
 
 ## Trivia
 
