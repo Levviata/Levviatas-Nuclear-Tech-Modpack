@@ -22,5 +22,10 @@
 				Energy: 32000
 			}
 		}
+	}],
+	rewards: [{
+		uid: "f2dbf329",
+		type: "xp",
+		xp: 30
 	}]
 }
