@@ -4,6 +4,8 @@
 	text: [
 		"The Cable can connect storage components.",
 		"",
+		"It must be powered with a Controller.",
+		"",
 		"It may be colored. Only same colored cables with connect."
 	],
 	tasks: [{
