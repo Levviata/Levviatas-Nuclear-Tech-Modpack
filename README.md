@@ -52,14 +52,14 @@ For Cleanroom, scroll down to its section.
 - 99% made with Levviata Brain Power(TM).
 
 ## Cleanroom
-Inside your modpack instance in the config/mod-director folder you will find a special folder:
+Inside your modpack instance folder you will find a special folder:
 - Cleanroom
 
 This folder contains config files that will install the appropriate mods for Cleanroom.
 
-To install the mods, move the config files out of their folders, so that they are together with the other config files.
+To install the mods, move the config files out of their folders to config/mod-director, so that they are together with the other config files.
 
-Upon starting the game, the modpack will install the mods. Enjoy.
+Upon starting the game, the modpack will install the necessary mods and you'll be able to setup Cleanroom with the Cleanroom Relauncher.
 
 ## Trivia
 
