@@ -4,9 +4,7 @@
 	text: [
 		"The Large Launch Table is a multi-block machine capable of launching every size of custom missile.",
 		"",
-		"You must construct it, to start, place the [Launch Pad] Core Component, around it will be displayed what blocks must be placed, you'll use 11 Scaffold Blocks and 80 Component Blocks.",
-		"",
-		"If you used more or less you might want to get new brain and eyes because they don't seem to coordinate that well."
+		"You must construct it, to start, place the [Launch Pad] Core Component, around it will be displayed what blocks must be placed, you'll use 11 Scaffold Blocks and 80 Component Blocks."
 	],
 	dependencies: [
 		"e05443a9"
