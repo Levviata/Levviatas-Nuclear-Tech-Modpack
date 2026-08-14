@@ -1,6 +1,8 @@
 .git
+.github
 .gitignore
 .idea
+bugs
 flame
 lib
 minecraft/WailaErrorOutput.txt
@@ -11,6 +13,8 @@ minecraft/cache
 minecraft/coremods
 minecraft/craftdumper
 minecraft/crash-reports
+minecraft/hei_bookmarks.ini
+minecraft/hei_favorites.ini
 minecraft/jei_bookmarks.ini
 minecraft/knownkeys.txt
 minecraft/llibrary
