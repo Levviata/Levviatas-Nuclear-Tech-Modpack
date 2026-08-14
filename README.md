@@ -55,7 +55,7 @@ For Cleanroom, scroll down to its section.
 Inside your modpack instance folder you will find a special folder:
 - Cleanroom
 
-These config files will install the needed mods. To install, move the config files out of their folders to config/mod-director, so that they are together with the other config files.
+These config files will install the needed mods. To install, move the config files out of the folder to config/mod-director, so that they are together with the other config files (.curse.json).
 
 Upon starting the game, the modpack will install them and you'll be able to setup Cleanroom with the Cleanroom Relauncher.
 
