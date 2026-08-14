@@ -55,11 +55,15 @@ For Cleanroom, scroll down to its section.
 Inside your modpack instance folder you will find a special folder:
 - Cleanroom
 
-This folder contains config files that will install the appropriate mods for Cleanroom.
-
-To install, move the config files out of their folders to config/mod-director, so that they are together with the other config files.
+These config files will install the needed mods. To install, move the config files out of their folders to config/mod-director, so that they are together with the other config files.
 
 Upon starting the game, the modpack will install them and you'll be able to setup Cleanroom with the Cleanroom Relauncher.
+
+You must disable these mods aswell:
+- Fullscreen Windowed
+- Raw Input
+
+If you don't, your screen will be messed up and you won't be able to mouse your game in-game.
 
 ## Trivia
 
