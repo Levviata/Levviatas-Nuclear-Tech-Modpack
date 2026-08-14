@@ -4,7 +4,7 @@ https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
 Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
 
-My curated list of optimization mods was also added, y
+My curated list of optimization mods was also added, maximing performance.
 
 OptiFine is disregarded and will cause issues, I have done my best to implement _most_ of its features. Though if you want shaders you'll have to use it (at your own discretion, without warranties). 
 
@@ -59,11 +59,11 @@ These config files will install the needed mods. To install, move the config fil
 
 Upon starting the game, the modpack will install them and you'll be able to setup Cleanroom with the Cleanroom Relauncher.
 
-You must disable these mods aswell:
+You also must disable these conflicting mods:
 - Fullscreen Windowed
 - Raw Input
 
-If you don't, your screen will be messed up and you won't be able to mouse your game in-game.
+If you don't, your screen will be messed up and you won't be able to move your mouse in-game.
 
 ## Notes
 The FPS are so good that you hit a stable >60 FPS with 32 chunks which is fucking insane considering how big Nuclear Tech is and 1.12.2 being an old ass version.
