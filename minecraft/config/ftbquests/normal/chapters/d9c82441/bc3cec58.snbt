@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 6.0d,
+	tasks: [{
+		uid: "f9771d45",
+		type: "item",
+		items: [{
+			item: "hbm:nuke_fleija"
+		}]
+	}]
+}

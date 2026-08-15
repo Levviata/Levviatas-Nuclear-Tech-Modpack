@@ -1,0 +1,15 @@
+{
+	title: "Bombs",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		""
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "b5f19b81",
+		type: "checkmark",
+		icon: "hbm:nuke_tsar"
+	}]
+}

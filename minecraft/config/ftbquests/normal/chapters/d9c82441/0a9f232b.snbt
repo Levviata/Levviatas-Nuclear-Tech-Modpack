@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 10.5d,
+	shape: "gear",
+	tasks: [{
+		uid: "79496367",
+		type: "item",
+		items: [{
+			item: "hbm:nuke_fstbmb"
+		}]
+	}]
+}

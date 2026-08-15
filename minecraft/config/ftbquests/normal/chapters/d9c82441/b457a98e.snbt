@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "7d4a5b73",
+		type: "item",
+		items: [{
+			item: "hbm:nuke_mike"
+		}]
+	}]
+}

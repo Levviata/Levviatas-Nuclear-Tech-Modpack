@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "04a44f4e",
+		type: "item",
+		items: [{
+			item: "hbm:nuke_man"
+		}]
+	}]
+}
