@@ -65,8 +65,16 @@ key_key.jei.showUses:22
 key_key.jei.recipeBack:14
 key_key.jei.previousPage:201
 key_key.jei.nextPage:209
+key_key.hei.previousCategory:201:SHIFT
+key_key.hei.nextCategory:209:SHIFT
 key_key.jei.bookmark:30
-key_key.jei.toggleBookmarkOverlay:0
+key_key.hei.bookmarkToTop:30:SHIFT
+key_key.hei.bookmarkNewGroup:30:CONTROL
+key_key.hei.bookmarkNewGroupToTop:0
+key_key.hei.toggleBookmarkOverlay:0
+key_key.hei.crafting:46:SHIFT
+key_key.hei.moveGroupUp:200:SHIFT
+key_key.hei.moveGroupDown:208:SHIFT
 key_key.craftingtweaks.rotate:203
 key_key.craftingtweaks.rotate_counter_clockwise:0
 key_key.craftingtweaks.balance:200
@@ -82,6 +90,10 @@ key_key.craftingtweaks.decompressStack:74
 key_key.craftingtweaks.decompressAll:181
 key_key.craftingtweaks.refill_last:15:CONTROL
 key_key.craftingtweaks.refill_last_stack:58:CONTROL
+key_Dynamic Lights toggle:38
+key_FpsReducer.key.guiOpen:207
+key_FpsReducer.key.forceIdle:197
+key_gnetum.config.keyMapping:207
 key_keybind.groovyscript.reload:199
 key_keybind.groovyscript.quick_reload:52
 key_keybind.groovyscript.copy:0
@@ -97,6 +109,7 @@ key_key.refinedstorage.openWirelessFluidGrid:0
 key_key.refinedstorage.openPortableGrid:25
 key_key.refinedstorage.openWirelessCraftingMonitor:25
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
+key_wi-zoom.zoom:34
 key_gui.xaero_open_map:50
 key_gui.xaero_open_settings:27
 key_gui.xaero_world_map_server_settings:0
