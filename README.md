@@ -66,6 +66,8 @@ You also must disable these conflicting mods:
 If you don't, your screen will be messed up and you won't be able to move your mouse in-game.
 
 ## Notes
+After downloading all desired mods, you may disable File Director mod. 
+
 The FPS are so good that you hit a stable >60 FPS with 32 chunks which is fucking insane considering how big Nuclear Tech is and 1.12.2 being an old ass version.
 
 The game looks good, the FPS are good, the quests are good, what other Nuclear Tech modpack would you ever wise than this one!
