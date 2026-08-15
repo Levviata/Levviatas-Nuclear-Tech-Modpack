@@ -126,3 +126,17 @@ gui.xaero_toggle_manual_cave_mode
 gui.xaero_alternative_list_players
 gui.xaero_toggle_tracked_players_on_map
 gui.xaero_toggle_tracked_players_in_world
+key.hei.previousCategory
+key.hei.nextCategory
+key.hei.bookmarkToTop
+key.hei.bookmarkNewGroup
+key.hei.bookmarkNewGroupToTop
+key.hei.toggleBookmarkOverlay
+key.hei.crafting
+key.hei.moveGroupUp
+key.hei.moveGroupDown
+Dynamic Lights toggle
+FpsReducer.key.guiOpen
+FpsReducer.key.forceIdle
+gnetum.config.keyMapping
+wi-zoom.zoom
