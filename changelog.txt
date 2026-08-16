@@ -9,12 +9,23 @@ Grouped up chapters
 - Ores
 - And Ingots
 into Checklist group, to access these chapters hover the Checklist chapter.
+
+Renamed Keybinds quest (Other Useful Keybinds -> Keybinds)
+
 Rewrote descriptions for
 - Electric tools
 - Writer and Reader
 - Rewards (quest)
 - Grenades (Grenades chapter quest)
 - Scharanium Ingot
+- Crafter
+- Keybinds (reformat)
+- Mods:
+    - removed Xaero's mod from "To be removed" section
+    - Rewrite Default Options description
+- Importer and exporter cables (RS)
+- Large Launch Pad (passive-aggressive comment)
+
 Added descriptions for
 - NTM Anvil (Vanilla chapter)
 - Obsidian Flat Stamp
@@ -25,13 +36,37 @@ Added descriptions for
 - Dineutronium Anvil
 - Schrabidium Tools
 - Schrabidium Ingot
-Added tooltip to Quackos spawn egg
+- Turbofan (Machine Upgrades chapter)
+- Keybinds (add zoom keybind)
+- Power Saving and Effectiveness upgrades
+- Afterburner upgrade mk.I, II, and III
+- Upgrades (Refined Storage's)
+- Wrench (Refined storage's)
+
+Extended descriptions for
+- Breeding Reactor and Research Reactor
+- Chicago Pile
+- Cable (Refined storage's)
+custom missiles
+- Fuselage
+- Warheads
+- Thruster
+- Fins
+
+Added tooltip to
+- Quackos spawn egg
+- Mass Storage machines (all 4)
+
 Typo checked
 - Pepperbox
 - Fireclay
 - Tachyon Capsule
+
 Added quests for
 - Dosimeter
+- Wrench (Refined storage's)
+- Mass Storage machines
+- Auto Crafter (Nuclear Tech's)
 - Alternative Balefire egg and shard (hidden)
 - ALL THE FLUIDS IN THE GAME OH YEAH (and they look nice)
 - Grinding:
@@ -42,15 +77,28 @@ Added quests for
 - Quartz Enriched Iron (lame, removed)
 - Crafting Monitor
 - Redstone Over Radio information
+- Basic, Improved, Advanced, and Core processors (Refined storage)
+- Storage housing
+- All nukes (rough draft)
 (most have descriptions)
+
+Added dependencies for
+- Storage disks <- Storage housing
+
+!!Added and improved rewards for many quests. Including but not limited to
+- Washed bedrock ore -> bedrock ore reward table
+- Many XP rewards all around
+- Oil Refinery -> Choosable Treats reward
+
+Added names for all Refined Storage cables
 Removed Schraranium recipe (useless ingot)
 New anime reference for Euphemium Ingot
 Add Schrabidium dependency to Dineutronium
 Added icon for Fluids chapter
 Remove Gavel reward from Fluid Duct
-Move Refined Storage wiki image
+Add bedrock ore quest reward table
 Re-positioned many quests
-!!Added and improved rewards for many quests
+
 
 Added mods
 - Mouse Tweaks -> Unofficial Mouse Tweaks
@@ -61,10 +109,21 @@ Added mods
 - Gnetum (update GUI over several frames to improves FPS. I'm checking it out)
 - JEI Area Fixer
 - Reach Fix
+- Dynamic Lights
+- Luminized (bloom)
+
 Changed configs for
 - Mouse Tweaks -> Unofficial Mouse Tweaks
 - JEI -> HEI
 - Universal Tweaks - Bugfixes.cfg B:"Banner Bounding Box" to false
+Remove File Director dupe config
+
+Added configs for
+- File Director ->
+    - Cleanroom relauncher and Fugue (inside "Cleanroom" folder at the instance's folder)
+    - Dynamic Lights
+- Dynamic Lights
+Added BloomTech resource pack for Luminized mod
 Add modpack icon to File Director screen
 
 version 1.0.0
