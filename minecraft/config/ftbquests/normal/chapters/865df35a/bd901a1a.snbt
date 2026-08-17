@@ -7,10 +7,6 @@
 	text: [
 		""
 	],
-	dependencies: [
-		"84987810"
-	],
-	hide: true,
 	size: 2.0d,
 	tasks: [{
 		uid: "bdec3de4",
