@@ -33,6 +33,10 @@ For Cleanroom, scroll down to its section.
 
 - 117 custom recipes that implement QoL, rebalances, and Nuclear Tech / Refined Storage compatibility.
 
+- Re-added old recipes and tweaked some other. For example:
+  - Fix Balefire Thruster having the recipe of the Short thruster.
+  - Added recipe for Railgun and Deuterium Plasma Capsule to the Plasma Forge
+
 - 3 custom Resource Packs with new textures for swords and tools.
 
 - Complete, customized keybind map.
@@ -57,7 +61,7 @@ Inside your modpack instance folder you will find a special folder:
 
 These config files will install the needed mods. To install, move the config files out of the folder to config/mod-director, so that they are together with the other config files (.curse.json).
 
-Upon starting the game, the modpack will install them and you'll be able to setup Cleanroom with the Cleanroom Relauncher.
+Upon starting the game, the modpack will install them and you'll be able to setup cleanroom with the Cleanroom Relauncher.
 
 You also must disable these conflicting mods:
 - Fullscreen Windowed
