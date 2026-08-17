@@ -1,3 +1,7 @@
+version 1.2.0
+Added Plasma Forge recipe for
+- Railgun and Deuterium Plasma Capsule
+
 version 1.1.0
 Grouped up chapters
 - Automation
@@ -122,7 +126,9 @@ Added configs for
 - File Director ->
     - Cleanroom relauncher and Fugue (inside "Cleanroom" folder at the instance's folder)
     - Dynamic Lights
+    - Bloomtech
 - Dynamic Lights
+
 Added BloomTech resource pack for Luminized mod
 Add modpack icon to File Director screen
 
