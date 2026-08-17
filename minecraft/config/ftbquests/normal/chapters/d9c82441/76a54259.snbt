@@ -1,15 +1,55 @@
 {
-	title: "Bombs",
+	title: "Nukes",
 	x: 0.0d,
 	y: 0.0d,
 	shape: "rsquare",
+	description: "Big boom! and terrain goes bye",
 	text: [
-		""
+		"Nukes are the most interesting part of Nuclear Tech, apart from the Reactors.",
+		"",
+		"They are terraforming, entity disabling, friendship destroyer machines.",
+		"",
+		"There are a total of 11 nukes.",
+		"Go Oppenheimer, catch them all!"
 	],
 	size: 2.0d,
 	tasks: [{
-		uid: "b5f19b81",
-		type: "checkmark",
-		icon: "hbm:nuke_tsar"
+		uid: "1d2b8ea8",
+		type: "item",
+		title: "Any nuke",
+		items: [{
+			item: "hbm:nuke_man"
+		},
+		{
+			item: "hbm:nuke_gadget"
+		},
+		{
+			item: "hbm:nuke_prototype"
+		},
+		{
+			item: "hbm:nuke_solinium"
+		},
+		{
+			item: "hbm:nuke_boy"
+		},
+		{
+			item: "hbm:nuke_mike"
+		},
+		{
+			item: "hbm:nuke_tsar"
+		},
+		{
+			item: "hbm:nuke_fleija"
+		},
+		{
+			item: "hbm:nuke_n2"
+		},
+		{
+			item: "hbm:nuke_fstbmb"
+		},
+		{
+			item: "hbm:nuke_custom"
+		}],
+		ignore_nbt: 1b
 	}]
 }
