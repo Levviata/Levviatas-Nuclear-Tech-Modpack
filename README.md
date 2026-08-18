@@ -41,11 +41,7 @@ For Cleanroom, scroll down to its section.
   - All Meteorite Sword recipes (custom)
   - Security Armor tweaked
   - Fluid Identifier uses a cheaper circuit
-
-- Fixed some recipe issues present in base Nuclear Tech:
-  - Balefire Thruster having the recipe of the Short thruster.
-  - ass.mpf10solidlong and ass.mpf10kerolong both giving the normal fuselage instead of the long.
-  - Taint Missile using forge's default fluid bucket
+  - Fix Taint Missile using forge's default fluid bucket
   - Re-added recipes for:
     - mp_fuselage_15_balefire
     - mp_warhead_15_thermo
@@ -61,8 +57,11 @@ For Cleanroom, scroll down to its section.
     - mp_warhead_15_volcano
     - Neutron Reflector (crafting table)
 
-(I have sent missile recipe issues to the tracker and they will be fixed in the next update)
+- Fixed some recipe issues present in base Nuclear Tech:
+  - Balefire Thruster having the recipe of the Short thruster.
+  - ass.mpf10solidlong and ass.mpf10kerolong both giving the normal fuselage instead of the long.
 
+(fixed next update)
 
 - 3 custom Resource Packs with new textures for swords and tools.
 
