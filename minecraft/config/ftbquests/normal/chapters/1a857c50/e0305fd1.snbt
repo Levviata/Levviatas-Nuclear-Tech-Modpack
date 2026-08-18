@@ -1,6 +1,9 @@
 {
 	x: 1.5d,
 	y: 3.5d,
+	text: [
+		"Desh Cladding are made from Lead Cladding and they give 20% radiation protection."
+	],
 	dependencies: [
 		"5b1b40f1"
 	],
