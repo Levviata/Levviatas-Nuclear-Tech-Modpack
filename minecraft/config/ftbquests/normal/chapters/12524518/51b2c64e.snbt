@@ -1,0 +1,26 @@
+{
+	x: 19.5d,
+	y: 10.5d,
+	text: [
+		"The Ghiorsium Insert protects",
+		"- 20% all damage",
+		"- 25% projectiles",
+		"- 65% explosion",
+		"At the cost of -10% speed.",
+		"It has a durability of 2000.",
+		"",
+		"Applicable to the Insert slot of any chestplate."
+	],
+	dependencies: [
+		"8dd04e58"
+	],
+	tasks: [{
+		uid: "e3ec5a58",
+		type: "item",
+		items: [{
+			item: "hbm:insert_ghiorsium"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
