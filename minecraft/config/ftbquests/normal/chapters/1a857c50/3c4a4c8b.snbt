@@ -1,6 +1,13 @@
 {
 	x: -3.5d,
 	y: 3.5d,
+	text: [
+		"Desh Servos give",
+		"- Haste III and +150% Damage in the Chesplate",
+		"- Jump III and +50% Speed in the Leggings.",
+		"",
+		"Its quite nice."
+	],
 	dependencies: [
 		"5b1b40f1"
 	],
@@ -12,5 +19,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "779b3895",
+		type: "item",
+		item: "hbm:servo_set_desh"
 	}]
 }
