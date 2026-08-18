@@ -4214,7 +4214,7 @@
         ["dict","plateSteel",6]
       ],
       "outputItem": [
-        ["single",["hbm:mp_fuselage_10_kerosene"]]
+        ["single",["hbm:mp_fuselage_10_long_kerosene"]]
       ],
       "duration": 100,
       "power": 100
@@ -4240,7 +4240,7 @@
         ["dict","plateSteel",6]
       ],
       "outputItem": [
-        ["single",["hbm:mp_fuselage_10_solid"]]
+        ["single",["hbm:mp_fuselage_10_long_solid"]]
       ],
       "duration": 100,
       "power": 100
@@ -8909,6 +8909,40 @@
       "power": 100
     },
     {
+      "name": "ass.mpwarhead15mirv",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","plateSteel",24],
+        ["dict","plateTitanium",16],
+        ["item","hbm:warhead_mirvlet",7],
+        ["dict","ingotAnyPlasticexplosive",2],
+        ["dict","shellSteel"],
+        ["item","hbm:circuit",1,9]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_mirv"]]
+      ],
+      "duration": 600,
+      "power": 100
+    },
+    {
+      "name": "ass.mpwarhead15volcano",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","plateSteel",32],
+        ["dict","plateTitanium",16],
+        ["item","hbm:det_nuke",4],
+        ["dict","blockUranium238",32],
+        ["item","hbm:circuit",6,10],
+        ["item","hbm:circuit",1,9]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_volcano"]]
+      ],
+      "duration": 600,
+      "power": 100
+    },
+    {
       "name": "ass.warheadthermoexo",
       "inputItem": [
         ["item","hbm:therm_exo",2],
@@ -8919,23 +8953,6 @@
         ["single",["hbm:warhead_thermo_exo"]]
       ],
       "duration": 300,
-      "power": 100
-    },
-    {
-      "name": "ass.missileexo",
-      "inputItem": [
-        ["item","hbm:warhead_thermo_exo"],
-        ["item","hbm:fuel_tank_large"],
-        ["item","hbm:thruster_large"],
-        ["dict","plateTitanium",14],
-        ["dict","plateSteel",20],
-        ["dict","plateAluminum",12],
-        ["item","hbm:circuit",1,9]
-      ],
-      "outputItem": [
-        ["single",["hbm:missile_exo"]]
-      ],
-      "duration": 350,
       "power": 100
     },
     {
@@ -8968,38 +8985,57 @@
       "power": 100
     },
     {
+      "name": "ass.warheadmirvlet",
+      "inputItem": [
+        ["dict","ingotTungsten"],
+        ["dict","plateSteel",3],
+        ["dict","ingotPlutonium239"],
+        ["dict","ingotAnyPlasticexplosive"]
+      ],
+      "outputItem": [
+        ["single",["hbm:warhead_mirvlet"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.missileexo",
+      "inputItem": [
+        ["item","hbm:thruster_large"],
+        ["item","hbm:fuel_tank_large"],
+        ["item","hbm:warhead_thermo_exo"]
+      ],
+      "outputItem": [
+        ["single",["hbm:missile_exo"]]
+      ],
+      "duration": 300,
+      "power": 25000
+    },
+    {
       "name": "ass.missileendo",
       "inputItem": [
-        ["item","hbm:warhead_thermo_endo"],
-        ["item","hbm:fuel_tank_large"],
         ["item","hbm:thruster_large"],
-        ["dict","plateTitanium",14],
-        ["dict","plateSteel",20],
-        ["dict","plateAluminum",12],
-        ["item","hbm:circuit",1,9]
+        ["item","hbm:fuel_tank_large"],
+        ["item","hbm:warhead_thermo_endo"]
       ],
       "outputItem": [
         ["single",["hbm:missile_endo"]]
       ],
-      "duration": 350,
-      "power": 100
+      "duration": 300,
+      "power": 25000
     },
     {
       "name": "ass.missilen2",
       "inputItem": [
-        ["item","hbm:warhead_n2"],
-        ["item","hbm:fuel_tank_large"],
         ["item","hbm:thruster_large"],
-        ["dict","plateTitanium",20],
-        ["dict","plateSteel",24],
-        ["dict","plateAluminum",16],
-        ["item","hbm:circuit",1,9]
+        ["item","hbm:fuel_tank_large"],
+        ["item","hbm:warhead_n2"]
       ],
       "outputItem": [
         ["single",["hbm:missile_n2"]]
       ],
-      "duration": 500,
-      "power": 100
+      "duration": 300,
+      "power": 25000
     }
   ]
 }
