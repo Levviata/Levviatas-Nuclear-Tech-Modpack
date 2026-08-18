@@ -25,9 +25,8 @@
 		item: "hbm:furnace_steel"
 	},
 	{
-		uid: "7131c80b",
-		type: "item",
-		item: "hbm:rocket_fuel",
-		count: 8
+		uid: "9ba4e0c1",
+		type: "random",
+		table: 3
 	}]
 }
