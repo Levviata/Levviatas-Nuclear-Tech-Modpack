@@ -1,6 +1,14 @@
 {
 	x: -3.5d,
 	y: 1.5d,
+	text: [
+		"Naphtha is mediocre combustible that will poison the enviroment if spilled.",
+		"",
+		"It can make",
+		"- Gasoline, which is much better as a fuel",
+		"- Coker Naphtha",
+		"- Solvent"
+	],
 	dependencies: [
 		"893c81c8"
 	],
