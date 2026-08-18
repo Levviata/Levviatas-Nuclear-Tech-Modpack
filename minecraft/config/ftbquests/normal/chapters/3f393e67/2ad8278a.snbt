@@ -1,6 +1,18 @@
 {
 	x: 0.5d,
 	y: 33.5d,
+	text: [
+		"Nitric Acid is used to process",
+		"- Radioactive materials",
+		"- Bedrock ore",
+		"- Kevlar",
+		"- Solid fuel (rocket propellant)",
+		"- TATB",
+		"- Nitroglycerin",
+		"- Many more.",
+		"",
+		"Its quite useful."
+	],
 	dependencies: [
 		"3121e8f3"
 	],
@@ -16,5 +28,15 @@
 		uid: "5f91cd96",
 		type: "fluid",
 		fluid: "nitric_acid"
+	}],
+	rewards: [{
+		uid: "0867cfa0",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 82"
+	},
+	{
+		uid: "93c9a93b",
+		type: "xp",
+		xp: 50
 	}]
 }
