@@ -1,6 +1,17 @@
 {
 	x: -2.5d,
 	y: 0.0d,
+	text: [
+		"Obtained from any Oil Refinery.",
+		"",
+		"Crude Oil is used to make the most important petrochemicals for the mid game",
+		"- Light Oil",
+		"- Petroleum Gas",
+		"- Heavy Oil",
+		"- Naphtha",
+		"",
+		"With it, you can start branching out to get important materials and weapons."
+	],
 	dependencies: [
 		"8931814a"
 	],
