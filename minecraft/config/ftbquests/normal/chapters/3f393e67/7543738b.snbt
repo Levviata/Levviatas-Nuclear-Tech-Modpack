@@ -1,0 +1,37 @@
+{
+	x: 7.5d,
+	y: 22.5d,
+	shape: "pentagon",
+	dependencies: [
+		"31622fea"
+	],
+	tasks: [{
+		uid: "420174ea",
+		type: "item",
+		items: [{
+			item: "hbm:syringe_metal_super"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "65e96d34",
+		type: "item",
+		item: "hbm:syringe_metal_super",
+		count: 8
+	},
+	{
+		uid: "baa4aa60",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "626bec0a",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "a18beddf",
+		type: "random",
+		table: 2
+	}]
+}
