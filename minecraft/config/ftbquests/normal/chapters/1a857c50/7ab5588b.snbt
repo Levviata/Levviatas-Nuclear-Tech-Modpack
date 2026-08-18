@@ -1,0 +1,25 @@
+{
+	x: 17.0d,
+	y: -8.0d,
+	text: [
+		"The Polonium Insert protects ",
+		"- 10% of all damage",
+		"- 75% explosion",
+		"At the cost of -10% speed and radioactivity of 100 RAD / sec.",
+		"It has a durability of 500.",
+		"",
+		"Its applicable to the Insert slot of any chestplate."
+	],
+	dependencies: [
+		"cffbc629"
+	],
+	tasks: [{
+		uid: "e26155b1",
+		type: "item",
+		items: [{
+			item: "hbm:insert_polonium"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
