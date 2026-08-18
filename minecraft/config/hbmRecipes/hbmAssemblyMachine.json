@@ -3837,8 +3837,8 @@
     {
       "name": "ass.warheadvolcano",
       "inputItem": [
-        ["dict","plateTripleTitanium",12],
-        ["dict","plateTripleSteel",6],
+        ["dict","plateTitanium",24],
+        ["dict","plateSteel",16],
         ["item","hbm:det_nuke",3],
         ["dict","blockUranium238",24],
         ["item","hbm:circuit",5,10]
