@@ -5,7 +5,7 @@
 	text: [
 		"AMMOOOOOOOO! (with weapons)",
 		"",
-		"(recipe has been replaced by Me: Copper ingots for tungsten; Iron ingots for titanium plates; And Stone for Stone Bricks. This balances progression)"
+		"(custom recipe)"
 	],
 	dependencies: [
 		"e4708a01"
