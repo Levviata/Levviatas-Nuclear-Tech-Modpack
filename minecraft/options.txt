@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:240
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -148,7 +148,7 @@ key_Dynamic Lights toggle:38
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_gnetum.config.keyMapping:207
-key_keybind.groovyscript.reload:199
+key_keybind.groovyscript.reload:51
 key_keybind.groovyscript.quick_reload:52
 key_keybind.groovyscript.copy:0
 key_waila.keybind.wailaconfig:82
