@@ -1021,6 +1021,24 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
+crafting.shapedBuilder()
+        .output(item('hbm:spinny_light'))
+        .row(' B ')
+        .row('BAB')
+        .row(' B ')
+        .key('A', item('hbm:circuit'))
+        .key('B', ore('blockGlass'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:gun_double_barrel'))
+        .row('BAB')
+        .key('A', item('hbm:part_mechanism:34'))
+        .key('B', item('hbm:gun_maresleg_akimbo'))
+        .register()
+recipeCount++
+
 crafting.replaceShapeless(item('hbm:missile_taint'), [item('hbm:missile_assembly'), ore('container1000watz'), item('hbm:powder_spark_mix'), item('hbm:powder_magic')])
 replacedCount++
 crafting.addShapeless(item('hbm:taint') * 4, [ore('dirt') * 4, ore('container1000watz'), item('hbm:powder_spark_mix'), item('hbm:powder_magic')])
