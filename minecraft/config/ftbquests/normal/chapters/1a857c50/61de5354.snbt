@@ -2,8 +2,11 @@
 	title: "Desh Tools",
 	x: 1.5d,
 	y: 4.5d,
+	description: "Infinite durability",
 	text: [
-		""
+		"All desh tools have infinite durability and are immune to fire and any other item voiding (I added that).",
+		"",
+		"Hopefully you never get infected by the unicorn!"
 	],
 	dependencies: [
 		"5b1b40f1"
@@ -47,6 +50,6 @@
 	rewards: [{
 		uid: "a7efbe32",
 		type: "xp",
-		xp: 10
+		xp: 50
 	}]
 }
