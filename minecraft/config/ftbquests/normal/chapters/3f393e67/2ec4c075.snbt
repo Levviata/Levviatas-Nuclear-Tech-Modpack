@@ -18,5 +18,10 @@
 		uid: "ad8cff9a",
 		type: "item",
 		item: "minecraft:baked_potato"
+	},
+	{
+		uid: "492c8af8",
+		type: "xp",
+		xp: 10
 	}]
 }
