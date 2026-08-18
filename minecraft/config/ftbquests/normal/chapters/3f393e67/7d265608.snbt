@@ -21,5 +21,15 @@
 		uid: "94de3d5c",
 		type: "fluid",
 		fluid: "peroxide"
+	}],
+	rewards: [{
+		uid: "1881193c",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 35"
+	},
+	{
+		uid: "5e2d4ea3",
+		type: "xp",
+		xp: 50
 	}]
 }
