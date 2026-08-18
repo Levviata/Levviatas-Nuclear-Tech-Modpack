@@ -5,7 +5,7 @@
 	text: [
 		"The Boiler is a machine that can boil Water to produce Steam.",
 		"",
-		"The Steam Condensor turns Low-Pressure Steam into Water.",
+		"The Steam Condensor turns Low-Pressure Steam into Water at a rate of 100mB / tick.",
 		"",
 		"Steam is a handy thing because it powers powerful machines like the Steam Engine or the Rotatory Furnace.",
 		"",
