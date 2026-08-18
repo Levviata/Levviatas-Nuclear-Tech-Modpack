@@ -42,7 +42,7 @@ For Cleanroom, scroll down to its section.
   - Security Armor tweaked
   - Fluid Identifier uses a cheaper circuit
   - Fix Taint Missile using forge's default fluid bucket
-  - Re-added recipes for:
+  - Added recipes for:
     - mp_fuselage_15_balefire
     - mp_warhead_15_thermo
     - warhead_thermo_exo
