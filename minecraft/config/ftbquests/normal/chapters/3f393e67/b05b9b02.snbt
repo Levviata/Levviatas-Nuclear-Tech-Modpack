@@ -4,18 +4,13 @@
 	shape: "hexagon",
 	description: "Factorio r us",
 	text: [
-		"The Assembly Machine (a.k.a Assembler) is the most important machine in the Nuclear Tech Mod. All other important machines or items are made using the Assembly Machine.",
+		"The Assembly Machine is the mother of all others.",
 		"",
-		"It requires electricity just as any other machine, to connect it to your grid take a look at the sides of the physical machine, you will see several ugly, gray mario-like pipes, these accept liquid and electricity.",
+		"To operate it will require power, the side ports of the machine accept fluids and power.",
 		"",
-		"The Assembler is a crafting table with more steps, you place the required items in the grid (you may also insert  liquids) and after specificing the recipe it starts crafting.",
+		"Inside, the recipe must be choosen from the booklet at the bottom and then the ingredients need to be placed on the grid at the left, the machine accepts fluids.",
 		"",
-		"In the GUI, you will be able to intuite the grid and result of the machine, there is a liquid meter as well (for recipes that require Solvent or other), to the bottom of the machine you may select your recipe, to the right is the electricity, simple.",
-		"(note: You do not require a Machine Template Folder to select a recipe anymore).",
-		"",
-		"You may craft this machine in your Steel Anvil, it's crafting cost is fair.",
-		"",
-		"This machine may be inserted with upgrades (ex: Speed Upgrade Mk.I)."
+		"Can be upgraded. "
 	],
 	dependencies: [
 		"64546c02"
