@@ -1,0 +1,37 @@
+{
+	x: 10.0d,
+	y: 27.0d,
+	shape: "pentagon",
+	dependencies: [
+		"1e3fe10c"
+	],
+	tasks: [{
+		uid: "83424d4e",
+		type: "item",
+		items: [{
+			item: "hbm:radaway"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "116eb8a1",
+		type: "item",
+		item: "hbm:radaway",
+		count: 8
+	},
+	{
+		uid: "170f7d22",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "44a7c3d0",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "ccfec360",
+		type: "loot",
+		table: 2
+	}]
+}
