@@ -1,6 +1,11 @@
 {
 	x: 2.0d,
 	y: 9.0d,
+	text: [
+		"The Electric Groundwater Pump does the same as a Steam pump but with power. ",
+		"",
+		"Must be placed on top of 3x3 dirt and at sea level."
+	],
 	dependencies: [
 		"c747e73b"
 	],
