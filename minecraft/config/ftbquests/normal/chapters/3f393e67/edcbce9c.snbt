@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:machine_intake"
 		}]
+	}],
+	rewards: [{
+		uid: "0393616c",
+		type: "xp",
+		xp: 50
 	}]
 }
