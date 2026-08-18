@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 3.5d,
+	description: "§e§nRequires:§r§e Burner Press",
+	text: [
+		"The M65-Z Gas Mask is a direct upgrade from leather additionally protecting from Eye Irritants and 9% radiation."
+	],
+	dependencies: [
+		"9b8a4cff"
+	],
+	tasks: [{
+		uid: "228efeac",
+		type: "item",
+		items: [{
+			item: "hbm:gas_mask_m65"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
