@@ -3,7 +3,9 @@
 	y: 4.0d,
 	description: "§e§nRequires:§r§e SAPI insert",
 	text: [
-		""
+		"The SAPI Insert protects 20% from Projectiles and 5% of all damage, its inserted in the Insert slot of the chestplate and it has 2000 durability.",
+		"",
+		"Its successor is the XSAPI Insert."
 	],
 	dependencies: [
 		"2208844f"
