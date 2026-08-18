@@ -1,0 +1,28 @@
+{
+	x: 19.0d,
+	y: 9.0d,
+	description: "Removed",
+	text: [
+		"Ghiorsium-336 is an end game radioactive metal present in the base mod.",
+		"",
+		"I have replaced it for Lead-209 due to its redundancy.",
+		"",
+		"It made",
+		"- Ghiorsium Cladding and Insert. "
+	],
+	dependencies: [
+		"087e7212"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "4e4a1d89",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_gh336"
+		}]
+	},
+	{
+		uid: "f5536dd5",
+		type: "checkmark"
+	}]
+}
