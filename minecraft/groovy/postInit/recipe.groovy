@@ -1021,6 +1021,11 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
+crafting.replaceShapeless(item('hbm:missile_taint'), [item('hbm:missile_assembly'), ore('container1000watz'), item('hbm:powder_spark_mix'), item('hbm:powder_magic')])
+replacedCount++
+crafting.addShapeless(item('hbm:taint') * 4, [ore('dirt') * 4, ore('container1000watz'), item('hbm:powder_spark_mix'), item('hbm:powder_magic')])
+recipeCount++
+
 // no one told me this thing doesnt work and I've been including it for the past 6 months as a working mechanic
 // remove unused item
 crafting.removeByOutput(item('hbm:template_folder'))
