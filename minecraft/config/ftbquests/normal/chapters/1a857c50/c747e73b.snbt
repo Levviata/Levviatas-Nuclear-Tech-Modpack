@@ -3,7 +3,7 @@
 	y: 6.0d,
 	description: "Tier 3",
 	text: [
-		""
+		"The Desh Anvil is able to process materials into their plate counterpart, removing the need of a Burner Press for plates."
 	],
 	dependencies: [
 		"5b1b40f1"
