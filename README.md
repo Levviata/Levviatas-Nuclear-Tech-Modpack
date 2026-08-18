@@ -31,11 +31,37 @@ For Cleanroom, scroll down to its section.
 ## Features
 - 20 quest chapters with over +1300 quests, quests with quality information, also pretty patterns 😏
 
-- 117 custom recipes that implement QoL, rebalances, and Nuclear Tech / Refined Storage compatibility.
+- 119 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+  - Railgun and Deuterium Plasma Capsule
+  - Taint
+  - Lung Diagnostic
+  - Mkunicorn
+  - Paa Hazmat suit to Paa Battle suit
+  - Shimmer tools use CMB Steel and Euphemium
+  - All Meteorite Sword recipes (custom)
+  - Security Armor tweaked
+  - Fluid Identifier uses a cheaper circuit
+  - Fix Taint Missile using forge's default fluid bucket
+  - Added recipes for:
+    - mp_fuselage_15_balefire
+    - mp_warhead_15_thermo
+    - warhead_thermo_exo
+    - warhead_thermo_endo
+    - missile_exo
+    - missile_endo
+    - missile_n2
+    - warhead_n2
+    - mp_warhead_15_mirv
+    - mp_fuselage_10_long_kerosene
+    - warhead_mirvlet
+    - mp_warhead_15_volcano
+    - Neutron Reflector (crafting table)
 
-- Re-added old recipes and tweaked some other. For example:
-  - Fix Balefire Thruster having the recipe of the Short thruster.
-  - Added recipe for Railgun and Deuterium Plasma Capsule to the Plasma Forge
+- Fixed some recipe issues present in base Nuclear Tech:
+  - Balefire Thruster having the recipe of the Short thruster.
+  - ass.mpf10solidlong and ass.mpf10kerolong both giving the normal fuselage instead of the long.
+
+(fixed next update)
 
 - 3 custom Resource Packs with new textures for swords and tools.
 
