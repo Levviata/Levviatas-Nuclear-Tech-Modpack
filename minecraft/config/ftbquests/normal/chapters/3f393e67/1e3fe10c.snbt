@@ -1,6 +1,10 @@
 {
 	x: 8.5d,
 	y: 26.5d,
+	description: "Handful to have at all times!",
+	text: [
+		"RadAway is a consumable that clears radiation contamination from the player, this is the first tier."
+	],
 	dependencies: [
 		"974fcf0f"
 	],
@@ -10,5 +14,11 @@
 		items: [{
 			item: "hbm:radaway"
 		}]
+	}],
+	rewards: [{
+		uid: "13395c71",
+		type: "item",
+		item: "hbm:radaway",
+		count: 3
 	}]
 }
