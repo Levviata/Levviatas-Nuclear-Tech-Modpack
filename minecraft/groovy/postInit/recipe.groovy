@@ -1011,8 +1011,8 @@ recipeCount++
 recipeCount++
 recipeCount++
 
-// pink fluid
-crafting.addShapeless(item('hbm:syringe_mkunicorn'), [item('hbm:nugget_euphemium'), item('hbm:syringe_empty')])
+// pink fluid, contains traces amounts of geass hatred
+crafting.addShapeless(item('hbm:syringe_mkunicorn'), [item('hbm:nugget_euphemium'), item('hbm:watch'), item('hbm:syringe_empty')])
 recipeCount++
 
 // processor hbmified
