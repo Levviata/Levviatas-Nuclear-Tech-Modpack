@@ -2,7 +2,9 @@
 	x: 7.5d,
 	y: 27.0d,
 	text: [
-		"Rubber Cladding is an upgradable accessory which protects 5% of radiation intake."
+		"Rubber Cladding is an upgradable accessory which gives +0.05 radiation protection.",
+		"",
+		"Its inserted in the Cladding slot of any armor piece."
 	],
 	dependencies: [
 		"974fcf0f"
