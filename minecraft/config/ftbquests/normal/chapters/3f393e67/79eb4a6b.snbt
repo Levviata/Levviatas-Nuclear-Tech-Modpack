@@ -20,9 +20,8 @@
 		}]
 	}],
 	rewards: [{
-		uid: "cd52ad32",
-		type: "item",
-		item: "hbm:rocket_fuel",
-		count: 16
+		uid: "1551da1c",
+		type: "random",
+		table: 3
 	}]
 }

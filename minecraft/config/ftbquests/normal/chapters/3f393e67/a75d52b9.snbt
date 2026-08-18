@@ -23,28 +23,18 @@
 		}]
 	}],
 	rewards: [{
-		uid: "74d3fabb",
-		type: "item",
-		title: "Sawmill Explosion Inducing Cube",
-		item: "hbm:rocket_fuel",
-		count: 4
-	},
-	{
 		uid: "24eaf2f5",
 		type: "item",
 		item: "hbm:pink_planks"
 	},
 	{
-		uid: "5025b6eb",
-		type: "item",
-		item: {
-			id: "hbm:grenade_universal",
-			tag: {
-				shell: 0,
-				filling: 0,
-				fuze: 3,
-				extra: 2
-			}
-		}
+		uid: "85f6643e",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "eb198df8",
+		type: "random",
+		table: 3
 	}]
 }
