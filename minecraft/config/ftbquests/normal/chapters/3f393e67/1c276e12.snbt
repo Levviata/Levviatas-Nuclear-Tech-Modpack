@@ -37,5 +37,10 @@
 		uid: "45044381",
 		type: "item",
 		item: "hbm:stamp_obsidian_flat"
+	},
+	{
+		uid: "6ce43077",
+		type: "xp",
+		xp: 50
 	}]
 }
