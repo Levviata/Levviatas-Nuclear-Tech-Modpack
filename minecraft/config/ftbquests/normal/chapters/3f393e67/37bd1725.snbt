@@ -1,6 +1,11 @@
 {
 	x: 8.5d,
 	y: 28.0d,
+	text: [
+		"The Lead Cladding gives +0.1 radiation protection.",
+		"",
+		"Its inserted in the Cladding slot of any armor piece."
+	],
 	dependencies: [
 		"63deb109"
 	],
