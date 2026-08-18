@@ -4,7 +4,9 @@
 	y: -5.5d,
 	shape: "pentagon",
 	text: [
-		"The gas from the Estradiol Solution may turn players into something bizarre."
+		"The gas from the Estradiol Solution may turn players into something bizarre.",
+		"",
+		"Do not look under the skirt, I warn you! Do not look!"
 	],
 	dependencies: [
 		"0dd396a4"
