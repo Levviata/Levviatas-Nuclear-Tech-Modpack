@@ -3,7 +3,9 @@
 	y: 2.0d,
 	description: "§e§nRequires:§r§e ESAPI Insert",
 	text: [
-		""
+		"The XSAPI Insert protects 25% from Projectiles and 10% of all damage, its inserted in the Insert slot of the chestplate and it has 2500 durability.",
+		"",
+		"Its absolute successor is the Yharonite Insert."
 	],
 	dependencies: [
 		"0a012d55"
