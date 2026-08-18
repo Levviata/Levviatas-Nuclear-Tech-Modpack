@@ -1,6 +1,18 @@
 {
 	x: -2.0d,
 	y: 2.0d,
+	text: [
+		"Light Oil is a good combustible valuable for its use in Desh alloying and obtaining Kerosene.",
+		"",
+		"It can make",
+		"- Desh",
+		"- Kerosene and Diesel",
+		"- Coker Gas",
+		"- Solid Fuel (at a good ratio)",
+		"- Chemical Dyes",
+		"",
+		"Its quite useful."
+	],
 	dependencies: [
 		"893c81c8"
 	],
