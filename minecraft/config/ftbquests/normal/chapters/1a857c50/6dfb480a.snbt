@@ -1,6 +1,9 @@
 {
 	x: -5.5d,
 	y: -2.5d,
+	text: [
+		"Polymer Bars are an extremely useful material used in all sorts of machines, guns, and items."
+	],
 	dependencies: [
 		"bf9ecf70"
 	],
