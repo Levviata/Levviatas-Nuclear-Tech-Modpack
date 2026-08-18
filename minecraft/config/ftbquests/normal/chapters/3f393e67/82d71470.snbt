@@ -73,11 +73,6 @@
 		count: 18
 	},
 	{
-		uid: "02fe5acc",
-		type: "item",
-		item: "hbm:dust"
-	},
-	{
 		uid: "0119648a",
 		type: "item",
 		item: "hbm:therm_exo"
@@ -93,5 +88,10 @@
 		type: "item",
 		item: "minecraft:chest",
 		count: 4
+	},
+	{
+		uid: "bd9e4fe0",
+		type: "xp",
+		xp: 100
 	}]
 }
