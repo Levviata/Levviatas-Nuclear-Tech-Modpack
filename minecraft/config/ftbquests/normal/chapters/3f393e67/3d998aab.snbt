@@ -1,6 +1,18 @@
 {
 	x: -1.0d,
 	y: 31.0d,
+	text: [
+		"Liquid Hydrogen is used to process",
+		"- Deicer",
+		"- Any Hydrotreater recipe",
+		"- Niobium and Tantalite",
+		"- Bedrock ore",
+		"- Ionic gel",
+		"- Heavy Oil",
+		"- Uzh Billet",
+		"",
+		"Its easy to obtain and its useful"
+	],
 	dependencies: [
 		"f6c76b50"
 	],
@@ -16,5 +28,15 @@
 		uid: "252ee1b3",
 		type: "fluid",
 		fluid: "hydrogen"
+	}],
+	rewards: [{
+		uid: "d28e061a",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 38"
+	},
+	{
+		uid: "e2fcedd7",
+		type: "xp",
+		xp: 50
 	}]
 }
