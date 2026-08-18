@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 23.5d,
+	dependencies: [
+		"9dad60c8"
+	],
+	tasks: [{
+		uid: "1641e832",
+		type: "item",
+		items: [{
+			item: "hbm:gun_double_barrel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
