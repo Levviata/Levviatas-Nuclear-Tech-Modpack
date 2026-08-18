@@ -1,8 +1,11 @@
 {
+	title: "Fluid Tanks",
 	x: 2.5d,
 	y: 6.0d,
 	text: [
-		"The Universal Fluid Tank can hold 1000mB (1 bucket) of any non-hazardous fluid like water or hydrogen peroxide"
+		"The Universal Fluid Tank can hold 1000mB (1 bucket) of any non-hazardous fluid like water or hydrogen peroxide",
+		"",
+		"The Canister can hold the same amount of any petrochemical or fuel."
 	],
 	dependencies: [
 		"e4708a01"
@@ -14,6 +17,14 @@
 			item: "hbm:fluid_tank_empty"
 		}],
 		count: 8L
+	},
+	{
+		uid: "78fe6ecc",
+		type: "item",
+		items: [{
+			item: "hbm:canister_empty"
+		}],
+		count: 2L
 	}],
 	rewards: [{
 		uid: "9c53476e",
@@ -25,5 +36,11 @@
 		type: "item",
 		item: "hbm:fluid_tank_empty",
 		count: 32
+	},
+	{
+		uid: "bec47d4b",
+		type: "item",
+		item: "hbm:canister_empty",
+		count: 12
 	}]
 }
