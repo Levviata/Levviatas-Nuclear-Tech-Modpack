@@ -16,5 +16,16 @@
 			item: "hbm:grenade_shell"
 		}],
 		count: 4L
+	}],
+	rewards: [{
+		uid: "e56219ee",
+		type: "item",
+		item: "hbm:grenade_shell 1 1",
+		count: 4
+	},
+	{
+		uid: "ebc36d2b",
+		type: "xp",
+		xp: 30
 	}]
 }
