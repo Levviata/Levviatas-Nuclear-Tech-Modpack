@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "bac0a5ff",
+		type: "item",
+		items: [{
+			item: "hbm:machine_storage_drum"
+		}]
+	}]
+}
