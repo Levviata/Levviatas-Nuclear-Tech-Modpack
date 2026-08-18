@@ -17,5 +17,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c8f0150d",
+		type: "item",
+		item: "hbm:cladding_obsidian"
 	}]
 }
