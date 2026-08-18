@@ -3,7 +3,7 @@
 	y: 8.0d,
 	description: "§e§nRequires:§r§e Polymer",
 	text: [
-		""
+		"The Industrial Boiler has higher capacity and will not explode if full."
 	],
 	dependencies: [
 		"c747e73b"
