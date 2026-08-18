@@ -1,6 +1,16 @@
 {
 	x: -2.0d,
 	y: -2.0d,
+	text: [
+		"Heavy Oil is a bad combustile that can make Bitumen and Industrial Oil.",
+		"",
+		"It can make",
+		"- Coker Oil",
+		"- Coal Gasoline",
+		"- Oil tar",
+		"",
+		"Not that useful. Good to make Bitumen and then Asphalt, which increases your walking speed."
+	],
 	dependencies: [
 		"893c81c8"
 	],
