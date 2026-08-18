@@ -1,6 +1,9 @@
 {
 	x: 2.5d,
 	y: 6.0d,
+	text: [
+		"The Universal Fluid Tank can hold 1000mB (1 bucket) of any non-hazardous fluid like water or hydrogen peroxide"
+	],
 	dependencies: [
 		"e4708a01"
 	],
