@@ -12,6 +12,13 @@
 		type: "item",
 		items: [{
 			item: "hbm:fluid_barrel_empty"
-		}]
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "a8c2c993",
+		type: "item",
+		item: "hbm:fluid_barrel_empty",
+		count: 8
 	}]
 }
