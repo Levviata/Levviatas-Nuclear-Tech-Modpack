@@ -20,13 +20,18 @@
 		}]
 	}],
 	rewards: [{
-		uid: "9d42d045",
-		type: "item",
-		item: "hbm:pollution_detector"
-	},
-	{
 		uid: "6eacce15",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "3a3f0da1",
+		type: "random",
+		table: 5
+	},
+	{
+		uid: "75286267",
+		type: "xp",
+		xp: 300
 	}]
 }
