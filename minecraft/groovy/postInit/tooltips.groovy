@@ -70,4 +70,11 @@ event_manager.listen { ItemTooltipEvent event ->
         event.getToolTip() << 'Tier: 4 / 4'
         event.getToolTip() << 'Capacity: 1.000.000 items'
     }
+    if (event.getItemStack() in item('hbm:gun_drill')) {
+        event.getToolTip() << 'Fuels:'
+        event.getToolTip() << '- Gasoline'
+        event.getToolTip() << '- Leaded Gasoline'
+        event.getToolTip() << '- Coal Gasoline'
+        event.getToolTip() << '- Leaded Coal Gasoline'
+    }
 }
