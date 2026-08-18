@@ -27,5 +27,10 @@
 		uid: "06899072",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "4f13e546",
+		type: "xp",
+		xp: 30
 	}]
 }
