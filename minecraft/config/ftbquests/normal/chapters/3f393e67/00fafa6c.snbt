@@ -19,9 +19,8 @@
 		"",
 		"- A special anvil, made from either iron or lead.",
 		"",
-		"- A machine template folder, made from paper and any dye.",
 		"",
-		"In addition, if you don't like pain (though I know you do), you can make an Iron Furnace and a Bricked Furnace, they are optional but they work good for their special purposes."
+		"In addition, if you don't like pain (though I know you do), you can make an Iron Furnace and a Bricked Furnace."
 	],
 	dependencies: [
 		"40511d59"
