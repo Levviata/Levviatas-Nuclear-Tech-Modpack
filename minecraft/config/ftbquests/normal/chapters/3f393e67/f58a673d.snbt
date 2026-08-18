@@ -1,9 +1,25 @@
 {
-	x: 5.5d,
-	y: 24.0d,
+	title: "Pollution",
+	x: 5.5535714285714235d,
+	y: 23.92857142857143d,
+	shape: "hexagon",
+	description: "and Detector!",
+	text: [
+		"The Pollution Detector shows you how much pollution is accumulated near you.",
+		"",
+		"Pollution is a mechanic that determines how quickly your world will perish, including you.",
+		"There are three types:",
+		"",
+		"- Soot, the most common, produced from burning fossil fuels. It will increase mob health and strength and at high levels it will be visible as smog.",
+		"",
+		"- Poison, product of spilling some petrochemicals or CO2. Will poison unprotected entities at high levels.",
+		"",
+		"- Heavy Metal, comes from combustion of leaded fuels. Will increase mob strength and harm entities at high levels."
+	],
 	dependencies: [
 		"974fcf0f"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "e91b9a72",
 		type: "item",
@@ -12,5 +28,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b3ffaa79",
+		type: "xp",
+		xp: 50
 	}]
 }
