@@ -23,5 +23,10 @@
 		uid: "c7c63afd",
 		type: "item",
 		item: "hbm:barrel_steel"
+	},
+	{
+		uid: "69e310b3",
+		type: "xp",
+		xp: 50
 	}]
 }
