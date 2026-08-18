@@ -1,0 +1,14 @@
+{
+	x: 20.0d,
+	y: 9.0d,
+	dependencies: [
+		"087e7212"
+	],
+	tasks: [{
+		uid: "fd697322",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_pb209"
+		}]
+	}]
+}
