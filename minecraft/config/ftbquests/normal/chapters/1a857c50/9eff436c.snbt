@@ -21,5 +21,15 @@
 		uid: "b74d553b",
 		type: "xp",
 		xp: 500
+	},
+	{
+		uid: "26582740",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "4bff2607",
+		type: "choice",
+		table: 5
 	}]
 }
