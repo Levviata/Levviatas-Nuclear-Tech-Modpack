@@ -1039,6 +1039,32 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
+// Ghiorsium
+crafting.shapedBuilder()
+        .name(resource('hbm:insert_ghiorsium'))
+        .output(item('hbm:insert_ghiorsium'))
+        .row('ABA')
+        .row('BCB')
+        .row('ABA')
+        .key('A', item('hbm:ducttape'))
+        .key('B', item('hbm:ingot_pb209'))
+        .key('C', item('hbm:ingot_u238'))
+        .replaceByName()
+        .register()
+crafting.shapedBuilder()
+        .name(resource('hbm:cladding_ghiorsium'))
+        .output(item('hbm:cladding_ghiorsium'))
+        .row('ABA')
+        .row('BCB')
+        .row('ABA')
+        .key('A', item('hbm:ducttape'))
+        .key('B', item('hbm:ingot_pb209'))
+        .key('C', item('hbm:cladding_desh'))
+        .replaceByName()
+        .register()
+replacedCount++
+replacedCount++
+
 crafting.replaceShapeless(item('hbm:missile_taint'), [item('hbm:missile_assembly'), ore('container1000watz'), item('hbm:powder_spark_mix'), item('hbm:powder_magic')])
 replacedCount++
 crafting.addShapeless(item('hbm:taint') * 4, [ore('dirt') * 4, ore('container1000watz'), item('hbm:powder_spark_mix'), item('hbm:powder_magic')])
