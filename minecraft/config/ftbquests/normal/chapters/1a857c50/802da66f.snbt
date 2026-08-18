@@ -1,6 +1,11 @@
 {
 	x: 0.0d,
 	y: 9.0d,
+	text: [
+		"The Auxiliary Cooling Tower converts Low-Pressure Steam into water at a rate of 1.000mB / tick.",
+		"",
+		"Its about 10 Condensers in one."
+	],
 	dependencies: [
 		"c747e73b"
 	],
