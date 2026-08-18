@@ -3,7 +3,9 @@
 	x: -1.0d,
 	y: 18.5d,
 	text: [
-		"The Smokestack is a large machine used to reduce pollution "
+		"The Smokestack is a large machine used to reduce pollution up to 75%.",
+		"",
+		"To process polluting fluids, connect your machine's chimney or gas output port with an exhaust port to any side of the Smokestack."
 	],
 	dependencies: [
 		"86867f7a"
@@ -14,5 +16,10 @@
 		items: [{
 			item: "hbm:chimney_brick"
 		}]
+	}],
+	rewards: [{
+		uid: "0539b42b",
+		type: "xp",
+		xp: 50
 	}]
 }
