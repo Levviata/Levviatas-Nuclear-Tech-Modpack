@@ -1,6 +1,9 @@
 {
 	x: 7.5d,
 	y: 24.0d,
+	text: [
+		"The Super Stimpak heals you 25 hearts but slows you for 10 seconds."
+	],
 	dependencies: [
 		"974fcf0f"
 	],
@@ -10,5 +13,11 @@
 		items: [{
 			item: "hbm:syringe_metal_super"
 		}]
+	}],
+	rewards: [{
+		uid: "62b3a823",
+		type: "item",
+		item: "hbm:syringe_metal_super",
+		count: 3
 	}]
 }
