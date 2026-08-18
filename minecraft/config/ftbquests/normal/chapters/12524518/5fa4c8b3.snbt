@@ -1,0 +1,21 @@
+{
+	x: 20.5d,
+	y: 10.5d,
+	text: [
+		"The Ghiorsium Cladding gives +0.5 radiation protection.",
+		"",
+		"Its inserted in the Cladding slot in any equipment piece."
+	],
+	dependencies: [
+		"8dd04e58"
+	],
+	tasks: [{
+		uid: "eb2cacb9",
+		type: "item",
+		items: [{
+			item: "hbm:cladding_ghiorsium"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
