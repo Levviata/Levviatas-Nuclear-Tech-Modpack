@@ -998,6 +998,29 @@ crafting.shapedBuilder()
         .register()
 replacedCount++
 
+crafting.shapedBuilder()
+        .output(item('hbm:det_n2'))
+        .row('ACA')
+        .row('CBC')
+        .row('ACA')
+        .key('A', item('hbm:plate_polymer'))
+        .key('B', item('hbm:c4'))
+        .key('C', item('hbm:n2_charge'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:det_bale'))
+        .row('ABA')
+        .row('DCD')
+        .row('ABA')
+        .key('A', item('hbm:neutron_reflector'))
+        .key('B', item('hbm:circuit:13'))
+        .key('C', item('hbm:egg_balefire_shard'))
+        .key('D', item('hbm:det_charge'))
+        .register()
+recipeCount++
+
 // no one told me this thing doesnt work and I've been including it for the past 6 months as a working mechanic
 // remove unused item
 crafting.removeByOutput(item('hbm:template_folder'))
