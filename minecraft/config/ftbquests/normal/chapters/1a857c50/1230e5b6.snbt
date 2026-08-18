@@ -1,6 +1,11 @@
 {
 	x: -9.0d,
 	y: 12.0d,
+	text: [
+		"The Kevlar Insert protects 10% from Projectiles, its inserted in the Insert slot of the chestplate and it has 1500 durability.",
+		"",
+		"Its successor is the SAPI insert."
+	],
 	dependencies: [
 		"490eaf83"
 	],
