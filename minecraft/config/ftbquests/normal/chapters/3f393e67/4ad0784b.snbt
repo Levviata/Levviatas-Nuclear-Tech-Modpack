@@ -1,0 +1,25 @@
+{
+	x: -4.0d,
+	y: 13.5d,
+	text: [
+		"The Heavy Steel Insert protects ",
+		"- 5% Projectiles",
+		"- 25% Explosion",
+		"At the cost of -5% speed.",
+		"It has a durability of 1000.",
+		"",
+		"Its applicable to the Insert slot of any chestplate."
+	],
+	dependencies: [
+		"1d5fb329"
+	],
+	tasks: [{
+		uid: "10ae364e",
+		type: "item",
+		items: [{
+			item: "hbm:insert_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
