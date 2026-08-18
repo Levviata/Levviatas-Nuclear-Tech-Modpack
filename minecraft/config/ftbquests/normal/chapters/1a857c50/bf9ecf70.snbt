@@ -1,6 +1,15 @@
 {
 	x: -3.5d,
 	y: -1.5d,
+	text: [
+		"Petroleum Gas is a decent gaseous combustible used to make Polymers and Perfluoromethyl.",
+		"",
+		"It can make",
+		"- Antiknock Agent",
+		"- Rocket Propellant",
+		"- Nitroglycerin",
+		"- Fracking Solution"
+	],
 	dependencies: [
 		"893c81c8"
 	],
