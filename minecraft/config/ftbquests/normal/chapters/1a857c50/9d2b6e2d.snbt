@@ -1,0 +1,26 @@
+{
+	x: 2.5d,
+	y: -3.5d,
+	text: [
+		"The DU Insert protects",
+		"- 10% all damage",
+		"- 15% projectiles",
+		"- 50% explosion",
+		"At the cost of -10% speed.",
+		"It has a durability of 1500.",
+		"",
+		"Applicable to the Insert slot of any chestplate."
+	],
+	dependencies: [
+		"6d882b87"
+	],
+	tasks: [{
+		uid: "287d7d2d",
+		type: "item",
+		items: [{
+			item: "hbm:insert_du"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
