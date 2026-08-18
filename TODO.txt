@@ -1,3 +1,7 @@
 Add recipes for
 - hbm:det_n2 and hbm:det_bale
 - hbm:taint
+(if i see any possible angle)
+- hbm:thermo_unit_empty
+- hbm:thermo_unit_endo
+- hbm:thermo_unit_exo
