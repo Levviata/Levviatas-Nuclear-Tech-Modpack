@@ -4,7 +4,7 @@
 	text: [
 		"The Chemical Plant is a fluid refinery that can make a ton of useful fluids, it's used until the end game, that's how useful it is.",
 		"",
-		"Note: All quests involving fluids will require a bucket of fluid or a pipette to complete, the quest will show the fluid icon and then the amount needed to submit"
+		"Note: All quests involving fluids will require a 1 Bucket to complete, the quest will show the fluid icon with the amount to submit, it will be refunded."
 	],
 	dependencies: [
 		"8a25fa82"
