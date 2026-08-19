@@ -2,6 +2,7 @@
 	title: "Bismuth Tools",
 	x: 5.0d,
 	y: 7.0d,
+	description: "§e§nRequires:§r§e Starmetal tools",
 	text: [
 		""
 	],
