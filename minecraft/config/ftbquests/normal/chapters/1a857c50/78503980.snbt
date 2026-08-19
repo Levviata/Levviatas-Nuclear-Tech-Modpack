@@ -15,8 +15,8 @@
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "1c6b522f",
-		type: "xp",
-		xp: 500
+		uid: "bce1cfc9",
+		type: "xp_levels",
+		xp_levels: 30
 	}]
 }
