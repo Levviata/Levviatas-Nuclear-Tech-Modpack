@@ -48,5 +48,28 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9963c8db",
+		type: "item",
+		item: {
+			id: "hbm:gas_mask_filter_combo",
+			tag: {
+				RepairCost: 3,
+				ench: [{
+					id: 34s,
+					lvl: 3s
+				},
+				{
+					id: 70s,
+					lvl: 1s
+				}]
+			}
+		}
+	},
+	{
+		uid: "71823d7f",
+		type: "random",
+		table: 2
 	}]
 }
