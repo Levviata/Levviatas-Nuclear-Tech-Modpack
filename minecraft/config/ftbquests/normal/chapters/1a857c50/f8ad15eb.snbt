@@ -1,6 +1,12 @@
 {
 	x: -1.5d,
 	y: -16.5d,
+	text: [
+		"Will hover mid-air giving a creative-ish flight, Sneaking will stop it. ",
+		"Hovering will consume less fuel while inceasing mobility.",
+		"",
+		"Can toggled any time with key C."
+	],
 	dependencies: [
 		"b96d27d1"
 	],
@@ -17,6 +23,12 @@
 	rewards: [{
 		uid: "0891ba66",
 		type: "xp",
-		xp: 20
+		xp: 100
+	},
+	{
+		uid: "b0c8f21a",
+		type: "item",
+		item: "hbm:fluid_barrel_full 1 22",
+		count: 4
 	}]
 }
