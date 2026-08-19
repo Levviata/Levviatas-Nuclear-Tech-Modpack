@@ -1,6 +1,14 @@
 {
 	x: 5.0d,
 	y: 12.5d,
+	text: [
+		"The Cable Drum connects pylon between themselves so that they may share power.",
+		"",
+		"Right-click pylon to connect.",
+		"Right-click any block to show distance.",
+		"Shift-Right-click to set start pylon.",
+		"Shift-Right-click any block to clear start pylon."
+	],
 	dependencies: [
 		"bab8ed3d"
 	],
