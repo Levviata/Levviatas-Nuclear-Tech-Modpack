@@ -17,6 +17,18 @@
 	rewards: [{
 		uid: "5e6cdb53",
 		type: "xp",
-		xp: 20
+		xp: 50
+	},
+	{
+		uid: "90f2f262",
+		type: "item",
+		item: "hbm:ore_copper",
+		count: 8
+	},
+	{
+		uid: "96c15f71",
+		type: "item",
+		item: "minecraft:redstone",
+		count: 24
 	}]
 }
