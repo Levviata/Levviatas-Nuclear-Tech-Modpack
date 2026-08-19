@@ -20,6 +20,18 @@
 	rewards: [{
 		uid: "fcdf8933",
 		type: "xp",
-		xp: 20
+		xp: 50
+	},
+	{
+		uid: "b291dfe0",
+		type: "item",
+		item: "hbm:powder_flux",
+		count: 32
+	},
+	{
+		uid: "78fff4f8",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 8
 	}]
 }
