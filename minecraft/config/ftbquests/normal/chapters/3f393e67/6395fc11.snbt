@@ -5,8 +5,9 @@
 	text: [
 		"Gray and boring but efective, gives 99% radiation resistance."
 	],
+	hide_dependency_lines: true,
 	dependencies: [
-		"be6e8b4c"
+		"974fcf0f"
 	],
 	tasks: [{
 		uid: "37db2944",

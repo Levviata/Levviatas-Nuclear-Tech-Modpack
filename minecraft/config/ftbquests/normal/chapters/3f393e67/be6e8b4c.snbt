@@ -5,8 +5,9 @@
 	text: [
 		"Hazmat Suit but red, gives 90% radiation resistance"
 	],
+	hide_dependency_lines: true,
 	dependencies: [
-		"c38e5713"
+		"974fcf0f"
 	],
 	tasks: [{
 		uid: "322508e3",
