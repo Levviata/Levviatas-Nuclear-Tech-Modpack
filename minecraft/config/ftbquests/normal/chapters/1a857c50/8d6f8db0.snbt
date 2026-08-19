@@ -23,5 +23,16 @@
 		items: [{
 			item: "hbm:plate_paa"
 		}]
+	}],
+	rewards: [{
+		uid: "ff1d57b0",
+		type: "xp",
+		xp: 50
+	},
+	{
+		uid: "69da988f",
+		type: "item",
+		item: "hbm:plate_mixed",
+		count: 8
 	}]
 }
