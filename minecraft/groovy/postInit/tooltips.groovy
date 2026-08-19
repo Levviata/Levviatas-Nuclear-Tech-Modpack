@@ -77,4 +77,8 @@ event_manager.listen { ItemTooltipEvent event ->
         event.getToolTip() << '- Coal Gasoline'
         event.getToolTip() << '- Leaded Coal Gasoline'
     }
+    if (event.getItemStack() in item('hbm:insert_doxium')) {
+        event.getToolTip() << 'Bitch you like that huh'
+        event.getToolTip() << '"painful gex sounds"'
+    }
 }
