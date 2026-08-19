@@ -2,6 +2,9 @@
 	icon: "hbm:gun_lasrifle",
 	x: 10.0d,
 	y: -4.5d,
+	text: [
+		"The Laser Rifle deals 50 damage and its ammo is Capacitors (not the circuits)."
+	],
 	dependencies: [
 		"f90a1d32"
 	],
