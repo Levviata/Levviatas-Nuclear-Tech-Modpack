@@ -29,7 +29,7 @@
 	rewards: [{
 		uid: "9c53476e",
 		type: "xp",
-		xp: 10
+		xp: 20
 	},
 	{
 		uid: "bd82bc34",
