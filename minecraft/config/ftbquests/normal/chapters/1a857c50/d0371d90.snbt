@@ -54,6 +54,12 @@
 	rewards: [{
 		uid: "a026ed7e",
 		type: "xp",
-		xp: 20
+		xp: 200
+	},
+	{
+		uid: "51c02131",
+		type: "item",
+		item: "hbm:ingot_bismuth",
+		count: 12
 	}]
 }
