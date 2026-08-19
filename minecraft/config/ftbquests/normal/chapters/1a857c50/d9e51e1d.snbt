@@ -52,5 +52,10 @@
 		uid: "d5f0b38d",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "9b980eca",
+		type: "item",
+		item: "hbm:block_starmetal"
 	}]
 }
