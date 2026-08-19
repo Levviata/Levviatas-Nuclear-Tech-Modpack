@@ -1,6 +1,10 @@
 {
 	x: 17.0d,
 	y: -2.5d,
+	description: "The ultimate Jetpack!",
+	text: [
+		"Come closer to godhood with the ability to fly as you wish."
+	],
 	dependencies: [
 		"741702f6"
 	],
