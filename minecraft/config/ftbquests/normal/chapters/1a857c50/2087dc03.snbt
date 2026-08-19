@@ -1,6 +1,11 @@
 {
 	x: 1.0d,
 	y: -7.0d,
+	text: [
+		"The Coker Unit cooks petrochemicals into new products.",
+		"",
+		"It can make Petroleum Coke which is coal but better."
+	],
 	dependencies: [
 		"03f4949c"
 	],
@@ -11,5 +16,16 @@
 		items: [{
 			item: "hbm:machine_coker"
 		}]
+	}],
+	rewards: [{
+		uid: "01b5033d",
+		type: "item",
+		item: "hbm:coke 1 2",
+		count: 16
+	},
+	{
+		uid: "2907b554",
+		type: "xp",
+		xp: 50
 	}]
 }
