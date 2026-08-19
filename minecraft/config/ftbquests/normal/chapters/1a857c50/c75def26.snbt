@@ -1,6 +1,9 @@
 {
 	x: -11.166666666666664d,
 	y: -4.092261904761905d,
+	text: [
+		"The Tank is the golden rule of fluid storage and it can hold 256000mB (256 Buckets) of any non-hazardous or antimatter fluid."
+	],
 	dependencies: [
 		"017d61b7"
 	],
