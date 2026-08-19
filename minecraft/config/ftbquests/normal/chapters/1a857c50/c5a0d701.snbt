@@ -40,5 +40,17 @@
 		uid: "086ca50b",
 		type: "random",
 		table: 1
+	},
+	{
+		uid: "a6d78454",
+		type: "item",
+		item: "hbm:ingot_pvc",
+		count: 48
+	},
+	{
+		uid: "774e9583",
+		type: "item",
+		item: "hbm:ingot_pc",
+		count: 48
 	}]
 }
