@@ -10,5 +10,15 @@
 		items: [{
 			item: "hbm:ring_starmetal"
 		}]
+	}],
+	rewards: [{
+		uid: "95184a5b",
+		type: "xp",
+		xp: 50
+	},
+	{
+		uid: "5f4f7344",
+		type: "item",
+		item: "hbm:block_starmetal"
 	}]
 }
