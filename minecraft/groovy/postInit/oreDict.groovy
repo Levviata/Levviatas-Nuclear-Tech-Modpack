@@ -11,6 +11,16 @@ oreDict.add('stoneResource', item('hbm:stone_resource:3'))
 oreDict.add('stoneResource', item('hbm:stone_resource:4'))
 oreDict.add('stoneResource', item('hbm:stone_resource:5'))
 
+oreDict.add('insert', item('hbm:insert_du'))
+oreDict.add('insert', item('hbm:insert_esapi'))
+oreDict.add('insert', item('hbm:insert_sapi'))
+oreDict.add('insert', item('hbm:insert_xsapi'))
+oreDict.add('insert', item('hbm:insert_kevlar'))
+oreDict.add('insert', item('hbm:insert_polonium'))
+oreDict.add('insert', item('hbm:insert_steel'))
+oreDict.add('insert', item('hbm:insert_yharonite'))
+oreDict.add('insert', item('hbm:insert_era'))
+
 oreDict.add('coal', item('minecraft:coal'))
 oreDict.add('coal', item('hbm:powder_coal'))
 
