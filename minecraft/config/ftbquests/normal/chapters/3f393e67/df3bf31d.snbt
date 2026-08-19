@@ -16,5 +16,15 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0715dbb0",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "656c7b7d",
+		type: "item",
+		item: "hbm:gas_mask_filter"
 	}]
 }
