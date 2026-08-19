@@ -1,6 +1,6 @@
 {
-	x: 0.5d,
-	y: 2.5d,
+	x: 0.0654761904761898d,
+	y: 2.19047619047619d,
 	description: "Upgrade it now! (thunder)",
 	text: [
 		"The Pumpjack is an oil extracting machine, its faster than the Derrick and can extract Bedrock Oil"

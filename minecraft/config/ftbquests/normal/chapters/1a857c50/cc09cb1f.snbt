@@ -1,6 +1,6 @@
 {
-	x: -3.0d,
-	y: -4.0d,
+	x: -2.5059523809523867d,
+	y: -4.238095238095234d,
 	text: [
 		"Asphalt is a block that increases player movement by 50% when walked on."
 	],
