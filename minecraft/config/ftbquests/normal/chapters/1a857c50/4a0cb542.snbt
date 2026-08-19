@@ -1,6 +1,14 @@
 {
 	x: 10.0d,
 	y: -7.5d,
+	text: [
+		"The Tau Cannon deals 25 damage and its ammo is Depleted Uranium-235 Boxes (which is crafted with u238 funnily).",
+		"",
+		"The charged shot deals less damage than the quick shot, for some reason.",
+		"",
+		"Trivia:",
+		"- Its a replica of Half-Life's Tau Cannon."
+	],
 	dependencies: [
 		"f90a1d32"
 	],
