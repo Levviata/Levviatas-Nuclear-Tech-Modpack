@@ -68,5 +68,10 @@
 		uid: "dc1151e3",
 		type: "random",
 		table: 3
+	},
+	{
+		uid: "849af51f",
+		type: "xp",
+		xp: 100
 	}]
 }

@@ -33,5 +33,10 @@
 		type: "item",
 		item: "hbm:ingot_biorubber",
 		count: 16
+	},
+	{
+		uid: "0c071d5c",
+		type: "xp",
+		xp: 20
 	}]
 }

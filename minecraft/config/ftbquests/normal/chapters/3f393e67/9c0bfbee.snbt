@@ -58,5 +58,10 @@
 		type: "item",
 		item: "hbm:ingot_red_copper",
 		count: 12
+	},
+	{
+		uid: "34debd4c",
+		type: "xp",
+		xp: 40
 	}]
 }

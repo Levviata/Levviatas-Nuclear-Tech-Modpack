@@ -23,5 +23,10 @@
 		type: "item",
 		item: "hbm:fluid_tank_empty",
 		count: 8
+	},
+	{
+		uid: "7fdf1834",
+		type: "xp",
+		xp: 20
 	}]
 }

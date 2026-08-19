@@ -50,5 +50,10 @@
 		uid: "563e349c",
 		type: "item",
 		item: "hbm:gas_tester"
+	},
+	{
+		uid: "ac312c7d",
+		type: "xp",
+		xp: 40
 	}]
 }

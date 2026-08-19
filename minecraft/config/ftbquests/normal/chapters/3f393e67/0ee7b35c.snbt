@@ -22,5 +22,10 @@
 		uid: "c8f0150d",
 		type: "item",
 		item: "hbm:cladding_obsidian"
+	},
+	{
+		uid: "6fc9cf0c",
+		type: "xp",
+		xp: 20
 	}]
 }

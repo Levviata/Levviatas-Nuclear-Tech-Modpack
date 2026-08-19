@@ -33,5 +33,10 @@
 		type: "item",
 		item: "hbm:conveyor_wand",
 		count: 32
+	},
+	{
+		uid: "4d453be0",
+		type: "xp",
+		xp: 20
 	}]
 }

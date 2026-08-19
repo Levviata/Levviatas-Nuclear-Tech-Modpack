@@ -29,5 +29,10 @@
 		uid: "29bc1e97",
 		type: "item",
 		item: "hbm:crashed_bomb 1 1"
+	},
+	{
+		uid: "e1c3965b",
+		type: "xp",
+		xp: 20
 	}]
 }

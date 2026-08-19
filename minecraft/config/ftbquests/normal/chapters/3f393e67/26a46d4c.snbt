@@ -29,5 +29,10 @@
 		type: "item",
 		item: "hbm:ball_dynamite",
 		count: 16
+	},
+	{
+		uid: "5a48de64",
+		type: "xp",
+		xp: 20
 	}]
 }
