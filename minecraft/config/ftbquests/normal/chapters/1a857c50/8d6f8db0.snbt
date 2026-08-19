@@ -1,6 +1,12 @@
 {
+	title: "Mixed Plates and PaA",
 	x: 15.5d,
-	y: 1.0d,
+	y: 2.0d,
+	text: [
+		"Mixed Plates make PaA by alloying them with Gold in a Blast Furnace.",
+		"",
+		"PaA is the best hazmat material in the game, making the PaA hazmat and reinforced armors."
+	],
 	dependencies: [
 		"0a012d55"
 	],
@@ -9,6 +15,13 @@
 		type: "item",
 		items: [{
 			item: "hbm:plate_mixed"
+		}]
+	},
+	{
+		uid: "9791f78c",
+		type: "item",
+		items: [{
+			item: "hbm:plate_paa"
 		}]
 	}]
 }
