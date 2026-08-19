@@ -2,9 +2,6 @@
 	x: 5.0d,
 	y: 10.0d,
 	shape: "hexagon",
-	dependencies: [
-		"64591f01"
-	],
 	size: 1.5d,
 	tasks: [{
 		uid: "d4d9b59f",
