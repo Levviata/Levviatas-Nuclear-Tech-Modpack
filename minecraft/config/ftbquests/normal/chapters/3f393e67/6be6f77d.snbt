@@ -48,6 +48,12 @@
 	rewards: [{
 		uid: "4bffe9eb",
 		type: "xp",
-		xp: 20
+		xp: 150
+	},
+	{
+		uid: "71c208b6",
+		type: "item",
+		item: "hbm:ingot_meteorite",
+		count: 8
 	}]
 }
