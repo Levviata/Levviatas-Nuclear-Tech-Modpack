@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:ingot_saturnite"
 		}]
+	}],
+	rewards: [{
+		uid: "d9087270",
+		type: "xp",
+		xp: 100
 	}]
 }

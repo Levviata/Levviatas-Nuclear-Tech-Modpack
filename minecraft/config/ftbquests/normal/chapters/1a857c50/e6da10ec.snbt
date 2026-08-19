@@ -1,5 +1,5 @@
 {
-	x: 15.5d,
+	x: 15.61309523809524d,
 	y: 1.0d,
 	description: "§e§nRequires:§r§e ESAPI Insert",
 	text: [
@@ -18,5 +18,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7db81d40",
+		type: "xp",
+		xp: 50
 	}]
 }

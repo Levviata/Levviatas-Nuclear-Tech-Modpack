@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:ingot_starmetal"
 		}]
+	}],
+	rewards: [{
+		uid: "7594bf86",
+		type: "xp",
+		xp: 200
 	}]
 }

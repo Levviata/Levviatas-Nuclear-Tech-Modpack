@@ -13,5 +13,10 @@
 		items: [{
 			item: "hbm:nugget_arsenic"
 		}]
+	}],
+	rewards: [{
+		uid: "2b7d12ef",
+		type: "xp",
+		xp: 100
 	}]
 }

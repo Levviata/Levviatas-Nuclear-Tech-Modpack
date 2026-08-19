@@ -22,5 +22,10 @@
 		items: [{
 			item: "hbm:ammo_standard 1 70"
 		}]
+	}],
+	rewards: [{
+		uid: "423f239e",
+		type: "xp",
+		xp: 100
 	}]
 }
