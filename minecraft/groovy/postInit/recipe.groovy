@@ -873,6 +873,27 @@ crafting.shapedBuilder()
         .register()
 replacedCount++
 
+crafting.shapedBuilder()
+        .output(item('hbm:defuser_desh'))
+        .row(' AS')
+        .row('A A')
+        .row(' A ')
+        .key('A', ore('ingotAnyPlastic'))
+        .key('S', item('hbm:ingot_desh'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:insert_doxium'))
+        .row('AAA')
+        .row('ABA')
+        .row('AAA')
+        .key('A', ore('container1000estradiol'))
+        .key('B', ore('insert'))
+        .register()
+recipeCount++
+
+
 // security armor, base recipes suck
 crafting.shapedBuilder()
         .name(resource('hbm:security_helmet'))
