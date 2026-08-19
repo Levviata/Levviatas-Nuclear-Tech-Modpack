@@ -117,5 +117,11 @@
 		type: "item",
 		item: "hbm:ingot_starmetal",
 		count: 16
+	},
+	{
+		uid: "1eb8ae1e",
+		type: "item",
+		item: "hbm:block_starmetal",
+		count: 4
 	}]
 }
