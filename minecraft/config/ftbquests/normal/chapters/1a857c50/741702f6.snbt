@@ -1,6 +1,12 @@
 {
 	x: 15.5d,
 	y: -2.0d,
+	text: [
+		"As fuel it uses BF Rocket Fuel.",
+		"Higher mobility with increased fuel consumption.",
+		"",
+		"Can toggled any time with key C."
+	],
 	dependencies: [
 		"0a012d55",
 		"a56d197f"
