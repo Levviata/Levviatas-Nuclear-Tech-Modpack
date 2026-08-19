@@ -1,6 +1,9 @@
 {
 	x: -7.517857142857132d,
 	y: -1.8214285714285552d,
+	text: [
+		"The large Fluid Container can hold 32000mB (32 Buckets) of any fluid, hazardous and antimatter included."
+	],
 	dependencies: [
 		"6dfb480a"
 	],
@@ -14,6 +17,6 @@
 	rewards: [{
 		uid: "2c20d38f",
 		type: "xp",
-		xp: 20
+		xp: 50
 	}]
 }
