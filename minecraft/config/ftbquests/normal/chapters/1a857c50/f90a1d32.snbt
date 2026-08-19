@@ -3,7 +3,18 @@
 	y: -6.0d,
 	description: "§e§nRequires:§r§e Any Hard Plastic, Solvent",
 	text: [
-		""
+		"The Versatile Circuit Board is the best tier of circuit available. ",
+		"",
+		"It can make end-game weapons and machines, for example",
+		"- Tau Cannon",
+		"- Laser Rifle",
+		"- Watz Pressure Pump",
+		"- Neutrino Lens",
+		"- Pyrolysis Oven",
+		"- Exposure Chamber",
+		"- Particle Accelerator",
+		"- Plasma Forge",
+		"- And more."
 	],
 	dependencies: [
 		"1efd7841"
