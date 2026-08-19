@@ -1,7 +1,8 @@
 {
 	title: "Large Electricity Pylon",
-	x: 4.0d,
-	y: 14.5d,
+	x: 4.482142857142861d,
+	y: 29.142857142857146d,
+	description: "§e§nRequires:§r§e Cable Drum",
 	text: [
 		"The best pylon for carrying electricity, has a range of 100 meters and can be connected up to four other of the same type.",
 		"",
@@ -10,8 +11,9 @@
 		"You may change the color of the cable connecting the pylons with dye."
 	],
 	dependencies: [
-		"d1b6b174"
+		"516dc394"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "ab448188",
 		type: "item",
@@ -44,5 +46,10 @@
 		type: "item",
 		item: "hbm:ingot_red_copper",
 		count: 8
+	},
+	{
+		uid: "20aec0d0",
+		type: "xp",
+		xp: 40
 	}]
 }
