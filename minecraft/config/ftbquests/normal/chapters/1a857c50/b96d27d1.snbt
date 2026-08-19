@@ -1,9 +1,19 @@
 {
 	x: -2.5d,
 	y: -15.5d,
+	text: [
+		"Needs to be fueled with Kerosene. To fill, place in any fluid storage as if you were to get a bucket of fluid out of the tank (the slot at the right).",
+		"",
+		"It can be fueled while operated using a Jetpack Reserve Fuel Tank, filling a bucket of fuel.",
+		"",
+		"Can be worn by itself or inserted into a chestplate in its Chestplate slot.",
+		"",
+		"Can toggled any time with key C."
+	],
 	dependencies: [
 		"37308693"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "87a3cf8d",
 		type: "item",
@@ -13,10 +23,25 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "c30b2644",
+		type: "item",
+		items: [{
+			item: "hbm:jetpack_tank"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "2c972dd0",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "e08d19f3",
+		type: "item",
+		item: "hbm:fluid_barrel_full 1 22",
+		count: 4
 	}]
 }
