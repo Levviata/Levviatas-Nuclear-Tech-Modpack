@@ -17,6 +17,11 @@
 		items: [{
 			item: "hbm:fluid_icon 1 88"
 		}]
+	},
+	{
+		uid: "7a45f9fb",
+		type: "fluid",
+		fluid: "radiosolvent"
 	}],
 	rewards: [{
 		uid: "08e4b863",
@@ -27,6 +32,11 @@
 	{
 		uid: "09252ea7",
 		type: "xp",
-		xp: 20
+		xp: 70
+	},
+	{
+		uid: "fa93601b",
+		type: "item",
+		item: "hbm:fluid_tank_lead_full 1 88"
 	}]
 }

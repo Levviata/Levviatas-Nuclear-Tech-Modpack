@@ -14,7 +14,16 @@
 	{
 		uid: "aea12f06",
 		type: "fluid",
-		fluid: "xylene",
-		amount: 1
+		fluid: "xylene"
+	}],
+	rewards: [{
+		uid: "23c30b60",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 95"
+	},
+	{
+		uid: "bc2232f7",
+		type: "xp",
+		xp: 70
 	}]
 }

@@ -17,36 +17,18 @@
 		}]
 	},
 	{
-		uid: "a5f6c85a",
-		type: "item",
-		items: [{
-			id: "hbm:pipette_laboratory",
-			tag: {
-				type: 131s,
-				fill: 50s,
-				capacity: 50s
-			}
-		}],
-		consume_items: true,
-		ignore_damage: true,
-		ignore_nbt: 1b
+		uid: "5fc2e4ae",
+		type: "fluid",
+		fluid: "fullerene"
 	}],
 	rewards: [{
-		uid: "1c11bbca",
+		uid: "9cda740b",
 		type: "item",
-		auto: "enabled",
-		item: {
-			id: "hbm:pipette_laboratory",
-			tag: {
-				type: 0s,
-				fill: 0s,
-				capacity: 50s
-			}
-		}
+		item: "hbm:fluid_tank_lead_full 1 131"
 	},
 	{
-		uid: "a6005acd",
+		uid: "d8c6c2c7",
 		type: "xp",
-		xp: 20
+		xp: 70
 	}]
 }
