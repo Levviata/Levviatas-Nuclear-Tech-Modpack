@@ -27,5 +27,11 @@
 		uid: "7e90bd2f",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "b36ff2d1",
+		type: "item",
+		item: "hbm:ingot_arsenic",
+		count: 16
 	}]
 }
