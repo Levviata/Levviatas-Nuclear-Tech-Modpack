@@ -847,6 +847,32 @@ crafting.shapedBuilder() // bring back old glory
         .register()
 replacedCount++
 
+// im not sure when i removed this recipe but im adding it back
+crafting.shapedBuilder()
+        .name(resource('hbm:defuser'))
+        .output(item('hbm:defuser'))
+        .row(' AS')
+        .row('ABA')
+        .row(' A ')
+        .key('A', ore('ingotAnyRubber'))
+        .key('S', item('hbm:plate_iron'))
+        .key('B', ore('dyeRed'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('hbm:wiring_red_copper'))
+        .output(item('hbm:wiring_red_copper'))
+        .row('SSS')
+        .row('SBS')
+        .row('SSS')
+        .key('S', ore('plateSteel'))
+        .key('B', ore('ingotMingrade'))
+        .replaceByName()
+        .register()
+replacedCount++
+
 // security armor, base recipes suck
 crafting.shapedBuilder()
         .name(resource('hbm:security_helmet'))
