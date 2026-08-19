@@ -22,5 +22,16 @@
 		items: [{
 			item: "hbm:crane_ejector"
 		}]
+	}],
+	rewards: [{
+		uid: "2383aba0",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "558b12cc",
+		type: "item",
+		item: "hbm:conveyor_wand",
+		count: 8
 	}]
 }
