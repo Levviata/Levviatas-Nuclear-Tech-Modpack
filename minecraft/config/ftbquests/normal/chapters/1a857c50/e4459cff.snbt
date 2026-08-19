@@ -20,5 +20,16 @@
 		items: [{
 			item: "hbm:machine_pyrooven"
 		}]
+	}],
+	rewards: [{
+		uid: "8cee7dc1",
+		type: "xp",
+		xp: 350
+	},
+	{
+		uid: "f46b4d5d",
+		type: "item",
+		item: "hbm:fluid_barrel_full 1 95",
+		count: 4
 	}]
 }
