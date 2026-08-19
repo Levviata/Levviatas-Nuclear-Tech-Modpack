@@ -1,6 +1,9 @@
 {
 	x: 10.0d,
 	y: 4.0d,
+	text: [
+		"The Ammo Bag can hold 8 stacks of any round, supplying any held weapon of its ammo."
+	],
 	dependencies: [
 		"2208844f"
 	],
