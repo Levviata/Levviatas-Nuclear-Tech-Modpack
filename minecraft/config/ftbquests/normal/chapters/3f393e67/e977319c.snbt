@@ -25,6 +25,12 @@
 		uid: "a4422ef4",
 		type: "item",
 		item: "hbm:plant_flower",
-		count: 8
+		count: 16
+	},
+	{
+		uid: "9b4720b9",
+		type: "item",
+		item: "minecraft:carrot",
+		count: 16
 	}]
 }
