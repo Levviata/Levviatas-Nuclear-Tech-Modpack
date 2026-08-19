@@ -3,7 +3,9 @@
 	y: -3.5d,
 	description: "§e§nRequires:§r§e Millitary Grade Circuit, Builder's Jetpack",
 	text: [
-		""
+		"The Vectored Jetpack offers higher mobility at the cost of higher fuel consumption.",
+		"",
+		"Can toggled any time with key C."
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -23,6 +25,12 @@
 	rewards: [{
 		uid: "ac4ad55e",
 		type: "xp",
-		xp: 20
+		xp: 100
+	},
+	{
+		uid: "19568942",
+		type: "item",
+		item: "hbm:fluid_barrel_full 1 22",
+		count: 6
 	}]
 }
