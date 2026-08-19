@@ -51,6 +51,11 @@
 	rewards: [{
 		uid: "b8a290a0",
 		type: "xp",
-		xp: 20
+		xp: 100
+	},
+	{
+		uid: "ddde3e91",
+		type: "item",
+		item: "hbm:block_starmetal"
 	}]
 }
