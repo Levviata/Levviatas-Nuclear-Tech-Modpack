@@ -15,5 +15,16 @@
 		items: [{
 			item: "hbm:crane_splitter"
 		}]
+	}],
+	rewards: [{
+		uid: "398028b3",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "966a8c8c",
+		type: "item",
+		item: "hbm:conveyor_wand",
+		count: 8
 	}]
 }
