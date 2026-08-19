@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:ingot_pc"
 		}]
+	}],
+	rewards: [{
+		uid: "249ac738",
+		type: "xp",
+		xp: 50
 	}]
 }
