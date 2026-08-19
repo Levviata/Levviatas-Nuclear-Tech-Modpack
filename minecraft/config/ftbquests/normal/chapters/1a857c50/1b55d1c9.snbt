@@ -21,6 +21,12 @@
 	rewards: [{
 		uid: "fd591175",
 		type: "xp",
-		xp: 20
+		xp: 60
+	},
+	{
+		uid: "0948ed43",
+		type: "item",
+		item: "hbm:ammo_standard 1 47",
+		count: 32
 	}]
 }
