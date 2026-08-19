@@ -22,5 +22,15 @@
 		uid: "3e699f6d",
 		type: "xp",
 		xp: 50
+	},
+	{
+		uid: "6c3f614c",
+		type: "item",
+		item: "hbm:crystal_phosphorus"
+	},
+	{
+		uid: "715068f2",
+		type: "random",
+		table: 1
 	}]
 }
