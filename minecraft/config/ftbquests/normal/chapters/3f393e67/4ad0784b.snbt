@@ -21,5 +21,16 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "838e7ddb",
+		type: "item",
+		item: "hbm:block_steel",
+		count: 3
+	},
+	{
+		uid: "fab1a90d",
+		type: "xp",
+		xp: 20
 	}]
 }
