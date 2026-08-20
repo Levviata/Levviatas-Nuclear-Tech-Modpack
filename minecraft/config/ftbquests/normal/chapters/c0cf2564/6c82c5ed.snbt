@@ -1,6 +1,9 @@
 {
 	x: -8.0d,
 	y: 9.0d,
+	text: [
+		"Serves as PWR coolant, reducing flux multiplier by -25%"
+	],
 	tasks: [{
 		uid: "9c7c9c89",
 		type: "item",
