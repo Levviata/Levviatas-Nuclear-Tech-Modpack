@@ -1,0 +1,16 @@
+{
+	x: 18.5d,
+	y: -6.0d,
+	dependencies: [
+		"b5bdadf2"
+	],
+	tasks: [{
+		uid: "b31be60e",
+		type: "item",
+		items: [{
+			item: "hbm:missile_soyuz_lander"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
