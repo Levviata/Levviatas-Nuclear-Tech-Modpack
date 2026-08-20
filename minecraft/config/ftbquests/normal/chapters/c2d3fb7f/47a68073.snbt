@@ -1,0 +1,93 @@
+{
+	title: "Nether Ores",
+	x: 12.0d,
+	y: 2.0d,
+	shape: "pentagon",
+	description: "Get them all!",
+	text: [
+		""
+	],
+	dependencies: [
+		"1a8fb84c",
+		"8cdca949",
+		"77faf5bc",
+		"5d4f69b0"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "d6c72fd2",
+		type: "item",
+		items: [{
+			item: "hbm:coal_infernal"
+		}],
+		count: 32L
+	},
+	{
+		uid: "e22023aa",
+		type: "item",
+		items: [{
+			item: "minecraft:quartz"
+		}],
+		count: 64L
+	},
+	{
+		uid: "b6828822",
+		type: "item",
+		items: [{
+			item: "hbm:sulfur"
+		}],
+		count: 24L
+	},
+	{
+		uid: "cb207d3a",
+		type: "item",
+		items: [{
+			item: "hbm:powder_fire"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "59b437ce",
+		type: "item",
+		item: "hbm:coal_infernal",
+		count: 80
+	},
+	{
+		uid: "d963807d",
+		type: "item",
+		item: "minecraft:quartz",
+		count: 126
+	},
+	{
+		uid: "39a31d93",
+		type: "item",
+		item: "hbm:sulfur",
+		count: 64
+	},
+	{
+		uid: "34ab2163",
+		type: "item",
+		item: "hbm:powder_fire",
+		count: 64
+	},
+	{
+		uid: "da5e77bb",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "22636bd0",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "4960dd72",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "f5c7d3bf",
+		type: "xp",
+		xp: 250
+	}]
+}
