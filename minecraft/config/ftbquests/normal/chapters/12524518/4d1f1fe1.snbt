@@ -1,6 +1,11 @@
 {
 	x: -5.5d,
 	y: 3.5d,
+	text: [
+		"The Containment Box seals any radioactive, pyrophiric, blinding material inside its inventory negating its effects.",
+		"",
+		"It can hold any item really."
+	],
 	tasks: [{
 		uid: "3424f7a1",
 		type: "item",
