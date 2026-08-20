@@ -1,6 +1,9 @@
 {
 	x: -3.5d,
 	y: 5.5d,
+	text: [
+		"The Nuclear Waste Disposal Drum safely contains and lets radioactive waste decay."
+	],
 	tasks: [{
 		uid: "bac0a5ff",
 		type: "item",
