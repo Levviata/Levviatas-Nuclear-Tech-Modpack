@@ -15,9 +15,24 @@
 	],
 	dependency_requirement: "one_completed",
 	size: 2.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "6c3b6b90",
 		type: "checkmark",
 		icon: "hbm:gun_pepperbox"
+	},
+	{
+		uid: "cb462bd0",
+		type: "item",
+		items: [{
+			item: "hbm:gun_pepperbox"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "75318a91",
+		type: "xp",
+		xp: 50
 	}]
 }
