@@ -3,7 +3,8 @@
 	y: 10.0d,
 	description: "§e§nRequires:§r§e Latex Bar",
 	text: [
-		"These tweezers may defuse small bombs like Time Bombs or bigger bombs like Duds (those rusted bombs that can be found in the overworld).",
+		"The Defuser can defuse bombs like Time Bombs or bigger bombs like Duds",
+		"(rusted bombs that can be found in the overworld).",
 		"",
 		"When Duds are defused they give you resources, like dynamite."
 	],
