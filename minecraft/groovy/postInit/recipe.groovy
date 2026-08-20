@@ -20,6 +20,19 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
+
+crafting.shapedBuilder()
+        .name(resource('hbm:ashglasses'))
+        .output(item('hbm:ashglasses'))
+        .row('A A')
+        .row('BCB')
+        .key('A', ore('ingotAnyRubber'))
+        .key('B', ore('blockGlassBlack'))
+        .key('C', ore('ingotAnyPlastic'))
+        .replaceByName()
+        .register()
+replacedCount++
+
 /* its good but i want players to be forced to use universal buckets
 crafting.shapedBuilder()
         .output(item('hbm:press_preheater'))
