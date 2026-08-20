@@ -2,9 +2,9 @@
 	x: -4.5d,
 	y: 18.0d,
 	text: [
-		"Needs a heat box below.",
+		"The Steel Furnace is able to smelt three ores at once with an added bonus of an extra ingot after smelting four of the same type.",
 		"",
-		"Able to smelt three ores at once and gives an extra ingot after smelting four of the same type."
+		"Needs a heat box below."
 	],
 	min_required_dependencies: 1,
 	dependencies: [
