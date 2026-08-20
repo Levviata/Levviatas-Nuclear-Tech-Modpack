@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: -5.0d,
+	dependencies: [
+		"b5bdadf2"
+	],
+	tasks: [{
+		uid: "7fa9dca9",
+		type: "item",
+		items: [{
+			item: "hbm:missile_bhole"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
