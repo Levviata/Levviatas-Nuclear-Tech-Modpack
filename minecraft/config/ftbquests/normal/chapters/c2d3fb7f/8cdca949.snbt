@@ -2,7 +2,7 @@
 	x: 11.0d,
 	y: 4.5d,
 	text: [
-		"Doesn't give you black lung and burns for 24 operations instead of 8 operations (normal coal)."
+		"Infernal Coal burns for 24 items instead of 8 items (normal coal)."
 	],
 	dependencies: [
 		"9bcc9848"
