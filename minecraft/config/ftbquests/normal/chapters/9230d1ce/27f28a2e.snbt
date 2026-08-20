@@ -2,7 +2,7 @@
 	x: 5.0d,
 	y: 0.5d,
 	text: [
-		""
+		"Ionized Particles are one of the last materials of progression being able to make schrabidium armor."
 	],
 	dependencies: [
 		"f547edc2",
