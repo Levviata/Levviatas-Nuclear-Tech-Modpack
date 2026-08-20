@@ -5,9 +5,19 @@
 	shape: "hexagon",
 	description: "Tier 1",
 	text: [
-		"This special Anvil comes in tiers and is able to craft important early game machines like the Blast Furnace.",
+		"The Nuclear Tech Anvil comes in tiers and is essential to progression.",
 		"",
-		"It can also recycle deco blocks like Steel Deco or Tungsten Deco in case you had some lying around, they give you back an ingot for 4 deco blocks."
+		"The Iron/Lead Anvil is able to make",
+		"- Deco Blocks",
+		"- Shells",
+		"- Pipes",
+		"- Ring Coils",
+		"- Motors",
+		"- Blast Furnace (machine)",
+		"- Stone and Iron Stamps (give form)",
+		"- Recycling",
+		"",
+		"It can also recycle deco blocks in case you had some lying around, they give you back an ingot for 4 deco blocks."
 	],
 	dependencies: [
 		"00fafa6c"
@@ -47,5 +57,10 @@
 		type: "item",
 		item: "hbm:ammo_standard 1 50",
 		count: 16
+	},
+	{
+		uid: "4dbecda6",
+		type: "xp",
+		xp: 50
 	}]
 }
