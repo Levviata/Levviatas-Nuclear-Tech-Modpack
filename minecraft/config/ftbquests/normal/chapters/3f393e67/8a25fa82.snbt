@@ -2,7 +2,9 @@
 	x: -6.0d,
 	y: 28.5d,
 	text: [
-		"The Analog Circuit is used for many things, "
+		"The Analog Circuit is the end of the Early game, being able to make the Derrick which starts the Oil Age.",
+		"",
+		"Its very useful."
 	],
 	dependencies: [
 		"51c4e232"
