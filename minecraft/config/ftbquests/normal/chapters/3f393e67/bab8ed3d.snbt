@@ -2,11 +2,9 @@
 	x: 3.0d,
 	y: 13.5d,
 	text: [
-		"The life of all power grids you will ever make in this modpack.",
+		"The Red Copper Cable conducts power through the grid.",
 		"",
-		"Your regular electricity cable, connects machines to power sources and power sources to machines.",
-		"",
-		"Some machines, like the Assembler, have certain ports where electricity may come in, they are located on the sides of the machine, kinda like a mario pipe but gray and ugly."
+		"Generators should be connected with batteries and capacitors."
 	],
 	dependencies: [
 		"cb1a89bb"
