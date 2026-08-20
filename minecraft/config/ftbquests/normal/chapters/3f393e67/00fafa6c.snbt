@@ -5,33 +5,13 @@
 	y: 4.0d,
 	shape: "rsquare",
 	text: [
-		"In this chapter I'll give you the tools needed to stay alive and make cool shit",
-		"",
-		"Items:",
-		"",
-		"- A leather gas mask, made from leather, glass panels, and iron",
-		"",
-		"-  A primitve gas mask filter, made from damp cloth and iron",
-		"",
-		"Machines:",
-		"",
-		"- A burner press, which is made from iron, a piston and a furnace",
-		"",
-		"- A special anvil, made from either iron or lead.",
-		"",
-		"",
-		"In addition, if you don't like pain (though I know you do), you can make an Iron Furnace and a Bricked Furnace."
+		""
 	],
 	dependencies: [
 		"40511d59"
 	],
 	size: 2.0d,
 	rewards: [{
-		uid: "822025c1",
-		type: "xp",
-		xp: 100
-	},
-	{
 		uid: "2c2f913d",
 		type: "random",
 		table: 1
