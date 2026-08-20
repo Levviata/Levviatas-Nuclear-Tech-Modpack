@@ -1,46 +1,44 @@
 {
+	title: "Flat Stamp",
 	x: 0.0d,
 	y: 8.0d,
 	text: [
 		"Craft a Flat Stamp of any material.",
 		"",
-		"They are used to make other types of stamps using the Machine Template Folder, like plate stamps or wire stamps.",
-		"",
-		"Obsidian is the second best material for stamps having a durability of 512, first being Desh with infinite durability."
+		"Stamps are molded using an anvil into different shapes to get plates, wires, circuits, or rounds."
 	],
 	hide_dependency_lines: true,
 	dependencies: [
 		"00fafa6c"
 	],
+	or_tasks: true,
 	tasks: [{
-		uid: "3b8eb466",
+		uid: "63b7e3ed",
 		type: "item",
 		items: [{
-			id: "itemfilters:filter",
-			tag: {
-				display: {
-					Name: "Any flatStamp"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "flatStamp"
-				}
-			}
+			item: "hbm:stamp_stone_flat"
 		}],
 		ignore_damage: true,
-		ignore_nbt: 1b,
-		only_from_crafting: false
-	}],
-	rewards: [{
-		uid: "45044381",
-		type: "item",
-		item: "hbm:stamp_obsidian_flat"
+		ignore_nbt: 1b
 	},
 	{
+		uid: "d828542a",
+		type: "item",
+		items: [{
+			item: "hbm:stamp_iron_flat"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
 		uid: "6ce43077",
 		type: "xp",
-		xp: 50
+		xp: 25
+	},
+	{
+		uid: "a733fce1",
+		type: "item",
+		item: "hbm:stamp_iron_flat",
+		count: 2
 	}]
 }
