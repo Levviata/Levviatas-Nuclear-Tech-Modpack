@@ -5,13 +5,13 @@
 	shape: "hexagon",
 	description: "Molten core!",
 	text: [
-		"Needs a heat box below.",
-		"",
-		"Turns ingots into liquid ingots which then can be cast by a Foundry Basin below the green outlet of the Crucible.",
+		"The Crucible turns ingots into liquid ingots which then can be cast by a Foundry Basin below the green outlet of the Crucible.",
 		"",
 		"The foundry basin needs a mold to work, hoppers can be attached to it.",
 		"",
-		"A hopper may be placed below a Foundry Basin to collect the produced cast."
+		"A hopper may be placed below a Foundry Basin to collect the produced cast.",
+		"",
+		"Needs a heat box below."
 	],
 	dependencies: [
 		"083d7aa0"
