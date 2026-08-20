@@ -1,11 +1,10 @@
 {
 	x: 3.5d,
 	y: 10.5d,
-	description: "(weapons included)",
 	text: [
-		"AMMOOOOOOOO! (with weapons)",
+		"The Ammo Press is able to make rounds using casings, a propellant, and metal.",
 		"",
-		"(custom recipe)"
+		"For guns, see the Weapons chapter!"
 	],
 	dependencies: [
 		"e4708a01"
@@ -18,18 +17,13 @@
 		}]
 	}],
 	rewards: [{
-		uid: "7cdbc73e",
-		type: "item",
-		item: "hbm:gun_light_revolver"
-	},
-	{
-		uid: "749eba79",
-		type: "item",
-		item: "hbm:gun_maresleg"
-	},
-	{
 		uid: "c68095cc",
 		type: "item",
 		item: "hbm:syringe_awesome"
+	},
+	{
+		uid: "82318e46",
+		type: "random",
+		table: 2
 	}]
 }
