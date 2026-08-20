@@ -81,4 +81,10 @@ event_manager.listen { ItemTooltipEvent event ->
         event.getToolTip() << 'Bitch you like that huh'
         event.getToolTip() << '"painful gex sounds"'
     }
+    if (event.getItemStack() in item('hbm:hand_drill')) {
+        event.getToolTip() << 'Hand Screw'
+    }
+    if (event.getItemStack() in item('hbm:hand_drill_desh')) {
+        event.getToolTip() << 'Desh Hand Screw'
+    }
 }
