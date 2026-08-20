@@ -1,6 +1,6 @@
 {
 	x: 8.5d,
-	y: 9.0d,
+	y: 3.0d,
 	dependencies: [
 		"97d44dd5"
 	],
@@ -10,5 +10,16 @@
 		items: [{
 			item: "minecraft:enchanting_table"
 		}]
+	}],
+	rewards: [{
+		uid: "3c62fbff",
+		type: "xp",
+		xp: 50
+	},
+	{
+		uid: "f80a2061",
+		type: "item",
+		item: "minecraft:leather",
+		count: 8
 	}]
 }

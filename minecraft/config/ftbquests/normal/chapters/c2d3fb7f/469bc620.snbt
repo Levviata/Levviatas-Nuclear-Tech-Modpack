@@ -1,6 +1,6 @@
 {
-	x: 0.0d,
-	y: 7.5d,
+	x: -1.0d,
+	y: 7.0d,
 	text: [
 		"Future MC is added to the modpack, it adds the Grindstone and the Smoker."
 	],

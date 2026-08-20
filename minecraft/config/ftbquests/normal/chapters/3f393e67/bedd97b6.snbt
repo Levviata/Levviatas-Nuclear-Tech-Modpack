@@ -1,6 +1,6 @@
 {
 	x: -1.0d,
-	y: 2.5d,
+	y: 2.0d,
 	text: [
 		"The Iron Furnace is slightly faster than the vanilla furnace, it can smelt ingredients within 8 seconds instead of 10.",
 		"",

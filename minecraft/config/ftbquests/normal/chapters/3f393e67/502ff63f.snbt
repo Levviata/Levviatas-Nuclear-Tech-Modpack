@@ -1,6 +1,6 @@
 {
-	x: -7.5d,
-	y: 27.0d,
+	x: -7.482142857142861d,
+	y: 26.892857142857146d,
 	text: [
 		"Machine Upgrades are a set of upgrades compatible with many machines, to make new upgrades you craft them with the Template.",
 		"",

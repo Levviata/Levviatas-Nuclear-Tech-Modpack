@@ -1,7 +1,7 @@
 {
 	title: "So it begins!",
 	x: 0.0d,
-	y: 0.0d,
+	y: 0.75d,
 	shape: "rsquare",
 	text: [
 		"In this chapter we will go through the Vanilla early game and the transition to Hbm's Nuclear Tech Mod's early game."

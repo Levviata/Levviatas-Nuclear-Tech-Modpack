@@ -1,6 +1,6 @@
 {
-	x: -4.5d,
-	y: -0.5d,
+	x: -5.892857142857146d,
+	y: -1.9880952380952337d,
 	text: [
 		"Conveyor Sorters are blocks that can sort various items to a specific conveyor belt. They do not have a buffer and simple move items to connected conveyor belts based on their filter options, therefore they can sort items as quickly as they receive them.",
 		"",
