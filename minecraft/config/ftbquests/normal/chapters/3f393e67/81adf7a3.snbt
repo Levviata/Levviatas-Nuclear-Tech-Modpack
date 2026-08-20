@@ -9,8 +9,10 @@
 		"You will need 4 Boilers to run this machine properly."
 	],
 	dependencies: [
+		"c587db7a",
 		"d992d315"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "a28e7ba7",
