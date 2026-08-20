@@ -7,7 +7,11 @@
 		"",
 		"You may put any of these heat generating boxes below a crucible or a stirling engine to heat them up.",
 		"",
-		"There are 3 heat boxes which you may make with a Steel Anvil, the Firebox being the cheapest but the worst, and the Fluid Burner being the best but expensive. ",
+		"There are 3 heat boxes which you may make ",
+		"- Firebox, burns solid fuels",
+		"- Fluid Burner, burns fluid fuels",
+		"- Heatin oven, burns solid fluels and can receive 50% heat unit from other ovens below.",
+		"",
 		"Later on you may make better heat boxes with a Desh Anvil."
 	],
 	dependencies: [
