@@ -1,26 +1,22 @@
 {
-	title: "Coal and Black Lung, Second Revision Edition",
-	icon: "minecraft:coal",
-	x: -6.5d,
+	title: "Black Lung and Mesothelioma, Second Revision Edition",
+	x: -6.0d,
 	y: 10.5d,
 	shape: "square",
-	description: "Inhale coal dust, exhale silicosis",
+	description: "Inhale airbone particles, exhale silicosis",
 	text: [
-		"Black Lung, or silicosis, is a disease added by Nuclear Tech Mod.",
+		"Black Lung and mesothelioma are diseases added by Nuclear Tech Mod.",
 		"",
-		"Upon mining coal ore, Coal Dust is spawned, which will destroy your lung health. Holding coal, coal powder, or lignite powder in your inventory also damages your lungs.",
+		"Upon mining coal ore, Coal Dust is spawned, which will destroy your lung health. ",
+		"Holding coal or asbestos powder in your inventory also damages your lungs.",
 		"",
-		"Prolonged inhalation of coal dust gives negative status effects such as Weakness and causes you to cough blood and soot at higher levels. ",
+		"Breathing particle dust will eventually kill you, giving Weakness and coughing blood at high levels. ",
 		"",
-		"When you are exposed to a lung hazard, a pop up on the top right of your screen will tell you that its harder to breath, this indicates your lungs are being damaged by airborne particles.",
+		"When you are exposed to a lung hazard, you will see a pop on the top-left corner of the screen.",
 		"",
-		"To counteract the lung damage, you can equip a Gas Mask with a filter that has the Airborne Particle trait to protect you from coal dust.",
+		"To avoid lung damage you can equip a Gas Mask fit with an appropriate filter.",
 		"",
-		"Using SiOX Cancer Medication or Herbal Paste will partially heal the disease, from which it will heal in about an hour.",
-		"",
-		"To check the status of your lungs, you can use the Lung Diagnostic item, it will tell you how much asbestos or coal damage your lungs have taken.",
-		"",
-		"(This modpack has added a recipe for the Lung Diagnostic item)."
+		"Using SiOX Cancer Medication or Herbal Paste will partially heal the diseases."
 	],
 	dependencies: [
 		"b271f214"
@@ -44,19 +40,16 @@
 		}]
 	},
 	{
-		uid: "e57ccac0",
-		type: "checkmark"
+		uid: "daa5af84",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_asbestos"
+		}]
 	}],
 	rewards: [{
-		uid: "638a5c47",
-		type: "item",
-		item: "hbm:lung_diagnostic"
-	},
-	{
 		uid: "c8bc2d6c",
 		type: "item",
-		item: "hbm:pill_herbal",
-		count: 4
+		item: "hbm:pill_herbal"
 	},
 	{
 		uid: "c1c24d82",
