@@ -13,5 +13,10 @@
 		items: [{
 			item: "minecraft:quartz"
 		}]
+	}],
+	rewards: [{
+		uid: "6ff3f576",
+		type: "xp",
+		xp: 40
 	}]
 }

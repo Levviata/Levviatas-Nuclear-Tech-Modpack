@@ -13,5 +13,10 @@
 		items: [{
 			item: "hbm:circuit 1 7"
 		}]
+	}],
+	rewards: [{
+		uid: "212504ca",
+		type: "xp",
+		xp: 100
 	}]
 }

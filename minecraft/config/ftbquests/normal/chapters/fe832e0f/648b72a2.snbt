@@ -12,5 +12,10 @@
 		items: [{
 			item: "hbm:mine_fat"
 		}]
+	}],
+	rewards: [{
+		uid: "8f65d822",
+		type: "xp",
+		xp: 100
 	}]
 }

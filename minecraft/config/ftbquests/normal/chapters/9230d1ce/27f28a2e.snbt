@@ -16,5 +16,10 @@
 		items: [{
 			item: "hbm:pellet_charged"
 		}]
+	}],
+	rewards: [{
+		uid: "011c6e7f",
+		type: "xp",
+		xp: 100
 	}]
 }

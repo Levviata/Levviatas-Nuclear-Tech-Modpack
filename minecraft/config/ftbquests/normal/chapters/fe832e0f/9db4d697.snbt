@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:mine_naval"
 		}]
+	}],
+	rewards: [{
+		uid: "7bb743b7",
+		type: "xp",
+		xp: 75
 	}]
 }

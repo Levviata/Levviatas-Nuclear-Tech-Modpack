@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:powder_fire"
 		}]
+	}],
+	rewards: [{
+		uid: "057dbfc7",
+		type: "xp",
+		xp: 40
 	}]
 }

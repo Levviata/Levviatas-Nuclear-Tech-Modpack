@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:mine_shrap"
 		}]
+	}],
+	rewards: [{
+		uid: "efbedcce",
+		type: "xp",
+		xp: 25
 	}]
 }

@@ -18,5 +18,10 @@
 		items: [{
 			item: "hbm:machine_rotary_furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "cce0c8cb",
+		type: "xp",
+		xp: 100
 	}]
 }

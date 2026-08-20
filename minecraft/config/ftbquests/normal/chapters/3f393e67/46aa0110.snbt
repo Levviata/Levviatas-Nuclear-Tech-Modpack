@@ -16,5 +16,10 @@
 		items: [{
 			item: "hbm:pump_steam"
 		}]
+	}],
+	rewards: [{
+		uid: "9b7dad2f",
+		type: "xp",
+		xp: 100
 	}]
 }

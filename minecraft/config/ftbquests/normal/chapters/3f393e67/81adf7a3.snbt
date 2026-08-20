@@ -23,5 +23,10 @@
 		uid: "708bf190",
 		type: "item",
 		item: "hbm:chocolate"
+	},
+	{
+		uid: "26341ccb",
+		type: "xp",
+		xp: 100
 	}]
 }

@@ -7,5 +7,10 @@
 		items: [{
 			item: "hbm:spinny_light"
 		}]
+	}],
+	rewards: [{
+		uid: "775a61fb",
+		type: "xp",
+		xp: 40
 	}]
 }

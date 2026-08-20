@@ -43,5 +43,10 @@
 		uid: "04de907a",
 		type: "item",
 		item: "hbm:attachment_mask"
+	},
+	{
+		uid: "d7ce3594",
+		type: "xp",
+		xp: 25
 	}]
 }

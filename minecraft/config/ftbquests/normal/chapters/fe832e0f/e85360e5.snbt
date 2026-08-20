@@ -15,5 +15,10 @@
 		items: [{
 			item: "hbm:mine_he"
 		}]
+	}],
+	rewards: [{
+		uid: "ce70129b",
+		type: "xp",
+		xp: 40
 	}]
 }

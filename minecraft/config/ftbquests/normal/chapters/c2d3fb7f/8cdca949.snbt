@@ -13,5 +13,10 @@
 		items: [{
 			item: "hbm:coal_infernal"
 		}]
+	}],
+	rewards: [{
+		uid: "8f530e6b",
+		type: "xp",
+		xp: 40
 	}]
 }

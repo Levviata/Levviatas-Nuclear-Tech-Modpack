@@ -13,5 +13,10 @@
 		items: [{
 			item: "hbm:sulfur"
 		}]
+	}],
+	rewards: [{
+		uid: "a1d94d53",
+		type: "xp",
+		xp: 40
 	}]
 }
