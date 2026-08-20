@@ -4,7 +4,8 @@
 	shape: "gear",
 	description: "Oil age or aged oil?",
 	text: [
-		"The Oil Derrick can extract oil deposits by being placed above them, a pipe will extrude from the derrick and dig into the ground until it reaches the oil. It will then extract Crude Oil and Natural Gas, the gas will be extracted at roughly 1/2 the quantity of oil.",
+		"The Oil Derrick can extract oil deposits by being placed above them, a pipe will extrude from the derrick and dig into the ground until it reaches the oil.",
+		"It will then extract Crude Oil and Natural Gas, the gas will be extracted at roughly 1/2 the quantity of oil.",
 		"",
 		"It can not extract bedrock oil."
 	],
