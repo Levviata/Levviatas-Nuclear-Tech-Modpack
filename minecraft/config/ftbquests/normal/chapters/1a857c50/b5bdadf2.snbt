@@ -1,14 +1,42 @@
 {
 	x: 15.0d,
 	y: -6.0d,
-	dependencies: [
-		"f90a1d32"
+	description: "§e§nRequires:§r§e Versatile Integrated Circuit",
+	text: [
+		"The Advanced Control Unit is an end game component, it has a main use in bombs.",
+		"",
+		"It can make",
+		"- Black Hole Missile",
+		"- Hunter Chopper (summoner)",
+		"- Ivy Mike",
+		"- Tsar Bomba",
+		"- The Prototype",
+		"- Balefire Bomb",
+		"- Custom Nuke",
+		"- Thermonuclear Warjead",
+		"- Orbital Module",
+		"- Death Ray"
 	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"1efd7841"
+	],
+	size: 1.25d,
 	tasks: [{
 		uid: "7c8f728b",
 		type: "item",
 		items: [{
 			item: "hbm:circuit 1 14"
 		}]
+	}],
+	rewards: [{
+		uid: "c698f876",
+		type: "item",
+		item: "hbm:upgrade_speed_3"
+	},
+	{
+		uid: "a458b7c5",
+		type: "xp",
+		xp: 100
 	}]
 }
