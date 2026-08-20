@@ -1,0 +1,36 @@
+{
+	x: -10.0d,
+	y: 28.5d,
+	shape: "octagon",
+	description: "The Automatic Calculator",
+	text: [
+		"The AUTOCAL is a machine that can process scripts to perform basic actions like math or RoR sending signals.",
+		"",
+		"The way to program the machine is with its own language: MS-ES1 ",
+		"",
+		"(MS-ES1 = Machine Script - Equestrian Standard, Version 1. It of course had something to do with the ponies)",
+		"",
+		"The machine itself has an embedded guide for it, its worth a read since its pretty complete and cool."
+	],
+	dependencies: [
+		"8a25fa82"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "4a79ccbb",
+		type: "item",
+		items: [{
+			item: "hbm:radio_autocal"
+		}]
+	}],
+	rewards: [{
+		uid: "3306e871",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "625a7287",
+		type: "item",
+		item: "hbm:plushie 1 1"
+	}]
+}
