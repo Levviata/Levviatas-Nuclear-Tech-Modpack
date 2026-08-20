@@ -22,5 +22,11 @@
 		uid: "867e2ad0",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "1718b2e0",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 14
 	}]
 }
