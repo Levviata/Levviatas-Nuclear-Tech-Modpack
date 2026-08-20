@@ -1,4 +1,5 @@
 {
+	title: "Plate and Wire Stamp",
 	x: 0.0d,
 	y: 12.0d,
 	text: [
@@ -6,7 +7,10 @@
 		"With wire stamps you make wires.",
 		"",
 		"You can make plates and wires of a variety of ingots, like steel, copper, iron, etc. ",
-		"You will be frequently making steel, iron, and copper plates and Minecraft Grade copper, and gold wires, specially Minecraft Grade wires since those are for Motors and Red Copper Cable"
+		"",
+		"You will be frequently making steel, iron, and copper plates and Minecraft Grade copper, and gold wires",
+		"",
+		"(especially Minecraft Grade wires since those are for Motors and Red Copper Cable)."
 	],
 	dependencies: [
 		"3aba74ab",
@@ -15,58 +19,42 @@
 	],
 	or_tasks: true,
 	tasks: [{
-		uid: "410a48ed",
+		uid: "ca269865",
 		type: "item",
 		items: [{
-			id: "itemfilters:filter",
-			tag: {
-				display: {
-					Name: "Any plateStamp"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "plateStamp"
-				}
-			}
+			item: "hbm:stamp_stone_wire"
+		},
+		{
+			item: "hbm:stamp_stone_plate"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
 	},
 	{
-		uid: "22a983a6",
+		uid: "d3082a47",
 		type: "item",
 		items: [{
-			id: "itemfilters:filter",
-			tag: {
-				display: {
-					Name: "Any wireStamp"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "wireStamp"
-				}
-			}
+			item: "hbm:stamp_iron_plate"
+		},
+		{
+			item: "hbm:stamp_iron_wire"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "92c18105",
-		type: "item",
-		item: "hbm:stamp_obsidian_plate"
-	},
-	{
-		uid: "041097f5",
-		type: "item",
-		item: "hbm:stamp_obsidian_wire"
-	},
-	{
 		uid: "5fc514aa",
 		type: "xp",
-		xp: 100
+		xp: 50
+	},
+	{
+		uid: "2cb72254",
+		type: "item",
+		item: "hbm:stamp_iron_plate"
+	},
+	{
+		uid: "6b464ca4",
+		type: "item",
+		item: "hbm:stamp_iron_wire"
 	}]
 }
