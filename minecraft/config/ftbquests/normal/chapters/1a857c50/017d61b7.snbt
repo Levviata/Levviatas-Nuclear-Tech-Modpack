@@ -1,6 +1,11 @@
 {
 	x: -9.5d,
 	y: -2.5d,
+	text: [
+		"The Industrial Solidification Machine can turn liquids into their solid form.",
+		"",
+		"Can make Solid Fuel."
+	],
 	dependencies: [
 		"6dfb480a"
 	],
