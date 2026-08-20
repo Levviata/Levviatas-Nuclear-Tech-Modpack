@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: -7.0d,
+	dependencies: [
+		"b5bdadf2"
+	],
+	tasks: [{
+		uid: "3f5076e4",
+		type: "item",
+		items: [{
+			item: "hbm:chopper"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
