@@ -3,9 +3,9 @@
 	y: 8.5d,
 	shape: "hexagon",
 	text: [
-		"The Burner Press uses fuel and a stamp to process metal. Stamps have limited durability, and will need to be replaced occasionally.",
+		"The Burner Press uses fuel and a stamp to process materials. Stamps have limited durability, and will need to be replaced occasionally.",
 		"",
-		"Once you have a plate stamp, put the stamp in the top slot of the press and any metal at the bottom, this will yield you a new material to grind; plates!"
+		"Once you have a molded stamp, put the stamp at the top slot and fuel the machine."
 	],
 	dependencies: [
 		"00fafa6c"
