@@ -1,0 +1,118 @@
+{
+	title: "Diamond Fan",
+	x: 7.412500000000023d,
+	y: 7.160714285714299d,
+	text: [
+		""
+	],
+	dependencies: [
+		"b6759c7c"
+	],
+	tasks: [{
+		uid: "934d6472",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3659e556",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1e2761d2",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "47b66bfb",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a42c1cfd",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "920b35a0",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ade8a197",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "529e27ec",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d99094d8",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d625cf68",
+		type: "xp",
+		xp: 200
+	},
+	{
+		uid: "24780be6",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "92b64f8d",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "fb0eb226",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "d7f7a89a",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 24
+	}]
+}
