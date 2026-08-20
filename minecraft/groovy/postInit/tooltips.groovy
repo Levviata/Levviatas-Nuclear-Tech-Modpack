@@ -48,7 +48,7 @@ event_manager.listen { ItemTooltipEvent event ->
         event.getToolTip() << 'Disabled by default.'
     }
     if (event.getItemStack() in item('hbm:machine_drain')) { // i keep searching it as venting pipe so im adding it.
-        event.getToolTip() << '(a.k.a Venting Pipe)'
+        event.getToolTip() << 'Venting Pipe'
     }
     if (event.getItemStack() in item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_elder_one']])) { // i keep searching it as venting pipe so im adding it.
         event.getToolTip() << '§c Will not die no matter what. Genuinely.'
