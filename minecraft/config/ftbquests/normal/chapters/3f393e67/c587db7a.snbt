@@ -1,8 +1,16 @@
 {
 	x: -8.0d,
 	y: 18.0d,
+	text: [
+		"The Solar Tower Boiler passively heats any fluid inside it through sunlight directed by Heliostat Mirrors.",
+		"",
+		"Can make Steam.",
+		"",
+		"Does not work in the night."
+	],
+	hide_dependency_lines: true,
 	dependencies: [
-		"81adf7a3"
+		"64546c02"
 	],
 	size: 1.5d,
 	tasks: [{
@@ -11,5 +19,27 @@
 		items: [{
 			item: "hbm:machine_solar_boiler"
 		}]
+	},
+	{
+		uid: "613a1518",
+		type: "item",
+		items: [{
+			item: "hbm:solar_mirror"
+		}],
+		count: 16L
+	},
+	{
+		uid: "f656320d",
+		type: "item",
+		items: [{
+			item: "hbm:mirror_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "64db028f",
+		type: "xp",
+		xp: 100
 	}]
 }
