@@ -1,6 +1,13 @@
 {
 	x: -4.5d,
 	y: 27.0d,
+	text: [
+		"The Lung Diagnostic tool informs you of the current health of your lungs.",
+		"",
+		"It how much damage your lungs have taken from",
+		"- Asbestos",
+		"- And coal dust."
+	],
 	dependencies: [
 		"8a25fa82"
 	],
