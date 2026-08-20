@@ -1,6 +1,11 @@
 {
 	x: -1.0d,
 	y: 0.0d,
+	text: [
+		"Lums with a cool pattern, redstone activated.",
+		"",
+		"Color can be changed with dye."
+	],
 	tasks: [{
 		uid: "d59f4337",
 		type: "item",
