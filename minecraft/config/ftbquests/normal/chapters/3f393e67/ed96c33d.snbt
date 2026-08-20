@@ -1,0 +1,30 @@
+{
+	x: -5.839285714285701d,
+	y: 31.178571428571423d,
+	text: [
+		"The Settings Tool can copy the settings of machines and pipes.",
+		"",
+		"It can be helpful, for example, copying over the settings of a Diesel tank to others, removing the need to set up fluid ids on each of them.",
+		"",
+		"Controls:",
+		"- Shift right-click to copy, right click to paste.",
+		"- Ctrl click on pipes to paste settings to multiple pipes."
+	],
+	dependencies: [
+		"8a25fa82"
+	],
+	tasks: [{
+		uid: "977c940c",
+		type: "item",
+		items: [{
+			item: "hbm:settings_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d21f294a",
+		type: "xp",
+		xp: 50
+	}]
+}
