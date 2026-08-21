@@ -29,9 +29,9 @@ For Cleanroom, scroll down to its section.
 8.5/10 Impatient guy
 
 ## Features
-- 20 quest chapters with over +1300 quests, quests with quality information, also pretty patterns 😏
+- 21 quest chapters with over +1335 quests, quests with quality information, also pretty patterns 😏
 
-- 119 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 144 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Taint
   - Lung Diagnostic
