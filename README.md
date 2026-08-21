@@ -1,6 +1,13 @@
-# LvNTM (Levviata's Nuclear Tech Modpack)
-
+## Download 
 https://modrinth.com/modpack/levviatas-nuclear-tech-pack
+
+www.curseforge.com/minecraft/modpacks/levviatas-nuclear-tech-modpack/
+
+PolyMC, MultiMC, any other MMC, here.
+
+Latest releases will always be here.
+
+# LvNTM (Levviata's Nuclear Tech Modpack)
 
 Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
 
