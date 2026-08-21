@@ -1,6 +1,120 @@
 version 1.2.0
+
+Add quests for
+- Spinny Light
+- M65-Z Gas Mask
+- Containment Box
+- Nuclear Waste Storage Barrel
+- Double barrel shotgun
+- Ghiorsium Cladding
+- Heavy Steel, Polonium, DU, and Ghiorsium Inserts
+- Lead-209 Nugget
+-
+
+
+Add grinding quests for
+- Super stimpak
+- Radaway
+
 Added Plasma Forge recipe for
 - Railgun and Deuterium Plasma Capsule
+
+Added recipes for
+- Size 15 Balefire Fuselage
+- Size 10 Thermo Warhead
+- Exothermic and endothermic warhead
+- Exothermic missile
+- Endothermic missile
+- N2 warhead
+- N2 missile
+- Size 15 MIRV warhead (thermonuclear)
+- Warhead mirvlet
+- Size 15 volcano warhead
+- N2 and Balefire Charge
+- Taint
+- Double barrel shotgun
+- Spinny Light
+
+Tweaked recipes for
+- Mkunicorn -> now needs Pocket Watch
+- Taint Missile -> Ore dict for Poisonous mud ingredient
+- Size 10 Long Kerosene and Solid Fuel -> no longer dupes of normal variants
+
+Added descriptions to
+- Universal Fluid Tank
+- Radaway
+- Nitric Acid
+- Desh Servo
+- Liquid Hydrogen
+- Industrial Boiler
+- Desh Tools
+- Auxiliary Cooling Tower
+- Electric Groundwater Pump
+- Super Stimpak
+- Desh Anvil
+- Desh Cladding
+- Pollution Detector -> nice description about countering Pollution
+- Light Oil, Hot Crude Oil, Petroleum Gas, Heavy Oil, and Naphtha
+- Polymer Bar
+- Lead Cladding
+
+
+Added tooltips to
+- Drill (gun) -> Added all fuel types
+
+Extend descriptions for
+- Smokestack
+- Steam Condenser -> Add conversion ratio
+- Rubber Cladding -> extend and fix rad protect ratio
+- Kevlar, SAPI, ESAPI, XSAPI Inserts
+
+Fix descriptions for
+- Chemical Plant -> note about liquids
+
+Add subtitles to
+- Player decontaminator
+- Pumpjack
+
+Substantially reduce the description of
+- Assembly Machine
+- Burner Press
+
+
+Removed Early Game's quest description
+
+Added tasks to
+- Universal Fluid Tank -> Empty Canister
+
+Changed task of
+- Fluid Barrel -> needs two barrels
+
+Added rewards for
+- Obsidian Cladding -> another cladding
+- Universal Fluid Tank -> 12 canisters
+- Radaway -> 3 Radaways
+- Desh Servo -> another servo
+- Fluid Barrel -> 8 barrels
+- Oil Refinery -> Choosable accessory
+- Steel Servo -> another servo
+- Electric Furnace -> fuel reward table
+- Super Stimpak -> 3 super stimpaks
+- Grenade Shell -> 4 stick shells
+- Secret -> Choosable treats and accessory
+
+Added and tweaked many xp rewards
+
+Converted rewards to reward table for
+- Wood-burner generator
+- Stirling Engine
+- Sawmill
+- Steel Furnace
+
+Removed rewards for
+- Oil Refinery -> Pollution detector
+
+Properly refund submitted liquids
+
+Fixed Machine upgrade quest being hidden
 
 version 1.1.0
 Grouped up chapters
