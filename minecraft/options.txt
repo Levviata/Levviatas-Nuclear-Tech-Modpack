@@ -147,7 +147,6 @@ key_key.craftingtweaks.refill_last_stack:58:CONTROL
 key_Dynamic Lights toggle:38
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
-key_gnetum.config.keyMapping:207
 key_keybind.groovyscript.reload:51
 key_keybind.groovyscript.quick_reload:52
 key_keybind.groovyscript.copy:0
