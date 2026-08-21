@@ -1,6 +1,13 @@
-# LvNTM (Levviata's Nuclear Tech Modpack)
-
+## Download 
 https://modrinth.com/modpack/levviatas-nuclear-tech-pack
+
+www.curseforge.com/minecraft/modpacks/levviatas-nuclear-tech-modpack/
+
+PolyMC, MultiMC, any other MMC, here.
+
+Latest releases will always be here.
+
+# LvNTM (Levviata's Nuclear Tech Modpack)
 
 Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
 
@@ -29,9 +36,9 @@ For Cleanroom, scroll down to its section.
 8.5/10 Impatient guy
 
 ## Features
-- 20 quest chapters with over +1300 quests, quests with quality information, also pretty patterns 😏
+- 21 quest chapters with over +1335 quests, quests with quality information, also pretty patterns 😏
 
-- 119 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 144 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Taint
   - Lung Diagnostic
