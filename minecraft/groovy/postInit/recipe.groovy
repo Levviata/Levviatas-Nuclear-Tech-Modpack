@@ -1,6 +1,7 @@
 def recipeCount = 0;
 def replacedCount = 0;
 def removedCount = 0;
+def hbmRecipes = 14;
 
 crafting.addShapeless(item('hbm:ball_fireclay'), [item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('hbm:ingot_aluminium')])
 recipeCount++
@@ -1228,7 +1229,7 @@ removedCount++
 log.info("Adding " + recipeCount + " recipes.")
 log.info("Replacing " + replacedCount + " recipes.")
 log.info("Removed " + removedCount + " recipes.")
-def totalCount = removedCount + replacedCount + recipeCount
+def totalCount = removedCount + replacedCount + recipeCount + hbmRecipes
 log.info("Changed a total of " + totalCount + " recipes!")
 
 
