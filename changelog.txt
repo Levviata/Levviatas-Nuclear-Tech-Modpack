@@ -9,12 +9,26 @@ Add quests for
 - Ghiorsium Cladding
 - Heavy Steel, Polonium, DU, and Ghiorsium Inserts
 - Lead-209 Nugget
--
-
+- Ghiorsium-336 Nugget (which I deprecated)
+- PaA Hazmat and armor suits
+- Advanced Control Unit
+- AUTOCAL
+- Blackhole Missile
+- Settings tool
+- Control Unit
 
 Add grinding quests for
 - Super stimpak
 - Radaway
+- Diamond tools and armor
+- Nether ores
+
+Reworked quests
+- Flat stamps
+- Iron Anvil
+
+Remove quests of
+- Lab grade pipette
 
 Added Plasma Forge recipe for
 - Railgun and Deuterium Plasma Capsule
@@ -34,11 +48,17 @@ Added recipes for
 - Taint
 - Double barrel shotgun
 - Spinny Light
+- Astolfium Insert
+- Desh Defuser
 
 Tweaked recipes for
 - Mkunicorn -> now needs Pocket Watch
 - Taint Missile -> Ore dict for Poisonous mud ingredient
 - Size 10 Long Kerosene and Solid Fuel -> no longer dupes of normal variants
+- Ghiorsium Cladding and Insert -> replaced ghiorsium for lead-209
+- Cable drum -> replace steel ingot for min grade copper ingot
+- Defuser -> replaced polymer for latex bars, and steel plate for iron plate
+- Ash Glasses -> now uses any black glass instead of Ash glass only
 
 Added descriptions to
 - Universal Fluid Tank
@@ -57,7 +77,26 @@ Added descriptions to
 - Light Oil, Hot Crude Oil, Petroleum Gas, Heavy Oil, and Naphtha
 - Polymer Bar
 - Lead Cladding
+- Ammo Bag
+- Jetpack, Builder's Jetpack, Boost pack, and Jetpack Glider
+- Coker Unit
+- Boost pack
+- Cadmium Steel
+- Large Fluid Container
+- Industrial Liquefaction Machine
+- Tau Cannon
+- Laser Rifle
+- Versatile Circuit Board
+- Cable Drum
+- Liquid Lead
+- Kevlar, SAPI, ESAPI, XSAPI Inserts
+- Industrial Solidification Machine
+- Ionized Particle
+- Lung Diagnostic Tool
 
+Completed information for
+- Mixed Plates and PaA
+- Solar Boiler
 
 Added tooltips to
 - Drill (gun) -> Added all fuel types
@@ -65,20 +104,32 @@ Added tooltips to
 Extend descriptions for
 - Smokestack
 - Steam Condenser -> Add conversion ratio
-- Rubber Cladding -> extend and fix rad protect ratio
-- Kevlar, SAPI, ESAPI, XSAPI Inserts
+- Rubber, Desh Cladding -> extend and fix rad protect ratio
+- Analog Circuit Board
+- Obsidian Stamp
+- Crucible
+- Heat Boxes
+- Safe barrel
+- Steel Furnace
 
 Fix descriptions for
 - Chemical Plant -> note about liquids
+- Infernal Coal
+- Latex Bar
+- Black Lung quests (mixed Mesothelioma info into it)
+- Plate and wire stamps -> just rework it
+- Red Copper Cable
+- Burner Press -> more concise
 
 Add subtitles to
 - Player decontaminator
 - Pumpjack
+- Bismuth tools
+- Liquidator armor
 
 Substantially reduce the description of
 - Assembly Machine
 - Burner Press
-
 
 Removed Early Game's quest description
 
@@ -97,11 +148,27 @@ Added rewards for
 - Oil Refinery -> Choosable accessory
 - Steel Servo -> another servo
 - Electric Furnace -> fuel reward table
+- Stimpak -> 16 Foxglove and 16 carrots
 - Super Stimpak -> 3 super stimpaks
+- Stimpak grinding quest -> 8 stimpaks
 - Grenade Shell -> 4 stick shells
 - Secret -> Choosable treats and accessory
-
-Added and tweaked many xp rewards
+- Coker Unit -> 16 kilos of coke (legal kind)
+- Jetpack, Vectored Jetpack, Builder Jetpack -> bunch of kerosene and jetpack reserve tanks
+- Pyrolysis Oven -> 4 BTX barrels
+- Shotgun gauntlet -> x32 magnum 10 gauge rounds
+- Starmetal Fan quest -> 4 starmetal blocks
+- Starmetal Tools, Ring, and Armor -> 1 starmetal block
+- Arsenic grinding quest -> 16 Arsenic ingots
+- Bismuth armor -> 12 bismuth ingots
+- Decorated Tools -> 8 meteorite ingots
+- Tungsten Reacher -> Phosphorous Crystal, food reward table
+- Steel Ingot -> 32 powder flux and 8 iron ore
+- Minecraft Grade Copper Ingot -> 24 redstone and 8 copper ore
+- Conveyor Inserter -> 8 conveyors
+- M65-z gas mask -> standard gas mask filter
+- Hard Plastic -> 48 pvc and hard plastic
+- Diamond grinding quest -> 14 diamonds
 
 Converted rewards to reward table for
 - Wood-burner generator
@@ -112,9 +179,26 @@ Converted rewards to reward table for
 Removed rewards for
 - Oil Refinery -> Pollution detector
 
-Properly refund submitted liquids
-
+Properly refund submitted liquids for all fluid quests
 Fixed Machine upgrade quest being hidden
+Fix AUTOCAL lang name (add it)
+Concise Draining Pipe tooltip
+Add alternative names to Hand Drill and Desh Hand Drill
+Add soyuz lander missile
+Add empty Machines chapter
+Added and tweaked many xp rewards
+Add pepperbox to Weapons quest
+Add dependency and dependency requirements for Steam Engine
+Tweaked deps for red and gray hazmats
+Tweaked cable drum; description, dependencies, rewards
+Reformat Derrick description
+Remove Mesothelioma info quest and mix it into blacklung info
+Remove dependencies for Bismuth ingot (end game chapter)
+Remove dependencies to breeding and research reactor
+Removed piss mask dupe in Vanilla chapter
+Removed advancement task and add choosable accessory reward to End Dragon egg quest (vanilla chapter)
+Nerfed leather gas mask reward
+
 
 version 1.1.0
 Grouped up chapters
@@ -217,7 +301,6 @@ Remove Gavel reward from Fluid Duct
 Add bedrock ore quest reward table
 Re-positioned many quests
 
-
 Added mods
 - Mouse Tweaks -> Unofficial Mouse Tweaks
 - JEI -> HEI
@@ -245,6 +328,7 @@ Added configs for
 
 Added BloomTech resource pack for Luminized mod
 Add modpack icon to File Director screen
+
 
 version 1.0.0
 Initial release
