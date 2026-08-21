@@ -100,7 +100,7 @@ After downloading all desired mods, you may disable File Director mod to boot up
 
 With Cleanroom and 32 chunks, the FPS still hold up and hit a stable >60, which is a miracle considering how big Nuclear Tech is and 1.12.2 being old as hell.
 
-The game looks good, the FPS are good, the quests are good, what other Nuclear Tech modpack would you ever wise than this one!
+The game looks good, the FPS are good, the quests are good, what other Nuclear Tech modpack would you ever wish than this one!
 
 ## Trivia
 
