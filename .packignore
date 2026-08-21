@@ -2,6 +2,8 @@
 .github
 .gitignore
 .idea
+Levviata's Nuclear Tech Modpack 1.0.0.mrpack
+TODO.txt
 bugs
 flame
 lib
@@ -13,6 +15,7 @@ minecraft/cache
 minecraft/coremods
 minecraft/craftdumper
 minecraft/crash-reports
+minecraft/hbmComputerUpload
 minecraft/hei_bookmarks.ini
 minecraft/hei_favorites.ini
 minecraft/jei_bookmarks.ini
@@ -22,6 +25,7 @@ minecraft/local
 minecraft/logs
 minecraft/options.txt
 minecraft/resourcepacks/1.12.2 ConverterNewEdition v1.8.zip
+minecraft/resourcepacks/BloomTech-1.2.0.zip
 minecraft/resourcepacks/Refined Storage Silicon to Low Quality Silicon Rename - RSStLQS by Levviata
 minecraft/saves
 minecraft/screenshots
