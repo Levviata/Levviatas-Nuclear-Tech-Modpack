@@ -1,6 +1,15 @@
 {
 	x: -5.5d,
 	y: 9.0d,
+	text: [
+		"Aromatic Hydrocarbons is an useful liquid essential for progression.",
+		"",
+		"It can make",
+		"- Solvent",
+		"- Kevlar Sheet",
+		"- TNT (material)",
+		"- Coker Gas and Solid Fuel."
+	],
 	dependencies: [
 		"1f7408ee",
 		"6c965f51"
