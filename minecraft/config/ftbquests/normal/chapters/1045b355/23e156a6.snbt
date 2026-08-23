@@ -1,8 +1,8 @@
 {
 	title: "Keybinds",
 	icon: "hbm:lamp_tritium_green_off",
-	x: 0.0d,
-	y: 2.0d,
+	x: -1.8035714285714306d,
+	y: 0.0357142857142847d,
 	shape: "square",
 	text: [
 		"Nuclear Tech Mod:",
