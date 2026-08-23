@@ -82,12 +82,10 @@
 /minecraft/config/hbmRecipes/_hbmAnnihilator.json
 /minecraft/config/hbmRecipes/_hbmAnvil.json
 /minecraft/config/hbmRecipes/_hbmArcFurnace.json
-/minecraft/config/hbmRecipes/_hbmArcWelder.json
 /minecraft/config/hbmRecipes/_hbmAssembler.json
 /minecraft/config/hbmRecipes/_hbmBlastFurnace.json
 /minecraft/config/hbmRecipes/_hbmBlastFurnaceLegacy.json
 /minecraft/config/hbmRecipes/_hbmBreeder.json
-/minecraft/config/hbmRecipes/_hbmCentrifuge.json
 /minecraft/config/hbmRecipes/_hbmChemicalPlant.json
 /minecraft/config/hbmRecipes/_hbmChemplant.json
 /minecraft/config/hbmRecipes/_hbmCoker.json
@@ -118,7 +116,6 @@
 /minecraft/config/hbmRecipes/_hbmPyrolysis.json
 /minecraft/config/hbmRecipes/_hbmReforming.json
 /minecraft/config/hbmRecipes/_hbmRotaryFurnace.json
-/minecraft/config/hbmRecipes/_hbmShredder.json
 /minecraft/config/hbmRecipes/_hbmSoldering.json
 /minecraft/config/hbmRecipes/_hbmSolidifier.json
 /minecraft/config/hbmRecipes/REMOVE UNDERSCORE TO ENABLE RECIPE LOADING - RECIPES WILL RESET TO DEFAULT OTHERWISE
