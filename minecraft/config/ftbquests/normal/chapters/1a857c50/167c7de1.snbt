@@ -2,6 +2,7 @@
 	title: "FEL and SILEX",
 	x: -5.5d,
 	y: -16.0d,
+	shape: "hexagon",
 	description: "§e§nRequires:§r§e Desh",
 	text: [
 		"The SILEX is a machine that can separate useful isotopes by bombarding them with various waves of light.",

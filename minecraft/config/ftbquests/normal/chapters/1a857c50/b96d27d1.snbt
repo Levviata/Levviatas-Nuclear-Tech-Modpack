@@ -1,6 +1,7 @@
 {
 	x: -2.5d,
 	y: -15.5d,
+	shape: "hexagon",
 	text: [
 		"Needs to be fueled with Kerosene. To fill, place in any fluid storage as if you were to get a bucket of fluid out of the tank (the slot at the right).",
 		"",
