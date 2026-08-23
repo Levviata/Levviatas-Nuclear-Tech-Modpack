@@ -19,6 +19,7 @@
 		"",
 		"This quest unlocks the \"Bedrock Ore\" Chapter, check it out!"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "9ff24950",
 		type: "item",
