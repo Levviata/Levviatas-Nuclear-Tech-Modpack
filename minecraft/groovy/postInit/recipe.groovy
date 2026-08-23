@@ -1,7 +1,9 @@
 def recipeCount = 0;
 def replacedCount = 0;
 def removedCount = 0;
-def hbmRecipes = 14;
+def documented = 0;
+def hbmRecipes = 15;
+
 
 crafting.addShapeless(item('hbm:ball_fireclay'), [item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('hbm:ingot_aluminium')])
 recipeCount++
@@ -20,6 +22,20 @@ crafting.shapedBuilder()
         .key('G', item('hbm:powder_asbestos'))
         .register()
 recipeCount++
+documented++
+
+// renewable balefire. Why? why not
+crafting.shapedBuilder()
+        .output(item('hbm:egg_balefire_shard'))
+        .row('BBB')
+        .row('CAC')
+        .row('BBB')
+        .key('A', item('hbm:powder_magic'))
+        .key('B', item('hbm:gem_rad'))
+        .key('C', item('minecraft:bone'))
+        .register()
+recipeCount++
+documented++
 
 
 crafting.shapedBuilder()
@@ -33,6 +49,7 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
+documented++
 
 /* its good but i want players to be forced to use universal buckets
 crafting.shapedBuilder()
@@ -59,6 +76,7 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
+documented++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:writer'))
@@ -609,6 +627,7 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
+documented++
 
 crafting.shapedBuilder()
         .name(resource('hbm:conveyor_wand_2'))
@@ -622,6 +641,7 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
+documented++
 
 crafting.shapedBuilder()
         .name(resource('refinedstorage:64k_storage_disk'))
@@ -860,6 +880,7 @@ crafting.shapedBuilder() // bring back old glory
         .replaceByName()
         .register()
 replacedCount++
+documented++
 
 // im not sure when i removed this recipe but im adding it back
 crafting.shapedBuilder()
@@ -874,6 +895,7 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
+documented++
 
 crafting.shapedBuilder()
         .name(resource('hbm:wiring_red_copper'))
@@ -886,6 +908,7 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
+documented++
 
 crafting.shapedBuilder()
         .output(item('hbm:defuser_desh'))
@@ -896,6 +919,7 @@ crafting.shapedBuilder()
         .key('S', item('hbm:ingot_desh'))
         .register()
 recipeCount++
+documented++
 
 crafting.shapedBuilder()
         .output(item('hbm:insert_doxium'))
@@ -906,7 +930,7 @@ crafting.shapedBuilder()
         .key('B', ore('insert'))
         .register()
 recipeCount++
-
+documented++
 
 // security armor, base recipes suck
 crafting.shapedBuilder()
@@ -923,6 +947,7 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
+documented++
 
 crafting.shapedBuilder()
         .name(resource('hbm:security_plate'))
@@ -936,6 +961,7 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
+documented++
 
 crafting.shapedBuilder()
         .name(resource('hbm:security_legs'))
@@ -949,6 +975,7 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
+documented++
 
 crafting.shapedBuilder()
         .name(resource('hbm:security_boots'))
@@ -962,30 +989,26 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
-
+documented++
 
 // provisional Neutron Reflector recipes as the new Blast Furnace doesn't have the recipe for it yet
-// Remove when fixed
+/* recipe added to the arc welder like in 1.7.10
 crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coal'), ore('Tungsten')])
 crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coke'), ore('Tungsten')])
-recipeCount++
-recipeCount++
+recipeCount += 2
+documented += 2*/
 
 // tried to damage the item with 10 other methods, listening to events and shit, to it being a simple method, sad.
-crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_steel:*').reuse().transformDamage(2)])
+/*crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_steel:*').reuse().transformDamage(2)])
 crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_titanium:*').reuse().transformDamage(2)])
 crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_desh').reuse()])
-recipeCount++
-recipeCount++
-recipeCount++
+recipeCount += 3*/
 
 // Sacrifice.
 crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_steel:*').reuse().transformDamage(2)])
 crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_titanium:*').reuse().transformDamage(2)])
 crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_desh').reuse()])
-recipeCount++
-recipeCount++
-recipeCount++
+recipeCount += 3
 
 // meteorite sword filler recipes
 crafting.shapedBuilder()
@@ -1229,6 +1252,7 @@ removedCount++
 log.info("Adding " + recipeCount + " recipes.")
 log.info("Replacing " + replacedCount + " recipes.")
 log.info("Removed " + removedCount + " recipes.")
+log.info("Documented a total of " + documented + " recipes!")
 def totalCount = removedCount + replacedCount + recipeCount + hbmRecipes
 log.info("Changed a total of " + totalCount + " recipes!")
 
