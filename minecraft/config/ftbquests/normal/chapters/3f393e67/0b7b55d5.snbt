@@ -3,6 +3,7 @@
 	y: 11.0d,
 	text: [
 		"The Dosimeter is the earliest available tool for diagnosing received radiation.",
+		"",
 		"It accurately informs of any radiation up to 3.6 RADs / sec. ",
 		"",
 		"Its successor is the Geiger Counter."
