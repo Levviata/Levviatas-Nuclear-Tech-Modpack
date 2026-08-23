@@ -1,7 +1,7 @@
 {
 	icon: "hbm:ore_alexandrite",
-	x: -9.0d,
-	y: 12.0d,
+	x: -9.5d,
+	y: 3.0d,
 	tasks: [{
 		uid: "791464ac",
 		type: "item",
