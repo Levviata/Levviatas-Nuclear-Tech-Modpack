@@ -1,6 +1,9 @@
 {
 	x: -6.5d,
 	y: 8.0d,
+	text: [
+		"Cracked Naphtha is a bad combustible that can make Cracked Gasoline."
+	],
 	dependencies: [
 		"1f7408ee"
 	],
