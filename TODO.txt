@@ -5,7 +5,7 @@ Add recipes for
 - hbm:thermo_unit_exo
 - hbm:levitation_unit
 
-Remove ugly ass beacon texture from bloomtech
+Replace BloomTech texture for the beacon
 
 Add bloom to
 - hbm:reinforced_light
