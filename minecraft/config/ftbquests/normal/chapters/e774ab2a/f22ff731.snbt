@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 2.0d,
+	description: "RoR",
+	text: [
+		"Redstone-over-Radio are a special set of items that have a variety of use in organizing machinery and controlling it over radio."
+	],
+	tasks: [{
+		uid: "c80962b8",
+		type: "checkmark",
+		title: "Redstone-over-Radio",
+		icon: "minecraft:redstone_block"
+	}]
+}
