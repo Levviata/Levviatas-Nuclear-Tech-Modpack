@@ -2,6 +2,7 @@
 	title: "Bedrock Ore Mining",
 	x: 15.0d,
 	y: -8.0d,
+	shape: "hexagon",
 	description: "Bismuth for you, the grandma and the dog",
 	text: [
 		"Bedrock Ore is a special type of ore present in the bedrock layer, it always appears below depth-ore veins and can't be depleted.",
@@ -15,10 +16,7 @@
 		"- Tier 4, Technetium Drillbit, unknown to me (haven't seen this one).",
 		"",
 		"A higher tier doesn't guarantee better materials.",
-		"I'm unsure if certain concentrations of ore require specific Acids, but I know that each tier above 1 requires an acid.",
-		"",
-		"",
-		"This quest unlocks the \"Bedrock Ore\" Chapter, check it out!"
+		"I'm unsure if certain concentrations of ore require specific Acids, but I know that each tier above 1 requires an acid."
 	],
 	min_required_dependencies: 2,
 	dependencies: [

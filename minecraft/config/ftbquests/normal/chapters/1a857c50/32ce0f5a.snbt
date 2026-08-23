@@ -14,7 +14,10 @@
 		"4. Vein mining",
 		"5. Construct walls",
 		"",
-		"Silktouch and Vein mining are only availaible if the Drillbits have the ability."
+		"Silktouch and Vein mining are only availaible if the Drillbits have the ability.",
+		"",
+		"",
+		"This quest unlocks the \"Bedrock Ore\" Chapter, check it out!"
 	],
 	tasks: [{
 		uid: "9ff24950",
