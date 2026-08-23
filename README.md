@@ -3,8 +3,6 @@ https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
 www.curseforge.com/minecraft/modpacks/levviatas-nuclear-tech-modpack/
 
-PolyMC, MultiMC, any other MMC, here.
-
 Latest releases will always be here.
 
 # LvNTM (Levviata's Nuclear Tech Modpack)
