@@ -1,0 +1,12 @@
+{
+	x: 6.0d,
+	y: -9.0d,
+	tasks: [{
+		uid: "3187e7b9",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_caliber 1 6"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 6.5d,
+	y: -7.5d,
+	shape: "square",
+	text: [
+		"Conversion kits change the caliber of the gun.",
+		"",
+		"They cannot be crafted."
+	],
+	tasks: [{
+		uid: "2b6e0b03",
+		type: "checkmark",
+		title: "Conversion Kits"
+	}]
+}
