@@ -1,8 +1,8 @@
 {
 	title: "Machine Template Folder",
 	icon: "hbm:template_folder",
-	x: 0.0d,
-	y: 7.1d,
+	x: -3.75d,
+	y: 8.549999999999999d,
 	shape: "square",
 	description: "Removed",
 	text: [

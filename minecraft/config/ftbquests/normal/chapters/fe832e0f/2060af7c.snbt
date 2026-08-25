@@ -1,6 +1,6 @@
 {
-	x: -3.5d,
-	y: -1.0d,
+	x: 0.0d,
+	y: -3.5d,
 	shape: "hexagon",
 	text: [
 		"The Weapon Modification Table is able to insert accessories to guns, to use, place a gun in the left-most slot, starting down.",
