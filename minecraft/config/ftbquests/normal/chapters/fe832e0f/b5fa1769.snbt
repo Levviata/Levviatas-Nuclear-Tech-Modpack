@@ -1,0 +1,31 @@
+{
+	title: "Powered Drill Upgrades",
+	x: -5.0d,
+	y: -7.5d,
+	shape: "square",
+	description: "Weapon exclusive",
+	text: [
+		""
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "5e285caa",
+		type: "checkmark",
+		title: "Powerdrill",
+		icon: "hbm:gun_drill"
+	},
+	{
+		uid: "6719635d",
+		type: "item",
+		items: [{
+			item: "hbm:gun_drill"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2e61e499",
+		type: "xp",
+		xp: 20
+	}]
+}
