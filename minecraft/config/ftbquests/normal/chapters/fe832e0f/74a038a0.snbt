@@ -5,7 +5,7 @@
 	text: [
 		"Conversion kits change the caliber of the gun.",
 		"",
-		"They cannot be crafted."
+		"They originally cannot be crafted, but I gave them recipes."
 	],
 	tasks: [{
 		uid: "2b6e0b03",
