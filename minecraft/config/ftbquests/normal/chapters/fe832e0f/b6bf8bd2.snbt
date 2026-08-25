@@ -1,6 +1,14 @@
 {
-	x: 8.5d,
+	x: 8.0d,
 	y: -10.0d,
+	text: [
+		"Changes caliber to 5.56mm.",
+		"",
+		"It can be fit to",
+		"- Lever Action Rifle (this thing can be chambered in anything huh)",
+		"- Carbine",
+		"- Minigun and dual minigun"
+	],
 	tasks: [{
 		uid: "a017b268",
 		type: "item",
