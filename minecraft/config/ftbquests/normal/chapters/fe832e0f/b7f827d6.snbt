@@ -1,8 +1,10 @@
 {
-	x: -10.5d,
-	y: -2.5d,
-	x: -19.5d,
+	x: 13.0d,
 	y: -9.0d,
+	description: "Slow it down!",
+	text: [
+		"The Gear Train reduces the Minigun rate of fire by 1/2 and makes it fire a tighter spread."
+	],
 	tasks: [{
 		uid: "08c89315",
 		type: "item",
