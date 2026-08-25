@@ -1,8 +1,17 @@
 {
-	x: -10.5d,
-	y: -5.0d,
 	x: -16.5d,
 	y: -9.0d,
+	description: "Laser Assault Rifle",
+	text: [
+		"The Automatic Receiver makes the Laser Rifle an automatic rifle, at the cost of reduced damage.",
+		"",
+		"Stat changes",
+		"- 66% Base Damage",
+		"- Automatic Fire",
+		"- Use rate of .25 secs.",
+		"",
+		"The scope should be removed from the rifle, but it doesn't do that in my game."
+	],
 	tasks: [{
 		uid: "2b3cba34",
 		type: "item",
