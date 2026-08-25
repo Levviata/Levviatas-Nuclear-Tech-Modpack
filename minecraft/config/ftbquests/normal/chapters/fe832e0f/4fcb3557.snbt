@@ -1,5 +1,5 @@
 {
-	x: -6.5d,
+	x: -6.0d,
 	y: -10.0d,
 	text: [
 		"The Diesel Engine has a .75 second usage rate and changes the fuel type.",

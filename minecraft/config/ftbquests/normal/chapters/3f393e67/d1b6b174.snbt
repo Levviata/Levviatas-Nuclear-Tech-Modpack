@@ -1,6 +1,6 @@
 {
 	x: 5.0d,
-	y: 12.5d,
+	y: 13.0d,
 	text: [
 		"The Cable Drum connects pylon between themselves so that they may share power.",
 		"",

@@ -1,6 +1,6 @@
 {
 	title: "Powered Drill Upgrades",
-	x: -5.0d,
+	x: -4.5d,
 	y: -7.5d,
 	shape: "square",
 	description: "Weapon exclusive",

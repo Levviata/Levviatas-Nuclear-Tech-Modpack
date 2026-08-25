@@ -1,6 +1,9 @@
 {
-	x: -13.0d,
-	y: -1.5d,
+	x: -14.0d,
+	y: -9.5d,
+	text: [
+		"Green skin for the Assault Rifle"
+	],
 	tasks: [{
 		uid: "0375c1ed",
 		type: "item",

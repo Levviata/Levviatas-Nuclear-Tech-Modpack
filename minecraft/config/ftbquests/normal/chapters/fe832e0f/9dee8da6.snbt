@@ -1,5 +1,5 @@
 {
-	x: -4.5d,
+	x: -4.0d,
 	y: -10.0d,
 	text: [
 		"The Electric Engine has a .75 sec usage rate and replaces fuel usage to power.",

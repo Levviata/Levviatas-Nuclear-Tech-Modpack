@@ -1,6 +1,6 @@
 {
 	x: 7.0d,
-	y: 13.5d,
+	y: 12.5d,
 	text: [
 		"A much simpler version of the pylons, you may connect these to a Cable on each end and share electricity in a range of 10 meters each, each Electricity Connector being connected with Cable Drum.",
 		"",
