@@ -1,8 +1,17 @@
 {
-	x: -9.5d,
-	y: -2.5d,
-	x: -10.0d,
-	y: -10.0d,
+	x: -9.0d,
+	y: -10.5d,
+	description: "FASTER, FASTER ,I SAID FASTER!",
+	text: [
+		"The Auxiliary Electric Engine makes the Minigun, Auto Shotgun, Shredder, and Grenade Machinegun shot faster.",
+		"",
+		"If fit in the Minigun (or dual miniguns)",
+		"- +3 rounds per shot",
+		"- +50% Spread.",
+		"",
+		"If fit in the Auto Shotgun, Shredder, or Grenade Machinegun ",
+		"- x2 faster fire rate."
+	],
 	tasks: [{
 		uid: "cdbfa7c4",
 		type: "item",
