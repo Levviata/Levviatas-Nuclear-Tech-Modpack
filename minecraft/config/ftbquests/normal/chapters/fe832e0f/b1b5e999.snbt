@@ -1,0 +1,31 @@
+{
+	title: "Minigun Upgrades",
+	icon: {
+		id: "hbm:gun_minigun",
+		tag: {
+			magtype: 64
+		}
+	},
+	x: -19.5d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "88598a90",
+		type: "checkmark",
+		title: "Minigun Upgrades"
+	},
+	{
+		uid: "eee105af",
+		type: "item",
+		items: [{
+			id: "hbm:gun_minigun",
+			tag: {
+				magtype: 64
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
