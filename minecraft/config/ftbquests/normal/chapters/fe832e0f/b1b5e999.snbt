@@ -6,11 +6,13 @@
 			magtype: 64
 		}
 	},
-	x: -19.5d,
+	x: 13.0d,
 	y: -7.5d,
+	shape: "square",
 	text: [
 		""
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "88598a90",
 		type: "checkmark",
