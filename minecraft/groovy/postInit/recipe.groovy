@@ -1117,11 +1117,115 @@ recipeCount++
 
 crafting.shapedBuilder()
         .output(item('hbm:gun_double_barrel'))
-        .row('BAB')
-        .key('A', item('hbm:part_mechanism:34'))
-        .key('B', item('hbm:gun_maresleg_akimbo'))
+        .row(' A ')
+        .row('BCE')
+        .row('BDF')
+        .key('A', item('minecraft:skull'))
+        .key('B', ore('barrelLightSaturnite'))
+        .key('C', ore('receiverLightSaturnite'))
+        .key('D', ore('gunMechanismSaturnite'))
+        .key('E', ore('stockAnyHardPlastic'))
+        .key('F', ore('gripAnyHardPlastic'))
         .register()
 recipeCount++
+
+ // Calibers
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber')) //9mm
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismGunMetal'))
+        .key('B', item('hbm:weapon_mod_generic:1'))
+        .key('C', item('hbm:weapon_mod_generic'))
+        .key('D', ore('9mm'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:1')) //45mm
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismGunMetal'))
+        .key('B', item('hbm:weapon_mod_generic:1'))
+        .key('C', item('hbm:weapon_mod_generic'))
+        .key('D', ore('.45'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:2')) //.22 LR
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismGunMetal'))
+        .key('B', item('hbm:weapon_mod_generic:1'))
+        .key('C', item('hbm:weapon_mod_generic'))
+        .key('D', ore('.22 LR'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:3')) //.357 Magnum
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismGunMetal'))
+        .key('B', item('hbm:weapon_mod_generic:3'))
+        .key('C', item('hbm:weapon_mod_generic:2'))
+        .key('D', ore('.357'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:4')) //.44 Magnum
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismGunMetal'))
+        .key('B', item('hbm:weapon_mod_generic:3'))
+        .key('C', item('hbm:weapon_mod_generic:2'))
+        .key('D', ore('.44'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:5')) //5.56mm
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismWeaponSteel'))
+        .key('B', item('hbm:weapon_mod_generic:7'))
+        .key('C', item('hbm:weapon_mod_generic:6'))
+        .key('D', ore('5.56mm'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:6')) //7.62mm
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismWeaponSteel'))
+        .key('B', item('hbm:weapon_mod_generic:7'))
+        .key('C', item('hbm:weapon_mod_generic:6'))
+        .key('D', ore('7.62mm'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:7')) //.50 BMG
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismSaturnite'))
+        .key('B', item('hbm:weapon_mod_generic:15'))
+        .key('C', item('hbm:weapon_mod_generic:14'))
+        .key('D', ore('.50 BMG'))
+        .register()
+recipeCount++
+
 
 // Ghiorsium
 crafting.shapedBuilder()
@@ -1148,6 +1252,8 @@ crafting.shapedBuilder()
         .register()
 replacedCount++
 replacedCount++
+
+
 
 crafting.replaceShapeless(item('hbm:missile_taint'), [item('hbm:missile_assembly'), ore('container1000watz'), item('hbm:powder_spark_mix'), item('hbm:powder_magic')])
 replacedCount++

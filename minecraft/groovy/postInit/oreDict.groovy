@@ -24,6 +24,57 @@ oreDict.add('insert', item('hbm:insert_era'))
 oreDict.add('coal', item('minecraft:coal'))
 oreDict.add('coal', item('hbm:powder_coal'))
 
+// calibers
+oreDict.add('9mm', item('hbm:ammo_standard:20'))
+oreDict.add('9mm', item('hbm:ammo_standard:21'))
+oreDict.add('9mm', item('hbm:ammo_standard:22'))
+oreDict.add('9mm', item('hbm:ammo_standard:23'))
+
+oreDict.add('.22 LR', item('hbm:ammo_standard:16'))
+oreDict.add('.22 LR', item('hbm:ammo_standard:17'))
+oreDict.add('.22 LR', item('hbm:ammo_standard:18'))
+oreDict.add('.22 LR', item('hbm:ammo_standard:19'))
+
+oreDict.add('.45', item('hbm:ammo_standard:85'))
+oreDict.add('.45', item('hbm:ammo_standard:86'))
+oreDict.add('.45', item('hbm:ammo_standard:87'))
+oreDict.add('.45', item('hbm:ammo_standard:88'))
+oreDict.add('.45', item('hbm:ammo_standard:89'))
+
+oreDict.add('.357', item('hbm:ammo_standard:4'))
+oreDict.add('.357', item('hbm:ammo_standard:5'))
+oreDict.add('.357', item('hbm:ammo_standard:6'))
+oreDict.add('.357', item('hbm:ammo_standard:7'))
+oreDict.add('.357', item('hbm:ammo_standard:8'))
+oreDict.add('.357', item('hbm:ammo_standard:9'))
+
+oreDict.add('.44', item('hbm:ammo_standard:10'))
+oreDict.add('.44', item('hbm:ammo_standard:11'))
+oreDict.add('.44', item('hbm:ammo_standard:12'))
+oreDict.add('.44', item('hbm:ammo_standard:13'))
+oreDict.add('.44', item('hbm:ammo_standard:14'))
+oreDict.add('.44', item('hbm:ammo_standard:15'))
+
+oreDict.add('5.56mm', item('hbm:ammo_standard:24'))
+oreDict.add('5.56mm', item('hbm:ammo_standard:25'))
+oreDict.add('5.56mm', item('hbm:ammo_standard:26'))
+oreDict.add('5.56mm', item('hbm:ammo_standard:27'))
+
+oreDict.add('7.62mm', item('hbm:ammo_standard:28'))
+oreDict.add('7.62mm', item('hbm:ammo_standard:29'))
+oreDict.add('7.62mm', item('hbm:ammo_standard:30'))
+oreDict.add('7.62mm', item('hbm:ammo_standard:31'))
+oreDict.add('7.62mm', item('hbm:ammo_standard:32'))
+oreDict.add('7.62mm', item('hbm:ammo_standard:82'))
+
+oreDict.add('.50 BMG', item('hbm:ammo_standard:33'))
+oreDict.add('.50 BMG', item('hbm:ammo_standard:34'))
+oreDict.add('.50 BMG', item('hbm:ammo_standard:35'))
+oreDict.add('.50 BMG', item('hbm:ammo_standard:36'))
+oreDict.add('.50 BMG', item('hbm:ammo_standard:37'))
+oreDict.add('.50 BMG', item('hbm:ammo_standard:83'))
+oreDict.add('.50 BMG', item('hbm:ammo_standard:94'))
+
 // goofy how it isnt included by default
 oreDict.add('blockSlag', item('hbm:block_slag:1'))
 
