@@ -1,6 +1,14 @@
 {
-	x: 7.0d,
+	x: 6.5d,
 	y: -9.0d,
+	description: "Boom, headshot!",
+	text: [
+		"Changes caliber to .50 BMG.",
+		"",
+		"It can be fit to",
+		"- Lever Action Rifle (why?)",
+		"- Minigun and dual miniguns"
+	],
 	tasks: [{
 		uid: "a33b4e18",
 		type: "item",
