@@ -1,8 +1,10 @@
 {
-	x: -8.5d,
-	y: -5.0d,
-	x: -15.5d,
+	x: 11.5d,
 	y: -9.0d,
+	description: "Moar bullets",
+	text: [
+		"The Extend Capacitor adds a third of the total mag capacity and adds 5% Base Damage."
+	],
 	tasks: [{
 		uid: "05fb0883",
 		type: "item",
