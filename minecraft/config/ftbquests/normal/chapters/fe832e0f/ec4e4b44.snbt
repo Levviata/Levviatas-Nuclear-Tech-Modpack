@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: 15.0d,
+	dependencies: [
+		"27d2816a"
+	],
+	tasks: [{
+		uid: "cdbfbf3c",
+		type: "item",
+		items: [{
+			item: "hbm:gun_mk108"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
