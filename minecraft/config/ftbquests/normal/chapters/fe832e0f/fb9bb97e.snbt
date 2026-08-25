@@ -1,6 +1,13 @@
 {
-	x: 4.5d,
+	x: 4.0d,
 	y: -10.0d,
+	text: [
+		"Changes caliber to 9mm.",
+		"",
+		"It can be fit to",
+		"- Lever Action Rifle",
+		"- Target Pistol and dual pistols"
+	],
 	tasks: [{
 		uid: "dd1e5616",
 		type: "item",
