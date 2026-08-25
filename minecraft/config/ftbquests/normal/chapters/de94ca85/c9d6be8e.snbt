@@ -1,8 +1,8 @@
 {
-	x: 0.0d,
+	x: -0.5d,
 	y: 0.0d,
 	text: [
-		"The Test Dummy is spawnable replica of a player, it can be gived armor."
+		"The Test Dummy is spawnable replica of a player, it can be gived armor by right clicking with a piece."
 	],
 	tasks: [{
 		uid: "e41ce82c",
