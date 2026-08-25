@@ -1,8 +1,16 @@
 {
-	x: -11.5d,
-	y: -5.0d,
-	x: -11.0d,
-	y: -10.0d,
+	x: -10.0d,
+	y: -10.5d,
+	text: [
+		"The Double-Stacked Magazine adds a third of the total magazine capacity (totalMagCapacity * 3 / 2). ",
+		"",
+		"For example, if my weapon has 30 rounds max and I add the mod, I get +15 rounds max, totaling 45.",
+		"",
+		"It can be fit to",
+		"- Grease Gun",
+		"- Uzi and dual uzis",
+		"- gun_aberrator and gun_aberrator_eott (which is missing)"
+	],
 	tasks: [{
 		uid: "7a21ea2d",
 		type: "item",
