@@ -1,0 +1,26 @@
+{
+	x: 0.5d,
+	y: -9.0d,
+	text: [
+		"Fits any Resistant Alloy weapon.",
+		"",
+		"Like",
+		"- Comically Long Pistol",
+		"- Tesla Cannon",
+		"- Minigun",
+		"- Missile Launcher"
+	],
+	tasks: [{
+		uid: "2065bcca",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_generic 1 12"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8d2c04ab",
+		type: "xp",
+		xp: 50
+	}]
+}

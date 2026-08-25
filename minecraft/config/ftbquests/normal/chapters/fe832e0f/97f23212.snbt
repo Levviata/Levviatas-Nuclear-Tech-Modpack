@@ -1,0 +1,24 @@
+{
+	x: -1.5d,
+	y: -14.5d,
+	text: [
+		"Fits any Steel weapon.",
+		"",
+		"Steel weapons like",
+		"- Break-Action Revolver",
+		"- Atlas",
+		"- Lever Action Rifle",
+		"- Lincoln's Repeater",
+		"- Grease Gun",
+		"- Lever Action Shotgun and dual shotguns",
+		"- Flare Gun"
+	],
+	tasks: [{
+		uid: "a4079b3b",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_generic 1 3"
+		}],
+		ignore_nbt: 1b
+	}]
+}

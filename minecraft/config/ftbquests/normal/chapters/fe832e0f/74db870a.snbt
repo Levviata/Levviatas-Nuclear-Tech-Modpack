@@ -1,0 +1,27 @@
+{
+	x: 0.5d,
+	y: -10.0d,
+	text: [
+		"Fits any Weapon Steel gun.",
+		"",
+		"Like",
+		"- Target Pistol and dual guns",
+		"- Assault Rifle",
+		"- Zebra Rifle",
+		"- Grenade Machinegun",
+		"- Chemthrower"
+	],
+	tasks: [{
+		uid: "5be10f8f",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_generic 1 8"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "621d63ef",
+		type: "xp",
+		xp: 40
+	}]
+}

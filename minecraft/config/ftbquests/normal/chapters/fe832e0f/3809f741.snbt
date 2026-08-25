@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: -13.5d,
+	text: [
+		"Fits in the Pepperbox"
+	],
+	tasks: [{
+		uid: "0ec191ae",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_generic 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

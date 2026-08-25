@@ -1,0 +1,27 @@
+{
+	x: 1.5d,
+	y: -9.0d,
+	text: [
+		"Fits any Saturnite weapon.",
+		"",
+		"Like",
+		"- Tau Cannon",
+		"- Laser Pistol",
+		"- Pew Pew",
+		"- StG 77",
+		"- Fat Man"
+	],
+	tasks: [{
+		uid: "fdc2ba79",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_generic 1 14"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d5f9888e",
+		type: "xp",
+		xp: 70
+	}]
+}

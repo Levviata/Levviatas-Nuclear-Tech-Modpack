@@ -1,0 +1,26 @@
+{
+	x: 1.5d,
+	y: -10.0d,
+	text: [
+		"Fits any Ferrouraniumm weapon.",
+		"",
+		"Like",
+		"- Anti-Materiel Rifle",
+		"- Autoshotgun",
+		"- Shredder",
+		"- Quack Rocket Launcher"
+	],
+	tasks: [{
+		uid: "7f14f9be",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_generic 1 10"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "095600f5",
+		type: "xp",
+		xp: 60
+	}]
+}

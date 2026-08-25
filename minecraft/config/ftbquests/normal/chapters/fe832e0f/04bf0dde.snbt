@@ -1,0 +1,12 @@
+{
+	x: -0.5d,
+	y: -14.5d,
+	tasks: [{
+		uid: "b92ab595",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_generic 1 5"
+		}],
+		ignore_nbt: 1b
+	}]
+}

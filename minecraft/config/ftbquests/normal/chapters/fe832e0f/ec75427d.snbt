@@ -1,0 +1,20 @@
+{
+	x: 2.5d,
+	y: -9.5d,
+	text: [
+		"Fits in the Laser Rifle."
+	],
+	tasks: [{
+		uid: "658ee27d",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_generic 1 16"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d6267787",
+		type: "xp",
+		xp: 80
+	}]
+}

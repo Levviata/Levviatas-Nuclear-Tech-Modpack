@@ -1,0 +1,27 @@
+{
+	x: -0.5d,
+	y: -10.0d,
+	text: [
+		"Fits any High-Speed Steel weapon.",
+		"",
+		"Like",
+		"- .22 Submachine Gun",
+		"- Liberator",
+		"- Congo Lake",
+		"- Flamethrower",
+		"- Mister Topaz"
+	],
+	tasks: [{
+		uid: "e9330ba9",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_generic 1 4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c8b605a9",
+		type: "xp",
+		xp: 30
+	}]
+}
