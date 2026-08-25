@@ -1,0 +1,9 @@
+{
+	x: -22.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "c487fc6a",
+		type: "checkmark",
+		title: "Skins"
+	}]
+}
