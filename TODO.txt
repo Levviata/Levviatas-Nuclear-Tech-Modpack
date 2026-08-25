@@ -5,6 +5,9 @@ Add recipes for
 - hbm:thermo_unit_exo
 - hbm:levitation_unit
 
+Fix recipes for 
+- Double barrel shotgun (because its goofy as hell rn)
+
 Replace BloomTech texture for the beacon
 
 Add bloom to
