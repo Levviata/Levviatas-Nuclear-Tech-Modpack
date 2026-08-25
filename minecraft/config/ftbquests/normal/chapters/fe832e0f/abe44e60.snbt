@@ -1,0 +1,20 @@
+{
+	title: "High-Durability Parts",
+	x: 0.0d,
+	y: -12.0d,
+	shape: "square",
+	text: [
+		"High-Durability parts are a generic mod weapon that multiply by 2 the total durability.",
+		"",
+		"They come in many different materials, higher tier weapons needing better parts."
+	],
+	tasks: [{
+		uid: "7cf978af",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "1e9d33bf",
+		type: "xp",
+		xp: 20
+	}]
+}
