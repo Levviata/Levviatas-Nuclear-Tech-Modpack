@@ -1,5 +1,5 @@
 {
-	x: -13.0d,
+	x: -12.5d,
 	y: -9.0d,
 	text: [
 		"The Hacksaw removes material from the gun, removing part of the barrel, the shield, or stock.",
