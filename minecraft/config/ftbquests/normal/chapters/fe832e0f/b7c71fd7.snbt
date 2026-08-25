@@ -1,6 +1,15 @@
 {
-	x: 5.5d,
+	x: 5.0d,
 	y: -10.0d,
+	text: [
+		"Changes caliber to .45.",
+		"",
+		"It can be fit to",
+		"- Lever Action Rifle",
+		"- Grease Gun",
+		"- Uzi and dual uzis",
+		"- Comically Large Pistol"
+	],
 	tasks: [{
 		uid: "08783b81",
 		type: "item",
