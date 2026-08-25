@@ -1,0 +1,20 @@
+{
+	x: -4.5d,
+	y: -11.0d,
+	text: [
+		"- +100%  base damage",
+		"- 7.5% Damage Threshold",
+		"- 20% Pierce",
+		"- +2 Block Reach",
+		"- +3 AoE levels",
+		"- +1 Emerald Harvest level. "
+	],
+	tasks: [{
+		uid: "0dbe0c6f",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 20"
+		}],
+		ignore_nbt: 1b
+	}]
+}

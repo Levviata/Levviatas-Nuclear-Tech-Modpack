@@ -1,0 +1,22 @@
+{
+	x: -9.0d,
+	y: -9.0d,
+	text: [
+		"The Modernization Kit for the Grease Gun upgrades it to its maximum potential.",
+		"",
+		"It will upgrade",
+		"",
+		"- x3 Total base durability",
+		"- +2 Damage",
+		"- 0 Spread",
+		"- 1/2 Use rate (faster)"
+	],
+	tasks: [{
+		uid: "cbc0935e",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 3"
+		}],
+		ignore_nbt: 1b
+	}]
+}

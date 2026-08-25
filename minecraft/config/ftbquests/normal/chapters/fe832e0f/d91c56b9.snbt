@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: -10.0d,
+	text: [
+		"The Turbo Engine is the best engine for the Powered Drill, with a .25 sec usage rate.",
+		"",
+		"Fuels Used",
+		"- Reformate",
+		"- Jet Fuel"
+	],
+	tasks: [{
+		uid: "c6f024f1",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 25"
+		}],
+		ignore_nbt: 1b
+	}]
+}

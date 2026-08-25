@@ -1,0 +1,17 @@
+{
+	x: -4.5d,
+	y: -10.0d,
+	text: [
+		"The Electric Engine has a .75 sec usage rate and replaces fuel usage to power.",
+		"",
+		"It has a capacity of 1MHE."
+	],
+	tasks: [{
+		uid: "aa42a4b5",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 24"
+		}],
+		ignore_nbt: 1b
+	}]
+}

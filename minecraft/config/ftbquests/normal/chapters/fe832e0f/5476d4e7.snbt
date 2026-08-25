@@ -1,0 +1,22 @@
+{
+	x: -12.0d,
+	y: -9.0d,
+	text: [
+		"The Scope gives a decent magnification for accurate long-shotting.",
+		"",
+		"It can be fit to",
+		"- Heavy Revolver",
+		"- Carbine",
+		"- Assault Rifle",
+		"- gun_mas36 (which is missing)",
+		"- Charge Thrower"
+	],
+	tasks: [{
+		uid: "f8e04252",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

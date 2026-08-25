@@ -1,0 +1,21 @@
+{
+	x: -10.0d,
+	y: -9.0d,
+	text: [
+		"The Silencer softens the shotting sound of many guns.",
+		"",
+		"It can be fit to",
+		"- Uzi and dual uzis",
+		"- Target Pistol and dual pistols",
+		"- Anti-Materiel Rifle",
+		"- .22 Submachine Gun"
+	],
+	tasks: [{
+		uid: "0eff62ad",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special"
+		}],
+		ignore_nbt: 1b
+	}]
+}

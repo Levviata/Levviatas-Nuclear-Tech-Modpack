@@ -1,0 +1,27 @@
+{
+	x: -13.0d,
+	y: -9.0d,
+	text: [
+		"The Hacksaw removes material from the gun, removing part of the barrel, the shield, or stock.",
+		"",
+		"It can be fit in",
+		"",
+		"(will remove part of the barrel)",
+		"- Lever Action Shotgun",
+		"- An Old Classic (double shotgun)",
+		"",
+		"(will remove the shield)",
+		"- Panzerschreck",
+		"",
+		"(will remove the stock)",
+		"- Assault Rifle"
+	],
+	tasks: [{
+		uid: "f656f6f0",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 2"
+		}],
+		ignore_nbt: 1b
+	}]
+}

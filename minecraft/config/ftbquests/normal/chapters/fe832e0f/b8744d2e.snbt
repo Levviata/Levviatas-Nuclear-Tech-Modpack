@@ -1,0 +1,20 @@
+{
+	x: -3.5d,
+	y: -11.0d,
+	text: [
+		"- +200% base damage",
+		"- 10% Damage Threshold",
+		"- 25% Piercing",
+		"- +2 Block Reach",
+		"- +3 AoE levels",
+		"- +2 Emerald Harvest level"
+	],
+	tasks: [{
+		uid: "cd671531",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 21"
+		}],
+		ignore_nbt: 1b
+	}]
+}

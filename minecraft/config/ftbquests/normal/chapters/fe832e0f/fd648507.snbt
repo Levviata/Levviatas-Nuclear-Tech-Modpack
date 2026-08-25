@@ -1,0 +1,18 @@
+{
+	x: -6.5d,
+	y: -11.0d,
+	text: [
+		"- +25% base damage",
+		"- 3% Damage Threshold (physical?)",
+		"- 15% Piercing",
+		"- Emerald harvest level."
+	],
+	tasks: [{
+		uid: "c3a04fb4",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 18"
+		}],
+		ignore_nbt: 1b
+	}]
+}

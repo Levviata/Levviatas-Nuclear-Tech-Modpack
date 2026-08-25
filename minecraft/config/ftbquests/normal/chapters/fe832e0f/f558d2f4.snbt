@@ -1,0 +1,20 @@
+{
+	x: -5.5d,
+	y: -10.0d,
+	description: "Aviation Engine",
+	text: [
+		"The Aircraft Engine has a .5 sec usage rate and changes the fuel type.",
+		"",
+		"Fuel used",
+		"- Kerosene",
+		"- LPG"
+	],
+	tasks: [{
+		uid: "05cc22e7",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 23"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: -11.0d,
+	y: -7.5d,
+	shape: "square",
+	text: [
+		"Special attachments add features to a specific or a variety of guns, like a silencer, scope, or a bayonet"
+	],
+	tasks: [{
+		uid: "fa4c114b",
+		type: "checkmark",
+		title: "Special"
+	}],
+	rewards: [{
+		uid: "d41dc159",
+		type: "xp",
+		xp: 20
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -5.0d,
+	y: -9.0d,
+	text: [
+		"Gives Fortune II."
+	],
+	tasks: [{
+		uid: "1a606d9e",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 26"
+		}],
+		ignore_nbt: 1b
+	}]
+}

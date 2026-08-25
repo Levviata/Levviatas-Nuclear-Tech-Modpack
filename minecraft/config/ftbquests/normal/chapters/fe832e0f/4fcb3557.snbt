@@ -1,0 +1,20 @@
+{
+	x: -6.5d,
+	y: -10.0d,
+	text: [
+		"The Diesel Engine has a .75 second usage rate and changes the fuel type.",
+		"",
+		"Fuel used",
+		"- Diesel",
+		"- Cracked Diesel",
+		"- Light Oil"
+	],
+	tasks: [{
+		uid: "69b8a9b9",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_special 1 22"
+		}],
+		ignore_nbt: 1b
+	}]
+}
