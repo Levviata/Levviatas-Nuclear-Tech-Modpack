@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: -5.5d,
+	shape: "square",
+	text: [
+		"Weapon mods come in five shapes:  ",
+		"",
+		"- Generic, giving durability or damage;",
+		"- Weapon specific, giving a variety of bonuses; ",
+		"- Special, concrete attachments like a scope or a silencer;",
+		"- Conversion Kits, changes the caliber;",
+		"- Skins.",
+		"",
+		"They are useful and will make weapons even more dangerous or cool."
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "8a366f0e",
+		type: "checkmark",
+		title: "Weapon Mods",
+		icon: "hbm:wrench"
+	}]
+}
