@@ -1,6 +1,6 @@
 {
-	x: 8.0d,
-	y: -10.0d,
+	x: 5.0d,
+	y: -9.0d,
 	text: [
 		"Changes caliber to 5.56mm.",
 		"",
