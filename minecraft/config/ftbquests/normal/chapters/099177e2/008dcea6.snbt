@@ -7,7 +7,7 @@
 		"Fuselage is the main body of the rocket.",
 		"",
 		"They determine the: ",
-		"- Fuel used and storage amount",
+		"- Fuel used and total fuel storage amount",
 		"- Bottom size and Top Size",
 		"- Mass",
 		"- Main portion of the total HP",
