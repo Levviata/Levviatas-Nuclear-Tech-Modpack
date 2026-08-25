@@ -1,6 +1,13 @@
 {
-	x: -13.5d,
-	y: -9.0d,
+	x: -12.5d,
+	y: -9.5d,
+	text: [
+		"The Bayonet is a knife attached to the barrel of the gun.",
+		"",
+		"It can be fit to",
+		"- gun_mas36 (which is missing)",
+		"- Carbine"
+	],
 	tasks: [{
 		uid: "c87ea510",
 		type: "item",
