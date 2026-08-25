@@ -1,6 +1,14 @@
 {
-	x: 6.0d,
+	x: 5.5d,
 	y: -9.0d,
+	description: "Sniper round",
+	text: [
+		"Change caliber to 7.62mm.",
+		"",
+		"It can be fit to",
+		"- Lever Action Rifle",
+		"- Assault Rifle"
+	],
 	tasks: [{
 		uid: "3187e7b9",
 		type: "item",
