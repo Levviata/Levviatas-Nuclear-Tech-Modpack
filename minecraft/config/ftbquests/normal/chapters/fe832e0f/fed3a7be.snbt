@@ -1,8 +1,9 @@
 {
-	x: -14.0d,
-	y: -2.5d,
-	x: -23.0d,
-	y: -9.0d,
+	x: -16.0d,
+	y: -9.5d,
+	text: [
+		"Cool blue skin for the Uzi and dual Uzis"
+	],
 	tasks: [{
 		uid: "e9683387",
 		type: "item",
