@@ -1,0 +1,27 @@
+{
+	x: -5.5d,
+	y: -0.5d,
+	text: [
+		"Repairs 25% of the gun's durability and has 9 uses."
+	],
+	tasks: [{
+		uid: "169c698e",
+		type: "item",
+		items: [{
+			item: "hbm:gun_kit_1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b25ebb14",
+		type: "item",
+		item: "hbm:gun_kit_1",
+		count: 2
+	},
+	{
+		uid: "f85d6aaf",
+		type: "xp",
+		xp: 25
+	}]
+}

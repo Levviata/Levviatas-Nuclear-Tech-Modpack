@@ -1,0 +1,25 @@
+{
+	title: "Repair Kits and Gun Wear",
+	icon: "hbm:screwdriver",
+	x: -3.5d,
+	y: -1.0d,
+	shape: "square",
+	text: [
+		"Guns will wear down, reducing their accuracy, damage, and general usefulness.",
+		"",
+		"To fix them you can use a Gun Kit.",
+		"",
+		"All repair kits fix 25% of your guns total durability."
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "173877fc",
+		type: "checkmark",
+		title: "Kits"
+	}],
+	rewards: [{
+		uid: "b7efbc57",
+		type: "xp",
+		xp: 20
+	}]
+}
