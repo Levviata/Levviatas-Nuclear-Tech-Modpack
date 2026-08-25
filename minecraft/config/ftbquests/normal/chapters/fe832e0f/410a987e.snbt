@@ -1,0 +1,22 @@
+{
+	title: "Laser Rifle Upgrades",
+	icon: "hbm:gun_lasrifle",
+	x: -16.5d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "5728cd5e",
+		type: "checkmark"
+	},
+	{
+		uid: "a206a154",
+		type: "item",
+		items: [{
+			item: "hbm:gun_lasrifle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
