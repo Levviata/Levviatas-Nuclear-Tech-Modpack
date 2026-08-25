@@ -32,7 +32,7 @@
 		uid: "b881a024",
 		type: "item",
 		item: "hbm:conveyor_wand",
-		count: 32
+		count: 64
 	},
 	{
 		uid: "4d453be0",
