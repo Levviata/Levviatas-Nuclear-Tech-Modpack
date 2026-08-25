@@ -1,8 +1,18 @@
 {
-	x: -8.5d,
-	y: -2.5d,
 	x: -12.0d,
 	y: -10.0d,
+	text: [
+		"The Choke reduces the spread of the used ammo by 1/2 (x0.5), resulting in a tighter spread per shot.",
+		"",
+		"It can be fit in",
+		"- Pepperbox",
+		"- Lever Action Shotgun",
+		"- An Old Classic (double barrel)",
+		"- Liberator",
+		"- SPAS-12",
+		"- gun_autoshotgun_sexy (which is missing. Not the Shredder)",
+		"- Heretic Auto Shotgun (debug)"
+	],
 	tasks: [{
 		uid: "140a8836",
 		type: "item",
