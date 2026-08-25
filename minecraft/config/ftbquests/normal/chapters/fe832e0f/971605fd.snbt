@@ -1,8 +1,17 @@
 {
-	x: -9.5d,
-	y: -5.0d,
-	x: -17.5d,
+	x: 9.5d,
 	y: -9.0d,
+	description: "Laser Shotgun",
+	text: [
+		"The Beam Splitter converts the Laser Rifle into a shotgun.",
+		"",
+		"Stat changes",
+		"- 35% Base Damage (per projectile)",
+		"- +3 Projectiles (bugged, will only fire one)",
+		"- +3 Spread (generous spread)",
+		"",
+		"Its bugged on my game, only shotting one projectile, I'm not sure if thats intended or what."
+	],
 	tasks: [{
 		uid: "a2d89973",
 		type: "item",
