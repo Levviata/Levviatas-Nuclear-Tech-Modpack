@@ -1,6 +1,13 @@
 {
-	x: 7.5d,
+	x: 7.0d,
 	y: -10.0d,
+	text: [
+		"Changes caliber to .357 Magnum.",
+		"",
+		"It can be fit to",
+		"- Lever Action Rifle",
+		"- Comically Large Pistol"
+	],
 	tasks: [{
 		uid: "09a43201",
 		type: "item",
