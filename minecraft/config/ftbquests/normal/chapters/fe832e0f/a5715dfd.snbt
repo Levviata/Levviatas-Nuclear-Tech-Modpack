@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: -7.5d,
+	shape: "square",
+	text: [
+		"Receivers are a generic weapon mod that always increase the weapon's damage by +15%.",
+		"",
+		"They come in many different materials, higher tier weapons needing better receivers."
+	],
+	tasks: [{
+		uid: "faa36895",
+		type: "checkmark",
+		title: "Receivers"
+	}],
+	rewards: [{
+		uid: "28be0153",
+		type: "xp",
+		xp: 20
+	}]
+}
