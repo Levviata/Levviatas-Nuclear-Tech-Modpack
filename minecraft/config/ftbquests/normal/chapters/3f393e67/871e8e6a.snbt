@@ -27,5 +27,11 @@
 			}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e1e922d7",
+		type: "item",
+		item: "minecraft:redstone_block",
+		count: 12
 	}]
 }
