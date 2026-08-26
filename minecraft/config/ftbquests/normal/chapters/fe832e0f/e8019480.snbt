@@ -1,6 +1,6 @@
 {
 	x: -10.0d,
-	y: -10.5d,
+	y: -10.0d,
 	text: [
 		"The Double-Stacked Magazine adds a third of the total magazine capacity (totalMagCapacity * 3 / 2). ",
 		"",

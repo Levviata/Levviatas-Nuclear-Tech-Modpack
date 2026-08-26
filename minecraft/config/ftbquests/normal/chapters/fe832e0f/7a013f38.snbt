@@ -1,6 +1,6 @@
 {
 	x: -11.0d,
-	y: -10.5d,
+	y: -10.0d,
 	text: [
 		"The Choke reduces the spread of the used ammo by 1/2 (x0.5), resulting in a tighter spread per shot.",
 		"",

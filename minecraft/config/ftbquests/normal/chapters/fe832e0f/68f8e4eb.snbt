@@ -1,6 +1,6 @@
 {
 	x: -9.0d,
-	y: -10.5d,
+	y: -10.0d,
 	description: "FASTER, FASTER ,I SAID FASTER!",
 	text: [
 		"The Auxiliary Electric Engine makes the Minigun, Auto Shotgun, Shredder, and Grenade Machinegun shot faster.",

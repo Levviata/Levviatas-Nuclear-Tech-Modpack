@@ -1,8 +1,8 @@
 {
 	title: "Ores",
 	icon: "minecraft:gold_ore",
-	x: 5.0d,
-	y: 0.0d,
+	x: 0.0d,
+	y: -3.0d,
 	shape: "rsquare",
 	text: [
 		"All of the ores present in this modpack."

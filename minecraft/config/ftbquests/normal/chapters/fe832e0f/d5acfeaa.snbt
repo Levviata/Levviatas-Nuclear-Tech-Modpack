@@ -1,6 +1,6 @@
 {
 	x: -9.5d,
-	y: -9.5d,
+	y: -9.0d,
 	text: [
 		"The Speedloader makes the Liberator reload 4 bucks at once instead of one at a time."
 	],

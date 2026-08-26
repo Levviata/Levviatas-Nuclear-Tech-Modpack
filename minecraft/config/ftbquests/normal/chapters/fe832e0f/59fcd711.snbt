@@ -1,6 +1,6 @@
 {
 	x: -10.0d,
-	y: -8.0d,
+	y: -7.5d,
 	shape: "square",
 	text: [
 		"Special attachments add features to a specific or a variety of guns, like a silencer, scope, or a bayonet"

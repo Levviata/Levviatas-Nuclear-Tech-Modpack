@@ -1,7 +1,7 @@
 {
 	title: "High-Durability Parts",
 	x: 0.0d,
-	y: -12.0d,
+	y: -11.5d,
 	shape: "square",
 	text: [
 		"High-Durability parts are a generic mod weapon that multiply by 2 the total durability.",
