@@ -1,6 +1,6 @@
 {
-	x: -8.5d,
-	y: -9.5d,
+	x: -8.19642857142857d,
+	y: -9.67857142857143d,
 	shape: "pentagon",
 	hide_dependency_lines: true,
 	dependencies: [
