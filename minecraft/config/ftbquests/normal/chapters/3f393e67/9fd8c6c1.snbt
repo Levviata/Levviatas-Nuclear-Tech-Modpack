@@ -6,11 +6,9 @@
 		"With plate stamps you make plates.",
 		"With wire stamps you make wires.",
 		"",
-		"You can make plates and wires of a variety of ingots, like steel, copper, iron, etc. ",
+		"You can make plates and wires out of metals and some non-metals.",
 		"",
-		"You will be frequently making steel, iron, and copper plates and Minecraft Grade copper, and gold wires",
-		"",
-		"(especially Minecraft Grade wires since those are for Motors and Red Copper Cable)."
+		"Both materials are widely used in many recipes."
 	],
 	dependencies: [
 		"3aba74ab",
