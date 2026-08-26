@@ -31,5 +31,11 @@
 				charge: 5000L
 			}
 		}
+	},
+	{
+		uid: "fa93c91f",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 12
 	}]
 }
