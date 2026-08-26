@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:decon"
 		}]
+	}],
+	rewards: [{
+		uid: "9edc80ef",
+		type: "xp",
+		xp: 50
 	}]
 }
