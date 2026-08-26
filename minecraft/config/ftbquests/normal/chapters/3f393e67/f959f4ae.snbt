@@ -26,5 +26,11 @@
 		uid: "361c5a27",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "2f70d466",
+		type: "item",
+		item: "hbm:plant_item 1 1",
+		count: 8
 	}]
 }
