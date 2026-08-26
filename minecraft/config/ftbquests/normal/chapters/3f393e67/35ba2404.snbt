@@ -49,7 +49,8 @@
 	rewards: [{
 		uid: "c8bc2d6c",
 		type: "item",
-		item: "hbm:pill_herbal"
+		item: "hbm:pill_herbal",
+		count: 5
 	},
 	{
 		uid: "c1c24d82",
