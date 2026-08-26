@@ -1,0 +1,13 @@
+{
+	title: "Meteor Ores",
+	x: -4.5d,
+	y: 1.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "291254ad",
+		type: "checkmark",
+		title: "NTM: Meteor Ore"
+	}]
+}

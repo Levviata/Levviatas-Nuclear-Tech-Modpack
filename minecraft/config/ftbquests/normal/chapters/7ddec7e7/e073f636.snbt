@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "0fcab02d",
+		type: "item",
+		items: [{
+			item: "hbm:ore_meteor 1 1"
+		}]
+	}]
+}

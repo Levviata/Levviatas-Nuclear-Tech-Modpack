@@ -1,0 +1,11 @@
+{
+	x: -9.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "ef7542f0",
+		type: "item",
+		items: [{
+			item: "hbm:ore_sellafield_uranium_scorched"
+		}]
+	}]
+}

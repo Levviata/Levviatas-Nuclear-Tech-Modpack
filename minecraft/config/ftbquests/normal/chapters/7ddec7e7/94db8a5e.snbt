@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "04908a8c",
+		type: "item",
+		items: [{
+			item: "hbm:ore_sellafield_diamond"
+		}]
+	}]
+}

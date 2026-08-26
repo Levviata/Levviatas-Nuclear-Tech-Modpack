@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "eb31d733",
+		type: "item",
+		items: [{
+			item: "hbm:ore_coltan"
+		}]
+	}]
+}

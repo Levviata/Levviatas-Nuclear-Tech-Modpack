@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "6afd7a70",
+		type: "item",
+		items: [{
+			item: "hbm:ore_nether_smoldering"
+		}]
+	}]
+}

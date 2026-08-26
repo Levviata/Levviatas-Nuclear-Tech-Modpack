@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "826c0e6e",
+		type: "item",
+		items: [{
+			item: "hbm:ore_tektite_osmiridium"
+		}]
+	}]
+}

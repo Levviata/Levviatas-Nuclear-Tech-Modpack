@@ -1,0 +1,9 @@
+{
+	title: "Sellafite Ores",
+	x: -7.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "e7150e09",
+		type: "checkmark"
+	}]
+}
