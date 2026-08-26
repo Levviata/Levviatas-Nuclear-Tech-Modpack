@@ -29,9 +29,6 @@
 		"",
 		"The powerplants can be stacked on top of eachother to work like one big reactor (though their inventories are separate)."
 	],
-	dependencies: [
-		"1f522b58"
-	],
 	size: 2.0d,
 	tasks: [{
 		uid: "918393aa",
