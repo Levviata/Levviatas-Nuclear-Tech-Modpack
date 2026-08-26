@@ -5,16 +5,13 @@
 	text: [
 		"Turns plank into sticks, sticks into saw dust.",
 		"",
-		"I'm not sure how its supposed to be useful since you can do that in a crafting table, but hey, if you overheat it the blade does something funny.",
-		"",
-		"I haven't been able to automate the process of plank into sticks with conveyors and hoppers don't work either, be my guest and find something out."
+		"I'm not sure how its supposed to be useful since you can do that in a crafting table, but hey, if you overheat it the blade does something funny."
 	],
 	min_required_dependencies: 1,
 	dependencies: [
 		"083d7aa0"
 	],
 	dependency_requirement: "one_completed",
-	size: 1.25d,
 	tasks: [{
 		uid: "5e1dd1ca",
 		type: "item",
