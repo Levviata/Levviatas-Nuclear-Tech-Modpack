@@ -149,9 +149,12 @@
 		weight: 3
 	},
 	{
-		item: "hbm:crackpipe"
+		item: "hbm:crackpipe",
+		count: 4,
+		weight: 4
 	},
 	{
-		item: "hbm:syringe_taint"
+		item: "hbm:syringe_taint",
+		weight: 4
 	}]
 }
