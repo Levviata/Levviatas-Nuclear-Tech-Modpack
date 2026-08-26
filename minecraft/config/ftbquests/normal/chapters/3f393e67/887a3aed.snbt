@@ -34,6 +34,12 @@
 		uid: "f971712d",
 		type: "item",
 		item: "hbm:block_red_copper",
-		count: 4
+		count: 3
+	},
+	{
+		uid: "db222f3c",
+		type: "item",
+		item: "hbm:block_copper",
+		count: 3
 	}]
 }
