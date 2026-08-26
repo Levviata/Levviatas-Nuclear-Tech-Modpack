@@ -1,7 +1,7 @@
 {
 	x: -1.095238095238095d,
 	y: 11.178571428571438d,
-	shape: "octagon",
+	shape: "hexagon",
 	description: "Schist only",
 	text: [
 		"Lithium ore is an useful material that only generates in Schist patches around the world."

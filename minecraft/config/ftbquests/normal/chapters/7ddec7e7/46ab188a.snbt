@@ -1,9 +1,9 @@
 {
-	title: "NTM: Depth Ores",
+	title: "Depth Ores",
 	icon: "hbm:stone_depth",
 	x: -4.0d,
 	y: 8.0d,
-	shape: "pentagon",
+	shape: "hexagon",
 	text: [
 		""
 	],

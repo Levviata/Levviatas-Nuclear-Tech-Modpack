@@ -2,7 +2,7 @@
 	title: "NTM: Nether Ores",
 	x: 4.0d,
 	y: 8.0d,
-	shape: "pentagon",
+	shape: "hexagon",
 	size: 1.25d,
 	tasks: [{
 		uid: "a09085e4",

@@ -1,8 +1,11 @@
 {
-	title: "NTM: Depth Nether Ores",
+	title: "Depth Nether Ores",
 	x: 5.5d,
 	y: 9.375d,
-	shape: "pentagon",
+	shape: "hexagon",
+	text: [
+		""
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "6d28ff17",
