@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: -10.0d,
+	text: [
+		"Changes caliber to .44 Magnum.",
+		"",
+		"It can be fit in",
+		"- Comically Large Pistol"
+	],
+	tasks: [{
+		uid: "9b41e8ce",
+		type: "item",
+		items: [{
+			item: "hbm:weapon_mod_caliber 1 4"
+		}],
+		ignore_nbt: 1b
+	}]
+}
