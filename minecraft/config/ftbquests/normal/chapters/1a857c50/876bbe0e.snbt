@@ -27,6 +27,7 @@
 	rewards: [{
 		uid: "b91df72b",
 		type: "command",
+		title: "Make secret quest unavailable",
 		auto: "invisible",
 		command: "/ftbquests change_progress reset @p 0f29a16e"
 	},
