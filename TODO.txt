@@ -14,4 +14,11 @@ Add quests for
 - Supercomputer
 - Foundry Tank
 - Piston Inserter
+- Industrial Generator
+- LPW Mk2
+- Satellite Ground station
+- Drive Enclosure
+- Soyuz Launch Pad
+- Pneumatic Storage network
+- 
 
