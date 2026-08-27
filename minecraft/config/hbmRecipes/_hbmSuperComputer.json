@@ -1,0 +1,346 @@
+{
+  "recipes": [
+    {
+      "name": "com.flightcalc_water",
+      "inputItem": [
+        ["item","hbm:drive"]
+      ],
+      "inputFluid": [
+        ["WATER",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,4],1.0,95],
+          [["hbm:drive",1,2],1.0,5]
+        ]
+      ],
+      "outputFluid": [
+        ["SPENTSTEAM",16000]
+      ],
+      "duration": 18000,
+      "power": 10000
+    },
+    {
+      "name": "com.flightcalc_pfm",
+      "inputItem": [
+        ["item","hbm:drive"]
+      ],
+      "inputFluid": [
+        ["PERFLUOROMETHYL_COLD",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,4],1.0,50],
+          [["hbm:drive",1,2],1.0,50]
+        ]
+      ],
+      "outputFluid": [
+        ["PERFLUOROMETHYL",16000]
+      ],
+      "duration": 3000,
+      "power": 10000
+    },
+    {
+      "name": "com.flightcalc_helium",
+      "inputItem": [
+        ["item","hbm:drive"]
+      ],
+      "inputFluid": [
+        ["HELIUM4",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,4],1.0,25],
+          [["hbm:drive",1,2],1.0,75]
+        ]
+      ],
+      "duration": 1200,
+      "power": 10000
+    },
+    {
+      "name": "com.particlecalc_water",
+      "inputItem": [
+        ["item","hbm:drive"]
+      ],
+      "inputFluid": [
+        ["WATER",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,5],1.0,95],
+          [["hbm:drive",1,2],1.0,5]
+        ]
+      ],
+      "outputFluid": [
+        ["SPENTSTEAM",16000]
+      ],
+      "duration": 18000,
+      "power": 10000
+    },
+    {
+      "name": "com.particlecalc_pfm",
+      "inputItem": [
+        ["item","hbm:drive"]
+      ],
+      "inputFluid": [
+        ["PERFLUOROMETHYL_COLD",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,5],1.0,50],
+          [["hbm:drive",1,2],1.0,50]
+        ]
+      ],
+      "outputFluid": [
+        ["PERFLUOROMETHYL",16000]
+      ],
+      "duration": 3000,
+      "power": 10000
+    },
+    {
+      "name": "com.particlecalc_helium",
+      "inputItem": [
+        ["item","hbm:drive"]
+      ],
+      "inputFluid": [
+        ["HELIUM4",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,5],1.0,25],
+          [["hbm:drive",1,2],1.0,75]
+        ]
+      ],
+      "duration": 1200,
+      "power": 10000
+    },
+    {
+      "name": "com.processflight_water",
+      "inputItem": [
+        ["item","hbm:drive",1,6]
+      ],
+      "inputFluid": [
+        ["WATER",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,7],1.0,99],
+          [["hbm:drive",1,3],1.0,1]
+        ]
+      ],
+      "outputFluid": [
+        ["SPENTSTEAM",16000]
+      ],
+      "duration": 36000,
+      "power": 10000
+    },
+    {
+      "name": "com.processflight_pfm",
+      "inputItem": [
+        ["item","hbm:drive",1,6]
+      ],
+      "inputFluid": [
+        ["PERFLUOROMETHYL_COLD",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,7],1.0,95],
+          [["hbm:drive",1,3],1.0,5]
+        ]
+      ],
+      "outputFluid": [
+        ["PERFLUOROMETHYL",16000]
+      ],
+      "duration": 18000,
+      "power": 10000
+    },
+    {
+      "name": "com.processflight_helium",
+      "inputItem": [
+        ["item","hbm:drive",1,6]
+      ],
+      "inputFluid": [
+        ["HELIUM4",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,7],1.0,90],
+          [["hbm:drive",1,3],1.0,10]
+        ]
+      ],
+      "duration": 6000,
+      "power": 10000
+    },
+    {
+      "name": "com.processorbit_water",
+      "inputItem": [
+        ["item","hbm:drive",1,8]
+      ],
+      "inputFluid": [
+        ["WATER",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,9],1.0,75],
+          [["hbm:drive",1,3],1.0,25]
+        ]
+      ],
+      "outputFluid": [
+        ["SPENTSTEAM",16000]
+      ],
+      "duration": 72000,
+      "power": 10000
+    },
+    {
+      "name": "com.processorbit_pfm",
+      "inputItem": [
+        ["item","hbm:drive",1,8]
+      ],
+      "inputFluid": [
+        ["PERFLUOROMETHYL_COLD",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,9],1.0,65],
+          [["hbm:drive",1,3],1.0,35]
+        ]
+      ],
+      "outputFluid": [
+        ["PERFLUOROMETHYL",16000]
+      ],
+      "duration": 36000,
+      "power": 10000
+    },
+    {
+      "name": "com.processorbit_helium",
+      "inputItem": [
+        ["item","hbm:drive",1,8]
+      ],
+      "inputFluid": [
+        ["HELIUM4",16000]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",1,9],1.0,50],
+          [["hbm:drive",1,3],1.0,50]
+        ]
+      ],
+      "duration": 18000,
+      "power": 10000
+    },
+    {
+      "name": "com.copyflightcalc",
+      "inputItem": [
+        ["item","hbm:drive",1,4],
+        ["item","hbm:drive"]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",2,4],1.0,95],
+          [["hbm:drive",2,2],1.0,5]
+        ]
+      ],
+      "duration": 18000,
+      "power": 10000,
+      "nameWrapper": "com.copy"
+    },
+    {
+      "name": "com.copyparticlecalc",
+      "inputItem": [
+        ["item","hbm:drive",1,5],
+        ["item","hbm:drive"]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",2,5],1.0,95],
+          [["hbm:drive",2,2],1.0,5]
+        ]
+      ],
+      "duration": 18000,
+      "power": 10000,
+      "nameWrapper": "com.copy"
+    },
+    {
+      "name": "com.copyfligthdata",
+      "inputItem": [
+        ["item","hbm:drive",1,7],
+        ["item","hbm:drive",1,1]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:drive",2,7],1.0,75],
+          [["hbm:drive",2,3],1.0,25]
+        ]
+      ],
+      "duration": 18000,
+      "power": 10000,
+      "nameWrapper": "com.copy"
+    },
+    {
+      "name": "com.blueprints",
+      "inputItem": [
+        ["item","minecraft:paper",16],
+        ["dict","dyeBlue",16]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:blueprint_folder"],1.0,20],
+          [["minecraft:paper",16],1.0,80]
+        ]
+      ],
+      "duration": 18000,
+      "power": 50000
+    },
+    {
+      "name": "com.beigeprints",
+      "inputItem": [
+        ["item","minecraft:paper",24],
+        ["dict","gemCinnabar",24]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:blueprint_folder",1,1],1.0,10],
+          [["minecraft:paper",24],1.0,90]
+        ]
+      ],
+      "duration": 18000,
+      "power": 50000
+    },
+    {
+      "name": "com.klaus",
+      "inputItem": [
+        ["item","hbm:drive",64,1],
+        ["item","hbm:drive",64,1],
+        ["item","hbm:drive",64,1]
+      ],
+      "inputFluid": [
+        ["WATER",1000000]
+      ],
+      "outputItem": [
+        ["single",["hbm:drive",1,10]]
+      ],
+      "outputFluid": [
+        ["SLOP",1000]
+      ],
+      "duration": 72000,
+      "power": 5000000
+    }
+  ]
+}

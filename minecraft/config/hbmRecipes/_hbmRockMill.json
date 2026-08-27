@@ -1,0 +1,193 @@
+{
+  "recipes": [
+    {
+      "name": "rock.cobble",
+      "inputItem": [
+        ["dict","cobblestone"]
+      ],
+      "inputFluid": [
+        ["WATER",250]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["minecraft:gravel"],1.0,95],
+          [["hbm:powder_quartz"],1.0,5]
+        ]
+      ],
+      "duration": 100,
+      "power": 25,
+      "nameWrapper": "rock.crushing",
+      "autoSwitchGroup": "autoswitch.crushing"
+    },
+    {
+      "name": "rock.gravel",
+      "inputItem": [
+        ["item","minecraft:gravel"]
+      ],
+      "inputFluid": [
+        ["WATER",250]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["minecraft:sand"],1.0,75],
+          [["minecraft:flint"],1.0,20],
+          [["hbm:powder_boron"],1.0,5]
+        ]
+      ],
+      "duration": 100,
+      "power": 25,
+      "nameWrapper": "rock.crushing",
+      "autoSwitchGroup": "autoswitch.crushing"
+    },
+    {
+      "name": "rock.sand",
+      "inputItem": [
+        ["dict","sand"]
+      ],
+      "inputFluid": [
+        ["WATER",250]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:dust"],1.0,90],
+          [["hbm:powder_calcium"],1.0,5],
+          [["hbm:fluorite"],1.0,5]
+        ]
+      ],
+      "duration": 100,
+      "power": 25,
+      "nameWrapper": "rock.crushing",
+      "autoSwitchGroup": "autoswitch.crushing"
+    },
+    {
+      "name": "rock.netherrack",
+      "inputItem": [
+        ["item","minecraft:netherrack"]
+      ],
+      "inputFluid": [
+        ["WATER",250]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["minecraft:gravel"],1.0,50],
+          [["minecraft:soul_sand"],1.0,25],
+          [["minecraft:glowstone_dust"],1.0,15],
+          [["hbm:powder_quartz"],1.0,10]
+        ]
+      ],
+      "duration": 100,
+      "power": 25,
+      "nameWrapper": "rock.crushing",
+      "autoSwitchGroup": "autoswitch.crushing"
+    },
+    {
+      "name": "rock.soulsand",
+      "inputItem": [
+        ["item","minecraft:soul_sand"]
+      ],
+      "inputFluid": [
+        ["WATER",250]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["minecraft:sand"],1.0,50],
+          [["hbm:powder_fire"],1.0,25],
+          [["hbm:powder_uranium"],1.0,15],
+          [["minecraft:blaze_powder"],1.0,5],
+          [["minecraft:nether_wart"],1.0,5]
+        ]
+      ],
+      "duration": 100,
+      "power": 25,
+      "nameWrapper": "rock.crushing",
+      "autoSwitchGroup": "autoswitch.crushing"
+    },
+    {
+      "name": "rock.schist",
+      "inputItem": [
+        ["item","hbm:stone_gneiss"]
+      ],
+      "inputFluid": [
+        ["WATER",250]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["minecraft:gravel"],1.0,50],
+          [["minecraft:sand"],1.0,10],
+          [["hbm:powder_lithium"],1.0,25],
+          [["hbm:powder_niobium"],1.0,5],
+          [["hbm:powder_uranium"],1.0,5],
+          [["hbm:powder_gold"],1.0,5]
+        ]
+      ],
+      "duration": 200,
+      "power": 25,
+      "nameWrapper": "rock.crushing",
+      "autoSwitchGroup": "autoswitch.crushing"
+    },
+    {
+      "name": "rock.hematite",
+      "inputItem": [
+        ["dict","oreHematite"]
+      ],
+      "inputFluid": [
+        ["WATER",250]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["minecraft:gravel"],1.0,65],
+          [["hbm:powder_iron"],1.0,25],
+          [["hbm:powder_titanium"],1.0,10]
+        ]
+      ],
+      "duration": 200,
+      "power": 25,
+      "nameWrapper": "rock.crushing",
+      "autoSwitchGroup": "autoswitch.crushing"
+    },
+    {
+      "name": "rock.bauxite",
+      "inputItem": [
+        ["dict","oreBauxite"]
+      ],
+      "inputFluid": [
+        ["WATER",250]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["minecraft:gravel"],1.0,25],
+          [["minecraft:clay_ball"],1.0,25],
+          [["hbm:stone_resource",1,2],1.0,25],
+          [["hbm:ore_titanium"],1.0,25]
+        ]
+      ],
+      "duration": 200,
+      "power": 25,
+      "nameWrapper": "rock.crushing",
+      "autoSwitchGroup": "autoswitch.crushing"
+    },
+    {
+      "name": "rock.clay",
+      "inputItem": [
+        ["dict","sand"],
+        ["item","hbm:dust"]
+      ],
+      "inputFluid": [
+        ["WATER",1000]
+      ],
+      "outputItem": [
+        ["single",["minecraft:clay_ball",4]]
+      ],
+      "duration": 200,
+      "power": 25
+    }
+  ]
+}
