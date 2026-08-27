@@ -1,6 +1,8 @@
 {
   "info": "This file can be edited ingame using the /ntmserver command.",
   "AUTOCAL_MAX_CLOCK": 20,
+  "CONVEYOR_CRAM_EXPLODE": true,
+  "CONVEYOR_CRAM_MAX": 25,
   "CRATE_KEEP_CONTENTS": true,
   "CRATE_OPEN_HELD": true,
   "DAMAGE_COMPATIBILITY_MODE": false,

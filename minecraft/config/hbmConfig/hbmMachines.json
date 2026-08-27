@@ -107,6 +107,10 @@
       "D:heatBalefie": 15.0
     }
   },
+  "icfLaser": {
+    "I:capacitorPower": 2500000,
+    "I:turboPower": 5000000
+  },
   "centrifuge": {
     "I:powerCap": 100000,
     "I:timeToProcess": 200,
@@ -118,7 +122,7 @@
     "INFO": "Fuel grades in order: LOW MEDIUM HIGH AERO GAS",
     "D[:efficiency": [0.0,0.5,0.75,0.1,0.0]
   },
-  "steamturbineIndustrial": {
+  "steamturbineIndustrialMk2": {
     "INFO": "industrial steam turbine consumes 20% of availible steam per tick",
     "I:inputTankSize": 750000,
     "I:outputTankSize": 3000000,
