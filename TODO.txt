@@ -1,13 +1,3 @@
-Add recipes for
-(if i see any possible angle)
-- hbm:thermo_unit_empty
-- hbm:thermo_unit_endo
-- hbm:thermo_unit_exo
-- hbm:levitation_unit
-
-Fix recipes for 
-- Double barrel shotgun (because its goofy as hell rn)
-
 Replace BloomTech texture for the beacon
 
 Add bloom to
@@ -15,3 +5,13 @@ Add bloom to
 - All ROR torches
 - Railgun
 - Refined storage machines (mostly grids and the controller)
+
+Add quests for
+- Power diode
+- All generators
+- new Chicago Pile
+- Automatic Thresher
+- Supercomputer
+- Foundry Tank
+- Piston Inserter
+
