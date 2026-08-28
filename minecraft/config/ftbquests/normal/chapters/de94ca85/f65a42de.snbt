@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"Im not sure whats this for"
+	],
+	tasks: [{
+		uid: "0042de21",
+		type: "item",
+		items: [{
+			item: "hbm:piston_inserter"
+		}]
+	}]
+}

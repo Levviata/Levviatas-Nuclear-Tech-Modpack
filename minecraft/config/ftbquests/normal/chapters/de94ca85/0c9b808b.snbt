@@ -1,0 +1,16 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	text: [
+		"The LPW-2 Station Thruster is a direct reference to the thrusters in Factorio Space Age.",
+		"",
+		"It's pretty cool and gigantic."
+	],
+	tasks: [{
+		uid: "c9011d00",
+		type: "item",
+		items: [{
+			item: "hbm:machine_lpw2"
+		}]
+	}]
+}
