@@ -20,9 +20,6 @@
   "hbm:schrabidium_axe": {
     "attackDamage": 31
   },
-  "hbm:meteorite_sword_baleful": {
-    "attackDamage": 81
-  },
   "hbm:redstone_sword": {
     "attackDamage": 6,
     "maxHealth": 4,
