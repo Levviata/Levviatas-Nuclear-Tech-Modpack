@@ -2,6 +2,9 @@
 	x: 15.5d,
 	y: -0.5d,
 	shape: "hexagon",
+	text: [
+		"Saturnite is a material widely used in the last tier of weapons and weapon mods, it also can also make the Asteroid Mining Ship, and alloy Starmetal."
+	],
 	dependencies: [
 		"8a76f5ce"
 	],
