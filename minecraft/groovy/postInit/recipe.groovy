@@ -1299,9 +1299,6 @@ removedCount++
 removedCount++
 removedCount++
 
-crafting.removeByOutput(item('hbm:machine_battery_potato'))
-removedCount++
-
 // remove furnace raw processor recipe
 furnace.removeByOutput(item('refinedstorage:processor:3'))
 furnace.removeByOutput(item('refinedstorage:processor:4'))
@@ -1361,5 +1358,7 @@ log.info("Removed " + removedCount + " recipes.")
 log.info("Documented a total of " + documented + " recipes!")
 def totalCount = removedCount + replacedCount + recipeCount + hbmRecipes
 log.info("Changed a total of " + totalCount + " recipes!")
+
+log.info("Loaded recipes!")
 
 
