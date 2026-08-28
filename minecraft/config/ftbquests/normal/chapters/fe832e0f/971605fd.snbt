@@ -7,10 +7,8 @@
 		"",
 		"Stat changes",
 		"- 35% Base Damage (per projectile)",
-		"- +3 Projectiles (bugged, will only fire one)",
-		"- +3 Spread (generous spread)",
-		"",
-		"Its bugged on my game, only shotting one projectile, I'm not sure if thats intended or what."
+		"- +3 Projectiles",
+		"- +3 Spread (generous spread)"
 	],
 	tasks: [{
 		uid: "a2d89973",
