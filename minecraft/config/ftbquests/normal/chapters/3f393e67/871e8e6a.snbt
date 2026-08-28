@@ -33,5 +33,11 @@
 		type: "item",
 		item: "minecraft:redstone_block",
 		count: 12
+	},
+	{
+		uid: "9aa48076",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 8
 	}]
 }
