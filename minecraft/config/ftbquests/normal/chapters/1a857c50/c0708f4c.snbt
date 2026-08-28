@@ -33,5 +33,11 @@
 		uid: "67361b47",
 		type: "random",
 		table: 5
+	},
+	{
+		uid: "257e25cb",
+		type: "item",
+		item: "hbm:circuit 1 8",
+		count: 16
 	}]
 }
