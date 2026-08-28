@@ -4853,25 +4853,6 @@
       "power": 100
     },
     {
-      "name": "ass.satelliterelay",
-      "inputItem": [
-        ["dict","shellTitanium",3],
-        ["item","hbm:plate_desh",8],
-        ["item","hbm:fluid_barrel_full",1,38],
-        ["item","hbm:photo_panel",16],
-        ["item","hbm:thruster_nuclear"],
-        ["item","hbm:ingot_uranium_fuel",6],
-        ["item","hbm:circuit",24,8],
-        ["item","hbm:magnetron",3],
-        ["item","hbm:battery_pack",1,2]
-      ],
-      "outputItem": [
-        ["single",["hbm:satellite",1,8]]
-      ],
-      "duration": 600,
-      "power": 100
-    },
-    {
       "name": "ass.satelliteasteroidminer",
       "inputItem": [
         ["dict","plateSaturnite",24],
@@ -9171,6 +9152,24 @@
       ],
       "outputItem": [
         ["single",["hbm:thruster_nuclear"]]
+      ],
+      "duration": 600,
+      "power": 100
+    },
+    {
+      "name": "ass.satelliterelay",
+      "inputItem": [
+        ["dict","shellTitanium",3],
+        ["item","hbm:plate_desh",8],
+        ["item","hbm:fluid_barrel_full",1,38],
+        ["item","hbm:photo_panel",16],
+        ["item","hbm:thruster_nuclear"],
+        ["item","hbm:circuit",24,8],
+        ["item","hbm:magnetron",3],
+        ["item","hbm:battery_pack",1,2]
+      ],
+      "outputItem": [
+        ["single",["hbm:satellite",1,8]]
       ],
       "duration": 600,
       "power": 100
