@@ -13,6 +13,8 @@ Added quests
 - Warheads -> Size 15 MIRV and thermonuclear
 - New size 20 Fin
 - Deco blocks
+- Satellite ground station
+- All new satellites
 
 Moved quests
 - All RoR related -> RoR chapter
@@ -33,12 +35,12 @@ Fixed Settings tool description
 Trimmed Sawmill description
 Added subtitle to Desh Screwdriver
 Added tooltip to Volcano warhead
-!Added extremely cool dynamic tooltips for Powered Drill (each engine will show what fuel it will use)
+!Added extremely cool dynamic tooltips for Powered Drill (each engine will show what fuel it uses)
 
 Added recipes for
 - Radioactive Gem -> Irradiate diamond gems in a RBMK channel
 - An Old Classic (double barrel shotgun) -> saturnite parts and a skull
-- Balefire Shard -> Radioactive gems, bones, and powder magic. Renewable!
+- Balefire Shard -> Radioactive gems, bones, and powder magic
 - Powder Cement (Shredder) -> Block slag variant
 - ALL Conversion Kits (its real cool) -> generic mod parts and receiver, gun mechanism, and the bullet to convert caliber to
 - Dual Miniguns -> Plasma Forge, 4 saturnite gun mechanism and 2 miniguns, 10k power and plasma
@@ -86,7 +88,7 @@ Renamed ore info quests
 Remove provisional Neutron Reflector recipe
 Remove coolant dependency for the Watz powerplant
 Removed fuselage skin in custom missile section
-Removed old satellites
+Removed old satellites quests
 
 version 1.2.0
 
