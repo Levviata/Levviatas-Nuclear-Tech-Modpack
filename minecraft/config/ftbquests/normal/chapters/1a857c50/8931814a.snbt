@@ -3,6 +3,8 @@
 	y: 0.0d,
 	shape: "hexagon",
 	text: [
+		"After extracting and heating Crude Oil it may be processed.",
+		"",
 		"The Oil Refinery refines Crude Oil into exquisite petrochemicals.",
 		"",
 		"These fuels may be used for many useful things: ",
