@@ -1,6 +1,7 @@
 {
 	x: 10.5d,
 	y: -9.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "ce9b80b3",
 		type: "item",

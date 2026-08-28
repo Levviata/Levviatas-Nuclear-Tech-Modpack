@@ -1,6 +1,6 @@
 {
 	title: "Black Lung and Mesothelioma, Second Revision Edition",
-	x: -6.0d,
+	x: -6.5d,
 	y: 10.5d,
 	shape: "square",
 	description: "Inhale airbone particles, exhale silicosis",
