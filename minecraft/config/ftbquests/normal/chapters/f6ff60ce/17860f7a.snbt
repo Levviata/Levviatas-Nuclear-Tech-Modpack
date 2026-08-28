@@ -1,6 +1,6 @@
 {
-	x: -2.5d,
-	y: 5.5d,
+	x: 1.5d,
+	y: 6.0d,
 	description: "§e§nRequires:§r§e Rubber Bar",
 	text: [
 		"The Laboratory Grade Pipette can hold 50mB of any non-antimatter liquid.",
