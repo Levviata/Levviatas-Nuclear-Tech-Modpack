@@ -20,5 +20,9 @@ Add quests for
 - Drive Enclosure
 - Soyuz Launch Pad
 - Pneumatic Storage network
-- 
+
+Add pyrophoric effect to
+- Infernal coal
+- Blaze Powder and blaze rod
+- Red phosphorus
 
