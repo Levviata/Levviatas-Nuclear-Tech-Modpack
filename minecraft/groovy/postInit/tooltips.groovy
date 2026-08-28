@@ -70,7 +70,33 @@ event_manager.listen { ItemTooltipEvent event ->
         event.getToolTip() << 'Tier: 4 / 4'
         event.getToolTip() << 'Capacity: 1.000.000 items'
     }
-    if (event.getItemStack() in item('hbm:gun_drill')) {
+    if (event.getItemStack().getTagCompound()?.hasKey('KEY_MOD_LIST_0')) {
+        int[] values = event.getItemStack().getTagCompound()?.getIntArray("KEY_MOD_LIST_0");
+        def dieselEngine = 226
+        def aviationEngine = 227
+        def turboEngine = 229
+        for (int i : values) { // this is cool as shit
+            if (i == dieselEngine)
+            {
+                event.getToolTip() << 'Fuels:'
+                event.getToolTip() << '- Diesel'
+                event.getToolTip() << '- Cracked Diesel'
+                event.getToolTip() << '- Light Oil'
+            }
+            if (i == aviationEngine)
+            {
+                event.getToolTip() << 'Fuels:'
+                event.getToolTip() << '- Kerosene'
+                event.getToolTip() << '- LPG'
+            }
+            if (i == turboEngine)
+            {
+                event.getToolTip() << 'Fuels:'
+                event.getToolTip() << '- Jet Fuel'
+                event.getToolTip() << '- Reformate'
+            }
+        }
+    } else if (event.getItemStack() in item('hbm:gun_drill')) { // normal
         event.getToolTip() << 'Fuels:'
         event.getToolTip() << '- Gasoline'
         event.getToolTip() << '- Leaded Gasoline'
