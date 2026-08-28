@@ -322,3 +322,16 @@ oreDict.add('anyDrillbit', item('hbm:drillbit:9'))
 
 oreDict.add('anyReinforcedPane', item('hbm:reinforced_glass_pane'))
 oreDict.add('anyReinforcedPane', item('hbm:reinforced_laminate_pane'))
+
+oreDict.add('decoBlock', item('hbm:deco_aluminium'))
+oreDict.add('decoBlock', item('hbm:deco_titanium'))
+oreDict.add('decoBlock', item('hbm:deco_tungsten'))
+oreDict.add('decoBlock', item('hbm:deco_steel'))
+oreDict.add('decoBlock', item('hbm:deco_rusty_steel'))
+oreDict.add('decoBlock', item('hbm:deco_red_copper'))
+oreDict.add('decoBlock', item('hbm:deco_lead'))
+oreDict.add('decoBlock', item('hbm:deco_beryllium'))
+
+
+log.info("Loaded ore dictionaries!")
+
