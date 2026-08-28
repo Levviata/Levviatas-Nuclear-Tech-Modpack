@@ -1,0 +1,37 @@
+{
+	x: 1.7348639455782404d,
+	y: 12.97551020408163d,
+	shape: "pentagon",
+	dependencies: [
+		"bab8ed3d"
+	],
+	tasks: [{
+		uid: "886f8712",
+		type: "item",
+		items: [{
+			item: "hbm:red_cable"
+		}],
+		count: 128L
+	}],
+	rewards: [{
+		uid: "27634f72",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "39473129",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "a01b71e9",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "3296ba35",
+		type: "item",
+		item: "hbm:red_cable",
+		count: 128
+	}]
+}
