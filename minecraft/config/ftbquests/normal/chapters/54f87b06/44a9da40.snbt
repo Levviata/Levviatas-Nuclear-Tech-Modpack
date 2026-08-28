@@ -1,6 +1,6 @@
 {
-	x: 11.0d,
-	y: 10.5d,
+	x: 0.0d,
+	y: 0.0d,
 	shape: "hexagon",
 	size: 1.5d,
 	tasks: [{
