@@ -970,16 +970,16 @@
       "output": ["hbm:powder_cement",4]
     },
     {
-      "input": ["hbm:block_slag",1,1],
-      "output": ["hbm:powder_cement",4]
-    },
-    {
       "input": ["minecraft:quartz"],
       "output": ["hbm:powder_quartz"]
     },
     {
       "input": ["minecraft:diamond_ore"],
       "output": ["hbm:gravel_diamond",2]
+    },
+    {
+      "input": ["hbm:block_slag",1,1],
+      "output": ["hbm:powder_cement",4]
     }
   ]
 }

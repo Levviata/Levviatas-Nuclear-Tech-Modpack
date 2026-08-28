@@ -1252,15 +1252,6 @@
       ]
     },
     {
-      "input": ["dict","blockSlag"],
-      "output": [
-        ["minecraft:gravel"],
-        ["hbm:powder_fire"],
-        ["hbm:powder_calcium"],
-        ["hbm:dust"]
-      ]
-    },
-    {
       "input": ["item","hbm:bedrock_ore_new",1,340],
       "output": [
         ["hbm:bedrock_ore_fragment",5,1500],
@@ -1285,6 +1276,15 @@
         ["hbm:bedrock_ore_fragment",3,5700],
         ["hbm:bedrock_ore_fragment",4,4100],
         ["hbm:bedrock_ore_new",1,210]
+      ]
+    },
+    {
+      "input": ["dict","blockSlag"],
+      "output": [
+        ["minecraft:gravel"],
+        ["hbm:powder_fire"],
+        ["hbm:powder_calcium"],
+        ["hbm:dust"]
       ]
     }
   ]
