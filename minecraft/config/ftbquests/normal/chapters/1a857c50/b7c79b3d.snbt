@@ -1,6 +1,9 @@
 {
 	x: -7.5d,
 	y: -8.0d,
+	text: [
+		"The Control Unit is a component used primarly in bombs and nukes, it's also used for the Satellite Ground Station and the Soyuz missile."
+	],
 	dependencies: [
 		"a14582da"
 	],
