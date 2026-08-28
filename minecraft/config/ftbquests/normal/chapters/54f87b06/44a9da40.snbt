@@ -1,8 +1,17 @@
 {
 	x: 0.0d,
-	y: 0.0d,
+	y: -0.5d,
 	shape: "hexagon",
-	size: 1.5d,
+	text: [
+		"Satellites are helpful orbitting machines that are launched in a Soyuz rocket in a Soyuz Launch Platform.",
+		"",
+		"They must be set with an unique ID using a Satellite Manager, a Satellite Chip can be used.",
+		"",
+		"I won't provide descriptions for the majority of satellites as they have in-depth manuals.",
+		"",
+		"Press F1 while hovering the item in your inventory to open the manual."
+	],
+	size: 2.0d,
 	tasks: [{
 		uid: "a567714a",
 		type: "item",
