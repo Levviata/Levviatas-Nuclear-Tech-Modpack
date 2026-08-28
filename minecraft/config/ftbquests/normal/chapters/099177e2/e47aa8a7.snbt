@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: -12.0d,
+	tasks: [{
+		uid: "a865805d",
+		type: "item",
+		items: [{
+			item: "hbm:mp_fuselage_15_kerosene"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
