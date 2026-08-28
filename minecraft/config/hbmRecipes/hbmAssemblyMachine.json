@@ -9146,6 +9146,7 @@
         ["item","hbm:thruster_small"],
         ["item","hbm:fuel_tank_small"],
         ["item","hbm:circuit",1,9],
+        ["item","hbm:neutron_reflector",4],
         ["item","hbm:ingot_plutonium_fuel",4],
         ["dict","neutronSource",4],
         ["item","hbm:circuit",1,10]
