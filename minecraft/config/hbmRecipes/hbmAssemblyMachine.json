@@ -3835,21 +3835,6 @@
       "power": 100
     },
     {
-      "name": "ass.warheadvolcano",
-      "inputItem": [
-        ["dict","plateTitanium",24],
-        ["dict","plateSteel",16],
-        ["item","hbm:det_nuke",3],
-        ["dict","blockUranium238",24],
-        ["item","hbm:circuit",5,10]
-      ],
-      "outputItem": [
-        ["single",["hbm:warhead_volcano"]]
-      ],
-      "duration": 600,
-      "power": 100
-    },
-    {
       "name": "ass.thrusternerva",
       "inputItem": [
         ["dict","ingotDuraSteel",32],
@@ -4207,19 +4192,6 @@
       "power": 100
     },
     {
-      "name": "ass.mpf10kerolong",
-      "inputItem": [
-        ["item","hbm:seg_10",2],
-        ["dict","plateAluminum",16],
-        ["dict","plateSteel",6]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_10_long_kerosene"]]
-      ],
-      "duration": 100,
-      "power": 100
-    },
-    {
       "name": "ass.mpf10solid",
       "inputItem": [
         ["item","hbm:seg_10",2],
@@ -4228,19 +4200,6 @@
       ],
       "outputItem": [
         ["single",["hbm:mp_fuselage_10_solid"]]
-      ],
-      "duration": 100,
-      "power": 100
-    },
-    {
-      "name": "ass.mpf10solidlong",
-      "inputItem": [
-        ["item","hbm:seg_10",2],
-        ["dict","plateTitanium",16],
-        ["dict","plateSteel",6]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_10_long_solid"]]
       ],
       "duration": 100,
       "power": 100
@@ -4545,23 +4504,6 @@
       "power": 100
     },
     {
-      "name": "ass.mpw15bf",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","plateWeaponSteel",32],
-        ["dict","plateTungCar",16],
-        ["item","hbm:powder_magic",8],
-        ["item","hbm:egg_balefire_shard",4],
-        ["dict","ingotAnyHighexplosive",16],
-        ["item","hbm:circuit",2,13]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_15_balefire"]]
-      ],
-      "duration": 400,
-      "power": 100
-    },
-    {
       "name": "ass.50bmgsm",
       "inputItem": [
         ["item","hbm:casing",1,3],
@@ -4776,25 +4718,6 @@
       ],
       "outputItem": [
         ["single",["hbm:sat_head_resonator"]]
-      ],
-      "duration": 600,
-      "power": 100
-    },
-    {
-      "name": "ass.satelliterelay",
-      "inputItem": [
-        ["dict","shellTitanium",3],
-        ["item","hbm:plate_desh",8],
-        ["item","hbm:fluid_barrel_full",1,38],
-        ["item","hbm:photo_panel",16],
-        ["item","hbm:thruster_nuclear"],
-        ["item","hbm:ingot_uranium_fuel",6],
-        ["item","hbm:circuit",24,8],
-        ["item","hbm:magnetron",3],
-        ["item","hbm:battery_pack",1,2]
-      ],
-      "outputItem": [
-        ["single",["hbm:sat_foeq"]]
       ],
       "duration": 600,
       "power": 100
@@ -8900,7 +8823,10 @@
         ["dict","plateSteel",32],
         ["dict","plateTitanium",16],
         ["item","hbm:det_nuke",2],
-        ["item","hbm:circuit",1,9]
+        ["item","hbm:circuit",1,13]
+      ],
+      "inputFluid": [
+        ["DEUTERIUM",10000]
       ],
       "outputItem": [
         ["single",["hbm:mp_warhead_15_thermo"]]
@@ -8923,49 +8849,6 @@
         ["single",["hbm:mp_warhead_15_mirv"]]
       ],
       "duration": 600,
-      "power": 100
-    },
-    {
-      "name": "ass.mpwarhead15volcano",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","plateSteel",32],
-        ["dict","plateTitanium",16],
-        ["item","hbm:det_nuke",4],
-        ["dict","blockUranium238",32],
-        ["item","hbm:circuit",6,10],
-        ["item","hbm:circuit",1,9]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_15_volcano"]]
-      ],
-      "duration": 600,
-      "power": 100
-    },
-    {
-      "name": "ass.warheadthermoexo",
-      "inputItem": [
-        ["item","hbm:therm_exo",2],
-        ["dict","plateTitanium",12],
-        ["dict","plateSteel",6]
-      ],
-      "outputItem": [
-        ["single",["hbm:warhead_thermo_exo"]]
-      ],
-      "duration": 300,
-      "power": 100
-    },
-    {
-      "name": "ass.warheadthermoendo",
-      "inputItem": [
-        ["item","hbm:therm_endo",2],
-        ["dict","plateTitanium",12],
-        ["dict","plateSteel",6]
-      ],
-      "outputItem": [
-        ["single",["hbm:warhead_thermo_endo"]]
-      ],
-      "duration": 300,
       "power": 100
     },
     {
@@ -8999,32 +8882,6 @@
       "power": 100
     },
     {
-      "name": "ass.missileexo",
-      "inputItem": [
-        ["item","hbm:thruster_large"],
-        ["item","hbm:fuel_tank_large"],
-        ["item","hbm:warhead_thermo_exo"]
-      ],
-      "outputItem": [
-        ["single",["hbm:missile_exo"]]
-      ],
-      "duration": 300,
-      "power": 25000
-    },
-    {
-      "name": "ass.missileendo",
-      "inputItem": [
-        ["item","hbm:thruster_large"],
-        ["item","hbm:fuel_tank_large"],
-        ["item","hbm:warhead_thermo_endo"]
-      ],
-      "outputItem": [
-        ["single",["hbm:missile_endo"]]
-      ],
-      "duration": 300,
-      "power": 25000
-    },
-    {
       "name": "ass.missilen2",
       "inputItem": [
         ["item","hbm:thruster_large"],
@@ -9036,6 +8893,46 @@
       ],
       "duration": 300,
       "power": 25000
+    },
+    {
+      "name": "ass.mpw15bf",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","plateWeaponSteel",32],
+        ["item","hbm:det_bale",4],
+        ["item","hbm:circuit",2,14]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_balefire"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpf10kerolong",
+      "inputItem": [
+        ["item","hbm:seg_10",2],
+        ["dict","plateAluminum",16],
+        ["dict","plateSteel",6]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_10_long_kerosene"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.mpf10solidlong",
+      "inputItem": [
+        ["item","hbm:seg_10",2],
+        ["dict","plateTitanium",16],
+        ["dict","plateSteel",6]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_10_long_solid"]]
+      ],
+      "duration": 100,
+      "power": 100
     }
   ]
 }
