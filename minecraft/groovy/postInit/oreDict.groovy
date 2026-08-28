@@ -320,6 +320,9 @@ oreDict.add('anyDrillbit', item('hbm:drillbit:7'))
 oreDict.add('anyDrillbit', item('hbm:drillbit:8'))
 oreDict.add('anyDrillbit', item('hbm:drillbit:9'))
 
+oreDict.add('neutronSource', item('hbm:ingot_rad226'))
+oreDict.add('neutronSource', item('hbm:ingot_polonium'))
+
 oreDict.add('anyReinforcedPane', item('hbm:reinforced_glass_pane'))
 oreDict.add('anyReinforcedPane', item('hbm:reinforced_laminate_pane'))
 
