@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"The Satellite Ground Station allows connection of RoR components and satellites.",
+		"",
+		"Has an extensive manual, to open press F1."
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "0733a239",
+		type: "item",
+		items: [{
+			item: "hbm:machine_satlink"
+		}]
+	}]
+}

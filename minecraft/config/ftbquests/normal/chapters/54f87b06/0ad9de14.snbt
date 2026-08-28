@@ -1,0 +1,18 @@
+{
+	x: -2.0d,
+	y: 8.0d,
+	description: "Unused",
+	text: [
+		"No recipe and no code, it don't do anything!"
+	],
+	tasks: [{
+		uid: "6960ed51",
+		type: "item",
+		items: [{
+			id: "hbm:satellite",
+			Damage: 12s,
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

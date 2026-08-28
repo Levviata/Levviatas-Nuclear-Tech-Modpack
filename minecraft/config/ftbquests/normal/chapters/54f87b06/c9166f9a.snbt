@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: 6.5d,
+	size: 1.25d,
+	tasks: [{
+		uid: "ac0ec03a",
+		type: "item",
+		items: [{
+			id: "hbm:satellite",
+			Damage: 4s,
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}
