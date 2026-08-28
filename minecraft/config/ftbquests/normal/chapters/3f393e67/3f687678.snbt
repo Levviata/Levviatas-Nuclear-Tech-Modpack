@@ -1,0 +1,29 @@
+{
+	x: -5.065136054421771d,
+	y: 15.24625850340135d,
+	text: [
+		"The Automatic Buzz Saw will cut down trees and plants in a 10 block radius.",
+		"",
+		"When fed with fuel, it will constantly spin at a slow pace, only extending if plant or trees are detected.",
+		"",
+		"Trees will be compleley cut and replanted on spot.",
+		"",
+		"It can harvest Sugar cane, cactus, and Mustard Willow but the Automatic Thresher does a better job at it."
+	],
+	dependencies: [
+		"86867f7a"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "f32d1b17",
+		type: "item",
+		items: [{
+			item: "hbm:machine_autosaw"
+		}]
+	}],
+	rewards: [{
+		uid: "6a543507",
+		type: "xp",
+		xp: 50
+	}]
+}
