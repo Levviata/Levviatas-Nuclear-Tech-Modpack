@@ -1,11 +1,30 @@
 {
 	x: 11.0d,
-	y: -13.0d,
+	y: -12.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "8b924734",
 		type: "item",
 		items: [{
 			item: "hbm:mp_thruster_20_solid"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "69dfdac8",
+		type: "item",
+		items: [{
+			item: "hbm:mp_thruster_20_solid_multi"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8c6b0c93",
+		type: "item",
+		items: [{
+			item: "hbm:mp_thruster_20_solid_multier"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
