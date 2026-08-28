@@ -25,6 +25,7 @@ Add descriptions to
 - Aromatic Hydrocarbons
 - Cracked Naphtha
 - An Old Classic (double barrel shotgun)
+- Satellite Base
 
 Extended description for Oil Refinery
 Cut out description for Plate and Stamps quest
