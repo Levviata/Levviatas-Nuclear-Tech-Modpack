@@ -3953,20 +3953,6 @@
       "power": 100
     },
     {
-      "name": "ass.thrusternerva",
-      "inputItem": [
-        ["dict","ingotDuraSteel",32],
-        ["dict","ingotBoron",8],
-        ["dict","plateLead",16],
-        ["dict","ntmpipeSteel",4]
-      ],
-      "outputItem": [
-        ["single",["hbm:thruster_nuclear"]]
-      ],
-      "duration": 600,
-      "power": 100
-    },
-    {
       "name": "ass.stealthmissile",
       "inputItem": [
         ["dict","plateTitanium",20],
@@ -9171,6 +9157,22 @@
         ["single",["hbm:mp_warhead_15_balefire"]]
       ],
       "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.thrusternerva",
+      "inputItem": [
+        ["item","hbm:thruster_small"],
+        ["item","hbm:fuel_tank_small"],
+        ["item","hbm:circuit",1,9],
+        ["item","hbm:ingot_plutonium_fuel",4],
+        ["dict","neutronSource",4],
+        ["item","hbm:circuit",1,10]
+      ],
+      "outputItem": [
+        ["single",["hbm:thruster_nuclear"]]
+      ],
+      "duration": 600,
       "power": 100
     }
   ]
