@@ -1,6 +1,10 @@
 {
 	x: -10.5d,
 	y: -1.5d,
+	description: "Infinite durability",
+	text: [
+		""
+	],
 	tasks: [{
 		uid: "8c80972f",
 		type: "item",
