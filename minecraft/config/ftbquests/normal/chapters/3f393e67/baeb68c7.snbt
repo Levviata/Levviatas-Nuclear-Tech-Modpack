@@ -1,0 +1,15 @@
+{
+	x: -4.5d,
+	y: 16.0d,
+	dependencies: [
+		"86867f7a"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "3a4a9a45",
+		type: "item",
+		items: [{
+			item: "hbm:machine_thresher"
+		}]
+	}]
+}
