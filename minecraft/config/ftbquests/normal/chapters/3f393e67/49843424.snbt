@@ -1,0 +1,68 @@
+{
+	x: -3.0d,
+	y: 8.5d,
+	dependencies: [
+		"3aba74ab"
+	],
+	tasks: [{
+		uid: "7c008233",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any decoBlock"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "decoBlock"
+				}
+			}
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "ff7d7e4e",
+		type: "item",
+		item: "hbm:ingot_lead",
+		count: 2
+	},
+	{
+		uid: "39912b89",
+		type: "item",
+		item: "hbm:ingot_beryllium",
+		count: 2
+	},
+	{
+		uid: "671cae7b",
+		type: "item",
+		item: "hbm:ingot_aluminium",
+		count: 2
+	},
+	{
+		uid: "7d4f300e",
+		type: "item",
+		item: "hbm:ingot_tungsten",
+		count: 2
+	},
+	{
+		uid: "79628996",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 2
+	},
+	{
+		uid: "ffc0605e",
+		type: "item",
+		item: "hbm:ingot_titanium",
+		count: 2
+	},
+	{
+		uid: "ac8a34bc",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 2
+	}]
+}
