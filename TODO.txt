@@ -17,3 +17,5 @@ Add pyrophoric effect to
 - Blaze Powder and blaze rod
 - Red phosphorus
 
+Add explosive effect to
+- hbm:thruster_nuclear
