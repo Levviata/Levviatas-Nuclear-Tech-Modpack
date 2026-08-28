@@ -10,8 +10,8 @@
 		consume_items: true
 	},
 	{
-		uid: "0b667e81",
+		uid: "a8c8852e",
 		type: "fluid",
-		fluid: "water"
+		fluid: "lava"
 	}]
 }
