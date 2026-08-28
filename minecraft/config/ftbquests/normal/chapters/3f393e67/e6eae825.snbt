@@ -1,0 +1,37 @@
+{
+	title: "Hazards",
+	icon: "hbm:weapon_mod_test 1 1",
+	x: -4.6011904761904745d,
+	y: 8.500000000000007d,
+	shape: "square",
+	text: [
+		"In Nuclear Tech there are a variety of hazards that come from items in the inventory.",
+		"",
+		"Items can have",
+		"- Hydroactive, explodes when player touches water",
+		"- Explosive, explodes when player touches fire",
+		"- Radioactive, emits contamination",
+		"- Pyrophoric, burns the player",
+		"- Blinding",
+		"- Coal or Asbestos dust, deals lung damage",
+		"- and Digamma properties.",
+		"",
+		"Radioactivity is partially and Pyrophoric completely negated  with Tungsten Reachers",
+		"",
+		"Coal and Asbestos dust is negated with Gas mask with filter"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"00fafa6c"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "0d45568d",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "806579f7",
+		type: "xp",
+		xp: 50
+	}]
+}
