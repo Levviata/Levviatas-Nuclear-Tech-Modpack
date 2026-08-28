@@ -516,7 +516,7 @@
       "inputItem": [
         ["dict","plateTripleLead",4],
         ["dict","ingotBeryllium",8],
-        ["dict","plateTungCar",8],
+        ["dict","plateDuraSteel",8],
         ["dict","ingotAsbestos",4]
       ],
       "outputItem": [
@@ -983,6 +983,21 @@
       "power": 100
     },
     {
+      "name": "ass.cargodoor",
+      "inputItem": [
+        ["item","hbm:steel_beam",32],
+        ["dict","plateSteel",4],
+        ["dict","boltDuraSteel",4],
+        ["item","hbm:motor",2],
+        ["dict","dyeGray"]
+      ],
+      "outputItem": [
+        ["single",["hbm:cargo_door"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
       "name": "ass.capnuka",
       "inputItem": [
         ["item","hbm:cap_nuka",64],
@@ -1073,7 +1088,7 @@
         ["dict","ingotSteel",4],
         ["dict","plateCopper",4],
         ["item","hbm:motor",2],
-        ["item","hbm:circuit",1,7]
+        ["item","hbm:circuit",1,8]
       ],
       "outputItem": [
         ["single",["hbm:machine_assembly_machine"]]
@@ -1090,6 +1105,20 @@
         ["item","hbm:motor",2],
         ["item","hbm:coil_tungsten",2],
         ["item","hbm:circuit",1,7]
+      ],
+      "outputItem": [
+        ["single",["hbm:machine_chemical_plant"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.chemplantAlt",
+      "inputItem": [
+        ["dict","plateDuraSteel",8],
+        ["dict","ntmpipeCopper",4],
+        ["item","hbm:motor",2],
+        ["item","hbm:circuit",1,8]
       ],
       "outputItem": [
         ["single",["hbm:machine_chemical_plant"]]
@@ -1125,6 +1154,22 @@
       ],
       "duration": 1200,
       "power": 100
+    },
+    {
+      "name": "ass.sal9000",
+      "inputItem": [
+        ["dict","ingotAnyResistantAlloy",16],
+        ["dict","ingotAnyPlastic",64],
+        ["dict","wireDenseGold",32],
+        ["dict","ntmpipeCopper",8],
+        ["item","hbm:circuit",32,8],
+        ["item","hbm:circuit",1,11]
+      ],
+      "outputItem": [
+        ["single",["hbm:machine_supercomputer"]]
+      ],
+      "duration": 400,
+      "power": 1000
     },
     {
       "name": "ass.centrifuge",
@@ -1718,6 +1763,20 @@
       "power": 100
     },
     {
+      "name": "ass.satlink",
+      "inputItem": [
+        ["item","hbm:steel_scaffold",16],
+        ["dict","plateAluminum",16],
+        ["item","hbm:magnetron",3],
+        ["item","hbm:circuit",1,13]
+      ],
+      "outputItem": [
+        ["single",["hbm:machine_satlink"]]
+      ],
+      "duration": 100,
+      "power": 1000
+    },
+    {
       "name": "ass.radarlarge",
       "inputItem": [
         ["dict","plateSextupleSteel",6],
@@ -1913,7 +1972,7 @@
         ["dict","ntmpipeDuraSteel",4],
         ["dict","ntmpipeSteel",4],
         ["item","hbm:turbine_tungsten"],
-        ["item","hbm:ingot_rubber",12],
+        ["dict","ingotRubber",12],
         ["item","hbm:circuit",3,8]
       ],
       "outputItem": [
@@ -2087,20 +2146,6 @@
       ],
       "outputItem": [
         ["single",["hbm:machine_fluidtank"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.bat9k",
-      "inputItem": [
-        ["dict","plateSteel",16],
-        ["dict","plateSextupleAnyResistantAlloy",2],
-        ["item","hbm:steel_scaffold",16],
-        ["dict","unknownTar",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:machine_bat9000"]]
       ],
       "duration": 200,
       "power": 100
@@ -2354,6 +2399,79 @@
       ],
       "duration": 600,
       "power": 100
+    },
+    {
+      "name": "ass.pilepabe",
+      "inputItem": [
+        ["item","hbm:billet_ra226be",3]
+      ],
+      "outputItem": [
+        ["single",["hbm:pile_rod"]]
+      ],
+      "duration": 40,
+      "power": 200,
+      "autoSwitchGroup": "autoswitch.pilerod"
+    },
+    {
+      "name": "ass.pilepobe",
+      "inputItem": [
+        ["item","hbm:billet_po210be",3]
+      ],
+      "outputItem": [
+        ["single",["hbm:pile_rod",1,1]]
+      ],
+      "duration": 40,
+      "power": 200,
+      "autoSwitchGroup": "autoswitch.pilerod"
+    },
+    {
+      "name": "ass.pilezr",
+      "inputItem": [
+        ["dict","billetZirconium"]
+      ],
+      "outputItem": [
+        ["single",["hbm:pile_rod",3,2]]
+      ],
+      "duration": 40,
+      "power": 200,
+      "autoSwitchGroup": "autoswitch.pilerod"
+    },
+    {
+      "name": "ass.pilenu",
+      "inputItem": [
+        ["dict","billetUranium",3]
+      ],
+      "outputItem": [
+        ["single",["hbm:pile_rod",1,3]]
+      ],
+      "duration": 40,
+      "power": 200,
+      "autoSwitchGroup": "autoswitch.pilerod"
+    },
+    {
+      "name": "ass.pilethorium",
+      "inputItem": [
+        ["dict","billetThorium232",3]
+      ],
+      "outputItem": [
+        ["single",["hbm:pile_rod",1,7]]
+      ],
+      "duration": 40,
+      "power": 200,
+      "autoSwitchGroup": "autoswitch.pilerod"
+    },
+    {
+      "name": "ass.pileblock",
+      "inputItem": [
+        ["dict","plankWood"],
+        ["dict","ingotGraphite",4],
+        ["dict","boltSteel",2]
+      ],
+      "outputItem": [
+        ["single",["hbm:pile_brick"]]
+      ],
+      "duration": 20,
+      "power": 250
     },
     {
       "name": "ass.rbmk",
@@ -4192,6 +4310,19 @@
       "power": 100
     },
     {
+      "name": "ass.mpf10kerolong",
+      "inputItem": [
+        ["item","hbm:seg_10",2],
+        ["dict","plateAluminum",16],
+        ["dict","plateSteel",6]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_10_long_kerosene"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
       "name": "ass.mpf10solid",
       "inputItem": [
         ["item","hbm:seg_10",2],
@@ -4200,6 +4331,19 @@
       ],
       "outputItem": [
         ["single",["hbm:mp_fuselage_10_solid"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.mpf10solidlong",
+      "inputItem": [
+        ["item","hbm:seg_10",2],
+        ["dict","plateTitanium",16],
+        ["dict","plateSteel",6]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_10_long_solid"]]
       ],
       "duration": 100,
       "power": 100
@@ -4723,6 +4867,25 @@
       "power": 100
     },
     {
+      "name": "ass.satelliterelay",
+      "inputItem": [
+        ["dict","shellTitanium",3],
+        ["item","hbm:plate_desh",8],
+        ["item","hbm:fluid_barrel_full",1,38],
+        ["item","hbm:photo_panel",16],
+        ["item","hbm:thruster_nuclear"],
+        ["item","hbm:ingot_uranium_fuel",6],
+        ["item","hbm:circuit",24,8],
+        ["item","hbm:magnetron",3],
+        ["item","hbm:battery_pack",1,2]
+      ],
+      "outputItem": [
+        ["single",["hbm:satellite",1,8]]
+      ],
+      "duration": 600,
+      "power": 100
+    },
+    {
       "name": "ass.satelliteasteroidminer",
       "inputItem": [
         ["dict","plateSaturnite",24],
@@ -4736,7 +4899,7 @@
         ["item","hbm:battery_pack",1,2]
       ],
       "outputItem": [
-        ["single",["hbm:sat_miner"]]
+        ["single",["hbm:satellite",1,3]]
       ],
       "duration": 600,
       "power": 100
@@ -4755,10 +4918,112 @@
         ["item","hbm:battery_pack",1,2]
       ],
       "outputItem": [
-        ["single",["hbm:sat_lunar_miner"]]
+        ["single",["hbm:satellite",1,4]]
       ],
       "duration": 600,
       "power": 100
+    },
+    {
+      "name": "ass.detectorsat",
+      "inputItem": [
+        ["dict","plateTripleGold",16],
+        ["item","hbm:photo_panel",64],
+        ["dict","wireDenseBSCCO",16],
+        ["item","hbm:circuit",24,11],
+        ["item","hbm:part_generic",16,3],
+        ["item","hbm:circuit",1,14]
+      ],
+      "outputItem": [
+        ["single",["hbm:satellite",1,9]]
+      ],
+      "duration": 1200,
+      "power": 25000
+    },
+    {
+      "name": "ass.orbitallaser",
+      "inputItem": [
+        ["dict","shellWeaponSteel",16],
+        ["item","hbm:photo_panel",32],
+        ["item","hbm:battery_pack",1,9],
+        ["item","hbm:crystal_redstone",16],
+        ["item","hbm:part_generic",16,3],
+        ["item","hbm:circuit",3,14]
+      ],
+      "outputItem": [
+        ["single",["hbm:satellite",1,5]]
+      ],
+      "duration": 1200,
+      "power": 25000
+    },
+    {
+      "name": "ass.rayscansat",
+      "inputItem": [
+        ["dict","shellSaturnite",16],
+        ["item","hbm:photo_panel",32],
+        ["dict","wireDenseSchrabidate",16],
+        ["item","hbm:circuit",16,15],
+        ["item","hbm:part_generic",16,3],
+        ["item","hbm:circuit",3,14]
+      ],
+      "outputItem": [
+        ["single",["hbm:satellite",1,10]]
+      ],
+      "duration": 1200,
+      "power": 25000
+    },
+    {
+      "name": "ass.spacelab",
+      "inputItem": [
+        ["dict","shellAluminum",16],
+        ["item","hbm:photo_panel",32],
+        ["item","hbm:circuit",16,8],
+        ["item","hbm:circuit",4,18],
+        ["item","hbm:part_generic",16,3],
+        ["item","hbm:circuit",1,13]
+      ],
+      "outputItem": [
+        ["single",["hbm:satellite",1,11]]
+      ],
+      "duration": 1200,
+      "power": 25000
+    },
+    {
+      "name": "ass.sensorrelay",
+      "inputItem": [
+        ["dict","shellAluminum"],
+        ["item","hbm:coil_gold",4],
+        ["item","hbm:circuit",1,15],
+        ["item","hbm:part_generic",1,3]
+      ],
+      "outputItem": [
+        ["single",["hbm:satellite",1,13]]
+      ],
+      "duration": 600,
+      "power": 25000
+    },
+    {
+      "name": "ass.nitra",
+      "inputItem": [
+        ["item","hbm:nitra"]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:casing",1,4],1.0,20],
+          [["hbm:casing",1,5],1.0,10],
+          [["hbm:casing",2],1.0,20],
+          [["hbm:casing",1,1],1.0,10],
+          [["minecraft:gunpowder"],1.0,30],
+          [["hbm:cordite"],1.0,20],
+          [["hbm:ballistite"],1.0,20],
+          [["hbm:grenade_shell"],1.0,5],
+          [["hbm:grenade_shell",1,1],1.0,5],
+          [["hbm:grenade_fuze"],1.0,10]
+        ]
+      ],
+      "duration": 200,
+      "power": 500,
+      "named": true
     },
     {
       "name": "ass.emptypackage",
@@ -8906,32 +9171,6 @@
         ["single",["hbm:mp_warhead_15_balefire"]]
       ],
       "duration": 400,
-      "power": 100
-    },
-    {
-      "name": "ass.mpf10kerolong",
-      "inputItem": [
-        ["item","hbm:seg_10",2],
-        ["dict","plateAluminum",16],
-        ["dict","plateSteel",6]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_10_long_kerosene"]]
-      ],
-      "duration": 100,
-      "power": 100
-    },
-    {
-      "name": "ass.mpf10solidlong",
-      "inputItem": [
-        ["item","hbm:seg_10",2],
-        ["dict","plateTitanium",16],
-        ["dict","plateSteel",6]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_10_long_solid"]]
-      ],
-      "duration": 100,
       "power": 100
     }
   ]
