@@ -1,11 +1,30 @@
 {
-	x: 8.0d,
+	disable_toast: true,
+	x: 10.0d,
 	y: -12.0d,
 	tasks: [{
 		uid: "bf976703",
 		type: "item",
 		items: [{
 			item: "hbm:mp_thruster_20_kerosene"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8565b32d",
+		type: "item",
+		items: [{
+			item: "hbm:mp_thruster_20_kerosene_dual"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f159e342",
+		type: "item",
+		items: [{
+			item: "hbm:mp_thruster_20_kerosene_triple"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
