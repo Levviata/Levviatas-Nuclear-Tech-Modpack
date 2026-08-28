@@ -1,14 +1,16 @@
 {
 	title: "Satellite Controls",
 	x: 0.0d,
-	y: -2.5d,
+	y: -3.0d,
+	description: "§e§nRequires:§r§e Starmetal",
 	text: [
 		""
 	],
 	hide_dependency_lines: true,
 	dependencies: [
-		"47aeecca"
+		"a24318fa"
 	],
+	size: 1.5d,
 	tasks: [{
 		uid: "81559cc5",
 		type: "item",
@@ -35,5 +37,18 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "02fafb36",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "3ba299a5",
+		type: "item",
+		item: {
+			id: "hbm:sat_chip",
+			tag: {}
+		}
 	}]
 }
