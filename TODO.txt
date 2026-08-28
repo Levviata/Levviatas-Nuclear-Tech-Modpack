@@ -7,19 +7,10 @@ Add bloom to
 - Refined storage machines (mostly grids and the controller)
 
 Add quests for
-- Power diode
 - All generators
-- new Chicago Pile
-- Automatic Thresher
 - Supercomputer
 - Foundry Tank
-- Piston Inserter
-- Industrial Generator
-- LPW Mk2
-- Satellite Ground station
 - Drive Enclosure
-- Soyuz Launch Pad
-- Pneumatic Storage network
 
 Add pyrophoric effect to
 - Infernal coal
