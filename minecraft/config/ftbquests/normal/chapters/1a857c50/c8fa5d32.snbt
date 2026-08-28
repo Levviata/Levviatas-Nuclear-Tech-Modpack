@@ -1,0 +1,32 @@
+{
+	x: -4.5d,
+	y: -6.5d,
+	text: [
+		"The Diode restricts power throughput and restricts flow direction.",
+		"",
+		"The input is inserted through one side then the limited output is sent through the copper block-ish part."
+	],
+	dependencies: [
+		"7d695080",
+		"fe1c92a7"
+	],
+	tasks: [{
+		uid: "23487cd4",
+		type: "item",
+		items: [{
+			item: "hbm:cable_diode"
+		}]
+	}],
+	rewards: [{
+		uid: "3495aff6",
+		type: "item",
+		item: "hbm:block_red_copper",
+		count: 4
+	},
+	{
+		uid: "05137de0",
+		type: "item",
+		item: "hbm:red_cable",
+		count: 16
+	}]
+}
