@@ -8,9 +8,7 @@
 		"Stat changes",
 		"- 66% Base Damage",
 		"- Automatic Fire",
-		"- Use rate of .25 secs.",
-		"",
-		"The scope should be removed from the rifle, but it doesn't do that in my game."
+		"- Use rate of .25 secs."
 	],
 	tasks: [{
 		uid: "2b3cba34",
