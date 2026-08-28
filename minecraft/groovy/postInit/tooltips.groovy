@@ -109,4 +109,9 @@ event_manager.listen { ItemTooltipEvent event ->
     if (event.getItemStack() in item('hbm:hand_drill_desh')) {
         event.getToolTip() << 'Desh Hand Screw'
     }
+    if (event.getItemStack() in item('hbm:mp_warhead_15_volcano')) {
+        event.getToolTip() << "Doesn't explode as it lacks code."
+        event.getToolTip() << "Use Tectonic Missile."
+    }
 }
+log.info("Loaded tooltips!")
