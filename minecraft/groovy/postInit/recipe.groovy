@@ -1094,6 +1094,22 @@ crafting.shapedBuilder()
 recipeCount++
 
 crafting.shapedBuilder()
+        .name(resource('hbm:jetpack_glider'))
+        .output(item('hbm:jetpack_glider'))
+        .row('ABA')
+        .row('CGC')
+        .row('DFD')
+        .key('A', item('hbm:circuit:9'))
+        .key('C', item('hbm:plate_bismuth'))
+        .key('G', item('hbm:jetpack_boost'))
+        .key('B', item('hbm:motor_desh'))
+        .key('D', item('hbm:thruster_nuclear'))
+        .key('F', item('hbm:coin_maskman'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
         .output(item('hbm:det_bale'))
         .row('ABA')
         .row('DCD')
