@@ -589,6 +589,19 @@
       "duration": 60,
       "power": 1000000,
       "ignitionTemp": 10000000
+    },
+    {
+      "name": "plsm.dualminigun",
+      "inputItem": [
+        ["item","hbm:gun_minigun",2],
+        ["dict","gunMechanismSaturnite",4]
+      ],
+      "outputItem": [
+        ["single",["hbm:gun_minigun_dual"]]
+      ],
+      "duration": 600,
+      "power": 1000000,
+      "ignitionTemp": 1000000
     }
   ]
 }
