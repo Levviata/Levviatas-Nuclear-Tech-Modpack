@@ -4,7 +4,7 @@
 	text: [
 		"The Settings Tool can copy the settings of machines and pipes.",
 		"",
-		"It can be helpful, for example, copying over the settings of a Diesel tank to others, removing the need to set up fluid ids on each of them.",
+		"It can be helpful, for example, copying over the settings of a tank to others, removing the need to set up fluid ids on each of them.",
 		"",
 		"Controls:",
 		"- Shift right-click to copy, right click to paste.",
