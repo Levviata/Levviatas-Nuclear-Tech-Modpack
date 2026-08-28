@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "0de2bb5a",
+		type: "item",
+		items: [{
+			item: "hbm:machine_industrial_generator"
+		}]
+	}]
+}
