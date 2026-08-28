@@ -1,0 +1,30 @@
+{
+	title: "Chicago Pile Fuels",
+	x: -10.0d,
+	y: 0.5d,
+	text: [
+		"There are two breeding targets for the pile",
+		"",
+		"- Natural Thorium -> Thorium Fuel",
+		"- Natural Uranium -> Plutonium -> RGP -> Nuclear waste"
+	],
+	dependencies: [
+		"2b92b8d2"
+	],
+	tasks: [{
+		uid: "2629b519",
+		type: "item",
+		title: "Fuel",
+		items: [{
+			item: "hbm:pile_rod 1 7"
+		},
+		{
+			item: "hbm:pile_rod 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "25abee8b",
+		type: "xp",
+		xp: 30
+	}]
+}

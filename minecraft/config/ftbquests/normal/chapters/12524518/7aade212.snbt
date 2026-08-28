@@ -1,19 +1,19 @@
 {
-	x: -12.0d,
+	x: -11.5d,
 	y: 0.0d,
 	dependencies: [
-		"156752f2"
+		"1cbdca6a"
 	],
 	tasks: [{
-		uid: "29fc1318",
+		uid: "1eda450a",
 		type: "item",
 		items: [{
-			item: "hbm:billet_pu239"
+			item: "hbm:pile_rod 1 4"
 		}]
 	}],
 	rewards: [{
-		uid: "525eddef",
+		uid: "418202ad",
 		type: "xp",
-		xp: 10
+		xp: 30
 	}]
 }

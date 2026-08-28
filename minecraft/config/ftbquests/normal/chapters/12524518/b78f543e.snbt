@@ -1,0 +1,24 @@
+{
+	x: -14.5d,
+	y: 0.0d,
+	dependencies: [
+		"af5d6e4c"
+	],
+	tasks: [{
+		uid: "8dfc5b3c",
+		type: "item",
+		items: [{
+			item: "hbm:pile_rod 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "6e290b93",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "121a738f",
+		type: "item",
+		item: "hbm:spongebob_macaroni"
+	}]
+}
