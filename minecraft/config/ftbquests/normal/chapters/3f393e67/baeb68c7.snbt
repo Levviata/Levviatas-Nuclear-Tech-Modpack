@@ -1,6 +1,21 @@
 {
-	x: -4.5d,
-	y: 16.0d,
+	x: -5.074659863945577d,
+	y: 16.713605442176863d,
+	text: [
+		"The Automatic Thresher will harvest plants in a 7x7 area directly on front of it. ",
+		"",
+		"When fed fuel, it will extend every 10-15 second, harvesting anything it touches. ",
+		"",
+		"Crops like wheat and carrot are replanted automatically. ",
+		"",
+		"Sugar cane, cactus, Hemp, and Mustard Willow gets harvested leaving the lowest block intact, with Mustard willows only being harvested when they are mature.",
+		"",
+		"Sunflowers and tall grass get harvested but do not get broken as they are not growable crops",
+		"",
+		"Unlike the Automatic Buzzsaw, the Thresher will collect the harvested items and eject them at the back of the machine.",
+		"",
+		"Entities killed by the thresher's reel will yield small piles of nitra."
+	],
 	dependencies: [
 		"86867f7a"
 	],
@@ -11,5 +26,10 @@
 		items: [{
 			item: "hbm:machine_thresher"
 		}]
+	}],
+	rewards: [{
+		uid: "8f751fa0",
+		type: "xp",
+		xp: 50
 	}]
 }
