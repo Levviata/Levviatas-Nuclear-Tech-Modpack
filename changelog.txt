@@ -1,3 +1,92 @@
+version 2.0.0
+Updated Nuclear Tech: Community Edition to its latest release (2.6.0.0)
+
+Added quests
+- RoR info quest
+- ALL Weapon Mods (with detailed information) -> Special, Generic, Caliber Conversion, weapon specific, and Skin mods
+- Weapon mod info
+- Gun Repair Kits
+- Test Dummy
+- Grenade Machinegun
+- Fuselages -> Size 10 Long Kerosene and Solid Fuel, size 15 Kerosene
+- Ores -> Coltan, all meteor ores, Infernal Coal, all sellafied ores, tektite
+- Warheads -> Size 15 MIRV and thermonuclear
+- New size 20 Fin
+- Deco blocks
+
+Moved quests
+- All RoR related -> RoR chapter
+- Alexandrite and Teleporter Anchor -> Oil Age
+
+Removed quests
+- Blackhole missile (oil age) and Iron Anvil (vanilla chapter) -> dupe
+
+Add descriptions to
+- Aromatic Hydrocarbons
+- Cracked Naphtha
+- An Old Classic (double barrel shotgun)
+
+Extended description for Oil Refinery
+Cut out description for Plate and Stamps quest
+Fixed Settings tool description
+Trimmed Sawmill description
+Added subtitle to Desh Screwdriver
+Added tooltip to Volcano warhead
+!Added extremely cool dynamic tooltips for Powered Drill (each engine will show what fuel it will use)
+
+Added recipes for
+- Radioactive Gem -> Irradiate diamond gems in a RBMK channel
+- An Old Classic (double barrel shotgun) -> saturnite parts and a skull
+- Balefire Shard -> Radioactive gems, bones, and powder magic. Renewable!
+- Powder Cement (Shredder) -> Block slag variant
+- ALL Conversion Kits (its real cool) -> generic mod parts and receiver, gun mechanism, and the bullet to convert caliber to
+- Dual Miniguns -> Plasma Forge, 4 saturnite gun mechanism and 2 miniguns, 10k power and plasma
+
+Add reward to
+- Redstone Battery Pack -> x12 Redstone blocks and x8 Min Grade Copper ingots
+- Copper Capacitor -> x3 Blocks of red copper and x3 blocks of copper
+- Conveyor -> x8 Ropes
+- Battery Socket -> x12 Min grade copper ingots
+
+Buffed rewards for
+- Black Lung and Mesothelioma -> x1 Herbal paste to x5 Herbal pastes
+- Latex Bar (grinding) -> x32 Latex Bar to x64 Latex bars
+- Conveyor (grinding) -> x32 to x64 conveyors
+
+Removed recipes for
+- Powder Cement (crafting table) -> moved recipe to Shredder
+- Neutron Reflector -> recipe fixed in latest version
+
+Changed Block of Slag Centrifuge recipe to blockSlag ore dict.
+
+Added config for
+- File Director -> Nuclear Tech
+
+Removed mods
+- Reach Fix
+- Gnetum
+- More sound config
+- Crash assistant
+
+Updated mods
+- MixinBooter
+- HEI
+- Attribute Modifier
+- Xaero world map
+- Forgelin Continuous
+
+Cleaned config files
+Added xp rewards here and there
+Added decoBlock ore dictionary
+Add thruster variants into one quest: kerosene size 15, 20 and solid size 20
+Updated NTM config including recipes
+Fixed weight for Health Pipe and Taint Syringe in Treats reward table
+Renamed ore info quests
+Remove provisional Neutron Reflector recipe
+Remove coolant dependency for the Watz powerplant
+Removed fuselage skin in custom missile section
+Removed old satellites
+
 version 1.2.0
 
 Add quests for
