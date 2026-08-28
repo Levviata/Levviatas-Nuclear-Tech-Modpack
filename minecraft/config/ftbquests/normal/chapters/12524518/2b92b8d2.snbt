@@ -3,29 +3,45 @@
 	x: -7.5d,
 	y: 0.5d,
 	shape: "hexagon",
-	description: "Plutonium",
+	description: "Plutonium and Thorium",
 	text: [
-		"The Chicago Pile is made using a hand drill on a block of graphite, the drilled graphite may store radioactive rods.",
+		"The §lChicago Pile§r is a primitive reactor used for breeding nuclear material, mainly turning Uranium into Plutonium-239.",
+		"It can be operated manually or with Redstone-over-Radio.",
 		"",
-		"A common configuration is 3x3 blocks, fuel rods on the sides and in the center a neutron source rod, see image for example.",
-		"The flux of the neutron source reaches up to 2 blocks to its sides.",
+		"The pile is constructed out of Chicago Pile Graphite Bricks in size 5x5x5 up to 15x15x15 blocks. ",
+		"The box doesn't need to be a cube as long as the inside is filled.",
 		"",
-		"A neutron source will breed any fuel rod adjacent to its sides, corners too.",
+		"To setup, use a Hand Drill in any brick to set the Core (excluding corners), from here you can make make Fuel, Air inlet, and Control channels.",
 		"",
-		"To make more 3x3 breeding units, if vertically, separate one block from each unit or it will explode, horizontally its fine.",
+		"Fuel channels hold rods which can be loaded with a Fuel Loader, they can be drilled from the same side as the Core.",
+		"The amount of rods it can hold is in proportion to the length of the channel it was drilled on, with one block of channel holding one rod.",
 		"",
-		"The hand drill can be used to inspect depletion on fuel rods.",
-		"A Screwdiver will extract fuel rods."
+		"Air Inlets (for ventilation) are drilled from the right and left sides of the pile, they will cool Fuel channels if they touch (but not intersect) them if Compressed Air with 1 PU is supplied to a Vent.",
+		"",
+		"Channels drill from the top can be inserted with Control Rods, which can be used to control the result of bred material, like for example, pure Plutonium-239 which has a tight extracting window.",
+		"",
+		"",
+		"§2Operation§r",
+		"",
+		"The pile requires one neutron source like Radium-226-Beryllium or Polonium-210-Beryllium rods to start breeding material.",
+		"",
+		"After ventilation and neutron sources are in place, Fuel rods can be added one a time with the Fuel Loader, if there's more rods that the channel can hold they will be ejected from the opposite part which can be catched with another Fuel Loader (hoppers can be attached)",
+		"",
+		"To push rods out, you may use Zirconium rods which are transparent to neutrons.",
+		"",
+		"The fuel with bred as long as its in the reactor.",
+		"",
+		"Pu-239 can be bred into RGP, which breds into Nuclear Waste (bad, overheats reactor). ",
+		"Since leaving a rod in the reactor for too long is not desired, a loader can be read with RoR reader to monitor fuel lifetime and the ID type (example: Plutonium has an ID of 4).",
+		"Using a RoR logic receiver, this data can be detected, causing a redstone signal to be sent out to the loader to eject the fuel.",
+		"",
+		"If it overheats, the pile will catch fire, explode, and propulse many flaming graphite bricks which also explode into fire. Its recommended to keep the pile in a small room, away from flammable material, with a fire extinguisher.",
+		"",
+		"For total control of production, using RoR controllers to adjust the control rod settings automatically is desirable.",
+		"An AUTOCAL with a nice script can be used to control the added complexity of multiple piles."
 	],
 	size: 2.0d,
 	tasks: [{
-		uid: "f58899a7",
-		type: "item",
-		items: [{
-			item: "hbm:block_graphite"
-		}]
-	},
-	{
 		uid: "03f3b158",
 		type: "item",
 		title: "Hand Drill",
@@ -39,17 +55,32 @@
 		ignore_nbt: 1b
 	},
 	{
-		uid: "c1bc203f",
+		uid: "22ce32a3",
 		type: "item",
-		title: "Any Fuel Rod",
 		items: [{
-			item: "hbm:pile_rod_uranium"
-		},
-		{
-			item: "hbm:pile_rod_source"
-		},
-		{
-			item: "hbm:pile_rod_lithium"
+			item: "hbm:pile_brick"
+		}],
+		count: 125L
+	},
+	{
+		uid: "24e89761",
+		type: "item",
+		items: [{
+			item: "hbm:pile_device"
+		}]
+	},
+	{
+		uid: "8b5937cb",
+		type: "item",
+		items: [{
+			item: "hbm:pile_device 1 1"
+		}]
+	},
+	{
+		uid: "cab40465",
+		type: "item",
+		items: [{
+			item: "hbm:pile_device 1 2"
 		}]
 	}],
 	rewards: [{
