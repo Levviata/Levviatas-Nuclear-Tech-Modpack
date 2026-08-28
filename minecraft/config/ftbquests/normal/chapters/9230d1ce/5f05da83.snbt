@@ -1,7 +1,7 @@
 {
 	x: 5.0d,
 	y: 13.0d,
-	description: "§e§nRequires:§r§e Dissolved/Cleaned Light Metal or Cleaned Non-Metal",
+	description: "§e§nRequires:§r§e Dissolved/Cleaned Light Metal or Cleaned Non-Metal Bedrock ore",
 	text: [
 		""
 	],
