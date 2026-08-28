@@ -1,6 +1,6 @@
 {
-	x: 3.0d,
-	y: 2.5d,
+	x: -10.0d,
+	y: 4.5d,
 	text: [
 		"These items are for cool logic, I don't personally like or care about that, but you may find a use or a special interest."
 	],
