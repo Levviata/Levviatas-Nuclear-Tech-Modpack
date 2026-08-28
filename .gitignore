@@ -103,13 +103,11 @@
 /minecraft/config/hbmRecipes/_hbmFuelpool.json
 /minecraft/config/hbmRecipes/_hbmFusion.json
 /minecraft/config/hbmRecipes/_hbmHydrotreating.json
-/minecraft/config/hbmRecipes/_hbmIrradiation.json
 /minecraft/config/hbmRecipes/_hbmIrradiationFluids.json
 /minecraft/config/hbmRecipes/_hbmLiquefactor.json
 /minecraft/config/hbmRecipes/_hbmMixer.json
 /minecraft/config/hbmRecipes/_hbmParticleAccelerator.json
 /minecraft/config/hbmRecipes/_hbmPedestal.json
-/minecraft/config/hbmRecipes/_hbmPlasmaForge.json
 /minecraft/config/hbmRecipes/_hbmPrecisionAssembly.json
 /minecraft/config/hbmRecipes/_hbmPress.json
 /minecraft/config/hbmRecipes/_hbmPUREX.json
@@ -118,4 +116,7 @@
 /minecraft/config/hbmRecipes/_hbmRotaryFurnace.json
 /minecraft/config/hbmRecipes/_hbmSoldering.json
 /minecraft/config/hbmRecipes/_hbmSolidifier.json
+/minecraft/config/hbmRecipes/_hbmRockMill.json
+/minecraft/config/hbmRecipes/_hbmSuperComputer.json
+/minecraft/config/hbmRecipes/_hbmArcWelder.json
 /minecraft/config/hbmRecipes/REMOVE UNDERSCORE TO ENABLE RECIPE LOADING - RECIPES WILL RESET TO DEFAULT OTHERWISE
