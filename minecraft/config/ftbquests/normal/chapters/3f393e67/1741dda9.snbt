@@ -23,5 +23,10 @@
 		uid: "e1c8e201",
 		type: "random",
 		table: 3
+	},
+	{
+		uid: "1621e4fa",
+		type: "item",
+		item: "hbm:machine_industrial_generator"
 	}]
 }
