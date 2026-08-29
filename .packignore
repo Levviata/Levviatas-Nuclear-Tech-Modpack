@@ -23,10 +23,34 @@ minecraft/knownkeys.txt
 minecraft/llibrary
 minecraft/local
 minecraft/logs
+minecraft/mods/.git
+minecraft/mods/.gitattributes
+minecraft/mods/.idea
+minecraft/mods/.index
+minecraft/mods/1.12.2
+minecraft/mods/AquaAcrobatics-1.15.4.jar
+minecraft/mods/CTM-MC1.12.2-1.0.2.31.jar
+minecraft/mods/DefaultOptions_1.12.2-9.2.8.jar
+minecraft/mods/DynamicLights-1.12.2.jar
+minecraft/mods/FTBLib-5.4.7.2.jar
+minecraft/mods/FTBQuests-1202.9.0.15.jar
+minecraft/mods/ItemFilters-1.0.4.2.jar
+minecraft/mods/Lumenized-1.0.4.jar
+minecraft/mods/NTM-CE-1.12.2-2.6.0.0.jar
+minecraft/mods/Placebo-1.12.2-1.6.1.jar
+minecraft/mods/expandedevents-1.2.2.jar
+minecraft/mods/fireproofitems-1.0.jar
+minecraft/mods/gravestone-1.10.3.jar
+minecraft/mods/jei_area_fixer-2.4.0.jar
+minecraft/mods/loliasm-5.33.jar
+minecraft/mods/memory_repo
+minecraft/mods/mousetweaks-1.12.2-3.1.5.jar
+minecraft/mods/wi-zoom-v1.1-MC1.12.2-release.jar
 minecraft/options.txt
 minecraft/resourcepacks/1.12.2 ConverterNewEdition v1.8.zip
 minecraft/resourcepacks/BloomTech-1.2.0.zip
 minecraft/resourcepacks/Refined Storage Silicon to Low Quality Silicon Rename - RSStLQS by Levviata
+minecraft/resourcepacks/SigmaBloom
 minecraft/saves
 minecraft/screenshots
 minecraft/server-resource-packs
@@ -37,3 +61,4 @@ minecraft/usernamecache.json
 minecraft/vintagefix
 minecraft/xaero
 structure_void.png
+update.txt
