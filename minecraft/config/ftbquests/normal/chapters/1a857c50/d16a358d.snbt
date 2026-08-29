@@ -32,5 +32,11 @@
 		uid: "4f13e546",
 		type: "xp",
 		xp: 30
+	},
+	{
+		uid: "b11755b4",
+		type: "item",
+		item: "hbm:ingot_desh",
+		count: 32
 	}]
 }
