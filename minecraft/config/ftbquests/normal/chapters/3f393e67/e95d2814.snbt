@@ -4,9 +4,9 @@
 	text: [
 		"The Lung Diagnostic tool informs you of the current health of your lungs.",
 		"",
-		"It how much damage your lungs have taken from",
+		"It will show",
 		"- Asbestos",
-		"- And coal dust."
+		"- And coal dust damage."
 	],
 	dependencies: [
 		"8a25fa82"
