@@ -1,5 +1,5 @@
 version 2.0.0
-Updated Nuclear Tech: Community Edition to its latest release (2.6.0.0)
+Updated Nuclear Tech: Community Edition to its latest release (2.6.0.0), equivalent to 1.0.27_X5771
 
 Added quests
 - ALL Weapon Mods (with detailed information) -> Special, Generic, Caliber Conversion, weapon specific, and Skin mods
