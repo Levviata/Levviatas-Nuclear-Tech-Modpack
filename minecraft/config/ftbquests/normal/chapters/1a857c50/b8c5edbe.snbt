@@ -1,6 +1,24 @@
 {
 	x: 21.5d,
 	y: -0.5d,
+	text: [
+		"The Neutrino Lens will detect valuable ores when connected to an orbiting Depth Scanning Satellite (must have same frequency).",
+		"",
+		"It can detect",
+		"- Bedrock ores.",
+		"- Oil.",
+		"- Bedrock oil.",
+		"- Coltan ore.",
+		"- Alexandrite.",
+		"- Bobbleheads (shows up as \"A Treasure!\").",
+		"- Conserve crates.",
+		"- Starmetal crates.",
+		"- Loot piles.",
+		"- Schist.",
+		"- Australium ore.",
+		"- End portal frames.",
+		"- Volcano core."
+	],
 	dependencies: [
 		"47aeecca"
 	],
@@ -14,5 +32,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e7558d49",
+		type: "xp",
+		xp: 100
 	}]
 }
