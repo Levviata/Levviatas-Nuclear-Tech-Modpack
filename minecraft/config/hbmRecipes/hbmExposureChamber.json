@@ -14,6 +14,11 @@
       "particle": ["item","hbm:particle_sparkticle"],
       "ingredient": ["dict","ingotSchrabidate"],
       "output": ["hbm:ingot_dineutronium"]
+    },
+    {
+      "particle": ["item","hbm:particle_amat"],
+      "ingredient": ["dict","blockAnyBismoid"],
+      "output": ["hbm:gem_alexandrite"]
     }
   ]
 }
