@@ -2,7 +2,7 @@
 	x: 12.5d,
 	y: -5.0d,
 	text: [
-		"The Catalytic Reformer can produce exquisite petrochemicals from \"basic\" Crude Oil by-products.",
+		"The Catalytic Reformer can convert exquisite petrochemicals from \"basic\" Crude Oil by-products.",
 		"",
 		"For example, Light Oil converts into Aromatic Hydrocarbons, Reformate Gas, and Liquid Hydrogen."
 	],
