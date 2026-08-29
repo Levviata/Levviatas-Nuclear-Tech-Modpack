@@ -2,6 +2,7 @@
 	x: 0.0d,
 	y: -0.5d,
 	shape: "hexagon",
+	description: "§e§nRequires:§r§e Oil Age",
 	text: [
 		"Satellites are helpful orbitting machines that are launched in a Soyuz rocket in a Soyuz Launch Platform.",
 		"",
