@@ -1,0 +1,27 @@
+{
+	x: 7.982142857142854d,
+	y: -1.5357142857142776d,
+	text: [
+		"The High-Power Steam Condenser converts Low-Pressure Steam into water at a rate of 1.000.000mB / tick.",
+		"",
+		"Its about 10.000 Condensers in one",
+		"",
+		"Must be powered."
+	],
+	dependencies: [
+		"99183935"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "d5662427",
+		type: "item",
+		items: [{
+			item: "hbm:machine_condenser_powered"
+		}]
+	}],
+	rewards: [{
+		uid: "feecee69",
+		type: "xp",
+		xp: 200
+	}]
+}
