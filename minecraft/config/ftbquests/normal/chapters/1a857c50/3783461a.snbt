@@ -1,0 +1,22 @@
+{
+	x: 14.0d,
+	y: -6.0d,
+	text: [
+		"The Supercomputer is a new machine that writes data to storage disks, like Flash Drives or Disk Drives.",
+		"",
+		"Recipe for storage disks are currently unavailable.",
+		"",
+		"It does look cool at least."
+	],
+	dependencies: [
+		"f90a1d32"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "1f72a595",
+		type: "item",
+		items: [{
+			item: "hbm:machine_supercomputer"
+		}]
+	}]
+}
