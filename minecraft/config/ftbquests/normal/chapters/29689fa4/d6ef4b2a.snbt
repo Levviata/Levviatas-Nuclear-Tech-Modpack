@@ -1,5 +1,5 @@
 {
-	x: -11.0d,
+	x: -9.0d,
 	y: 6.0d,
 	text: [
 		"Ore slop is a by-product of processing bedrock ore, it's used to make new full ores but it can be processed by itself to produce Mercury and other materials."
@@ -18,5 +18,15 @@
 		uid: "7bd1edd9",
 		type: "fluid",
 		fluid: "slop"
+	}],
+	rewards: [{
+		uid: "749655f7",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 142"
+	},
+	{
+		uid: "dbae1350",
+		type: "xp",
+		xp: 20
 	}]
 }
