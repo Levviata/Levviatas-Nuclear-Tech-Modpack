@@ -16,9 +16,20 @@
 		}]
 	}],
 	rewards: [{
-		uid: "13395c71",
+		uid: "6c0bb559",
 		type: "item",
-		item: "hbm:radaway",
-		count: 3
+		item: "hbm:ingot_biorubber",
+		count: 16
+	},
+	{
+		uid: "13c5171f",
+		type: "item",
+		item: "hbm:plate_iron",
+		count: 16
+	},
+	{
+		uid: "9b307e53",
+		type: "xp",
+		xp: 20
 	}]
 }
