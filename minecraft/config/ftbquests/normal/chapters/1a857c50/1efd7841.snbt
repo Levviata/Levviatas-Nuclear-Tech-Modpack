@@ -6,8 +6,8 @@
 		"The Versatile Integrated Circuit is a very important end-game circuit that can make Versatile Circuit Board."
 	],
 	dependencies: [
-		"5f2268ec",
-		"149ce73f"
+		"3dcad7e6",
+		"5f2268ec"
 	],
 	dependency_requirement: "one_completed",
 	tasks: [{
