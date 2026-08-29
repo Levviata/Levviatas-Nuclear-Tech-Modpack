@@ -13,5 +13,10 @@
 		items: [{
 			item: "hbm:machine_satlink"
 		}]
+	}],
+	rewards: [{
+		uid: "27ded396",
+		type: "xp",
+		xp: 100
 	}]
 }

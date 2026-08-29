@@ -18,5 +18,10 @@
 		items: [{
 			item: "hbm:sat_base"
 		}]
+	}],
+	rewards: [{
+		uid: "73baf06b",
+		type: "xp",
+		xp: 100
 	}]
 }

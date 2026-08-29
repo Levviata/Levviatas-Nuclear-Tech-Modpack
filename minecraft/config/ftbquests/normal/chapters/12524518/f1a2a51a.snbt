@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:machine_storage_drum"
 		}]
+	}],
+	rewards: [{
+		uid: "0a12e085",
+		type: "xp",
+		xp: 30
 	}]
 }

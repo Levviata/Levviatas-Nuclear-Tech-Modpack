@@ -11,5 +11,10 @@
 			tag: {}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bfca7ee5",
+		type: "xp",
+		xp: 100
 	}]
 }
