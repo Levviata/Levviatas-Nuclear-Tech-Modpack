@@ -8,5 +8,10 @@
 		items: [{
 			item: "hbm:gem_alexandrite"
 		}]
+	}],
+	rewards: [{
+		uid: "ae95ca50",
+		type: "xp",
+		xp: 20
 	}]
 }
