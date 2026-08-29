@@ -16,5 +16,17 @@
 		uid: "7594bf86",
 		type: "xp",
 		xp: 200
+	},
+	{
+		uid: "21a81b5e",
+		type: "item",
+		item: "hbm:powder_dura_steel",
+		count: 24
+	},
+	{
+		uid: "d43e2993",
+		type: "item",
+		item: "hbm:ingot_meteorite",
+		count: 8
 	}]
 }
