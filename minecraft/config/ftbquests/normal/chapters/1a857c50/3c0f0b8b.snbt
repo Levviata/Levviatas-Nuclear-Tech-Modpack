@@ -1,6 +1,6 @@
 {
-	x: 10.0d,
-	y: 4.0d,
+	x: 1.5d,
+	y: -10.5d,
 	text: [
 		"The Ammo Bag can hold 8 stacks of any round, supplying any held weapon of its ammo."
 	],
