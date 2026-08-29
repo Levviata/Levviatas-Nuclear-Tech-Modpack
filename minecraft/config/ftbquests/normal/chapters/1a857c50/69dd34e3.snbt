@@ -2,6 +2,13 @@
 	icon: "hbm:ore_alexandrite",
 	x: -11.0d,
 	y: -9.0d,
+	text: [
+		"Alexandrite Ore is an extremely rare depth ore that generates in 1 ore veins every 100th chunk.",
+		"",
+		"Fortune bonus will yield max 2 gems.",
+		"",
+		"Can be detected by the Neutrino Lens (late-game accessory)."
+	],
 	tasks: [{
 		uid: "791464ac",
 		type: "item",
