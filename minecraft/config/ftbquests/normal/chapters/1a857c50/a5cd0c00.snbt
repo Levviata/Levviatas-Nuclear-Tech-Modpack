@@ -1,8 +1,18 @@
 {
-	x: -6.5d,
-	y: 6.5d,
+	x: -7.5d,
+	y: 7.0d,
 	text: [
-		"This process also produces Unsaturated Hydrocarbons but you have likely gathered that already so be spared of the quest."
+		"Can be refined from Cracked Oil or dissociating Natural Gas in a Radiolysis chamber.",
+		"",
+		"It's an essential material for progression.",
+		"",
+		"It can make",
+		"- Rubber",
+		"- Perfluoromethyl",
+		"- PVC",
+		"- C-4 bars",
+		"- Engine Lubricant",
+		"- Phosgene"
 	],
 	dependencies: [
 		"1f7408ee"
@@ -15,7 +25,18 @@
 		}]
 	},
 	{
-		uid: "9113b2d1",
-		type: "checkmark"
+		uid: "0c0741a7",
+		type: "fluid",
+		fluid: "unsaturateds"
+	}],
+	rewards: [{
+		uid: "ce720ad8",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 68"
+	},
+	{
+		uid: "8e601ad7",
+		type: "xp",
+		xp: 20
 	}]
 }
