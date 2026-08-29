@@ -1,9 +1,10 @@
 {
 	x: 0.0654761904761898d,
 	y: 2.19047619047619d,
-	description: "Upgrade it now! (thunder)",
 	text: [
-		"The Pumpjack is an oil extracting machine, its faster than the Derrick and can extract Bedrock Oil"
+		"The Pumpjack is an oil extracting machine, its faster than the Derrick.",
+		"",
+		"It must be powered."
 	],
 	dependencies: [
 		"5b1b40f1"
