@@ -1,6 +1,9 @@
 {
 	x: 4.0d,
-	y: 2.5d,
+	y: 2.0d,
+	text: [
+		"PVC is an useful hard plastic with many uses."
+	],
 	dependencies: [
 		"66d64b7f"
 	],
