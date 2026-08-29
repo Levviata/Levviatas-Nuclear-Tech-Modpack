@@ -16,7 +16,7 @@
 		items: [{
 			item: "hbm:ingot_pvc"
 		}],
-		count: 12L
+		count: 128L
 	},
 	{
 		uid: "c8e141d5",
@@ -24,7 +24,8 @@
 		items: [{
 			item: "hbm:ingot_pc"
 		}],
-		count: 12L
+		count: 128L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "ba47de4b",
@@ -45,12 +46,12 @@
 		uid: "a6d78454",
 		type: "item",
 		item: "hbm:ingot_pvc",
-		count: 48
+		count: 128
 	},
 	{
 		uid: "774e9583",
 		type: "item",
 		item: "hbm:ingot_pc",
-		count: 48
+		count: 128
 	}]
 }
