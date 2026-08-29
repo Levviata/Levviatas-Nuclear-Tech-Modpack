@@ -21,8 +21,8 @@
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "779b3895",
+		uid: "ff341a47",
 		type: "item",
-		item: "hbm:servo_set_desh"
+		item: "hbm:servo_set"
 	}]
 }
