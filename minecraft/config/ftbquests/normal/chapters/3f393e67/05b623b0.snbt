@@ -20,5 +20,16 @@
 		uid: "b2e4756a",
 		type: "xp",
 		xp: 50
+	},
+	{
+		uid: "9c2d418b",
+		type: "item",
+		item: {
+			id: "hbm:battery_pack",
+			Damage: 6s,
+			tag: {
+				charge: 600000L
+			}
+		}
 	}]
 }
