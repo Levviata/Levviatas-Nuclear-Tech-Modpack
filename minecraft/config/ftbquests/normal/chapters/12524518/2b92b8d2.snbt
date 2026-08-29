@@ -11,7 +11,7 @@
 		"The pile is constructed out of Chicago Pile Graphite Bricks in size 5x5x5 up to 15x15x15 blocks. ",
 		"The box doesn't need to be a cube as long as the inside is filled.",
 		"",
-		"To setup, use a Hand Drill in any brick to set the Core (excluding corners), from here you can make make Fuel, Air inlet, and Control channels.",
+		"To setup, use a Hand Drill in any brick to set the Core (excluding corners), from here you can make make Fuel, Air, and Control channels.",
 		"",
 		"Fuel channels hold rods which can be loaded with a Fuel Loader, they can be drilled from the same side as the Core.",
 		"The amount of rods it can hold is in proportion to the length of the channel it was drilled on, with one block of channel holding one rod.",
