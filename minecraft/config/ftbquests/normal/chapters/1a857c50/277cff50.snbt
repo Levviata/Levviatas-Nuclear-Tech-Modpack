@@ -2,6 +2,11 @@
 	x: -3.5d,
 	y: 5.0d,
 	shape: "hexagon",
+	text: [
+		"The Ore Acidizer processes materials using fluids, usually acids.",
+		"",
+		"It has a main use in Bedrock Ore processing."
+	],
 	dependencies: [
 		"5b1b40f1"
 	],
@@ -16,6 +21,6 @@
 	rewards: [{
 		uid: "3284c9f7",
 		type: "xp",
-		xp: 20
+		xp: 100
 	}]
 }
