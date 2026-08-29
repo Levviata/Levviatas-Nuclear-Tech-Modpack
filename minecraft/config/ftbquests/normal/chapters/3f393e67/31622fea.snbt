@@ -15,9 +15,20 @@
 		}]
 	}],
 	rewards: [{
-		uid: "62b3a823",
+		uid: "edc4b254",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "6bccd8b8",
 		type: "item",
-		item: "hbm:syringe_metal_super",
-		count: 3
+		item: "hbm:plate_steel",
+		count: 16
+	},
+	{
+		uid: "b8a74f25",
+		type: "item",
+		item: "minecraft:leather",
+		count: 16
 	}]
 }
