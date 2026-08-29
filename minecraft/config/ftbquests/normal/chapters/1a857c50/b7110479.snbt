@@ -1,0 +1,19 @@
+{
+	x: 1.3392857142857153d,
+	y: -1.2857142857142918d,
+	text: [
+		"The Large Cooling Tower converts Low-Pressure Steam into water at a rate of 10.000mB / tick.",
+		"",
+		"Its about 100 Condensers in one."
+	],
+	dependencies: [
+		"4dbff794"
+	],
+	tasks: [{
+		uid: "27ba6f16",
+		type: "item",
+		items: [{
+			item: "hbm:machine_tower_large"
+		}]
+	}]
+}
