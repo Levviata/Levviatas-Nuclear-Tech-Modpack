@@ -24,9 +24,25 @@
 		table: 2
 	},
 	{
-		uid: "cb6e5790",
+		uid: "1ff9dcdc",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "1d2d7ac1",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "458da098",
+		type: "item",
+		item: "hbm:ingot_cobalt",
+		count: 4
+	},
+	{
+		uid: "25bd9506",
 		type: "item",
 		item: "hbm:ingot_meteorite",
-		count: 5
+		count: 2
 	}]
 }
