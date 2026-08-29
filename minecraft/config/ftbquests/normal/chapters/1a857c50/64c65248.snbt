@@ -27,5 +27,11 @@
 		uid: "8c78e033",
 		type: "random",
 		table: 1
+	},
+	{
+		uid: "3a9e506e",
+		type: "item",
+		item: "hbm:ingot_bakelite",
+		count: 32
 	}]
 }
