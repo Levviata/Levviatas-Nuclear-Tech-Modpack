@@ -17,8 +17,15 @@
 		xp: 50
 	},
 	{
-		uid: "5f4f7344",
+		uid: "584d2a5a",
 		type: "item",
-		item: "hbm:block_starmetal"
+		item: "hbm:ingot_saturnite",
+		count: 8
+	},
+	{
+		uid: "0a334c49",
+		type: "item",
+		item: "hbm:ingot_meteorite",
+		count: 4
 	}]
 }
