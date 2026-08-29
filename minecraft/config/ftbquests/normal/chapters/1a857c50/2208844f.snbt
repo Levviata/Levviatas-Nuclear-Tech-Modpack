@@ -1,12 +1,14 @@
 {
-	x: 9.5d,
-	y: 2.0d,
+	x: 1.0d,
+	y: -9.0d,
+	shape: "hexagon",
 	text: [
-		"Weapon Steel is an useful material used to make a lot of things: ",
+		"Weapon Steel is used for mid-game weapons, weapon mods, and rounds.",
 		"",
+		"It can make",
 		"- Armor Piercing rounds",
 		"- Casings",
-		"- Two cool weapons: Grenade Machine Gun and Chemthrower",
+		"- Grenade Machine Gun and Chemthrower (which are very cool)",
 		"- Weapon mod parts",
 		"- Grenade charges and shells",
 		"- Armor insert",
@@ -14,13 +16,19 @@
 		"- PWR Neutron Reflector"
 	],
 	dependencies: [
-		"1c848d12"
+		"2087dc03"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "fb42e3cf",
 		type: "item",
 		items: [{
 			item: "hbm:ingot_weaponsteel"
 		}]
+	}],
+	rewards: [{
+		uid: "4d0f0899",
+		type: "xp",
+		xp: 50
 	}]
 }
