@@ -1,14 +1,16 @@
 {
 	x: 17.5d,
-	y: 2.0d,
+	y: 0.5d,
 	description: "I'm not gonna even question it.",
 	text: [
 		""
 	],
 	dependencies: [
-		"42e550a8"
+		"42e550a8",
+		"4112c1df"
 	],
 	hide: true,
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "05204169",
 		type: "item",
