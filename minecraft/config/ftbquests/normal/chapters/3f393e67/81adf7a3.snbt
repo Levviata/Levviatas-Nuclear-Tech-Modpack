@@ -6,7 +6,7 @@
 		"",
 		"Intakes Steam and produces Low-Pressure Steam as a side product.",
 		"",
-		"You will need 4 Boilers to run this machine properly."
+		"Will need 4 Boilers to run this machine properly."
 	],
 	dependencies: [
 		"c587db7a",
