@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:fragment_coltan"
 		}]
+	}],
+	rewards: [{
+		uid: "3346a298",
+		type: "xp",
+		xp: 20
 	}]
 }

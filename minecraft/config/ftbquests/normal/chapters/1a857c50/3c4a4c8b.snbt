@@ -24,5 +24,10 @@
 		uid: "ff341a47",
 		type: "item",
 		item: "hbm:servo_set"
+	},
+	{
+		uid: "1253694a",
+		type: "xp",
+		xp: 40
 	}]
 }
