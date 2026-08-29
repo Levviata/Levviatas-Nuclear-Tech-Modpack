@@ -1,8 +1,8 @@
 {
-	x: -9.0d,
-	y: 4.5d,
+	x: -8.5d,
+	y: 3.0d,
 	text: [
-		"These items are for cool logic, I don't personally like or care about that, but you may find a use or a special interest."
+		""
 	],
 	dependency_requirement: "one_completed",
 	or_tasks: true,
@@ -58,16 +58,6 @@
 	rewards: [{
 		uid: "91df60ba",
 		type: "xp",
-		xp: 10
-	},
-	{
-		uid: "8ea0e9c6",
-		type: "item",
-		item: "hbm:deco_toaster 1 1"
-	},
-	{
-		uid: "6d205e20",
-		type: "item",
-		item: "hbm:canned_conserve 1 17"
+		xp: 20
 	}]
 }
