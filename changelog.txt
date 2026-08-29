@@ -20,39 +20,68 @@ Added quests
 - Diode
 - Hazards (info)
 - Red Copper Cable (grinding)
+- Supercomputer
+- Large Cooling Tower
+- High-
+- Versatile Circuit (grinding)
+
+Added dependency to
+- Recall Device and Teleport anchor -> Integrated Circuit
+- Vacuum Refinery -> Versatile circuit
+- Weaponsteel ingot -> from Vacuum Refinery to Coker unit (how did i mix that up)
+
+Fix tasks for Fusion Reactor Vessel
 
 Moved quests
-- All RoR related -> RoR chapter
+- All RoR related -> Oil age
 - Alexandrite and Teleporter Anchor -> Oil Age
 
 Removed quests
 - Blackhole missile (oil age) and Iron Anvil (vanilla chapter) -> dupe
 
 Add descriptions to
-- Aromatic Hydrocarbons
-- Cracked Naphtha
+- !!New Chicago Pile
 - An Old Classic (double barrel shotgun)
-- Satellite Base
+- Satellite Base (and subtitle)
 - Saturnite ingot
+- PVC bar
+- Unsaturated Hydrocarbons (both, two)
+- Catalytic Cracker
+- Aromatic Hydrocarbons
+- Cracked Oil
+- Cracked Naphtha
+- Ore acidizer
+- Hydraulic Fracking Tower
+- Neutrino Lens
+- Lunar Armor and Lunar Winged Plate
+- Alexandrite
 
 Extended description for
 - Oil Refinery
 - Steam-Powered Pump
+- Pumpjack
 
 Trimmed descriptions for
 - Sawmill
 - Desh ingot
 - Steel Electricity Pylon
 - Schraranium
+- Plate and Stamps (quest)
 
-Cut out description for Plate and Stamps quest
-Fixed Settings tool description
-Removed person from Steam engine
-Added subtitle to Desh Screwdriver and Orbital module
-Added tooltip to Volcano warhead (item tooltip)
-Rewrote Concrete description
+Fixed descriptions for
+- Settings tool
+- Weaponsteel Ingot
+- Lung Diagnostic
+- Catalytic Reformer
+
 !Reworked Electricity Pylon (multiblock) completely
 !Added extremely cool dynamic tooltips for Powered Drill (each engine will show what fuel it uses)
+Added subtitle to Desh Screwdriver and Orbital module
+Added tooltip to Volcano warhead (item tooltip)
+Add title to DFC reactor
+Rewrote Concrete description
+Replaced subtitle for Pumpjack
+Removed person from Steam engine
 
 Added recipes for
 - Radioactive Gem -> Irradiate diamond gems in a RBMK channel
@@ -76,6 +105,9 @@ Added rewards to
 - Mustard willow (grinding) -> x32 mustard willows
 - Desh ingot (grinding) -> x32 desh ingots
 - Starmetal ingot -> x24 high-speed steel powder and x8 meteorite ingot
+- Weaponsteel ingot (grinding) -> x32 weaponsteel ingot
+- Mercury drop (grinding) -> x16 drops of mercury
+- Bakelite bars (grinding) -> x32 bakelite bars
 
 Buffed rewards for
 - Black Lung and Mesothelioma -> x1 Herbal paste to x5 Herbal pastes
@@ -84,7 +116,8 @@ Buffed rewards for
 - Cobalt ingot (grinding) -> x4 cobalt ingots to x16
 - Shredder -> x1 steel shredder blade to x2
 - Super stimpak (grinding) -> x8 super stimpak to x16
-- PVC and Hard plastic (Plastic man, grinding) -> x12 pvc and hard plastic to x128 (task also sees this change)
+- PVC and Hard plastic (Plastic man, grinding) -> x12 pvc and hard plastic to x128 (task also requires x128 now)
+- Cadmium ingot -> x16 cadmium ingot to x32
 
 Fixed rewards for
 - Radaway -> x3 radaway to x16 iron plates and x16 latex bars
@@ -104,6 +137,7 @@ Nerfed rewards for
 - Saturnite Ring -> x1 starmetal block to x8 saturnite ingots and x4 meteorite ingots
 
 Removed rewards for RoR quests and set a 20 xp reward
+Fix missing fluid refunds for many fluid tasks.
 
 Removed recipes for
 - Powder Cement (crafting table) -> moved recipe to Shredder
@@ -128,9 +162,12 @@ Updated mods
 - Forgelin Continuous
 
 Cleaned config files
+Added RBMK tutorial link (feat. Savage Vegeta)
 Added and buffed xp rewards here and there
 Added decoBlock and neutronSource ore dictionary
-Add thruster variants into one quest: kerosene size 15, 20 and solid size 20
+Reworked Chicago Pile section to include its new features.
+Removed old chicago pile image
+Compacted thruster variants into one quest: kerosene size 15, 20 and solid size 20 (separated for each thruster)
 Updated NTM config including recipes
 Fixed weight for Health Pipe and Taint Syringe in Treats reward table
 Fix lava fluid tasks
@@ -140,7 +177,7 @@ Remove provisional Neutron Reflector recipe
 Remove coolant dependency for the Watz powerplant
 Removed fuselage skin in custom missile section
 Removed old satellites quests
-Removed old chicago pile image
+
 
 version 1.2.0
 
