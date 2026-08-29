@@ -1,4 +1,5 @@
 {
+	title: "Fusion Reactor Vessel",
 	x: 5.0d,
 	y: 3.0d,
 	shape: "hexagon",
@@ -16,13 +17,6 @@
 	],
 	size: 1.5d,
 	tasks: [{
-		uid: "f329e5f2",
-		type: "item",
-		items: [{
-			item: "hbm:fusion_torus"
-		}]
-	},
-	{
 		uid: "13859962",
 		type: "item",
 		items: [{
@@ -55,23 +49,34 @@
 		count: 160L
 	},
 	{
-		uid: "07ef2b92",
-		type: "item",
-		items: [{
-			id: "hbm:blowtorch",
-			tag: {
-				GAS: 4000
-			}
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
-	},
-	{
 		uid: "cd6cae99",
 		type: "item",
 		items: [{
 			item: "hbm:struct_torus_core"
 		}]
+	},
+	{
+		uid: "26cfb503",
+		type: "item",
+		title: "Any welding tool",
+		items: [{
+			item: "hbm:boltgun"
+		},
+		{
+			id: "hbm:blowtorch",
+			tag: {
+				GAS: 4000
+			}
+		},
+		{
+			id: "hbm:acetylene_torch",
+			tag: {
+				UNSATURATEDS: 8000,
+				OXYGEN: 16000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "1e65d9bf",
