@@ -9154,7 +9154,7 @@
       "outputItem": [
         ["single",["hbm:thruster_nuclear"]]
       ],
-      "duration": 600,
+      "duration": 300,
       "power": 100
     },
     {
