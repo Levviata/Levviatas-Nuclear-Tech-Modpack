@@ -27,5 +27,11 @@
 		uid: "472b35b6",
 		type: "random",
 		table: 1
+	},
+	{
+		uid: "143eea5b",
+		type: "item",
+		item: "hbm:ingot_meteorite",
+		count: 24
 	}]
 }
