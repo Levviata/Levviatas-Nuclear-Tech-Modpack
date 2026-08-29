@@ -23,5 +23,10 @@
 		uid: "385d116d",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "0956d148",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 73"
 	}]
 }

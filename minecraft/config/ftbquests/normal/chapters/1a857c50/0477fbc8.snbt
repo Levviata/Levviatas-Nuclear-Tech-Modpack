@@ -23,5 +23,17 @@
 		uid: "9a073ea8",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "c8832141",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 67",
+		count: 12
+	},
+	{
+		uid: "df8a1909",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 24",
+		count: 12
 	}]
 }
