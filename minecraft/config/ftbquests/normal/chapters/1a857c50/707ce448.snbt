@@ -1,6 +1,6 @@
 {
-	x: -11.0d,
-	y: 4.5d,
+	x: -10.5d,
+	y: 3.0d,
 	text: [
 		""
 	],
@@ -51,11 +51,6 @@
 	rewards: [{
 		uid: "2544e5e0",
 		type: "xp",
-		xp: 10
-	},
-	{
-		uid: "83abef0e",
-		type: "item",
-		item: "hbm:definitelyfood"
+		xp: 20
 	}]
 }
