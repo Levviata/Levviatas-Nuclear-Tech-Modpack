@@ -4,7 +4,7 @@
 	y: 5.25d,
 	description: "Removed",
 	text: [
-		"I decided to remove it (the recipe) because its unnecessary, uranium-238 is easier to obtain and exposed into Schrabidium.",
+		"I decided to remove it because its unnecessary, uranium-238 is easier to obtain and exposed into Schrabidium.",
 		"",
 		"Schraranium only use is to obtain Schrabidium. It can be processed in many ways, but its preferred to get Schrabidium directly."
 	],
