@@ -1,0 +1,33 @@
+{
+	x: 7.0d,
+	y: -3.5d,
+	shape: "pentagon",
+	dependencies: [
+		"1efd7841"
+	],
+	tasks: [{
+		uid: "6774734b",
+		type: "item",
+		items: [{
+			item: "hbm:circuit 1 6"
+		}],
+		count: 32L,
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "7959f26c",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "55f00021",
+		type: "random",
+		table: 5
+	},
+	{
+		uid: "68685870",
+		type: "item",
+		item: "hbm:circuit 1 6",
+		count: 32
+	}]
+}
