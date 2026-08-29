@@ -1,10 +1,12 @@
 {
 	x: -5.0627551020408035d,
 	y: 16.78503401360544d,
+	description: "Crop harvesting",
 	text: [
 		"The Automatic Thresher will harvest plants in a 7x7 area directly on front of it. ",
 		"",
 		"When fed fuel, it will extend every 10-15 second, harvesting anything it touches. ",
+		"The fuel type can be changed with a Multi Fluid Identifier.",
 		"",
 		"Crops like wheat and carrot are replanted automatically. ",
 		"",

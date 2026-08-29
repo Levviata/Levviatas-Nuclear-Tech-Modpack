@@ -1,6 +1,7 @@
 {
 	x: -5.065136054421771d,
 	y: 15.24625850340135d,
+	description: "Tree farming",
 	text: [
 		"The Automatic Buzz Saw will cut down trees and plants in a 10 block radius.",
 		"",
