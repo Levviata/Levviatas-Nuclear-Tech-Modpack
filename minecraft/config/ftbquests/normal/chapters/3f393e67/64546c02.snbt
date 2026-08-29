@@ -25,7 +25,7 @@
 		uid: "1cd87736",
 		type: "item",
 		item: "hbm:ingot_steel",
-		count: 32
+		count: 10
 	},
 	{
 		uid: "a6e1620b",
