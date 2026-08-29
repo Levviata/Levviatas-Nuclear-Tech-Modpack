@@ -17,14 +17,14 @@
 		count: 4L
 	}],
 	rewards: [{
-		uid: "15f0026d",
-		type: "item",
-		item: "hbm:powder_cement",
-		count: 8
-	},
-	{
 		uid: "81f58806",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "b09c20b7",
+		type: "item",
+		item: "minecraft:clay_ball",
+		count: 32
 	}]
 }
