@@ -3,7 +3,7 @@
 	y: 3.5d,
 	description: "Don't break it!",
 	text: [
-		"The Polaroid is an interesting item that can't be used by the player, but rather changes each time you run the game, depending on its state (description) the game may change, revealing secrets, keep your eye balls open if something ain't right."
+		"The Polaroid is an interesting item that can't be used by the player, but rather changes each time you run the game, depending on its state (description) the game may change, revealing secrets, keep your eyes open if something ain't right."
 	],
 	dependencies: [
 		"5b8893f3"
