@@ -3,7 +3,9 @@
 	y: -0.5d,
 	shape: "hexagon",
 	text: [
-		"Saturnite is a material widely used in the last tier of weapons and weapon mods, it also can also make the Asteroid Mining Ship, and alloy Starmetal."
+		"Saturnite is a material widely used in the last tier of weapons and weapon mods, it also can also make the Asteroid Mining Ship, and alloy Starmetal.",
+		"",
+		"It's made in the Rotatory Furnace with 250mB of Reformate Gas, High-speed steel powder, and Copper powder"
 	],
 	dependencies: [
 		"8a76f5ce"
@@ -19,5 +21,17 @@
 		uid: "d9087270",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "40846202",
+		type: "item",
+		item: "hbm:powder_dura_steel",
+		count: 12
+	},
+	{
+		uid: "0f4f2ea6",
+		type: "item",
+		item: "hbm:powder_copper",
+		count: 12
 	}]
 }
