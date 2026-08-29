@@ -4,9 +4,17 @@
 	shape: "hexagon",
 	description: "§e§nRequires:§r§e Versatile Integrated Circuit",
 	text: [
-		"The Vacuum Refinery "
+		"The Vacuum Refinery accepts 2PU Crude Oil and Desulfurized Crude Oil.",
+		"",
+		"Its the main way to get Reformate.",
+		"",
+		"It can make",
+		"- Vacuum Heavy Oil and Light Oil",
+		"- Sour Gas",
+		"- Reformate and Reformate Gas."
 	],
 	dependencies: [
+		"1efd7841",
 		"99183935"
 	],
 	size: 1.5d,
