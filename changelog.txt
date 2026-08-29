@@ -22,7 +22,7 @@ Added quests
 - Red Copper Cable (grinding)
 - Supercomputer
 - Large Cooling Tower
-- High-
+- High-Power Steam Condenser
 - Versatile Circuit (grinding)
 
 Added dependency to
