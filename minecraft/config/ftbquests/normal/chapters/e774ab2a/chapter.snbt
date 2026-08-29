@@ -1,7 +1,7 @@
 {
 	title: "Redstone-over-Radio",
 	icon: "hbm:radio_torch_logic",
-	always_invisible: false,
+	always_invisible: true,
 	group: 0,
 	default_quest_shape: ""
 }
