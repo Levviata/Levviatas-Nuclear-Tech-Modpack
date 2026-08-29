@@ -22,7 +22,8 @@
 	rewards: [{
 		uid: "5da3f940",
 		type: "item",
-		item: "hbm:blades_steel"
+		item: "hbm:blades_steel",
+		count: 2
 	},
 	{
 		uid: "77739aa3",
