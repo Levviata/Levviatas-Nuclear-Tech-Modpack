@@ -30,26 +30,20 @@
 		}]
 	}],
 	rewards: [{
-		uid: "cc7b9ad3",
-		type: "item",
-		item: "hbm:red_pylon_large",
-		count: 3
+		uid: "20aec0d0",
+		type: "xp",
+		xp: 40
 	},
 	{
-		uid: "fda7eb9a",
-		type: "item",
-		item: "hbm:substation",
-		count: 2
-	},
-	{
-		uid: "6c8c0e5e",
+		uid: "da14e693",
 		type: "item",
 		item: "hbm:ingot_red_copper",
 		count: 8
 	},
 	{
-		uid: "20aec0d0",
-		type: "xp",
-		xp: 40
+		uid: "ecedcc18",
+		type: "item",
+		item: "hbm:ingot_biorubber",
+		count: 8
 	}]
 }
