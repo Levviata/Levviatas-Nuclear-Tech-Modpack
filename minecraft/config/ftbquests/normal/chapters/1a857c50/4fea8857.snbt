@@ -1,6 +1,10 @@
 {
 	x: 17.0d,
 	y: -6.5d,
+	description: "§aRequires blueprint",
+	text: [
+		""
+	],
 	dependencies: [
 		"b5bdadf2"
 	],
