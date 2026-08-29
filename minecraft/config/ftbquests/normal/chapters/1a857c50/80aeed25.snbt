@@ -1,6 +1,6 @@
 {
-	x: 7.5d,
-	y: -1.5d,
+	x: 5.0d,
+	y: -1.0d,
 	shape: "pentagon",
 	dependencies: [
 		"99183935"
@@ -11,7 +11,7 @@
 		items: [{
 			item: "hbm:ingot_cdalloy"
 		}],
-		count: 16L
+		count: 32L
 	}],
 	rewards: [{
 		uid: "145370dc",
@@ -27,5 +27,11 @@
 		uid: "505acbe9",
 		type: "random",
 		table: 1
+	},
+	{
+		uid: "85278a50",
+		type: "item",
+		item: "hbm:ingot_cdalloy",
+		count: 32
 	}]
 }
