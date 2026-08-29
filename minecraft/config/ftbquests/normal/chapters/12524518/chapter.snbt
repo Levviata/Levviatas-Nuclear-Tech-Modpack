@@ -14,5 +14,19 @@
 		hover: [],
 		click: "",
 		dev: false
+	},
+	{
+		x: 0.5d,
+		y: 5.0d,
+		width: 1.55d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image6.png",
+		hover: [
+			"RBMK Reactor Designs and Tutorial",
+			"By Savage Vegeta"
+		],
+		click: "https://www.youtube.com/watch?v=tTl2GgvBbag",
+		dev: false
 	}]
 }
