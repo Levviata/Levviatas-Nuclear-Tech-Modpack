@@ -14,5 +14,10 @@
 		items: [{
 			item: "hbm:machine_soldering_station"
 		}]
+	}],
+	rewards: [{
+		uid: "f159bcae",
+		type: "xp",
+		xp: 100
 	}]
 }

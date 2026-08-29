@@ -16,5 +16,10 @@
 		items: [{
 			item: "hbm:machine_arc_welder"
 		}]
+	}],
+	rewards: [{
+		uid: "24265192",
+		type: "xp",
+		xp: 50
 	}]
 }

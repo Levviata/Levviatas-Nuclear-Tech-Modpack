@@ -29,5 +29,10 @@
 		uid: "3847a3f6",
 		type: "loot",
 		table: 3
+	},
+	{
+		uid: "a36aa857",
+		type: "xp",
+		xp: 50
 	}]
 }
