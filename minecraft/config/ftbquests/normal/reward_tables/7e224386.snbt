@@ -1,6 +1,7 @@
 {
 	title: "Bedrock Ore",
 	loot_size: 1,
+	use_title: true,
 	rewards: [{
 		item: "hbm:bedrock_ore_new 1 32",
 		count: 8
