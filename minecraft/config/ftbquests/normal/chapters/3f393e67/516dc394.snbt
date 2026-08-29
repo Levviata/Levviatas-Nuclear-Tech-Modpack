@@ -22,14 +22,20 @@
 		only_from_crafting: true
 	}],
 	rewards: [{
-		uid: "2a6f80ec",
-		type: "item",
-		item: "hbm:concrete_smooth",
-		count: 16
-	},
-	{
 		uid: "4ede634f",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "0589d9cf",
+		type: "item",
+		item: "minecraft:gravel",
+		count: 128
+	},
+	{
+		uid: "be451ce0",
+		type: "item",
+		item: "minecraft:sand",
+		count: 128
 	}]
 }
