@@ -35,5 +35,11 @@
 		uid: "19c62706",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "941a4e8b",
+		type: "item",
+		item: "hbm:plant_flower 1 2",
+		count: 32
 	}]
 }
