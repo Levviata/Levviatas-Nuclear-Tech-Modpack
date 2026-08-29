@@ -20,13 +20,14 @@
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "0169ede1",
-		type: "item",
-		item: "hbm:servo_set"
-	},
-	{
 		uid: "96c9b469",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "be043c7a",
+		type: "item",
+		item: "hbm:motor",
+		count: 2
 	}]
 }
