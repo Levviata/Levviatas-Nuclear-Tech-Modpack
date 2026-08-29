@@ -17,5 +17,10 @@
 		items: [{
 			item: "hbm:plant_item 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "09e9e773",
+		type: "xp",
+		xp: 20
 	}]
 }
