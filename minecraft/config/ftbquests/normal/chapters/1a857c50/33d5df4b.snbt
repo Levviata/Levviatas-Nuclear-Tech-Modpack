@@ -2,6 +2,22 @@
 	x: -2.5d,
 	y: 6.5d,
 	shape: "hexagon",
+	text: [
+		"The Catalytic Cracking Tower can crack a variety of petrochemicals to obtain useful by-products.",
+		"",
+		"It can crack",
+		"- §lHeavy Heating Oil§r-> Heating Oil, Reformate Gas",
+		"- §lReformate§r -> Unsat Hydrocarbons,  Reformate Gas",
+		"- §lWood Oil§r -> Heating Oil, Aro Hydrocarbons",
+		"- §lBTX§r -> Aro Hydrocarbons, Petroleum Gas",
+		"- §lCrude Oi§r -> Cracked Oil, Petroleum Gas",
+		"- §lBitumen§r - > Crude Oil, Aro Hydrocarbons",
+		"- §lBiomass§r -> Petroleum Gas, Aro Hydrocarbons",
+		"- §lCracked Diesel§r and §lDiesel§r -> Kerosene, Petroleum Gas",
+		"- §lNatural Gas§r -> Petroleum Gas, Unsat Hydrocarbons",
+		"- §lKerosene§r -> Petroleum Gas",
+		"- §lIndustrial Oil§r -> Naphtha, Petroleum Gas"
+	],
 	dependencies: [
 		"5b1b40f1"
 	],
