@@ -1,6 +1,20 @@
 {
 	x: 1.0d,
 	y: -3.5d,
+	description: "§e§nRequires:§r§e Catalytic Cracking Tower or Radiolysis Chamber",
+	text: [
+		"Unsaturated Hydrocarbons are mainly produced from refining Cracked Oil and can be made later on from dissociating Natural Gas (radiolysis).",
+		"",
+		"It's an essential material for progression.",
+		"",
+		"It can make",
+		"- Rubber",
+		"- Perfluoromethyl",
+		"- PVC",
+		"- C-4 bars",
+		"- Engine Lubricant",
+		"- Phosgene"
+	],
 	dependencies: [
 		"fd3db02d"
 	],
@@ -21,5 +35,10 @@
 		uid: "c0bf190f",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "c0101af6",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 68"
 	}]
 }
