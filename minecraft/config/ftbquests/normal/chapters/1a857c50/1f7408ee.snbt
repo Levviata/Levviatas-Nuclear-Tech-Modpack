@@ -1,6 +1,18 @@
 {
 	x: -4.0d,
 	y: 8.0d,
+	text: [
+		"Cracked Oil can be obtained in the Radiolysis machine and Fractioning Tower but its mainly produced in the Catalytic Cracking Tower.",
+		"",
+		"To get useful by-products it must be heated and refined in an Oil Refinery.",
+		"",
+		"When refined it separates into",
+		"-  Aromatic Hydrocarbons",
+		"- Unsaturated Hydrocarbons",
+		"- Cracked Naphtha",
+		"- Cracked Light Oil",
+		"- Crack Oil Tar"
+	],
 	dependencies: [
 		"33d5df4b"
 	],
@@ -10,5 +22,20 @@
 		items: [{
 			item: "hbm:fluid_icon 1 61"
 		}]
+	},
+	{
+		uid: "dd312dd0",
+		type: "fluid",
+		fluid: "crackoil"
+	}],
+	rewards: [{
+		uid: "6aa900fa",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 61"
+	},
+	{
+		uid: "d5be17e5",
+		type: "xp",
+		xp: 20
 	}]
 }
