@@ -2,7 +2,6 @@ version 2.0.0
 Updated Nuclear Tech: Community Edition to its latest release (2.6.0.0)
 
 Added quests
-- RoR info quest
 - ALL Weapon Mods (with detailed information) -> Special, Generic, Caliber Conversion, weapon specific, and Skin mods
 - Weapon mod info
 - Gun Repair Kits
@@ -15,6 +14,12 @@ Added quests
 - Deco blocks
 - Satellite ground station
 - All new satellites
+- Military Grade circuit (grinding)
+- Industrial generator (a trophy)
+- Automatic Thresher and Buzz saw
+- Diode
+- Hazards (info)
+- Red Copper Cable (grinding)
 
 Moved quests
 - All RoR related -> RoR chapter
@@ -28,13 +33,25 @@ Add descriptions to
 - Cracked Naphtha
 - An Old Classic (double barrel shotgun)
 - Satellite Base
+- Saturnite ingot
 
-Extended description for Oil Refinery
+Extended description for
+- Oil Refinery
+- Steam-Powered Pump
+
+Trimmed descriptions for
+- Sawmill
+- Desh ingot
+- Steel Electricity Pylon
+- Schraranium
+
 Cut out description for Plate and Stamps quest
 Fixed Settings tool description
-Trimmed Sawmill description
-Added subtitle to Desh Screwdriver
-Added tooltip to Volcano warhead
+Removed person from Steam engine
+Added subtitle to Desh Screwdriver and Orbital module
+Added tooltip to Volcano warhead (item tooltip)
+Rewrote Concrete description
+!Reworked Electricity Pylon (multiblock) completely
 !Added extremely cool dynamic tooltips for Powered Drill (each engine will show what fuel it uses)
 
 Added recipes for
@@ -45,16 +62,48 @@ Added recipes for
 - ALL Conversion Kits (its real cool) -> generic mod parts and receiver, gun mechanism, and the bullet to convert caliber to
 - Dual Miniguns -> Plasma Forge, 4 saturnite gun mechanism and 2 miniguns, 10k power and plasma
 
-Add reward to
+Replaced LV-N Nuclear Rocket Engine recipe (different and a bit expensive) -> Small Thruster, Small Fuel Tank, Military Grade Circuit, 4 Neutron Reflector, 8 PuFuel, any 4 neutron source ingot, capacitor.
+Replaced Jetpack Glider recipe (more expensive) -> 2 Military Grade Circuit, 1 desh motor, 2 bismuth compound plates, Boostpack, 2 Lv-n nuclear rocket engine, Mask man coin
+Removed uranium fuel from RoR Relay Satellite.
+
+Added rewards to
 - Redstone Battery Pack -> x12 Redstone blocks and x8 Min Grade Copper ingots
 - Copper Capacitor -> x3 Blocks of red copper and x3 blocks of copper
 - Conveyor -> x8 Ropes
 - Battery Socket -> x12 Min grade copper ingots
+- Desh ingot -> x4 rare earth crystals, x8 universal tanks of mercury, x8 universal tanks of light oil
+- Electric Furnace -> charged copper capacitor
+- Mustard willow (grinding) -> x32 mustard willows
+- Desh ingot (grinding) -> x32 desh ingots
+- Starmetal ingot -> x24 high-speed steel powder and x8 meteorite ingot
 
 Buffed rewards for
 - Black Lung and Mesothelioma -> x1 Herbal paste to x5 Herbal pastes
 - Latex Bar (grinding) -> x32 Latex Bar to x64 Latex bars
 - Conveyor (grinding) -> x32 to x64 conveyors
+- Cobalt ingot (grinding) -> x4 cobalt ingots to x16
+- Shredder -> x1 steel shredder blade to x2
+- Super stimpak (grinding) -> x8 super stimpak to x16
+- PVC and Hard plastic (Plastic man, grinding) -> x12 pvc and hard plastic to x128 (task also sees this change)
+
+Fixed rewards for
+- Radaway -> x3 radaway to x16 iron plates and x16 latex bars
+- Radaway (grinding) -> x8 radaway to x16
+- Decorated Cobalt Hoe (grinding) -> x5 meteorite ingot to treats, gunpowder grenades, food reward tables and x4 cobalt ingots
+- Meteor ingot (grinding) -> x24 meteor ingot
+- Super Stimpak -> x3 super stimpaks to x16 steel plates and leather
+
+Nerfed rewards for
+- Desh Servo -> desh servo to steel servo
+- Cement Powder -> x8 powder cement to x32 clay balls
+- Steel Servo -> steel servo to x2 motors
+- Large Electricity Pylon and Substation -> x3 large elect pylons and x2 substation to x8 red copper ingots and latex bars
+- Concrete -> x16 concrete to x128 gravel and sand blocks
+- Steel anvil -> x32 steel to x10
+- Draining Pipe -> x12 cast steel plates to x8 iron ingot and coal
+- Saturnite Ring -> x1 starmetal block to x8 saturnite ingots and x4 meteorite ingots
+
+Removed rewards for RoR quests and set a 20 xp reward
 
 Removed recipes for
 - Powder Cement (crafting table) -> moved recipe to Shredder
@@ -79,16 +128,19 @@ Updated mods
 - Forgelin Continuous
 
 Cleaned config files
-Added xp rewards here and there
-Added decoBlock ore dictionary
+Added and buffed xp rewards here and there
+Added decoBlock and neutronSource ore dictionary
 Add thruster variants into one quest: kerosene size 15, 20 and solid size 20
 Updated NTM config including recipes
 Fixed weight for Health Pipe and Taint Syringe in Treats reward table
+Fix lava fluid tasks
+Make Bedrock Ore and Accessory reward tables use title for rewards
 Renamed ore info quests
 Remove provisional Neutron Reflector recipe
 Remove coolant dependency for the Watz powerplant
 Removed fuselage skin in custom missile section
 Removed old satellites quests
+Removed old chicago pile image
 
 version 1.2.0
 
