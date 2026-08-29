@@ -4,7 +4,14 @@
 	y: -2.5d,
 	description: "§e§nRequires:§r§e Ferrouranium Anvil, Starmetal Armor",
 	text: [
-		""
+		"The Lunar Armor gives equal protection to diamond and 93.6% radiation resistance.",
+		"",
+		"As a full set",
+		"- 50% fire resistance if total damage received is 2.5% Fire",
+		"- 50% physical resistance if received is 5% Physical",
+		"- 25% explosion resistance if received is 10% Explosion",
+		"- 100% fall resistance",
+		"- 15% resistance to other sources if received is 2% Other."
 	],
 	dependencies: [
 		"47aeecca",
