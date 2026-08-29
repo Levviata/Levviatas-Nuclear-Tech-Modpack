@@ -2,7 +2,8 @@
 	x: -9.5d,
 	y: -10.0d,
 	dependencies: [
-		"69dd34e3"
+		"69dd34e3",
+		"37308693"
 	],
 	tasks: [{
 		uid: "5dcc13f4",
@@ -22,5 +23,10 @@
 		items: [{
 			item: "hbm:teleanchor"
 		}]
+	}],
+	rewards: [{
+		uid: "869bbaa8",
+		type: "xp",
+		xp: 100
 	}]
 }
