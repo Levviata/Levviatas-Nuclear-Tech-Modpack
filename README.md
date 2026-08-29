@@ -34,39 +34,26 @@ For Cleanroom, scroll down to its section.
 8.5/10 Impatient guy
 
 ## Features
-- 21 quest chapters with over +1335 quests, quests with quality information, also pretty patterns 😏
+- 21 chapters with over +1430 quests with quality information and pretty patterns 😏
 
-- 144 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 149 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Taint
   - Lung Diagnostic
   - Mkunicorn
+  - Double Barrel Shotgun (An Old Classic)
+  - All Caliber Conversion Kits (weapon mod)
   - Paa Hazmat suit to Paa Battle suit
   - Shimmer tools use CMB Steel and Euphemium
   - All Meteorite Sword recipes (custom)
-  - Security Armor tweaked
-  - Fluid Identifier uses a cheaper circuit
-  - Fix Taint Missile using forge's default fluid bucket
-  - Added recipes for:
-    - mp_fuselage_15_balefire
-    - mp_warhead_15_thermo
-    - warhead_thermo_exo
-    - warhead_thermo_endo
-    - missile_exo
-    - missile_endo
-    - missile_n2
-    - warhead_n2
-    - mp_warhead_15_mirv
-    - mp_fuselage_10_long_kerosene
-    - warhead_mirvlet
-    - mp_warhead_15_volcano
-    - Neutron Reflector (crafting table)
-
-- Fixed some recipe issues present in base Nuclear Tech:
-  - Balefire Thruster having the recipe of the Short thruster.
-  - ass.mpf10solidlong and ass.mpf10kerolong both giving the normal fuselage instead of the long.
-
-(fixed next update)
+  - Security Armor (tweaked$)
+  - Dual miniguns (Plasma Forge)
+  - Cheaper Multi Fluid Identifier
+  - Bismuth Blocks to Alexandrite (Exposure Chamber)
+  - Radioactive Gem
+  - Balefire shard (made with Radioactive gems)
+  - N2 and Balefire Charges
+  - And many more.
 
 - 3 custom Resource Packs with new textures for swords and tools.
 
@@ -76,10 +63,10 @@ For Cleanroom, scroll down to its section.
   - Late game machines, desh, schrabidium, etc. are fireproof.
   - Many fun grinding quests that make you progress
   - Quests have treats and fun explosives
-  - Swords are proper and are flipped horizontally
-  - Stat rebalances for useless or forgotten items (Redstone and Great sword)
+  - Swords are flipped horizontally
+  - Stat rebalances for Redstone and Great sword
+  - Dynamic tooltip for Powered Drill fuel usage and its other engines.
   - Informative tooltips for machines (if they are deprecated, how they work, alternative names)
-  - Recipes for items that have none or are improper (Neutron Reflector, Meteor swords, etc).
   - Damage rebalance for axes
 
 - So optimized you could use your motherboard to fly in real life (pure magic, aladdin style).
