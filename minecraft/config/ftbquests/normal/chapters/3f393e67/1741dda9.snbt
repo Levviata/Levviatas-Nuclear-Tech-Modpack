@@ -1,11 +1,15 @@
 {
-	x: 3.0d,
-	y: 17.5d,
+	x: 3.017857142857153d,
+	y: 17.321428571428562d,
 	description: "Basic",
 	text: [
-		"Generates power by burning fuel. ",
+		"Generates power by burning solid and liquid fuels like wood and logs or wood oil.",
 		"",
-		"You may store this power in batteries and capacitors after making Minecraft Grade Copper."
+		"To change the use of solid or liquid press the arrow in the middle.",
+		"",
+		"Solid fuels will produce ashes which can be stored or used as fuel.",
+		"",
+		"To use the generated power, connect Red Copper Cables to the port with copper color, some sides of the machine also output power."
 	],
 	dependencies: [
 		"86867f7a",
