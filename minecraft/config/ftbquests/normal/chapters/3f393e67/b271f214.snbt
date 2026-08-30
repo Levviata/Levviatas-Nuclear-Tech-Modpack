@@ -3,17 +3,18 @@
 	icon: "hbm:gas_mask_m65",
 	x: -6.5d,
 	y: 8.5d,
-	shape: "hexagon",
+	shape: "square",
 	text: [
-		"Gas masks are used to protect you from various hazards present in Nuclear Tech Mod.",
+		"Gas masks and Filters are used to protect you from airbone hazards.",
 		"",
-		"They don't protect you from hazards straight out since gas masks alone aren't the full deal, you'll need a filter.",
+		"To use a gas mask properly you will need a Filter.",
 		"",
 		"Filters can be installed while wearing a gas mask and Right-Clicking with the filter in your main hand.",
 		"",
 		"To remove a filter, remove your gas mask and Crouch-Right-Click while it's in your main hand.",
 		"",
 		"There are a variety of filters with different properties for specific hazards. ",
+		"",
 		"In the early game, you will need a filter with the capacity to protect from Airborne Particles to protect yourself from coal and asbestos particles."
 	],
 	dependencies: [
@@ -27,6 +28,6 @@
 	rewards: [{
 		uid: "bf1d3339",
 		type: "xp",
-		xp: 100
+		xp: 20
 	}]
 }
