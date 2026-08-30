@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_lasrifle",
-	x: 10.5d,
-	y: -4.5d,
+	x: 11.03214285714283d,
+	y: -4.4452380952381105d,
 	text: [
 		"The Laser Rifle deals 50 damage and its ammo is Capacitors (not the circuits)."
 	],

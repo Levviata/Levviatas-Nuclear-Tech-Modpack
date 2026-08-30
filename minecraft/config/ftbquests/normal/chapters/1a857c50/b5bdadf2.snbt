@@ -1,6 +1,6 @@
 {
-	x: 16.0d,
-	y: -6.0d,
+	x: 16.53214285714283d,
+	y: -5.9452380952381105d,
 	description: "§e§nRequires:§r§e Versatile Integrated Circuit",
 	text: [
 		"The Advanced Control Unit is an end game component, it has a main use in bombs.",
