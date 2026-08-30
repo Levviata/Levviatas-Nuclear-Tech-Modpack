@@ -4,12 +4,12 @@
 	y: -1.0d,
 	shape: "square",
 	text: [
-		"Mines are explosives that are armed for close-proximity and will trigger if any entity steps near.",
+		"Mines are explosives that are armed for close-proximity which will trigger if any entity steps near.",
 		"",
 		"To arm, place and walk away, any entities nearby need to be removed or the mine won't arm.",
 		"You will know its armed when it beeps.",
 		"",
-		"To defuse, use any defuser or use your hand if you are a true hero."
+		"To remove, use any defuser or use your hand if you are a true hero."
 	],
 	size: 1.25d,
 	tasks: [{
