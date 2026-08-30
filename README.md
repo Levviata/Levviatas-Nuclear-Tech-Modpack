@@ -46,7 +46,7 @@ For Cleanroom, scroll down to its section.
   - Paa Hazmat suit to Paa Battle suit
   - Shimmer tools use CMB Steel and Euphemium
   - All Meteorite Sword recipes (custom)
-  - Security Armor (tweaked$)
+  - Security Armor (tweaked)
   - Dual miniguns (Plasma Forge)
   - Cheaper Multi Fluid Identifier
   - Bismuth Blocks to Alexandrite (Exposure Chamber)
