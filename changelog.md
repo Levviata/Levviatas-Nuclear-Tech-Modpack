@@ -1,6 +1,8 @@
 version 2.0.0
 Updated Nuclear Tech: Community Edition to its latest release (2.6.0.0), equivalent to 1.0.27_X5771
 
+### Quests
+
 Added quests
 - ALL Weapon Mods (with detailed information) -> Special, Generic, Caliber Conversion, weapon specific, and Skin mods
 - Weapon mod info
@@ -30,14 +32,16 @@ Added dependency to
 - Vacuum Refinery -> Versatile circuit
 - Weaponsteel ingot -> from Vacuum Refinery to Coker unit (how did i mix that up)
 
-Fix tasks for Fusion Reactor Vessel
-
 Moved quests
 - All RoR related -> Oil age
 - Alexandrite and Teleporter Anchor -> Oil Age
 
 Removed quests
 - Blackhole missile (oil age) and Iron Anvil (vanilla chapter) -> dupe
+
+Fixed tasks for Fusion Reactor Vessel
+
+### Quest Descriptions
 
 Add descriptions to
 - !!New Chicago Pile
@@ -83,17 +87,7 @@ Rewrote Concrete description
 Replaced subtitle for Pumpjack
 Removed person from Steam engine
 
-Added recipes for
-- Radioactive Gem -> Irradiate diamond gems in a RBMK channel
-- An Old Classic (double barrel shotgun) -> saturnite parts and a skull
-- Balefire Shard -> Radioactive gems, bones, and powder magic
-- Powder Cement (Shredder) -> Block slag variant
-- ALL Conversion Kits (its real cool) -> generic mod parts and receiver, gun mechanism, and the bullet to convert caliber to
-- Dual Miniguns -> Plasma Forge, 4 saturnite gun mechanism and 2 miniguns, 10k power and plasma
-
-Replaced LV-N Nuclear Rocket Engine recipe (different and a bit expensive) -> Small Thruster, Small Fuel Tank, Military Grade Circuit, 4 Neutron Reflector, 8 PuFuel, any 4 neutron source ingot, capacitor.
-Replaced Jetpack Glider recipe (more expensive) -> 2 Military Grade Circuit, 1 desh motor, 2 bismuth compound plates, Boostpack, 2 Lv-n nuclear rocket engine, Mask man coin
-Removed uranium fuel from RoR Relay Satellite.
+### Quest Rewards
 
 Added rewards to
 - Redstone Battery Pack -> x12 Redstone blocks and x8 Min Grade Copper ingots
@@ -139,14 +133,27 @@ Nerfed rewards for
 Removed rewards for RoR quests and set a 20 xp reward
 Fix missing fluid refunds for many fluid tasks.
 
+### Recipes
+
+Added recipes for
+- Radioactive Gem -> Irradiate diamond gems in a RBMK channel
+- An Old Classic (double barrel shotgun) -> saturnite parts and a skull
+- Balefire Shard -> Radioactive gems, bones, and powder magic
+- Powder Cement (Shredder) -> Block slag variant
+- ALL Conversion Kits (its real cool) -> generic mod parts and receiver, gun mechanism, and the bullet to convert caliber to
+- Dual Miniguns -> Plasma Forge, 4 saturnite gun mechanism and 2 miniguns, 10k power and plasma
+
+Replaced LV-N Nuclear Rocket Engine recipe (different and a bit expensive) -> Small Thruster, Small Fuel Tank, Military Grade Circuit, 4 Neutron Reflector, 8 PuFuel, any 4 neutron source ingot, capacitor.
+Replaced Jetpack Glider recipe (more expensive) -> 2 Military Grade Circuit, 1 desh motor, 2 bismuth compound plates, Boostpack, 2 Lv-n nuclear rocket engine, Mask man coin
+Removed uranium fuel from RoR Relay Satellite.
+
 Removed recipes for
 - Powder Cement (crafting table) -> moved recipe to Shredder
 - Neutron Reflector -> recipe fixed in latest version
 
 Changed Block of Slag Centrifuge recipe to blockSlag ore dict.
 
-Added config for
-- File Director -> Nuclear Tech
+### Mods and Config
 
 Removed mods
 - Reach Fix
@@ -160,6 +167,11 @@ Updated mods
 - Attribute Modifier
 - Xaero world map
 - Forgelin Continuous
+
+Added config for
+- File Director -> Nuclear Tech
+
+### General
 
 Cleaned config files
 Added RBMK tutorial link (feat. Savage Vegeta)
