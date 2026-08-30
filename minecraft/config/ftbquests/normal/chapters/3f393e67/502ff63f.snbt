@@ -4,7 +4,7 @@
 	text: [
 		"Machine Upgrades are a set of upgrades compatible with many machines, to make new upgrades you craft them with the Template.",
 		"",
-		"This quest unlocks the \"Machine Upgrades\" chapter!"
+		"Check out the Machine Upgrades chapter!"
 	],
 	dependencies: [
 		"8a25fa82"
