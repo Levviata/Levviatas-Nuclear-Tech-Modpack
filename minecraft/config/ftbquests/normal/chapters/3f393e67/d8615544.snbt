@@ -2,7 +2,9 @@
 	x: -4.5d,
 	y: 29.5d,
 	text: [
-		"The Compress compresses a variety of liquids, it can compress Compressed Air enough to be able to use it for transporting items with Pneumatic pipes."
+		"The Compressor can pressurize fluids, adding PUs. ",
+		"",
+		"It can compress Compressed Air enough to be able to use it for transporting items with Pneumatic pipes."
 	],
 	dependencies: [
 		"8a25fa82"
