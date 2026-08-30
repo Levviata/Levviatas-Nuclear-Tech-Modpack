@@ -25,8 +25,7 @@
 	rewards: [{
 		uid: "838e7ddb",
 		type: "item",
-		item: "hbm:block_steel",
-		count: 3
+		item: "hbm:block_steel"
 	},
 	{
 		uid: "fab1a90d",
