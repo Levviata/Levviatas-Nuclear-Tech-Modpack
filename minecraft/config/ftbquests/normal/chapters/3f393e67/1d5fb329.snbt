@@ -22,6 +22,7 @@
 	dependencies: [
 		"86867f7a"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "3f1f9955",
 		type: "item",
@@ -54,6 +55,11 @@
 	{
 		uid: "ac312c7d",
 		type: "xp",
-		xp: 40
+		xp: 50
+	},
+	{
+		uid: "fc37cbc5",
+		type: "item",
+		item: "hbm:attachment_mask"
 	}]
 }

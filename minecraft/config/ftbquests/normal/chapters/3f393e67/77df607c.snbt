@@ -22,11 +22,6 @@
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "8b2ba6c0",
-		type: "item",
-		item: "hbm:attachment_mask"
-	},
-	{
 		uid: "78134f47",
 		type: "item",
 		item: {
