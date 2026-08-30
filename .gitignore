@@ -120,3 +120,11 @@
 /minecraft/config/hbmRecipes/_hbmSuperComputer.json
 /minecraft/config/hbmRecipes/_hbmArcWelder.json
 /minecraft/config/hbmRecipes/REMOVE UNDERSCORE TO ENABLE RECIPE LOADING - RECIPES WILL RESET TO DEFAULT OTHERWISE
+/minecraft/hbmComputerUpload/
+/minecraft/resourcepacks/BloomTech-1.2.0.zip
+/minecraft/hei_favorites.ini
+/minecraft/hei_bookmarks.ini
+/minecraft/usercache.json
+/minecraft/usernamecache.json
+/minecraft/WailaErrorOutput.txt
+/minecraft/WailaHandlerDump.md
