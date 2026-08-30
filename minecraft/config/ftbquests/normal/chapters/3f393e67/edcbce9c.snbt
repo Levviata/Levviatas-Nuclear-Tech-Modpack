@@ -1,6 +1,7 @@
 {
 	x: 2.0d,
 	y: 18.0d,
+	shape: "circle",
 	text: [
 		"The Air Intake makes Compressed Air, this can be used to make Hot Air Blast for the Blast Furnace, though it has other uses."
 	],
@@ -8,6 +9,7 @@
 		"86867f7a",
 		"cb1a89bb"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "6f6080e3",
 		type: "item",
