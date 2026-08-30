@@ -1,8 +1,9 @@
 {
+	title: "Redstone-over-Radio Panels",
 	x: -8.5d,
 	y: 3.0d,
 	text: [
-		""
+		"Each one has an extensive manual, press F1 while hovering the item in your inventory to open it."
 	],
 	dependency_requirement: "one_completed",
 	or_tasks: true,
