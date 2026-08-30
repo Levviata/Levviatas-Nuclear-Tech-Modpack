@@ -1,8 +1,12 @@
 {
+	title: "High-Speed Steel",
 	disable_toast: true,
 	x: 0.0d,
 	y: 8.0d,
 	shape: "hexagon",
+	text: [
+		""
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "86eef0da",

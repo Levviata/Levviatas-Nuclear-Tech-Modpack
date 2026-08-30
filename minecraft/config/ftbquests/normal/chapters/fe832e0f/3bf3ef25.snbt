@@ -1,8 +1,12 @@
 {
+	title: "Desh",
 	disable_toast: true,
 	x: -3.5d,
 	y: 11.0d,
 	shape: "hexagon",
+	text: [
+		""
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "ae54bf5f",

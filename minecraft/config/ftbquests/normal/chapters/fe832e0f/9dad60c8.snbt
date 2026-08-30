@@ -1,8 +1,12 @@
 {
+	title: "Saturnite",
 	disable_toast: true,
 	x: 0.0d,
 	y: 20.0d,
 	shape: "hexagon",
+	text: [
+		""
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "3be32a1b",

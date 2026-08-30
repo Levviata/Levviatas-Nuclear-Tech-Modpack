@@ -1,8 +1,12 @@
 {
+	title: "Gunmetal",
 	disable_toast: true,
 	x: 0.0d,
 	y: 2.0d,
 	shape: "hexagon",
+	text: [
+		""
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "429d9aa7",
