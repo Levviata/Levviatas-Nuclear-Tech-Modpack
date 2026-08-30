@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "5537fc76",
+		type: "item",
+		items: [{
+			item: "hbm:machine_stirling_steel"
+		}]
+	}]
+}

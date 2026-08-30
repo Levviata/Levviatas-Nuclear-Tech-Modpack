@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "3a8c3f19",
+		type: "item",
+		items: [{
+			item: "hbm:machine_wood_burner"
+		}]
+	}]
+}

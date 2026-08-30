@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "1c016080",
+		type: "item",
+		items: [{
+			item: "hbm:machine_stirling"
+		}]
+	}]
+}

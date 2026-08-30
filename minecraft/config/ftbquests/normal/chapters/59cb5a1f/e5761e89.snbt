@@ -1,0 +1,11 @@
+{
+	x: 7.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "b30beabc",
+		type: "item",
+		items: [{
+			item: "hbm:icf"
+		}]
+	}]
+}

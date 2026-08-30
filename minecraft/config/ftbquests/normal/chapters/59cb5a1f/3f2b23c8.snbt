@@ -1,0 +1,10 @@
+{
+	x: -0.5d,
+	y: 5.0d,
+	shape: "square",
+	tasks: [{
+		uid: "00a52673",
+		type: "checkmark",
+		title: "Steam"
+	}]
+}

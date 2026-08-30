@@ -1,0 +1,10 @@
+{
+	x: 9.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "79d366ba",
+		type: "checkmark",
+		title: "WATZ",
+		icon: "hbm:watz"
+	}]
+}

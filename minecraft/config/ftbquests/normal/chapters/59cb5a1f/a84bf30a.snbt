@@ -1,0 +1,11 @@
+{
+	x: -8.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "caf34101",
+		type: "item",
+		items: [{
+			item: "hbm:machine_diesel"
+		}]
+	}]
+}

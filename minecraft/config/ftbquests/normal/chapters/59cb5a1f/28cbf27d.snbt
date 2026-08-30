@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "dd51cb93",
+		type: "item",
+		items: [{
+			item: "hbm:machine_turbofan"
+		}]
+	}]
+}

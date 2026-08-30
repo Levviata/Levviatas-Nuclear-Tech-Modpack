@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "974d0608",
+		type: "item",
+		items: [{
+			item: "hbm:machine_chungus"
+		}]
+	}]
+}

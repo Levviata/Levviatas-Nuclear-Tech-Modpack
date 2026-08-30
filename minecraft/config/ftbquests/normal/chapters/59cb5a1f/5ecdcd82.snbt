@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "24340520",
+		type: "item",
+		items: [{
+			item: "hbm:machine_industrial_turbine"
+		}]
+	}]
+}
