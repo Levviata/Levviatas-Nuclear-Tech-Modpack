@@ -9,7 +9,9 @@
 		"",
 		"Solid fuels will produce ashes which can be stored or used as fuel.",
 		"",
-		"To use the generated power, connect Red Copper Cables to the port with copper color, some sides of the machine also output power."
+		"To use the generated power, connect Red Copper Cables to the port with copper color, some sides of the machine also output power.",
+		"",
+		"All generators can be found in the Generators chapter!"
 	],
 	dependencies: [
 		"86867f7a",
