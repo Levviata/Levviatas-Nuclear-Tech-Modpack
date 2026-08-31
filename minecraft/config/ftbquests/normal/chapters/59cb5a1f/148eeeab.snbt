@@ -1,6 +1,15 @@
 {
 	x: -2.0d,
 	y: 4.0d,
+	text: [
+		"The Steam Engine uses steam as fuel generating power, it starts slow accelerating as it operates.",
+		"",
+		"Can store up to 2000mB of steam.",
+		"",
+		"Has an efficiency of 85%.",
+		"",
+		"Can generate up to 25kHE~."
+	],
 	tasks: [{
 		uid: "db49e594",
 		type: "item",
