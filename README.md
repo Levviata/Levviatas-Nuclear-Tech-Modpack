@@ -9,7 +9,7 @@ Latest releases will always be here.
 
 Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
 
-My curated list of optimization mods was also added, maximing performance.
+My curated list of optimization mods was also added, maximizing performance.
 
 OptiFine is disregarded and will cause issues, I have done my best to implement _most_ of its features. Though if you want shaders you'll have to use it (at your own discretion, without warranties). 
 
@@ -29,7 +29,7 @@ For Cleanroom, scroll down to its section.
 
 8/10 A random bystander
 
-"I'm not even half way through the modpack and I have completed over 300 quests already!"
+"I'm not even halfway through the modpack and I have completed over 300 quests already!"
 
 8.5/10 Impatient guy
 
@@ -79,13 +79,13 @@ Inside your modpack instance folder you will find a special folder:
 
 These config files will install the needed mods. To install, move the config files out of the folder to config/mod-director, so that they are together with the other config files (.curse.json).
 
-Upon starting the game, the modpack will install them and you'll be able to setup cleanroom with the Cleanroom Relauncher.
+Upon starting the game, the modpack will install them, and you'll be able to set up cleanroom with the Cleanroom Relauncher.
 
 You also must disable these conflicting mods:
 - Fullscreen Windowed
 - Raw Input
 
-If you don't, your screen will be messed up and you won't be able to move your mouse in-game.
+If you don't, your screen will be messed up, and you won't be able to move your mouse in-game.
 
 ## Notes
 After downloading all desired mods, you may disable File Director mod to boot up faster.
