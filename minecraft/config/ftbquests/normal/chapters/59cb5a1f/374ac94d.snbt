@@ -1,6 +1,23 @@
 {
-	x: -7.0d,
-	y: 6.5d,
+	x: -7.5d,
+	y: 4.0d,
+	text: [
+		"The Flare Stack consumes flammable gasses and liquids and converts them to energy.",
+		"",
+		"It will accept any flammable fuel at an efficiency of",
+		"- Gasses, 20%",
+		"- Liquids, 10%",
+		"",
+		"The Flow Valve must be open to operate.",
+		"",
+		"Consumes",
+		"- Liquids 10mB  / per tick ",
+		"- Gasses 50mb / per tick. ",
+		"",
+		"It has a power cap of 1MHE.",
+		"",
+		"May be upgraded."
+	],
 	tasks: [{
 		uid: "d9ed6d36",
 		type: "item",
