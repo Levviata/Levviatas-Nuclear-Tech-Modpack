@@ -1,6 +1,12 @@
 {
 	x: 0.0d,
 	y: 4.0d,
+	text: [
+		"The Heavy Stirling Engine is an improved version of the Stirling Engine, being able to handle 1500 TU / per tick.",
+		"",
+		"Only some fuels like BF Rocket Fuel are able to overspeed it."
+	],
+	dependency_requirement: "one_started",
 	tasks: [{
 		uid: "5537fc76",
 		type: "item",
