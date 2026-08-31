@@ -11,10 +11,12 @@
 		"The Flow Valve must be open to operate.",
 		"",
 		"Consumes",
-		"- Liquids 10mB  / per tick ",
+		"- Liquids 10mB / per tick ",
 		"- Gasses 50mb / per tick. ",
 		"",
 		"It has a power cap of 1MHE.",
+		"",
+		"Can store 64000mB of fuel.",
 		"",
 		"May be upgraded."
 	],
