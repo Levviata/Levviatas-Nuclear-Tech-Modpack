@@ -6,7 +6,7 @@
 		"",
 		"As seen in the Machine Upgrades chapter, the Turbofan has an upgrade called Afterburner which will increase the speed of the fan and the amount of power generated.",
 		"",
-		"The fan will obliterate any entity that gets sucked into the fan, pulverising them into Blood which is stored to a maximum of 24000mB."
+		"The fan will obliterate any entity that gets directly on front, pulverising them into Blood which is stored to a maximum of 24000mB."
 	],
 	tasks: [{
 		uid: "dd51cb93",
