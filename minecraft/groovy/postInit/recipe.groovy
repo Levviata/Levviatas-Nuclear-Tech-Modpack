@@ -1110,6 +1110,19 @@ crafting.shapedBuilder()
 replacedCount++
 
 crafting.shapedBuilder()
+        .name(resource('hbm:cable_diode'))
+        .output(item('hbm:cable_diode'))
+        .row(' B ')
+        .row('ACA')
+        .row(' B ')
+        .key('B', ore('nuggetSilicon'))
+        .key('A', item('hbm:red_cable'))
+        .key('C', ore('ingotMingrade'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
         .output(item('hbm:det_bale'))
         .row('ABA')
         .row('DCD')
