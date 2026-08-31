@@ -7,7 +7,6 @@ Add bloom to
 - Refined storage machines (mostly grids and the controller)
 
 Add quests for
-- All generators
 - All batteries
 - Foundry Tank
 - Drive Enclosure
