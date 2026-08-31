@@ -2,6 +2,13 @@
 	x: 0.0d,
 	y: 0.0d,
 	shape: "rsquare",
+	text: [
+		"HE is the power unit used by the mod, it has a real life equivalence to one \"jork your peanits\" (seriously. Source: Units article, official wiki). ",
+		"",
+		"mB are millibuckets which are 0.001 of a Bucket.",
+		"",
+		"NTM Community Edition interchanges automatically RF to HE and HE to RF so there is no need for Converter blocks."
+	],
 	size: 2.0d,
 	tasks: [{
 		uid: "9dd62fc9",
