@@ -1,6 +1,21 @@
 {
 	x: -6.5d,
 	y: 4.0d,
+	text: [
+		"The Wood-Burning Generator creates power by burning solid and liquid fuels, like wood or logs and wood oil.",
+		"",
+		"To change the use of solid or liquid press the arrow in the middle.",
+		"",
+		"Has burn time bonuses for",
+		"- Wood, 100%",
+		"- Logs, 300%",
+		"",
+		"Solid fuels will produce ashes which can be stored or used as fuel.",
+		"",
+		"Generates a constant 100HE per tick no matter what fuel is used.",
+		"",
+		"Has a power cap of 100kHE."
+	],
 	tasks: [{
 		uid: "3a8c3f19",
 		type: "item",
