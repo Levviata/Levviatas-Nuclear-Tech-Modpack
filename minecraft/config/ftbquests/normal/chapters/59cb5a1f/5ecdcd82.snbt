@@ -1,6 +1,26 @@
 {
 	x: -1.5d,
 	y: 5.5d,
+	text: [
+		"The Industrial Steam Turbine accepts any Steam (but Low-Pressure) as fuel to generate power.",
+		"",
+		"It has a variable amount of fluid storage depending on the density of the steam, with higher densities having lower storage.",
+		"",
+		"Fuels used (input, output, maximum power), outputs one lower density of steam.",
+		"-  Steam, 150.000 mB / tick, 1.500 mB / tick, 6 MHE / second.",
+		"",
+		"- Dense Steam, 15.000 mB / t, 150.000 mB / t, 600 kHE / s",
+		"",
+		"- Super Dense Steam, 1.500 mB / t, 15.000 / t, 540 kHE / s",
+		"",
+		"- Utra Dense Steam, 150 mB / t, 1.500 mB / t, 360 kHE / s",
+		"",
+		"A full line of turbines outputs 7.5 MHE / sec, or 375 kHE / t.",
+		"",
+		"(source: official wiki. thanks wiki) ",
+		"",
+		"Ouput matches next stage's input 1 to 1, Ultra Dense to Super Dense to Dense to Steam, making it a good idea to chain several turbines for maximum power."
+	],
 	tasks: [{
 		uid: "24340520",
 		type: "item",
