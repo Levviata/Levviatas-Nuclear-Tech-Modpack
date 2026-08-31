@@ -1,6 +1,5 @@
 {
 	title: "Ores",
-	icon: "minecraft:gold_ore",
 	disable_toast: true,
 	always_invisible: false,
 	group: -560674171,
