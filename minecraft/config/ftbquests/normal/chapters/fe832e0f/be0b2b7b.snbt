@@ -9,10 +9,6 @@
 		"",
 		"The Pepperbox is the first craftable weapon. "
 	],
-	dependencies: [
-		"86867f7a",
-		"b51e7fe3"
-	],
 	dependency_requirement: "one_completed",
 	size: 2.0d,
 	or_tasks: true,
