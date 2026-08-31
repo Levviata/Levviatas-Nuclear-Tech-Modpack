@@ -2,7 +2,7 @@
 	x: -8.5d,
 	y: 4.0d,
 	text: [
-		"The Diesel Generators accepts combustibles with Medium, High, and Aviation grades.",
+		"The Diesel Generator accepts combustibles with Medium, High, and Aviation grades.",
 		"",
 		"Each one has a unique efficiency",
 		"- Medium, 50%, ",
@@ -11,7 +11,8 @@
 		"",
 		"It will consume 1mB / per tick, or 20mB / per second, this is constant and does not depend on the fuel.",
 		"",
-		"It has a power cap of 50kHE and can store 16000mB (buckets) of fuel."
+		"It has a power cap of 50kHE.",
+		"Can store 16000mB (buckets) of fuel."
 	],
 	tasks: [{
 		uid: "caf34101",
