@@ -1,6 +1,10 @@
 {
+	title: "Machines",
+	icon: "hbm:machine_autocrafter",
 	x: -6.5d,
 	y: -3.5d,
+	shape: "rsquare",
+	size: 2.0d,
 	tasks: [{
 		uid: "a115feae",
 		type: "checkmark"
