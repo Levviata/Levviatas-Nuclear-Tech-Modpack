@@ -1,4 +1,5 @@
 {
+	icon: "hbm:machine_waste_drum",
 	x: 7.5d,
 	y: 2.5d,
 	shape: "square",

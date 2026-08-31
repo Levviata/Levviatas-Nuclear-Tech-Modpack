@@ -1,4 +1,10 @@
 {
+	icon: {
+		id: "hbm:pellet_rtg",
+		tag: {
+			PELLET_DEPLETION: 1536504000L
+		}
+	},
 	x: 2.5d,
 	y: 2.5d,
 	shape: "square",

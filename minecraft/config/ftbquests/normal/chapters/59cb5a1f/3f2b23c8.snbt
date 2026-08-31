@@ -1,4 +1,5 @@
 {
+	icon: "hbm:fluid_icon 1 2",
 	x: -1.0d,
 	y: 2.5d,
 	shape: "square",
