@@ -7,8 +7,9 @@
 	text: [
 		"Missiles are huge propelled metal cilinders with explosives.",
 		"",
-		"In the mod there are over 40 premade missiles.",
-		"There are also custom missiles with over 4.187.106 custom configurations!"
+		"There are a total 40 premade missiles. ",
+		"",
+		"Customizable missiles are available too."
 	],
 	size: 2.25d,
 	tasks: [{
