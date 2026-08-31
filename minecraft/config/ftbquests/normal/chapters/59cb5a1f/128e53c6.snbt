@@ -1,6 +1,11 @@
 {
 	x: -1.0d,
 	y: 4.0d,
+	text: [
+		"The Stirling Engine converts TUs (heat) received from below into power. To supply with heat place any Heat box below.",
+		"",
+		"It can take up to 300 TU / per tick before overheating, producing 150HE / per tick."
+	],
 	tasks: [{
 		uid: "1c016080",
 		type: "item",
