@@ -1,3 +1,58 @@
+version 2.1.0
+
+### Quests
+Added quests for
+- !!All batteries and capacitors, machines, and generators
+
+Changed size for Air Intake
+Remove dependencies for Grenade and Weapons main information quests
+Removed icons for Ores, Ingots, and Missile chapters
+
+### Quest Descriptions
+Added descriptions to
+- RoR torches and panels
+
+Concise descriptions for 
+- Mine (information)
+- Gas Mask (information)
+- Hazards (information)
+
+Extend descriptions for
+- Compressor
+- Pneumatic Pipe
+- Annihilator
+- Steam-Powered Pump
+- Battery Socket
+
+Fixed descriptions for 
+- Chemical Plant
+- Hydrotreater
+
+Reworked Wood-Burning Generator description
+Fixed wording for Machine Upgrade main information quest
+Fix Missiles main information description 
+Trimmed Silencer description
+Fixed titles for all ingots in Weapons chapter
+
+### Quest Rewards
+Nerfed rewards for
+- Obsidian Cladding -> obsidian cladding to 6 obsidian
+- Steel Insert -> x3 steel block to x1 steel block
+
+Fix rewards for
+- Decorated Cobalt -> x8 meteorite ingot to x4 meteorite and cobalt ingots
+- Brick Furnace -> x16 clay ball to x32 sand and clay balls
+- Iron Furnace -> x3 iron ingots and Fuel reward table to x16 iron and copper ore with Fuel reward table
+
+Removed Attachable Gas Mask accessory from Advanced Makeshift and Makeshift filters and moved it to Equipment modification tables
+
+### Recipes
+Replaced recipe for
+- Diode -> middle row with Aluminium ingot to Red copper ingot
+
+### General
+Reduced Steam-Powered Pump required ground depth to 3 blocks because it's valid ground detection pisses me off
+
 version 2.0.0
 Updated Nuclear Tech: Community Edition to its latest release (2.6.0.0), equivalent to 1.0.27_X5771
 
