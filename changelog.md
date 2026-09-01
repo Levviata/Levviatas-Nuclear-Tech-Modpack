@@ -53,6 +53,7 @@ Replaced recipe for
 
 ### General
 Reduced Steam-Powered Pump required ground depth to 3 blocks because it's valid ground detection pisses me off
+Added Pyrophoric effect to Infernal Coal and Red Phosphorous powder
 
 version 2.0.0
 Updated Nuclear Tech: Community Edition to its latest release (2.6.0.0), equivalent to 1.0.27_X5771
