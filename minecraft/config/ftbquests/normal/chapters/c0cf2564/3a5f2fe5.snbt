@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: -4.0d,
+	text: [
+		"The Safe Barrel can hold 12000mB (buckets).",
+		"",
+		"It cannot store ",
+		"- Hot",
+		"- Corrosive",
+		"- Or Antimatter fluids"
+	],
+	tasks: [{
+		uid: "33c2cc83",
+		type: "item",
+		items: [{
+			item: "hbm:barrel_plastic"
+		}]
+	}]
+}

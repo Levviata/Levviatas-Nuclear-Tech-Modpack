@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "2861d00c",
+		type: "item",
+		items: [{
+			item: "hbm:machine_centrifuge"
+		}]
+	}]
+}

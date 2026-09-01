@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "5b49e375",
+		type: "item",
+		items: [{
+			item: "hbm:machine_solidifier"
+		}]
+	}]
+}

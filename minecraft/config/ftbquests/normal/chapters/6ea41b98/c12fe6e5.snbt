@@ -1,0 +1,11 @@
+{
+	x: -6.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "61d833ec",
+		type: "item",
+		items: [{
+			item: "hbm:machine_microwave"
+		}]
+	}]
+}

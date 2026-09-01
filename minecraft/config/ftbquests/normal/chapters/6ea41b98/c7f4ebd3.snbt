@@ -1,0 +1,18 @@
+{
+	x: -8.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "3c6c083a",
+		type: "item",
+		items: [{
+			item: "hbm:machine_compressor_compact"
+		}]
+	},
+	{
+		uid: "22b3417d",
+		type: "item",
+		items: [{
+			item: "hbm:machine_compressor"
+		}]
+	}]
+}

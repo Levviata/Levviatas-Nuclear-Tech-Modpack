@@ -1,0 +1,11 @@
+{
+	x: -9.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "ffe68e54",
+		type: "item",
+		items: [{
+			item: "hbm:machine_arc_welder"
+		}]
+	}]
+}

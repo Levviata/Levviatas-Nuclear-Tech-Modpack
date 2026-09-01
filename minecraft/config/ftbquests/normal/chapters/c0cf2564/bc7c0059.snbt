@@ -1,0 +1,21 @@
+{
+	x: 0.5d,
+	y: -4.0d,
+	text: [
+		"The Technetium Steel Barrel can hold 24000mB.",
+		"",
+		"It can store",
+		"- Hot ",
+		"- And Highly Corrosive fluids.",
+		"",
+		"But it can't store",
+		"- Antimatter"
+	],
+	tasks: [{
+		uid: "26a7f52a",
+		type: "item",
+		items: [{
+			item: "hbm:barrel_tcalloy"
+		}]
+	}]
+}

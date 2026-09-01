@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	shape: "square",
+	size: 1.25d,
+	tasks: [{
+		uid: "5e7e6ee8",
+		type: "checkmark",
+		title: "Storage",
+		icon: "minecraft:chest"
+	}]
+}

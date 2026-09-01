@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: 11.5d,
+	tasks: [{
+		uid: "2420b64f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_silex"
+		}]
+	}]
+}

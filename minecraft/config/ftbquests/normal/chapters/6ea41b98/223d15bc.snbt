@@ -1,0 +1,11 @@
+{
+	x: -12.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "0569a68f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_rockmill"
+		}]
+	}]
+}

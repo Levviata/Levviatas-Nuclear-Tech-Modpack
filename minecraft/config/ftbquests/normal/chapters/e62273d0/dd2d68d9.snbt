@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "856c46ad",
+		type: "item",
+		items: [{
+			id: "hbm:battery_pack",
+			Damage: 10s,
+			tag: {
+				charge: 1500000000L
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

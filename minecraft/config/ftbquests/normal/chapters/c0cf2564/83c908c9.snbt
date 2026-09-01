@@ -1,0 +1,22 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	text: [
+		"The Steel Barrel can hold 16000mB of fluid.",
+		"",
+		"It can store ",
+		"- Hot",
+		"- and Corrosive fluids",
+		"",
+		"But it can't store",
+		"- Highly Corrosive",
+		"- Or Antimatter fluids"
+	],
+	tasks: [{
+		uid: "c59d6722",
+		type: "item",
+		items: [{
+			item: "hbm:barrel_steel"
+		}]
+	}]
+}

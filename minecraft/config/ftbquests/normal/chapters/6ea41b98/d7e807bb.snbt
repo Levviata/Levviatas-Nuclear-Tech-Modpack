@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "04b053d0",
+		type: "item",
+		items: [{
+			item: "hbm:machine_satlink"
+		}]
+	}]
+}

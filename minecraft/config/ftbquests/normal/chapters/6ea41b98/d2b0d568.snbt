@@ -1,0 +1,11 @@
+{
+	x: -9.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "65a69e9d",
+		type: "item",
+		items: [{
+			item: "hbm:machine_condenser"
+		}]
+	}]
+}

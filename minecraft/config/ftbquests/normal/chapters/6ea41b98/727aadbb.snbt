@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "da602567",
+		type: "item",
+		items: [{
+			item: "hbm:machine_tape_drive"
+		}]
+	}]
+}

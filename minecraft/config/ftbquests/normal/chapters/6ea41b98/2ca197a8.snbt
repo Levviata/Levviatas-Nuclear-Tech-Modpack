@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "0d1f4663",
+		type: "item",
+		items: [{
+			item: "hbm:machine_catalytic_reformer"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "af6d3d26",
+		type: "item",
+		items: [{
+			item: "hbm:machine_deuterium_extractor"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -9.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "5f09e22f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_soldering_station"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "3e09793a",
+		type: "item",
+		items: [{
+			item: "hbm:machine_supercomputer"
+		}]
+	}]
+}

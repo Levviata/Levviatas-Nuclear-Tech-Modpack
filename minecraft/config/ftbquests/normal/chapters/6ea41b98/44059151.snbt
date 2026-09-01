@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "6a86e4e6",
+		type: "item",
+		items: [{
+			item: "hbm:machine_radar"
+		}]
+	}]
+}

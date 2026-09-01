@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "d0754abd",
+		type: "item",
+		items: [{
+			item: "hbm:machine_hephaestus"
+		}]
+	}]
+}

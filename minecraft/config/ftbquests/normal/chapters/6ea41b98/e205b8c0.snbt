@@ -1,0 +1,11 @@
+{
+	x: -10.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "fadc96cd",
+		type: "item",
+		items: [{
+			item: "hbm:machine_excavator"
+		}]
+	}]
+}

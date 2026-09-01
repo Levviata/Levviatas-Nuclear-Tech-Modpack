@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 8.0d,
+	shape: "gear",
+	size: 1.75d,
+	tasks: [{
+		uid: "80ba3b43",
+		type: "item",
+		items: [{
+			item: "hbm:machine_battery_redd"
+		}]
+	}]
+}

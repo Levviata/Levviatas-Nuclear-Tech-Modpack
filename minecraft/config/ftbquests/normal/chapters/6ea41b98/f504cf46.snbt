@@ -1,0 +1,11 @@
+{
+	x: -8.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "0ef83503",
+		type: "item",
+		items: [{
+			item: "hbm:machine_funnel"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "4f51c65f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_liquefactor"
+		}]
+	}]
+}

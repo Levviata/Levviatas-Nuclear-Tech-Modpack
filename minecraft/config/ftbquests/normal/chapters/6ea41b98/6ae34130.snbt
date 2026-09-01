@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "a2e72db4",
+		type: "item",
+		items: [{
+			item: "hbm:machine_exposure_chamber"
+		}]
+	}]
+}

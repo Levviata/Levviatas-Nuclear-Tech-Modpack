@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "07b9c5b5",
+		type: "item",
+		items: [{
+			item: "hbm:machine_industrial_boiler"
+		}]
+	}]
+}

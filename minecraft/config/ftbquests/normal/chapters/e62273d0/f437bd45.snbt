@@ -1,0 +1,10 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	shape: "square",
+	tasks: [{
+		uid: "fab7c38b",
+		type: "checkmark",
+		title: "Capacitors"
+	}]
+}

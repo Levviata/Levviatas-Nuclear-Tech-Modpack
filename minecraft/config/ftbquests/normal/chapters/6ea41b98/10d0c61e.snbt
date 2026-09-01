@@ -1,0 +1,11 @@
+{
+	x: -11.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "fc8eea1e",
+		type: "item",
+		items: [{
+			item: "hbm:machine_storage_drum"
+		}]
+	}]
+}

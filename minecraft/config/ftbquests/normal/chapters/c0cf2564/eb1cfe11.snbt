@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: -5.5d,
+	size: 1.25d,
+	tasks: [{
+		uid: "646f616d",
+		type: "item",
+		items: [{
+			item: "hbm:machine_bigasstank"
+		}]
+	}]
+}

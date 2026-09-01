@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 10.0d,
+	tasks: [{
+		uid: "9456e5a5",
+		type: "item",
+		items: [{
+			item: "hbm:machine_precass"
+		}]
+	}]
+}

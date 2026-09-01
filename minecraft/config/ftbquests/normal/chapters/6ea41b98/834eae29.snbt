@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "baa3ae7f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_cyclotron"
+		}]
+	}]
+}

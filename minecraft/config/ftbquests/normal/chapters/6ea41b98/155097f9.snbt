@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 11.5d,
+	tasks: [{
+		uid: "cbe9a93e",
+		type: "item",
+		items: [{
+			item: "hbm:machine_fel"
+		}]
+	}]
+}

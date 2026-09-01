@@ -1,0 +1,31 @@
+{
+	icon: "hbm:machine_battery_potato",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		"Batteries are machines that can store and output power.",
+		"",
+		"All batteries and capacitor must be fit in a Battery Socket to operate."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "09879196",
+		type: "checkmark",
+		title: "Batteries",
+		icon: {
+			id: "hbm:battery_pack",
+			Damage: 5s,
+			tag: {
+				charge: 72000000000L
+			}
+		}
+	},
+	{
+		uid: "f32d434f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_battery_socket"
+		}]
+	}]
+}

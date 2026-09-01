@@ -1,0 +1,11 @@
+{
+	x: -8.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "20d093b3",
+		type: "item",
+		items: [{
+			item: "hbm:machine_waste_drum"
+		}]
+	}]
+}

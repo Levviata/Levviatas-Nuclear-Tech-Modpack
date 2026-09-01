@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "d2457e35",
+		type: "item",
+		items: [{
+			item: "hbm:barrel_antimatter"
+		}]
+	}]
+}

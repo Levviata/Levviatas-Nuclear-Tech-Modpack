@@ -1,0 +1,11 @@
+{
+	x: -11.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "b288cacf",
+		type: "item",
+		items: [{
+			item: "hbm:machine_furnace_brick_off"
+		}]
+	}]
+}

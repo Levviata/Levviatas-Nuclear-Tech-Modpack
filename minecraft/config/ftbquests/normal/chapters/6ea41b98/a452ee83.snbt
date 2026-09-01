@@ -1,0 +1,11 @@
+{
+	x: -9.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "07312d85",
+		type: "item",
+		items: [{
+			item: "hbm:machine_ore_slopper"
+		}]
+	}]
+}

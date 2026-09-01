@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: 9.5d,
+	tasks: [{
+		uid: "cf7de7ab",
+		type: "item",
+		items: [{
+			item: "hbm:machine_tower_small"
+		}]
+	}]
+}

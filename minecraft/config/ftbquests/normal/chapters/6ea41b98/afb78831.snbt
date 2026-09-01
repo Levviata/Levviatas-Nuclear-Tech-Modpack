@@ -1,0 +1,11 @@
+{
+	x: -6.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "4e024c53",
+		type: "item",
+		items: [{
+			item: "hbm:machine_rotary_furnace"
+		}]
+	}]
+}

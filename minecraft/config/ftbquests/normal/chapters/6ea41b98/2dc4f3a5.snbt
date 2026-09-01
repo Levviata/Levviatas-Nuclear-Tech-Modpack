@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "90acff29",
+		type: "item",
+		items: [{
+			item: "hbm:machine_catalytic_cracker"
+		}]
+	}]
+}

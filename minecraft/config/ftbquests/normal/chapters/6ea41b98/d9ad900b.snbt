@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "b628f063",
+		type: "item",
+		items: [{
+			item: "hbm:machine_fraction_tower"
+		}]
+	}]
+}

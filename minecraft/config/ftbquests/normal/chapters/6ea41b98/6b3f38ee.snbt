@@ -1,0 +1,11 @@
+{
+	x: -10.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "808d0dfc",
+		type: "item",
+		items: [{
+			item: "hbm:machine_mixer"
+		}]
+	}]
+}

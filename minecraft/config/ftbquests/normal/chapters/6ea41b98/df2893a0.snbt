@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 9.5d,
+	tasks: [{
+		uid: "2061fa0e",
+		type: "item",
+		items: [{
+			item: "hbm:machine_deuterium_tower"
+		}]
+	}]
+}
