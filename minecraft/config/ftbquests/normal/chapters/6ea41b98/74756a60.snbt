@@ -1,6 +1,6 @@
 {
-	x: -7.5d,
-	y: 1.0d,
+	x: -4.5d,
+	y: 0.0d,
 	tasks: [{
 		uid: "afb14783",
 		type: "item",

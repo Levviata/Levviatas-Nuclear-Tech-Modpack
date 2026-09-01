@@ -1,6 +1,6 @@
 {
-	x: -1.0d,
-	y: 5.0d,
+	x: -6.5d,
+	y: 9.5d,
 	tasks: [{
 		uid: "d0da9bb2",
 		type: "checkmark",
