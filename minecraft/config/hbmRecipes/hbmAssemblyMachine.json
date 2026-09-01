@@ -2350,40 +2350,6 @@
       "power": 100
     },
     {
-      "name": "ass.breedingreactor",
-      "inputItem": [
-        ["item","hbm:reactor_core"],
-        ["dict","ingotSteel",12],
-        ["dict","plateLead",16],
-        ["item","hbm:reinforced_glass",4],
-        ["dict","ingotAsbestos",4],
-        ["dict","ingotAnyResistantAlloy",4],
-        ["item","hbm:crt_display"]
-      ],
-      "outputItem": [
-        ["single",["hbm:machine_reactor_breeding"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.researchreactor",
-      "inputItem": [
-        ["dict","ingotSteel",8],
-        ["dict","ingotAnyResistantAlloy",4],
-        ["item","hbm:motor_desh",2],
-        ["dict","ingotBoron",5],
-        ["dict","plateLead",8],
-        ["item","hbm:crt_display",3],
-        ["item","hbm:circuit",4,8]
-      ],
-      "outputItem": [
-        ["single",["hbm:machine_reactor_small_new"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
       "name": "ass.cirnox",
       "inputItem": [
         ["dict","shellSteel",4],

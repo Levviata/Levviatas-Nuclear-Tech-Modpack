@@ -1328,6 +1328,12 @@ removedCount++
 removedCount++
 removedCount++
 
+// bye bye reactors, rods, and plates
+// deprecate to match v 1.0.27_X5771
+crafting.removeByOutput(item('hbm:rod:*'))
+crafting.removeByOutput(item('hbm:rod_dual:*'))
+crafting.removeByOutput(item('hbm:rod_quad:*'))
+
 // remove furnace raw processor recipe
 furnace.removeByOutput(item('refinedstorage:processor:3'))
 furnace.removeByOutput(item('refinedstorage:processor:4'))
