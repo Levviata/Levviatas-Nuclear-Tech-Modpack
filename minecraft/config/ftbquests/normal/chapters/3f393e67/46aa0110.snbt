@@ -4,7 +4,9 @@
 	text: [
 		"The Steam-Powered Pump extracts water from the ground using Steam.",
 		"",
-		"It must be placed on dirt and below it there must be a 3x3 patch of dirt.",
+		"It must be placed on a 3x3 of sand or dirt below Y 70.",
+		"",
+		"It has really shitty detection so valid patches of terrain might not work sometimes, just spam it around if it doesn't work.",
 		"",
 		"Has an Electric variant later on."
 	],
