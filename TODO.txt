@@ -7,19 +7,8 @@ Add bloom to
 - Refined storage machines (mostly grids and the controller)
 
 Add quests for
-- All batteries
 - Foundry Tank
-- Drive Enclosure
 - Rock Mill
 - Rails and Trains
 
 Fix no purex recipe for some chicago pile rods
-
-(must be added with a mod)
-Add pyrophoric effect to
-- Infernal coal
-- Blaze Powder and blaze rod
-- Red phosphorus
-
-Add explosive effect to
-- hbm:thruster_nuclear
