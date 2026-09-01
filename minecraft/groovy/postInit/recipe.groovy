@@ -2,7 +2,7 @@ def recipeCount = 0;
 def replacedCount = 0;
 def removedCount = 0;
 def documented = 0;
-def hbmRecipes = 15;
+def hbmRecipes = 24;
 
 
 crafting.addShapeless(item('hbm:ball_fireclay'), [item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('hbm:ingot_aluminium')])
@@ -1333,6 +1333,9 @@ removedCount++
 crafting.removeByOutput(item('hbm:rod:*'))
 crafting.removeByOutput(item('hbm:rod_dual:*'))
 crafting.removeByOutput(item('hbm:rod_quad:*'))
+removedCount++
+removedCount++
+removedCount++
 
 // remove furnace raw processor recipe
 furnace.removeByOutput(item('refinedstorage:processor:3'))
