@@ -9,7 +9,9 @@
 		"- Batteries are good for storing power but have a bad discharge rate, meaning that they share energy to the power grid much slower.",
 		"- Capacitors are bad for storing power but have a good discharge rate, they share power to the grid much faster.",
 		"",
-		"You should have pairs of 1 battery and 1 capacitor for storing and discharging effieciently or you'll store or discharge too much your power grid."
+		"You should have pairs of 1 battery and 1 capacitor for storing and discharging efficiently or you'll store or discharge too much in power grid.",
+		"",
+		"For more energy storage check out the Batteries chapter!"
 	],
 	dependencies: [
 		"cb1a89bb"
