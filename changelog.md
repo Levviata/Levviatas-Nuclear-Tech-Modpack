@@ -1,4 +1,4 @@
-version 2.1.0
+# version 2.1.0
 Update Nuclear Tech: Community Edition to its latest git action build, fixing the Chicago Pile and a bunch of other issues.
 
 ### Quests
@@ -58,7 +58,7 @@ Reduced Steam-Powered Pump required ground depth to 3 blocks because it's valid 
 Added Pyrophoric effect to Infernal Coal and Red Phosphorous powder
 Added File Director config for Naughtirium as its missing in modrinth.
 
-version 2.0.0
+# version 2.0.0
 Updated Nuclear Tech: Community Edition to its latest release (2.6.0.0), equivalent to 1.0.27_X5771
 
 ### Quests
@@ -251,7 +251,7 @@ Removed fuselage skin in custom missile section
 Removed old satellites quests
 
 
-version 1.2.0
+# version 1.2.0
 
 Add quests for
 - Spinny Light
@@ -453,7 +453,7 @@ Removed advancement task and add choosable accessory reward to End Dragon egg qu
 Nerfed leather gas mask reward
 
 
-version 1.1.0
+# version 1.1.0
 Grouped up chapters
 - Automation
 - Fluids
@@ -583,5 +583,5 @@ Added BloomTech resource pack for Luminized mod
 Add modpack icon to File Director screen
 
 
-version 1.0.0
+# version 1.0.0
 Initial release
