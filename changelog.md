@@ -1,4 +1,5 @@
 version 2.1.0
+Update Nuclear Tech: Community Edition to its latest git action build, fixing the Chicago Pile and a bunch of other issues.
 
 ### Quests
 Added quests for
@@ -44,7 +45,7 @@ Fix rewards for
 - Brick Furnace -> x16 clay ball to x32 sand and clay balls
 - Iron Furnace -> x3 iron ingots and Fuel reward table to x16 iron and copper ore with Fuel reward table
 
-Removed Attachable Gas Mask accessory from Advanced Makeshift and Makeshift filters and moved it to Equipment modification tables
+Removed Attachable Gas Mask accessory from Advanced Makeshift and Makeshift filters and moved it to Equipment modification tables quest
 
 ### Recipes
 Replaced recipe for
