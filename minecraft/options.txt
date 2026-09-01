@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:240
 fboEnable:true
-difficulty:0
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -193,7 +193,7 @@ key_gui.xaero_alternative_list_players:0
 key_gui.xaero_toggle_tracked_players_on_map:0
 key_gui.xaero_toggle_tracked_players_in_world:0
 key_key.entityculling.toggle:-1
-soundCategory_master:0.27152318
+soundCategory_master:0.7284768
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.0
