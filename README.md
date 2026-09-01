@@ -1,9 +1,9 @@
 ## Download 
-https://modrinth.com/modpack/levviatas-nuclear-tech-pack
+CurseForge: www.curseforge.com/minecraft/modpacks/levviatas-nuclear-tech-modpack/
 
-www.curseforge.com/minecraft/modpacks/levviatas-nuclear-tech-modpack/
+Modrinth and GitHub: https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack/releases
 
-Latest releases will always be here.
+Latest releases will always be on GitHub.
 
 # LvNTM (Levviata's Nuclear Tech Modpack)
 
