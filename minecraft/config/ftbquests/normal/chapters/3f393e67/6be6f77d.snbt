@@ -54,6 +54,12 @@
 		uid: "71c208b6",
 		type: "item",
 		item: "hbm:ingot_meteorite",
-		count: 8
+		count: 4
+	},
+	{
+		uid: "cee2d036",
+		type: "item",
+		item: "hbm:ingot_cobalt",
+		count: 4
 	}]
 }
