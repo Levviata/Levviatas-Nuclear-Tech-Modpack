@@ -1,9 +1,9 @@
 ## Download 
-https://modrinth.com/modpack/levviatas-nuclear-tech-pack
+CurseForge: www.curseforge.com/minecraft/modpacks/levviatas-nuclear-tech-modpack/
 
-www.curseforge.com/minecraft/modpacks/levviatas-nuclear-tech-modpack/
+Modrinth and GitHub: https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack/releases
 
-Latest releases will always be here.
+Latest releases will always be on GitHub.
 
 # LvNTM (Levviata's Nuclear Tech Modpack)
 
@@ -34,9 +34,9 @@ For Cleanroom, scroll down to its section.
 8.5/10 Impatient guy
 
 ## Features
-- 21 chapters with over +1430 quests with quality information and pretty patterns 😏
+- 24 chapters with over +1540 quests with quality information and pretty patterns 😏
 
-- 149 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 162 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Taint
   - Lung Diagnostic
@@ -98,7 +98,7 @@ The game looks good, the FPS are good, the quests are good, what other Nuclear T
 
 - The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
 
-- Over +500 hours of development.
+- Over +590 hours of development.
 
 #### It was all planned
 your satisfaction is measured.
