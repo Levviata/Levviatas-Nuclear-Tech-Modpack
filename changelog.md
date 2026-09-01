@@ -51,6 +51,8 @@ Removed Attachable Gas Mask accessory from Advanced Makeshift and Makeshift filt
 Replaced recipe for
 - Diode -> middle row with Aluminium ingot to Red copper ingot
 
+Removed deprecated Research and Breeding reactor including Plate fuels and rods to match v1.0.27_X5771.
+
 ### General
 Reduced Steam-Powered Pump required ground depth to 3 blocks because it's valid ground detection pisses me off
 Added Pyrophoric effect to Infernal Coal and Red Phosphorous powder
