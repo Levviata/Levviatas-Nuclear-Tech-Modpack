@@ -21,14 +21,20 @@
 		}]
 	}],
 	rewards: [{
-		uid: "7c745710",
-		type: "item",
-		item: "minecraft:iron_ingot",
-		count: 3
-	},
-	{
 		uid: "14a5e37f",
 		type: "random",
 		table: 3
+	},
+	{
+		uid: "1bd0f7d9",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 16
+	},
+	{
+		uid: "fc54ed39",
+		type: "item",
+		item: "hbm:ore_copper",
+		count: 16
 	}]
 }
