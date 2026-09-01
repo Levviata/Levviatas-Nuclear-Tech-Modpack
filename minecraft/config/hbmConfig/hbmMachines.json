@@ -130,7 +130,7 @@
   },
   "waterpump": {
     "I:groundHeight": 70,
-    "I:groundDepth": 4,
+    "I:groundDepth": 3,
     "I:steamSpeed": 1000,
     "I:electricSpeed": 10000
   },
