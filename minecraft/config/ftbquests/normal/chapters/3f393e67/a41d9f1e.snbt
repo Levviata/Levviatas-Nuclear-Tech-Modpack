@@ -20,14 +20,20 @@
 		}]
 	}],
 	rewards: [{
-		uid: "03b516ca",
-		type: "item",
-		item: "minecraft:clay_ball",
-		count: 16
-	},
-	{
 		uid: "769fe8ed",
 		type: "random",
 		table: 3
+	},
+	{
+		uid: "757c5b87",
+		type: "item",
+		item: "minecraft:sand",
+		count: 32
+	},
+	{
+		uid: "c3d8f4ab",
+		type: "item",
+		item: "minecraft:clay_ball",
+		count: 32
 	}]
 }
