@@ -4,7 +4,13 @@
 	y: 0.0d,
 	shape: "rsquare",
 	text: [
-		"Batteries are machines that can store and output power.",
+		"Batteries and capacitors are machines that can store and output power.",
+		"",
+		"They differentiate in their charge and discharge rates and total energy storage.",
+		"",
+		"A battery charges fast but it takes x10 times longer to discharge them.",
+		"",
+		"Capacitor charge and discharge even faster but have less total storage.",
 		"",
 		"All batteries and capacitor must be fit in a Battery Socket to operate."
 	],
