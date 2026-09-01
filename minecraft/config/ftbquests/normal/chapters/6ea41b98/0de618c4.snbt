@@ -1,7 +1,10 @@
 {
-	title: "Oil related",
+	title: "Oil refineries",
 	x: -6.5d,
 	y: 5.5d,
+	text: [
+		""
+	],
 	tasks: [{
 		uid: "7291f4d9",
 		type: "checkmark",
