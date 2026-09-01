@@ -1,6 +1,7 @@
 {
-	x: 1.0d,
-	y: -1.5d,
+	title: "Oil related",
+	x: -6.5d,
+	y: 5.5d,
 	tasks: [{
 		uid: "7291f4d9",
 		type: "checkmark",
