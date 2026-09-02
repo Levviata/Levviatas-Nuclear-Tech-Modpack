@@ -2810,67 +2810,6 @@
     },
     {
       "inputs": [
-        ["item","hbm:pile_rod_uranium"]
-      ],
-      "outputs": [
-        ["hbm:billet_uranium",3,1.0],
-        ["hbm:plate_iron",2,1.0]
-      ],
-      "tierLower": 2,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:pile_rod_source"]
-      ],
-      "outputs": [
-        ["hbm:billet_ra226be",3,1.0],
-        ["hbm:plate_iron",2,1.0]
-      ],
-      "tierLower": 2,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:pile_rod_boron"]
-      ],
-      "outputs": [
-        ["hbm:ingot_boron",2,1.0],
-        ["minecraft:stick",2,1.0]
-      ],
-      "tierLower": 2,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:pile_rod_detector"]
-      ],
-      "outputs": [
-        ["hbm:ingot_boron",2,1.0],
-        ["hbm:motor",1.0],
-        ["hbm:circuit",1.0]
-      ],
-      "tierLower": 2,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:pile_rod_lithium"]
-      ],
-      "outputs": [
-        ["hbm:lithium",1.0],
-        ["hbm:cell",1.0]
-      ],
-      "tierLower": 2,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
         ["item","hbm:billet_ra226be",3]
       ],
       "outputs": [
@@ -3106,33 +3045,6 @@
         ["hbm:circuit",1,8,0.5]
       ],
       "tierLower": 4,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:pile_rod_plutonium"]
-      ],
-      "outputs": [
-        ["hbm:billet_pu_mix",2,1.0],
-        ["hbm:billet_uranium",1.0],
-        ["hbm:plate_iron",2,1.0]
-      ],
-      "tierLower": 2,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:pile_rod_pu239"]
-      ],
-      "outputs": [
-        ["hbm:billet_pu239",1.0],
-        ["hbm:billet_pu_mix",1.0],
-        ["hbm:billet_uranium",1.0],
-        ["hbm:plate_iron",2,1.0]
-      ],
-      "tierLower": 2,
       "tierUpper": -1,
       "overlay": "RECYCLING"
     },
