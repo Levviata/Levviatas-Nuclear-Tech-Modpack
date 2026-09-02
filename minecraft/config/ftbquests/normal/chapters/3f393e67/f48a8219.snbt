@@ -14,7 +14,8 @@
 		type: "item",
 		items: [{
 			item: "hbm:crane_splitter"
-		}]
+		}],
+		count: 4L
 	}],
 	rewards: [{
 		uid: "398028b3",

@@ -9,13 +9,20 @@
 		type: "item",
 		items: [{
 			item: "hbm:crane_boxer"
-		}]
+		}],
+		count: 4L
 	},
 	{
 		uid: "6db301b0",
 		type: "item",
 		items: [{
 			item: "hbm:crane_unboxer"
-		}]
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "887307df",
+		type: "xp",
+		xp: 30
 	}]
 }
