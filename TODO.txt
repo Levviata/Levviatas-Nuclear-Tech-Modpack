@@ -7,10 +7,7 @@ Add bloom to
 - Refined storage machines (mostly grids and the controller)
 
 Add quests for
-- Foundry Tank
 - Rock Mill
 - Rails and Trains
-
-Fix no purex recipe for some chicago pile rods
 
 Increment Antimatter barrel total storage from 16B to 32B 
