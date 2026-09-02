@@ -10,5 +10,15 @@
 		items: [{
 			item: "hbm:fluid_icon 1 60"
 		}]
+	},
+	{
+		uid: "27b01de1",
+		type: "fluid",
+		fluid: "heavywater"
+	}],
+	rewards: [{
+		uid: "ae688c13",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 60"
 	}]
 }
