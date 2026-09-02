@@ -12,14 +12,11 @@
 	tasks: [{
 		uid: "deef4600",
 		type: "item",
+		title: "Transport Drone",
 		items: [{
 			item: "hbm:drone"
-		}]
-	},
-	{
-		uid: "c89db8f6",
-		type: "item",
-		items: [{
+		},
+		{
 			item: "hbm:drone 1 1"
 		}]
 	}]

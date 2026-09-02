@@ -12,14 +12,11 @@
 	tasks: [{
 		uid: "831d4727",
 		type: "item",
+		title: "Express Transport Drone",
 		items: [{
 			item: "hbm:drone 1 2"
-		}]
-	},
-	{
-		uid: "1944b55d",
-		type: "item",
-		items: [{
+		},
+		{
 			item: "hbm:drone 1 3"
 		}]
 	}]
