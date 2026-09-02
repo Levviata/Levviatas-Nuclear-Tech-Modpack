@@ -1,11 +1,11 @@
 {
-	x: -5.0d,
-	y: 12.5d,
+	x: 16.0d,
+	y: 3.5d,
 	tasks: [{
-		uid: "bad43dee",
+		uid: "67af75ec",
 		type: "item",
 		items: [{
-			id: "hbm:plate_fuel_u235",
+			id: "hbm:plate_fuel_pu239",
 			tag: {}
 		}],
 		ignore_damage: true,

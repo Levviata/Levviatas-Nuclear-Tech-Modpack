@@ -1,6 +1,6 @@
 {
-	x: -3.5d,
-	y: 9.0d,
+	x: 15.5d,
+	y: -0.5d,
 	shape: "hexagon",
 	text: [
 		"The research reactor is a non-power reactor intended for burning fuel efficiently and acting as a neutron source for Breeding Reactors.",
