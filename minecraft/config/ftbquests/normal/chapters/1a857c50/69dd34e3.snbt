@@ -7,7 +7,9 @@
 		"",
 		"Fortune bonus will yield max 2 gems.",
 		"",
-		"Can be detected by the Neutrino Lens (late-game accessory)."
+		"Can be detected by the Neutrino Lens (late-game accessory).",
+		"",
+		"Later on it can be made from exposing 8 bismuth blocks in an Exposure Chamber."
 	],
 	tasks: [{
 		uid: "791464ac",
