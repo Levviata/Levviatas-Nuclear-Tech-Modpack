@@ -97,7 +97,7 @@ key_key.categories.hbm.toggleMagnet:316
 key_key.categories.hbm.reload:19
 key_key.categories.hbm.dash:42
 key_key.categories.hbm.gunSecondary:-99
-key_key.categories.hbm.gunTertitary:47
+key_key.categories.hbm.gunTertitary:-98
 key_key.categories.hbm.craneMoveUp:200
 key_key.categories.hbm.craneMoveDown:208
 key_key.categories.hbm.craneMoveLeft:203
