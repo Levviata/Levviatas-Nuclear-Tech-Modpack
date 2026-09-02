@@ -1365,8 +1365,6 @@ crafting.shapedBuilder()
         .key('F', ore('gunMechanismSaturnite'))
         .key('G', ore('gripAnyHardPlastic'))
         .register()
-recipeCount++
-
 crafting.shapedBuilder()
         .output(item('hbm:weapon_mod_special:16'))
         .row('DFD')
@@ -1376,8 +1374,6 @@ crafting.shapedBuilder()
         .key('D', item('hbm:undefined'))
         .key('F', ore('gunMechanismSaturnite'))
         .register()
-recipeCount++
-
 crafting.shapedBuilder()
         .output(item('hbm:weapon_mod_special:17'))
         .row('DFD')
@@ -1386,6 +1382,23 @@ crafting.shapedBuilder()
         .key('B', ore('ingotGold'))
         .key('D', item('hbm:undefined'))
         .key('F', ore('gunMechanismSaturnite'))
+        .register()
+recipeCount++
+recipeCount++
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:gun_coilgun:'))
+        .row(' AB')
+        .row('CDD')
+        .row('FGH')
+        .key('A', ore('receiverHeavyAnyBismoidBronze'))
+        .key('B', item('hbm:circuit:11'))
+        .key('C', ore('shellCopper'))
+        .key('D', item('hbm:coil_copper_torus'))
+        .key('F', ore('gripAnyHardPlastic'))
+        .key('G', ore('gunMechanismSaturnite'))
+        .key('H', ore('stockAnyHardPlastic'))
         .register()
 recipeCount++
 
