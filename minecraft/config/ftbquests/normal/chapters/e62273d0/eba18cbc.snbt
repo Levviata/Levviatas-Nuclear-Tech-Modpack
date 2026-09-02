@@ -1,0 +1,11 @@
+{
+	x: 6.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "8b700228",
+		type: "item",
+		items: [{
+			item: "hbm:capacitor_copper"
+		}]
+	}]
+}

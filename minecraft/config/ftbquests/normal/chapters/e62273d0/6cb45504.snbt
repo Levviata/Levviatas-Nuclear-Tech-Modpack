@@ -1,0 +1,10 @@
+{
+	x: 5.0d,
+	y: 3.5d,
+	shape: "square",
+	tasks: [{
+		uid: "6fcb5705",
+		type: "checkmark",
+		title: "Electricity Pylon (multiblock)"
+	}]
+}
