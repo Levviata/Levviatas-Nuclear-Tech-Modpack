@@ -4,7 +4,7 @@
 	shape: "octagon",
 	description: "The Automatic Calculator",
 	text: [
-		"The AUTOCAL is a machine that can process scripts to perform basic actions like math or RoR sending signals.",
+		"The AUTOCAL is a machine that can process scripts to perform basic actions like math or sending RoR signals.",
 		"",
 		"The way to program the machine is with its own language: MS-ES1 ",
 		"",

@@ -9,7 +9,7 @@
 		"",
 		"Can be detected by the Neutrino Lens (late-game accessory).",
 		"",
-		"Later on it can be made from exposing 8 bismuth blocks in an Exposure Chamber."
+		"Later on it can be made from exposing bismuth blocks in an Exposure Chamber."
 	],
 	tasks: [{
 		uid: "791464ac",
