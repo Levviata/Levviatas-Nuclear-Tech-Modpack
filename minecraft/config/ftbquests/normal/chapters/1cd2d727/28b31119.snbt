@@ -21,6 +21,12 @@
 		type: "item",
 		items: [{
 			item: "hbm:crane_router"
-		}]
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "53ed1b66",
+		type: "xp",
+		xp: 30
 	}]
 }
