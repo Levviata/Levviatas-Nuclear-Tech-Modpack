@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "eff135e2",
+		type: "item",
+		items: [{
+			item: "hbm:machine_drain"
+		}]
+	}]
+}

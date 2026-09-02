@@ -1,0 +1,11 @@
+{
+	x: 6.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "618c95ed",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_valve"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "baa56c73",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_duct_gauge"
+		}]
+	}]
+}

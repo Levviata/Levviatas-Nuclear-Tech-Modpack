@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: -0.5d,
+	or_tasks: true,
+	tasks: [{
+		uid: "b02ab62a",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_duct_mk2 1 1"
+		}]
+	},
+	{
+		uid: "2dbf2a87",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_duct_paintable"
+		}]
+	}]
+}

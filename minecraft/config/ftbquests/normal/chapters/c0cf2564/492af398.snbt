@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "1ffc1f67",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_pump"
+		}]
+	}]
+}

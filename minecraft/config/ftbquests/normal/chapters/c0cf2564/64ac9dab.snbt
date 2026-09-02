@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: -0.5d,
+	dependencies: [
+		"44074d5c"
+	],
+	tasks: [{
+		uid: "295fc39b",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_counter_valve"
+		}]
+	}]
+}
