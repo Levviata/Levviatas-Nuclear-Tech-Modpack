@@ -1388,7 +1388,7 @@ recipeCount++
 recipeCount++
 
 crafting.shapedBuilder()
-        .output(item('hbm:gun_coilgun:'))
+        .output(item('hbm:gun_coilgun'))
         .row(' AB')
         .row('CDD')
         .row('FGH')
@@ -1402,11 +1402,39 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
+crafting.shapedBuilder()
+        .output(item('hbm:gun_autoshotgun_heretic'))
+        .row('ABC')
+        .row('DFG')
+        .row('HHJ')
+        .key('A', item('hbm:gun_minigun_dual'))
+        .key('B', item('hbm:ducc'))
+        .key('C', item('hbm:wild_p'))
+        .key('D', ore('barrelHeavySaturnite'))
+        .key('F', ore('receiverHeavySaturnite'))
+        .key('G', ore('gunMechanismSaturnite'))
+        .key('H', ore('gripAnyHardPlastic'))
+        .key('J', item('hbm:ammo_bag'))
+        .register()
+recipeCount++
+
 crafting.addShapeless(item('hbm:balefire'), [item('hbm:undefined')])
 crafting.addShapeless(item('hbm:fire_digamma'), [item('hbm:undefined'), item('hbm:undefined')])
 crafting.addShapeless(item('hbm:digamma_matter'), [item('hbm:undefined'), item('hbm:undefined'), item('hbm:undefined')])
 recipeCount++
 recipeCount++
+recipeCount++
+
+crafting.addShapeless(item('hbm:wild_p'), [item('hbm:flame_pony'), item('hbm:canteen_vodka'), item('hbm:powder_cadmium'), item('minecraft:potion').withNbt(['Potion': 'minecraft:strong_harming'])])
+recipeCount++
+
+// gas mask and big man johnson
+crafting.addShapeless(item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_mask_man']]), [ore('egg'), item('hbm:undefined'), item('hbm:undefined'),item('hbm:undefined')])
+crafting.addShapeless(item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_glyphid_nuclear']]), [item('hbm:egg_glyphid'), item('hbm:undefined'), item('hbm:undefined'),item('hbm:undefined')])
+recipeCount++
+recipeCount++
+
+crafting.addShapeless(item('hbm:spawn_duck'), [ore('egg'), ore('ingotGold')])
 recipeCount++
 
 crafting.replaceShapeless(item('hbm:missile_taint'), [item('hbm:missile_assembly'), ore('container1000watz'), item('hbm:powder_spark_mix'), item('hbm:powder_magic')])
