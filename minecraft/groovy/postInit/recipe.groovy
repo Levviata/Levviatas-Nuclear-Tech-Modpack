@@ -1447,7 +1447,17 @@ recipeCount++
 recipeCount++
 recipeCount++
 
+// ace and queen of spades cards
+crafting.addShapeless(item('hbm:card_aos'), [ore('paper'), ore('dyeBlack'), item('hbm:coin_maskman')])
+crafting.addShapeless(item('hbm:card_qos'), [ore('paper'), ore('dyeBlack'), ore('dyeRed'),item('hbm:coin_worm')])
+recipeCount++
+recipeCount++
+
+crafting.addShapeless(item('hbm:fabsols_vodka'), [item('hbm:canteen_vodka'), item('hbm:powder_euphemium'), item('hbm:syringe_awesome')])
 crafting.addShapeless(item('hbm:wild_p'), [item('hbm:flame_pony'), item('hbm:canteen_vodka'), item('hbm:powder_cadmium'), item('minecraft:potion').withNbt(['Potion': 'minecraft:strong_harming'])])
+crafting.addShapeless(item('hbm:scrumpy'), [item('hbm:canteen_vodka'), item('hbm:powder_lead'), item('minecraft:potion').withNbt(['Potion': 'minecraft:strong_healing'])])
+recipeCount++
+recipeCount++
 recipeCount++
 
 // gas mask and big man johnson
