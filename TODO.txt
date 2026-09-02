@@ -12,3 +12,5 @@ Add quests for
 - Rails and Trains
 
 Fix no purex recipe for some chicago pile rods
+
+Increment Antimatter barrel total storage from 16B to 32B 
