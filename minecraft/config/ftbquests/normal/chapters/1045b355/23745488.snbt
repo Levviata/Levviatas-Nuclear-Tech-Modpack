@@ -4,6 +4,7 @@
 	text: [
 		""
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "75287ce8",
 		type: "item",
