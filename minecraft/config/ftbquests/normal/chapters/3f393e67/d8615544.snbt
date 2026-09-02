@@ -1,6 +1,7 @@
 {
 	x: -4.5d,
 	y: 29.5d,
+	description: "OR task",
 	text: [
 		"The Compressor can pressurize fluids, adding PUs. ",
 		"",
@@ -23,5 +24,10 @@
 		items: [{
 			item: "hbm:machine_compressor_compact"
 		}]
+	}],
+	rewards: [{
+		uid: "a4f89548",
+		type: "xp",
+		xp: 100
 	}]
 }
