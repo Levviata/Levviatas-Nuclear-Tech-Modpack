@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:crane_grabber"
 		}]
+	}],
+	rewards: [{
+		uid: "5d6a34a9",
+		type: "xp",
+		xp: 30
 	}]
 }

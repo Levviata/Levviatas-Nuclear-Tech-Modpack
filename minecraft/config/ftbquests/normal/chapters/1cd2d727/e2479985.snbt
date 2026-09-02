@@ -11,5 +11,10 @@
 		items: [{
 			item: "hbm:machine_conveyor_press"
 		}]
+	}],
+	rewards: [{
+		uid: "c719ac40",
+		type: "xp",
+		xp: 100
 	}]
 }
