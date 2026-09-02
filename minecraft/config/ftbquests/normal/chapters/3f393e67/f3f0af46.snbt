@@ -27,5 +27,22 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "05a21f04",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "738186d7",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 16
+	},
+	{
+		uid: "fda44607",
+		type: "item",
+		item: "hbm:ball_resin",
+		count: 16
 	}]
 }

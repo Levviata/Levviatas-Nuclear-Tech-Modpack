@@ -21,6 +21,12 @@
 	rewards: [{
 		uid: "d7ecb7ba",
 		type: "xp",
-		xp: 20
+		xp: 50
+	},
+	{
+		uid: "a4ef24a7",
+		type: "item",
+		item: "hbm:plate_kevlar",
+		count: 4
 	}]
 }

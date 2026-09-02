@@ -22,6 +22,11 @@
 	rewards: [{
 		uid: "7f8dc1fb",
 		type: "xp",
-		xp: 20
+		xp: 50
+	},
+	{
+		uid: "32d44db7",
+		type: "item",
+		item: "hbm:insert_sapi"
 	}]
 }

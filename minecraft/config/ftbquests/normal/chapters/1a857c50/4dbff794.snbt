@@ -28,6 +28,12 @@
 	rewards: [{
 		uid: "ef470b72",
 		type: "xp",
-		xp: 20
+		xp: 100
+	},
+	{
+		uid: "91eb8750",
+		type: "item",
+		item: "hbm:ingot_ferrouranium",
+		count: 10
 	}]
 }

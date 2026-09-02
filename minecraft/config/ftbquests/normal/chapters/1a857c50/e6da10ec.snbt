@@ -23,5 +23,10 @@
 		uid: "7db81d40",
 		type: "xp",
 		xp: 50
+	},
+	{
+		uid: "19823f21",
+		type: "item",
+		item: "hbm:insert_esapi"
 	}]
 }

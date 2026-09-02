@@ -20,5 +20,10 @@
 		uid: "b55a4e7a",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "df9b8c0d",
+		type: "item",
+		item: "hbm:ammo_container"
 	}]
 }

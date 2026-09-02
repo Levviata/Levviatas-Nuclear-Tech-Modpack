@@ -15,21 +15,6 @@
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "b6a2d8b2",
-		type: "random",
-		table: 5
-	},
-	{
-		uid: "6ebfa715",
-		type: "random",
-		table: 4
-	},
-	{
-		uid: "8a6eb8b3",
-		type: "random",
-		table: 1
-	},
-	{
 		uid: "f515579d",
 		type: "random",
 		table: 2
@@ -48,5 +33,10 @@
 		uid: "7512b94d",
 		type: "item",
 		item: "hbm:upgrade_overdrive_1"
+	},
+	{
+		uid: "40d6d729",
+		type: "xp",
+		xp: 100
 	}]
 }

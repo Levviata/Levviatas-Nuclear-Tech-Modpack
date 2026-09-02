@@ -63,6 +63,11 @@
 	rewards: [{
 		uid: "b5b4cb2f",
 		type: "xp",
-		xp: 20
+		xp: 100
+	},
+	{
+		uid: "e8ee9d8d",
+		type: "item",
+		item: "hbm:hev_battery"
 	}]
 }

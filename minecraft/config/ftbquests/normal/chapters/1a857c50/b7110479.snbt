@@ -16,5 +16,17 @@
 		items: [{
 			item: "hbm:machine_tower_large"
 		}]
+	}],
+	rewards: [{
+		uid: "a7fced24",
+		type: "item",
+		item: "hbm:concrete_smooth",
+		count: 64
+	},
+	{
+		uid: "2d7d33b5",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 32
 	}]
 }

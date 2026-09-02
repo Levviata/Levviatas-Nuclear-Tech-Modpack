@@ -20,6 +20,18 @@
 	rewards: [{
 		uid: "a7be03ed",
 		type: "xp",
-		xp: 20
+		xp: 100
+	},
+	{
+		uid: "504adb52",
+		type: "item",
+		item: "hbm:brick_concrete",
+		count: 32
+	},
+	{
+		uid: "57b86919",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 32
 	}]
 }

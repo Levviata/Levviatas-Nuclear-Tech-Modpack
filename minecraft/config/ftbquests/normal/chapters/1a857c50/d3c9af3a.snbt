@@ -17,5 +17,25 @@
 		uid: "a09602f1",
 		type: "xp",
 		xp: 150
+	},
+	{
+		uid: "ff56d48f",
+		type: "item",
+		item: "hbm:upgrade_overdrive_2"
+	},
+	{
+		uid: "4916619d",
+		type: "item",
+		item: "hbm:upgrade_speed_3"
+	},
+	{
+		uid: "0d85ec6e",
+		type: "item",
+		item: "hbm:upgrade_effect_3"
+	},
+	{
+		uid: "91af63eb",
+		type: "random",
+		table: 2
 	}]
 }

@@ -22,5 +22,15 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7376af6f",
+		type: "item",
+		item: "hbm:block_u238"
+	},
+	{
+		uid: "d05415be",
+		type: "xp",
+		xp: 40
 	}]
 }

@@ -21,5 +21,11 @@
 		uid: "4d1272d3",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "775b3da0",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 16
 	}]
 }
