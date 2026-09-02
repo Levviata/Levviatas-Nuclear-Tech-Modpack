@@ -1541,7 +1541,7 @@ recipeCount++
 recipeCount++
 recipeCount++
 
-// gas mask and big man johnson
+// mask man and big man johnson
 crafting.addShapeless(item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_mask_man']]), [ore('egg'), item('hbm:undefined'), item('hbm:undefined'),item('hbm:undefined')])
 crafting.addShapeless(item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_glyphid_nuclear']]), [item('hbm:egg_glyphid'), item('hbm:undefined'), item('hbm:undefined'),item('hbm:undefined')])
 recipeCount++

@@ -3,6 +3,7 @@ import net.minecraftforge.event.entity.player.ItemTooltipEvent
 def deprecatedNotice = '(LEGACY)'
 // More than once I see an item that has no use that has been deprecated without the "(LEGACY)".
 // here comes the LevviataInc fix.
+// could modify their lang files but i dont care
 event_manager.listen { ItemTooltipEvent event ->
     if (event.getItemStack() in item('hbm:hadron_coil_mese')) {
         event.getToolTip() << deprecatedNotice
@@ -50,7 +51,7 @@ event_manager.listen { ItemTooltipEvent event ->
     if (event.getItemStack() in item('hbm:machine_drain')) { // i keep searching it as venting pipe so im adding it.
         event.getToolTip() << 'Venting Pipe'
     }
-    if (event.getItemStack() in item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_elder_one']])) { // i keep searching it as venting pipe so im adding it.
+    if (event.getItemStack() in item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_elder_one']])) {
         event.getToolTip() << '§c Will not die no matter what. Genuinely.'
         event.getToolTip() << 'But why would you try to kill Quackos?'
     }
