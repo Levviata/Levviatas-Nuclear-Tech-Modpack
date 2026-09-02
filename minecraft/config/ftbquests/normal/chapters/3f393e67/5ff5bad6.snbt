@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 24.0d,
+	dependencies: [
+		"82d71470"
+	],
+	tasks: [{
+		uid: "2f5d97f3",
+		type: "item",
+		items: [{
+			item: "hbm:foundry_tank"
+		}]
+	}]
+}

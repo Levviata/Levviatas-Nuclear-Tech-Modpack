@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: -11.5d,
+	dependencies: [
+		"16c32ffa"
+	],
+	tasks: [{
+		uid: "f2c05ae5",
+		type: "item",
+		items: [{
+			item: "hbm:turret_mob_filter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "702b9327",
+		type: "xp",
+		xp: 20
+	}]
+}
