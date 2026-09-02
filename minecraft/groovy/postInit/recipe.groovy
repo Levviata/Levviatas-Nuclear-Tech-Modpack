@@ -1489,6 +1489,14 @@ recipeCount++
 recipeCount++
 recipeCount++
 
+// chicago pile
+// old rods bye
+crafting.removeByOutput(item('hbm:pile_rod_uranium'))
+crafting.removeByOutput(item('hbm:pile_rod_source'))
+crafting.removeByOutput(item('hbm:pile_rod_boron'))
+crafting.removeByOutput(item('hbm:pile_rod_lithium'))
+crafting.removeByOutput(item('hbm:pile_rod_detector'))
+
 // bye useless ingot
 crafting.removeByOutput(item('refinedstorage:quartz_enriched_iron'))
 crafting.removeByOutput(item('refinedstorage:quartz_enriched_iron_block'))
