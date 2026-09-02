@@ -1418,6 +1418,28 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
+// im not gonna even count this shit
+// ncrpa to rpa and rpa to ncrpa
+// because ncrpa armor is cool but its too close to rpa armor to justify making a recipe for it
+crafting.addShapeless(item('hbm:ncrpa_helmet'), [item('hbm:rpa_helmet'), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:ncrpa_helmet'), [item('hbm:rpa_helmet'), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:ncrpa_plate'), [item('hbm:rpa_plate'), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:ncrpa_plate'), [item('hbm:rpa_plate'), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:ncrpa_legs'), [item('hbm:rpa_legs'), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:ncrpa_legs'), [item('hbm:rpa_legs'), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:ncrpa_boots'), [item('hbm:rpa_boots'), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:ncrpa_boots'), [item('hbm:rpa_boots'), item('hbm:screwdriver_desh').reuse()])
+
+crafting.addShapeless(item('hbm:rpa_helmet'), [item('hbm:ncrpa_helmet'), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:rpa_helmet'), [item('hbm:ncrpa_helmet'), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:rpa_plate'), [item('hbm:ncrpa_plate'), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:rpa_plate'), [item('hbm:ncrpa_plate'), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:rpa_legs'), [item('hbm:ncrpa_legs'), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:rpa_legs'), [item('hbm:ncrpa_legs'), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:rpa_boots'), [item('hbm:ncrpa_boots'), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:rpa_boots'), [item('hbm:ncrpa_boots'), item('hbm:screwdriver_desh').reuse()])
+
+
 crafting.addShapeless(item('hbm:balefire'), [item('hbm:undefined')])
 crafting.addShapeless(item('hbm:fire_digamma'), [item('hbm:undefined'), item('hbm:undefined')])
 crafting.addShapeless(item('hbm:digamma_matter'), [item('hbm:undefined'), item('hbm:undefined'), item('hbm:undefined')])
