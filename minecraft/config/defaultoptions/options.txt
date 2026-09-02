@@ -1,8 +1,8 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.875
-gamma:1.0
+fov:0.5
+gamma:0.50
 saturation:0.0
 renderDistance:16
 guiScale:3
@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:240
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true

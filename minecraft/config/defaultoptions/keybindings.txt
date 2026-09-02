@@ -43,7 +43,7 @@ key_key.categories.hbm.toggleMagnet:316
 key_key.categories.hbm.reload:19
 key_key.categories.hbm.dash:42
 key_key.categories.hbm.gunSecondary:-99
-key_key.categories.hbm.gunTertitary:47
+key_key.categories.hbm.gunTertitary:-98
 key_key.categories.hbm.craneMoveUp:200
 key_key.categories.hbm.craneMoveDown:208
 key_key.categories.hbm.craneMoveLeft:203
@@ -93,7 +93,6 @@ key_key.craftingtweaks.refill_last_stack:58:CONTROL
 key_Dynamic Lights toggle:38
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
-key_gnetum.config.keyMapping:207
 key_keybind.groovyscript.reload:51
 key_keybind.groovyscript.quick_reload:52
 key_keybind.groovyscript.copy:0
