@@ -37,6 +37,6 @@
 		uid: "1a487fdb",
 		type: "item",
 		item: "hbm:ingot_copper",
-		count: 16
+		count: 32
 	}]
 }

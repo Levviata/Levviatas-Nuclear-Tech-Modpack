@@ -13,6 +13,6 @@
 		uid: "d806c604",
 		type: "item",
 		item: "minecraft:redstone",
-		count: 32
+		count: 64
 	}]
 }

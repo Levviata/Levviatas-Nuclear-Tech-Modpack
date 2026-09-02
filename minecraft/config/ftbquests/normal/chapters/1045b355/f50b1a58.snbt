@@ -45,5 +45,11 @@
 		uid: "38dfcf6e",
 		type: "random",
 		table: 3
+	},
+	{
+		uid: "4bd4af16",
+		type: "item",
+		item: "minecraft:coal_block",
+		count: 12
 	}]
 }

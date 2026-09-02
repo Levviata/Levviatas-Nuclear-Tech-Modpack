@@ -32,6 +32,6 @@
 		uid: "08343417",
 		type: "item",
 		item: "hbm:ingot_lead",
-		count: 8
+		count: 16
 	}]
 }

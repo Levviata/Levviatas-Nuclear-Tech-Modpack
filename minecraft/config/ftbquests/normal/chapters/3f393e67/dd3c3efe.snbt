@@ -50,7 +50,7 @@
 		uid: "ac93e718",
 		type: "item",
 		item: "hbm:ingot_steel",
-		count: 48
+		count: 64
 	},
 	{
 		uid: "c62ffee2",

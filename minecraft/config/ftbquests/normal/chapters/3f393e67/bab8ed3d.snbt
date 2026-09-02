@@ -14,18 +14,13 @@
 		type: "item",
 		items: [{
 			item: "hbm:red_cable"
-		}]
+		}],
+		count: 16L
 	}],
 	rewards: [{
-		uid: "1282ce04",
-		type: "item",
-		item: "hbm:red_cable",
-		count: 64
-	},
-	{
 		uid: "50b8c115",
 		type: "item",
 		item: "hbm:red_wire_coated",
-		count: 32
+		count: 16
 	}]
 }

@@ -27,5 +27,11 @@
 		uid: "e7c28072",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "3a22e403",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 80
 	}]
 }

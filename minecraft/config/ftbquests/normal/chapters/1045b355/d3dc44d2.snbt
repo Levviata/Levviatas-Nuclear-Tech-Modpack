@@ -32,6 +32,6 @@
 		uid: "ccaf66ce",
 		type: "item",
 		item: "hbm:chunk_ore 1 2",
-		count: 16
+		count: 32
 	}]
 }
