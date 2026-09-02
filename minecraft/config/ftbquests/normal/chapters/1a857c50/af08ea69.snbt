@@ -27,5 +27,11 @@
 		uid: "c36c2183",
 		type: "random",
 		table: 5
+	},
+	{
+		uid: "2c43701c",
+		type: "item",
+		item: "hbm:solid_fuel",
+		count: 32
 	}]
 }
