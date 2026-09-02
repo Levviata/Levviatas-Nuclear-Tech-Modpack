@@ -1389,7 +1389,12 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
-
+crafting.addShapeless(item('hbm:balefire'), [item('hbm:undefined')])
+crafting.addShapeless(item('hbm:fire_digamma'), [item('hbm:undefined'), item('hbm:undefined')])
+crafting.addShapeless(item('hbm:digamma_matter'), [item('hbm:undefined'), item('hbm:undefined'), item('hbm:undefined')])
+recipeCount++
+recipeCount++
+recipeCount++
 
 crafting.replaceShapeless(item('hbm:missile_taint'), [item('hbm:missile_assembly'), ore('container1000watz'), item('hbm:powder_spark_mix'), item('hbm:powder_magic')])
 replacedCount++

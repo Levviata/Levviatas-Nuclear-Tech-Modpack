@@ -3249,6 +3249,68 @@
       "tierLower": 1916169,
       "tierUpper": -1,
       "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fusion_klystron",1],
+        ["item","hbm:undefined",8]
+      ],
+      "outputs": [
+        ["hbm:fusion_klystron_creative",1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","refinedstorage:wireless_grid",1],
+        ["item","hbm:undefined",8]
+      ],
+      "outputs": [
+        ["refinedstorage:wireless_grid",1,1,1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","refinedstorage:storage",16,3],
+        ["item","hbm:undefined",8]
+      ],
+      "outputs": [
+        ["refinedstorage:storage",1,4,1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","refinedstorage:storage_disk",16,3],
+        ["item","hbm:undefined",8]
+      ],
+      "outputs": [
+        ["refinedstorage:storage_disk",1,4,1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:battery_spark",1],
+        ["item","hbm:battery_trixite",1],
+        ["item","hbm:singularity_spark",1],
+        ["item","hbm:undefined",8]
+      ],
+      "outputs": [
+        ["hbm:battery_creative",1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
     }
   ]
 }
