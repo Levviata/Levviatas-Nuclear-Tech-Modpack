@@ -16,7 +16,8 @@
 		type: "item",
 		items: [{
 			item: "hbm:red_connector"
-		}]
+		}],
+		count: 4L
 	}],
 	rewards: [{
 		uid: "79617f1b",
