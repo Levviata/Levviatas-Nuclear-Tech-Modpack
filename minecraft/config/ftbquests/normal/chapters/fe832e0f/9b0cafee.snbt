@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: 23.5d,
+	text: [
+		"Has no mods."
+	],
+	dependencies: [
+		"9dad60c8"
+	],
+	tasks: [{
+		uid: "b1fb8ca3",
+		type: "item",
+		items: [{
+			item: "hbm:gun_coilgun"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
