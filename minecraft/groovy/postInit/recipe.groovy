@@ -4,80 +4,7 @@ def removedCount = 0;
 def documented = 0;
 def hbmRecipes = 24;
 
-
-crafting.addShapeless(item('hbm:ball_fireclay'), [item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('hbm:ingot_aluminium')])
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:lung_diagnostic'))
-        .row('ABB')
-        .row('CDE')
-        .row('CFG')
-        .key('A', item('hbm:ingot_copper'))
-        .key('B', item('minecraft:iron_ingot'))
-        .key('C', item('hbm:wire_fine:2900'))
-        .key('D', item('hbm:circuit:7'))
-        .key('E', item('hbm:ingot_steel'))
-        .key('F', item('hbm:powder_coal'))
-        .key('G', item('hbm:powder_asbestos'))
-        .register()
-recipeCount++
-documented++
-
-// renewable balefire. Why? why not
-crafting.shapedBuilder()
-        .output(item('hbm:egg_balefire_shard'))
-        .row('BBB')
-        .row('CAC')
-        .row('BBB')
-        .key('A', item('hbm:powder_magic'))
-        .key('B', item('hbm:gem_rad'))
-        .key('C', item('minecraft:bone'))
-        .register()
-recipeCount++
-documented++
-
-
-crafting.shapedBuilder()
-        .name(resource('hbm:ashglasses'))
-        .output(item('hbm:ashglasses'))
-        .row('A A')
-        .row('BCB')
-        .key('A', ore('ingotAnyRubber'))
-        .key('B', ore('blockGlassBlack'))
-        .key('C', ore('ingotAnyPlastic'))
-        .replaceByName()
-        .register()
-replacedCount++
-documented++
-
-/* its good but i want players to be forced to use universal buckets
-crafting.shapedBuilder()
-        .output(item('hbm:press_preheater'))
-        .row('AAA')
-        .row('BCB')
-        .row('DBD')
-        .key('A', item('hbm:plate_copper'))
-        .key('B', item('minecraft:stone:*'))
-        .key('C', item('minecraft:lava_bucket').transform(item('minecraft:bucket')))
-        .key('D', item('hbm:ingot_tungsten'))
-        .register()
-*/
-crafting.shapedBuilder()
-        .name(resource('hbm:machine_ammo_press'))
-        .output(item('hbm:machine_ammo_press'))
-        .row('TPT')
-        .row('S S')
-        .row('BBB')
-        .key('T', item('hbm:ingot_tungsten'))
-        .key('P', item('minecraft:piston'))
-        .key('S', item('hbm:plate_titanium'))
-        .key('B', item('minecraft:stonebrick:*'))
-        .replaceByName()
-        .register()
-replacedCount++
-documented++
-
+// REFINED STORAGE //
 crafting.shapedBuilder()
         .name(resource('refinedstorage:writer'))
         .output(item('refinedstorage:writer'))
@@ -616,34 +543,6 @@ crafting.shapedBuilder()
 replacedCount++
 
 crafting.shapedBuilder()
-        .name(resource('hbm:conveyor_wand_1'))
-        .output(item('hbm:conveyor_wand') * 32)
-        .row('RPR')
-        .row('I I')
-        .row('RPR')
-        .key('R', item('hbm:plant_item:1'))
-        .key('P', item('hbm:plate_iron'))
-        .key('I', item('minecraft:iron_ingot'))
-        .replaceByName()
-        .register()
-replacedCount++
-documented++
-
-crafting.shapedBuilder()
-        .name(resource('hbm:conveyor_wand_2'))
-        .output(item('hbm:conveyor_wand') * 64)
-        .row('RPR')
-        .row('I I')
-        .row('RPR')
-        .key('R', ore('ingotAnyRubber'))
-        .key('P', item('hbm:plate_iron'))
-        .key('I', item('minecraft:iron_ingot'))
-        .replaceByName()
-        .register()
-replacedCount++
-documented++
-
-crafting.shapedBuilder()
         .name(resource('refinedstorage:64k_storage_disk'))
         .output(item('refinedstorage:storage_disk:3'))
         .row('ABA')
@@ -856,6 +755,159 @@ crafting.shapedBuilder()
         .replaceByName()
         .register()
 replacedCount++
+
+
+// remove furnace raw processor recipe
+furnace.removeByOutput(item('refinedstorage:processor:3'))
+furnace.removeByOutput(item('refinedstorage:processor:4'))
+furnace.removeByOutput(item('refinedstorage:processor:5'))
+removedCount++
+removedCount++
+removedCount++
+
+
+// remove fluid parts because they are boooring, big tanks and barrels are immersive and fun
+
+crafting.removeByOutput(item('refinedstorage:fluid_storage'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage:1'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage:2'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage:3'))
+removedCount++
+removedCount++
+removedCount++
+removedCount++
+
+crafting.removeByOutput(item('refinedstorage:fluid_storage_disk'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:1'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:2'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:3'))
+removedCount++
+removedCount++
+removedCount++
+removedCount++
+
+crafting.removeByOutput(item('refinedstorage:fluid_storage_part'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_part:1'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_part:2'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_part:3'))
+removedCount++
+removedCount++
+removedCount++
+removedCount++
+
+furnace.removeByOutput(item('refinedstorage:silicon'))
+removedCount++
+
+crafting.removeByOutput(item('refinedstorage:fluid_interface'))
+removedCount++
+
+crafting.removeByOutput(item('refinedstorage:wireless_fluid_grid'))
+crafting.removeByOutput(item('refinedstorage:grid:3'))
+removedCount++
+removedCount++
+
+// remove casings as i prefer to use cm_block since its ntm's and thats better
+crafting.removeByOutput(item('refinedstorage:machine_casing'))
+removedCount++
+
+// processor hbmified
+crafting.addShapeless(item('refinedstorage:processor:3'), [item('refinedstorage:processor_binding'), item('hbm:ingot_steel'), ore('ingotAnyRubber'), item('hbm:circuit:7')])
+crafting.addShapeless(item('refinedstorage:processor:4'), [item('refinedstorage:processor_binding'), item('hbm:ingot_desh'), ore('ingotAnyPlastic'), item('hbm:circuit:8')])
+crafting.addShapeless(item('refinedstorage:processor:5'), [item('refinedstorage:processor_binding'), ore('ingotAnyResistantAlloy'), ore('ingotAnyHardPlastic'), item('hbm:circuit:9')])
+recipeCount++
+recipeCount++
+recipeCount++
+
+// bye useless ingot
+crafting.removeByOutput(item('refinedstorage:quartz_enriched_iron'))
+crafting.removeByOutput(item('refinedstorage:quartz_enriched_iron_block'))
+removedCount++
+removedCount++
+
+// remove raw processor
+crafting.removeByOutput(item('refinedstorage:processor'))
+crafting.removeByOutput(item('refinedstorage:processor:1'))
+crafting.removeByOutput(item('refinedstorage:processor:2'))
+removedCount++
+removedCount++
+removedCount++
+
+// END REFINED STORAGE //
+
+// NUCLEAR TECH //
+crafting.addShapeless(item('hbm:ball_fireclay'), [item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('hbm:ingot_aluminium')])
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:lung_diagnostic'))
+        .row('ABB')
+        .row('CDE')
+        .row('CFG')
+        .key('A', item('hbm:ingot_copper'))
+        .key('B', item('minecraft:iron_ingot'))
+        .key('C', item('hbm:wire_fine:2900'))
+        .key('D', item('hbm:circuit:7'))
+        .key('E', item('hbm:ingot_steel'))
+        .key('F', item('hbm:powder_coal'))
+        .key('G', item('hbm:powder_asbestos'))
+        .register()
+recipeCount++
+documented++
+
+// renewable balefire. Why? why not
+crafting.shapedBuilder()
+        .output(item('hbm:egg_balefire_shard'))
+        .row('BBB')
+        .row('CAC')
+        .row('BBB')
+        .key('A', item('hbm:powder_magic'))
+        .key('B', item('hbm:gem_rad'))
+        .key('C', item('minecraft:bone'))
+        .register()
+recipeCount++
+documented++
+
+
+crafting.shapedBuilder()
+        .name(resource('hbm:ashglasses'))
+        .output(item('hbm:ashglasses'))
+        .row('A A')
+        .row('BCB')
+        .key('A', ore('ingotAnyRubber'))
+        .key('B', ore('blockGlassBlack'))
+        .key('C', ore('ingotAnyPlastic'))
+        .replaceByName()
+        .register()
+replacedCount++
+documented++
+
+/* its good but i want players to be forced to use universal buckets
+crafting.shapedBuilder()
+        .output(item('hbm:press_preheater'))
+        .row('AAA')
+        .row('BCB')
+        .row('DBD')
+        .key('A', item('hbm:plate_copper'))
+        .key('B', item('minecraft:stone:*'))
+        .key('C', item('minecraft:lava_bucket').transform(item('minecraft:bucket')))
+        .key('D', item('hbm:ingot_tungsten'))
+        .register()
+*/
+crafting.shapedBuilder()
+        .name(resource('hbm:machine_ammo_press'))
+        .output(item('hbm:machine_ammo_press'))
+        .row('TPT')
+        .row('S S')
+        .row('BBB')
+        .key('T', item('hbm:ingot_tungsten'))
+        .key('P', item('minecraft:piston'))
+        .key('S', item('hbm:plate_titanium'))
+        .key('B', item('minecraft:stonebrick:*'))
+        .replaceByName()
+        .register()
+replacedCount++
+documented++
+
 /* if it aint broken dont fix it
 crafting.shapedBuilder()
         .name(resource('hbm:desh_sword'))
@@ -1353,6 +1405,35 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
+
+crafting.shapedBuilder()
+        .name(resource('hbm:conveyor_wand_1'))
+        .output(item('hbm:conveyor_wand') * 32)
+        .row('RPR')
+        .row('I I')
+        .row('RPR')
+        .key('R', item('hbm:plant_item:1'))
+        .key('P', item('hbm:plate_iron'))
+        .key('I', item('minecraft:iron_ingot'))
+        .replaceByName()
+        .register()
+replacedCount++
+documented++
+
+crafting.shapedBuilder()
+        .name(resource('hbm:conveyor_wand_2'))
+        .output(item('hbm:conveyor_wand') * 64)
+        .row('RPR')
+        .row('I I')
+        .row('RPR')
+        .key('R', ore('ingotAnyRubber'))
+        .key('P', item('hbm:plate_iron'))
+        .key('I', item('minecraft:iron_ingot'))
+        .replaceByName()
+        .register()
+replacedCount++
+documented++
+
 crafting.shapedBuilder()
         .output(item('hbm:gun_n_i_4_n_i'))
         .row('DDD')
@@ -1491,14 +1572,6 @@ recipeCount++
 crafting.addShapeless(item('hbm:syringe_mkunicorn'), [item('hbm:nugget_euphemium'), item('hbm:watch'), item('hbm:syringe_empty')])
 recipeCount++
 
-// processor hbmified
-crafting.addShapeless(item('refinedstorage:processor:3'), [item('refinedstorage:processor_binding'), item('hbm:ingot_steel'), ore('ingotAnyRubber'), item('hbm:circuit:7')])
-crafting.addShapeless(item('refinedstorage:processor:4'), [item('refinedstorage:processor_binding'), item('hbm:ingot_desh'), ore('ingotAnyPlastic'), item('hbm:circuit:8')])
-crafting.addShapeless(item('refinedstorage:processor:5'), [item('refinedstorage:processor_binding'), ore('ingotAnyResistantAlloy'), ore('ingotAnyHardPlastic'), item('hbm:circuit:9')])
-recipeCount++
-recipeCount++
-recipeCount++
-
 // chicago pile
 // old rods bye
 crafting.removeByOutput(item('hbm:pile_rod_uranium'))
@@ -1506,20 +1579,6 @@ crafting.removeByOutput(item('hbm:pile_rod_source'))
 crafting.removeByOutput(item('hbm:pile_rod_boron'))
 crafting.removeByOutput(item('hbm:pile_rod_lithium'))
 crafting.removeByOutput(item('hbm:pile_rod_detector'))
-
-// bye useless ingot
-crafting.removeByOutput(item('refinedstorage:quartz_enriched_iron'))
-crafting.removeByOutput(item('refinedstorage:quartz_enriched_iron_block'))
-removedCount++
-removedCount++
-
-// remove raw processor
-crafting.removeByOutput(item('refinedstorage:processor'))
-crafting.removeByOutput(item('refinedstorage:processor:1'))
-crafting.removeByOutput(item('refinedstorage:processor:2'))
-removedCount++
-removedCount++
-removedCount++
 
 // bye bye reactors, rods, and plates
 // deprecate to match v 1.0.27_X5771
@@ -1529,59 +1588,7 @@ crafting.removeByOutput(item('hbm:rod_quad:*'))
 removedCount++
 removedCount++
 removedCount++
-
-// remove furnace raw processor recipe
-furnace.removeByOutput(item('refinedstorage:processor:3'))
-furnace.removeByOutput(item('refinedstorage:processor:4'))
-furnace.removeByOutput(item('refinedstorage:processor:5'))
-removedCount++
-removedCount++
-removedCount++
-
-
-// remove fluid parts because they are boooring, big tanks and barrels are immersive and fun
-
-crafting.removeByOutput(item('refinedstorage:fluid_storage'))
-crafting.removeByOutput(item('refinedstorage:fluid_storage:1'))
-crafting.removeByOutput(item('refinedstorage:fluid_storage:2'))
-crafting.removeByOutput(item('refinedstorage:fluid_storage:3'))
-removedCount++
-removedCount++
-removedCount++
-removedCount++
-
-crafting.removeByOutput(item('refinedstorage:fluid_storage_disk'))
-crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:1'))
-crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:2'))
-crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:3'))
-removedCount++
-removedCount++
-removedCount++
-removedCount++
-
-crafting.removeByOutput(item('refinedstorage:fluid_storage_part'))
-crafting.removeByOutput(item('refinedstorage:fluid_storage_part:1'))
-crafting.removeByOutput(item('refinedstorage:fluid_storage_part:2'))
-crafting.removeByOutput(item('refinedstorage:fluid_storage_part:3'))
-removedCount++
-removedCount++
-removedCount++
-removedCount++
-
-furnace.removeByOutput(item('refinedstorage:silicon'))
-removedCount++
-
-crafting.removeByOutput(item('refinedstorage:fluid_interface'))
-removedCount++
-
-crafting.removeByOutput(item('refinedstorage:wireless_fluid_grid'))
-crafting.removeByOutput(item('refinedstorage:grid:3'))
-removedCount++
-removedCount++
-
-// remove casings as i prefer to use cm_block since its ntm's and thats better
-crafting.removeByOutput(item('refinedstorage:machine_casing'))
-removedCount++
+// END NUCLEAR TECH //
 
 log.info("Adding " + recipeCount + " recipes.")
 log.info("Replacing " + replacedCount + " recipes.")
