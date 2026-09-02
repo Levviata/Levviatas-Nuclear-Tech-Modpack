@@ -1,4 +1,5 @@
 {
+	icon: "hbm:gun_double_barrel",
 	x: -0.5d,
 	y: 23.5d,
 	text: [
@@ -9,6 +10,7 @@
 	dependencies: [
 		"9dad60c8"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "1641e832",
 		type: "item",
@@ -17,5 +19,23 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "9bfcab94",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any 10 gauge"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "10 gauge"
+				}
+			}
+		}]
 	}]
 }

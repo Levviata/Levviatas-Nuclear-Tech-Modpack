@@ -1,9 +1,11 @@
 {
+	icon: "hbm:gun_congolake",
 	x: 0.5d,
 	y: 10.0d,
 	dependencies: [
 		"3a802c4f"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "73a31e90",
 		type: "item",
@@ -20,5 +22,23 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "4f54a17e",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any 40mm grenade"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "40mm grenade"
+				}
+			}
+		}]
 	}]
 }

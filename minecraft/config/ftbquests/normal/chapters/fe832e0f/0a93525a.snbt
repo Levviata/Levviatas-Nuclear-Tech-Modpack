@@ -1,9 +1,16 @@
 {
+	icon: {
+		id: "hbm:gun_tesla_cannon",
+		tag: {
+			magtype: 134
+		}
+	},
 	x: 2.0d,
 	y: 18.5d,
 	dependencies: [
 		"deda0423"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "3945a45c",
 		type: "item",
@@ -21,5 +28,23 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "9b5a6e1b",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any capacitor (ammo)"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "capacitor (ammo)"
+				}
+			}
+		}]
 	}]
 }

@@ -1,9 +1,11 @@
 {
+	icon: "hbm:gun_laser_pistol",
 	x: 1.5d,
 	y: 22.0d,
 	dependencies: [
 		"9dad60c8"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "8791daae",
 		type: "item",
@@ -20,5 +22,23 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "b8d3bf38",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any capacitor (ammo)"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "capacitor (ammo)"
+				}
+			}
+		}]
 	}]
 }

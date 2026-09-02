@@ -1,9 +1,11 @@
 {
+	icon: "hbm:gun_flamer",
 	x: -0.5d,
 	y: 10.0d,
 	dependencies: [
 		"3a802c4f"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "1de37481",
 		type: "item",
@@ -20,5 +22,23 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "2566e38c",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any flamer fuel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "flamer fuel"
+				}
+			}
+		}]
 	}]
 }

@@ -1,4 +1,5 @@
 {
+	icon: "hbm:gun_coilgun",
 	x: 0.5d,
 	y: 23.5d,
 	text: [
@@ -7,6 +8,7 @@
 	dependencies: [
 		"9dad60c8"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "b1fb8ca3",
 		type: "item",
@@ -15,5 +17,15 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "79224b0f",
+		type: "item",
+		items: [{
+			item: "hbm:ammo_standard 1 71"
+		},
+		{
+			item: "hbm:ammo_standard 1 72"
+		}]
 	}]
 }

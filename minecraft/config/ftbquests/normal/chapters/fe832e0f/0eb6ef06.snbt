@@ -1,9 +1,11 @@
 {
+	icon: "hbm:gun_maresleg",
 	x: 1.0d,
 	y: 4.0d,
 	dependencies: [
 		"22e92344"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "887e13bd",
 		type: "item",
@@ -20,5 +22,23 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "d0c90830",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any 12 gauge"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "12 gauge"
+				}
+			}
+		}]
 	}]
 }

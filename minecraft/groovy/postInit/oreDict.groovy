@@ -24,7 +24,50 @@ oreDict.add('insert', item('hbm:insert_era'))
 oreDict.add('coal', item('minecraft:coal'))
 oreDict.add('coal', item('hbm:powder_coal'))
 
-// calibers
+// calibers and ammo
+oreDict.add('12 gauge', item('hbm:ammo_standard:41'))
+oreDict.add('12 gauge', item('hbm:ammo_standard:42'))
+oreDict.add('12 gauge', item('hbm:ammo_standard:43'))
+oreDict.add('12 gauge', item('hbm:ammo_standard:44'))
+oreDict.add('12 gauge', item('hbm:ammo_standard:45'))
+oreDict.add('12 gauge', item('hbm:ammo_standard:46'))
+oreDict.add('12 gauge', item('hbm:ammo_standard:47'))
+oreDict.add('12 gauge', item('hbm:ammo_standard:48'))
+oreDict.add('12 gauge', item('hbm:ammo_standard:49'))
+
+oreDict.add('10 gauge', item('hbm:ammo_standard:78'))
+oreDict.add('10 gauge', item('hbm:ammo_standard:79'))
+oreDict.add('10 gauge', item('hbm:ammo_standard:80'))
+oreDict.add('10 gauge', item('hbm:ammo_standard:81'))
+oreDict.add('10 gauge', item('hbm:ammo_standard:84'))
+
+oreDict.add('mini nuke', item('hbm:ammo_standard:73'))
+oreDict.add('mini nuke', item('hbm:ammo_standard:74'))
+oreDict.add('mini nuke', item('hbm:ammo_standard:75'))
+oreDict.add('mini nuke', item('hbm:ammo_standard:76'))
+oreDict.add('mini nuke', item('hbm:ammo_standard:93'))
+
+oreDict.add('flamer fuel', item('hbm:ammo_standard:63'))
+oreDict.add('flamer fuel', item('hbm:ammo_standard:64'))
+oreDict.add('flamer fuel', item('hbm:ammo_standard:65'))
+oreDict.add('flamer fuel', item('hbm:ammo_standard:66'))
+
+oreDict.add('40mm grenade', item('hbm:ammo_standard:53'))
+oreDict.add('40mm grenade', item('hbm:ammo_standard:54'))
+oreDict.add('40mm grenade', item('hbm:ammo_standard:55'))
+oreDict.add('40mm grenade', item('hbm:ammo_standard:56'))
+oreDict.add('40mm grenade', item('hbm:ammo_standard:57'))
+
+oreDict.add('rocket', item('hbm:ammo_standard:58'))
+oreDict.add('rocket', item('hbm:ammo_standard:59'))
+oreDict.add('rocket', item('hbm:ammo_standard:60'))
+oreDict.add('rocket', item('hbm:ammo_standard:61'))
+oreDict.add('rocket', item('hbm:ammo_standard:62'))
+
+oreDict.add('capacitor (ammo)', item('hbm:ammo_standard:67'))
+oreDict.add('capacitor (ammo)', item('hbm:ammo_standard:68'))
+oreDict.add('capacitor (ammo)', item('hbm:ammo_standard:69'))
+
 oreDict.add('9mm', item('hbm:ammo_standard:20'))
 oreDict.add('9mm', item('hbm:ammo_standard:21'))
 oreDict.add('9mm', item('hbm:ammo_standard:22'))

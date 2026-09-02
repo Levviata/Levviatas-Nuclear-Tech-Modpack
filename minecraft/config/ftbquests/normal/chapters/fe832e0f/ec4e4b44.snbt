@@ -1,9 +1,11 @@
 {
+	icon: "hbm:gun_mk108",
 	x: 3.5d,
 	y: 15.0d,
 	dependencies: [
 		"27d2816a"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "cdbfbf3c",
 		type: "item",
@@ -12,5 +14,23 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "c713ad43",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any 40mm grenade"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "40mm grenade"
+				}
+			}
+		}]
 	}]
 }

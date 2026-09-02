@@ -1,9 +1,11 @@
 {
+	icon: "hbm:gun_stinger",
 	x: 5.5d,
 	y: 12.5d,
 	dependencies: [
 		"27d2816a"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "08d51d11",
 		type: "item",
@@ -22,5 +24,23 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "ef0492b9",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any rocket"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rocket"
+				}
+			}
+		}]
 	}]
 }

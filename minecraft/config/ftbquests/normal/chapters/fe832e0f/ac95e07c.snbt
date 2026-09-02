@@ -1,9 +1,11 @@
 {
+	icon: "hbm:gun_quadro",
 	x: -4.0d,
 	y: 18.0d,
 	dependencies: [
 		"bc202618"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "243db1ff",
 		type: "item",
@@ -25,5 +27,23 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "a8dcd3d8",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any rocket"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rocket"
+				}
+			}
+		}]
 	}]
 }
