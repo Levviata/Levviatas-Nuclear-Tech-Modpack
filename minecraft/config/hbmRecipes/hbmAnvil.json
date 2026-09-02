@@ -3214,6 +3214,41 @@
       "tierLower": 1,
       "tierUpper": -1,
       "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:undefined",9]
+      ],
+      "outputs": [
+        ["hbm:glitch",1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:undefined",8],
+        ["item","hbm:radiorec",1]
+      ],
+      "outputs": [
+        ["hbm:broadcaster_pc",1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:undefined",1],
+        ["item","hbm:nugget",1]
+      ],
+      "outputs": [
+        ["hbm:ducc",1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
     }
   ]
 }
