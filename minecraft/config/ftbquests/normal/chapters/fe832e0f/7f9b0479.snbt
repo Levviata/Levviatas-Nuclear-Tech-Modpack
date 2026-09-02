@@ -1,0 +1,44 @@
+{
+	icon: "hbm:gun_carbine",
+	x: -4.5d,
+	y: 13.0d,
+	dependencies: [
+		"3bf3ef25"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "e72c701d",
+		type: "item",
+		items: [{
+			id: "hbm:gun_carbine",
+			tag: {
+				timer_0: 10,
+				state_0: 0b,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 0b,
+				lastanim_0: 4
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "45126063",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any 7.62mm"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "7.62mm"
+				}
+			}
+		}]
+	}]
+}

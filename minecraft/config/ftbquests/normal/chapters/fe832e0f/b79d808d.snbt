@@ -1,0 +1,41 @@
+{
+	icon: "hbm:gun_drill",
+	x: 0.0d,
+	y: 6.0d,
+	description: "Utility",
+	text: [
+		"The Powered Drill is an useful utility weapon that mines blocks in a 3x3 area.",
+		"",
+		"As fuel/ammo it will accept any gasoline. To fil,l place in a tank as if you were to fill a canister."
+	],
+	dependencies: [
+		"22e92344"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "b50bac12",
+		type: "item",
+		items: [{
+			item: "hbm:gun_drill"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "772f7b12",
+		type: "item",
+		title: "Any Gasoline",
+		items: [{
+			item: "hbm:canister_fuel 1 46"
+		},
+		{
+			item: "hbm:canister_fuel 1 73"
+		},
+		{
+			item: "hbm:canister_fuel 1 47"
+		},
+		{
+			item: "hbm:canister_fuel 1 74"
+		}]
+	}]
+}

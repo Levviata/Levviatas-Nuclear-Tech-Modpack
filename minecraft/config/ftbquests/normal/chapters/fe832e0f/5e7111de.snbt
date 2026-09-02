@@ -1,0 +1,49 @@
+{
+	icon: "hbm:gun_amat",
+	x: -1.0d,
+	y: 18.0d,
+	dependencies: [
+		"bc202618"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "16fb2ec0",
+		type: "item",
+		items: [{
+			id: "hbm:gun_amat",
+			tag: {
+				state_0: 0b,
+				reload_0: 0b,
+				mouse1_0: 0b,
+				animtimer_0: 2,
+				mouse3_0: 0b,
+				lastanim_0: 4,
+				timer_0: 20,
+				aiming: 0b,
+				cancel: 0b,
+				mouse2_0: 0b,
+				eqipped: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6064c94d",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any .50 BMG"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: ".50 BMG"
+				}
+			}
+		}]
+	}]
+}

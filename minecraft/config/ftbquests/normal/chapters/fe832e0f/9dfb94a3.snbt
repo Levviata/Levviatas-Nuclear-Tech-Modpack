@@ -1,0 +1,50 @@
+{
+	icon: {
+		id: "hbm:gun_minigun",
+		tag: {
+			magtype: 64
+		}
+	},
+	x: 3.0d,
+	y: 18.5d,
+	dependencies: [
+		"deda0423"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "6566d886",
+		type: "item",
+		items: [{
+			id: "hbm:gun_minigun",
+			tag: {
+				state_0: 0b,
+				magtype: 64,
+				timer_0: 20,
+				lastanim_0: 4,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f1258387",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any 7.62mm"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "7.62mm"
+				}
+			}
+		}]
+	}]
+}

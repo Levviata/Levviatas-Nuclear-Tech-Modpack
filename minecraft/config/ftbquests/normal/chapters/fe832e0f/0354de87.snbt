@@ -1,0 +1,27 @@
+{
+	x: 4.5d,
+	y: 14.5d,
+	dependencies: [
+		"27d2816a"
+	],
+	tasks: [{
+		uid: "bbe1d10d",
+		type: "item",
+		items: [{
+			id: "hbm:gun_maresleg_akimbo",
+			tag: {
+				state_0: 0b,
+				state_1: 0b,
+				lastanim_0: 4,
+				lastanim_1: 4,
+				timer_0: 5,
+				timer_1: 5,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

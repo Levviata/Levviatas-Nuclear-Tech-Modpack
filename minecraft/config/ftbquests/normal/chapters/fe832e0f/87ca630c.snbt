@@ -1,0 +1,49 @@
+{
+	icon: "hbm:gun_henry",
+	x: -1.0d,
+	y: 4.0d,
+	dependencies: [
+		"22e92344"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "6ee178a9",
+		type: "item",
+		items: [{
+			id: "hbm:gun_henry",
+			tag: {
+				state_0: 0b,
+				reload_0: 0b,
+				mouse1_0: 0b,
+				animtimer_0: 368,
+				mouse3_0: 0b,
+				lastanim_0: 4,
+				timer_0: 15,
+				aiming: 0b,
+				cancel: 0b,
+				mouse2_0: 0b,
+				eqipped: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1d0d3912",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any .44"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: ".44"
+				}
+			}
+		}]
+	}]
+}

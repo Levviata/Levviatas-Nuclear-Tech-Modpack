@@ -1,0 +1,25 @@
+{
+	x: 0.5d,
+	y: 22.5d,
+	dependencies: [
+		"9dad60c8"
+	],
+	tasks: [{
+		uid: "cba3562b",
+		type: "item",
+		items: [{
+			id: "hbm:gun_tau",
+			tag: {
+				state_0: 0b,
+				magtype: 144,
+				lastanim_0: 4,
+				timer_0: 10,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

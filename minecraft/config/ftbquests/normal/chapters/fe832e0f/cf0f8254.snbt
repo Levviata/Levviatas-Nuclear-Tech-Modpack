@@ -1,0 +1,29 @@
+{
+	x: 1.5d,
+	y: 12.5d,
+	dependencies: [
+		"27d2816a"
+	],
+	tasks: [{
+		uid: "beaf6bf3",
+		type: "item",
+		items: [{
+			id: "hbm:gun_chemthrower",
+			tag: {
+				state_0: 1b,
+				reload_0: 0b,
+				mouse1_0: 0b,
+				animtimer_0: 408,
+				mouse3_0: 0b,
+				lastanim_0: 10,
+				timer_0: 0,
+				aiming: 0b,
+				cancel: 0b,
+				mouse2_0: 0b,
+				eqipped: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

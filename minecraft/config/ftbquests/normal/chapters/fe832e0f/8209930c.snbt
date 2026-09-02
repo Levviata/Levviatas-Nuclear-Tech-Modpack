@@ -1,0 +1,46 @@
+{
+	icon: "hbm:gun_fireext",
+	x: -1.0d,
+	y: 5.5d,
+	description: "Utility",
+	text: [
+		""
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "28e71ed2",
+		type: "item",
+		items: [{
+			id: "hbm:gun_fireext",
+			tag: {
+				timer_0: 10,
+				state_0: 0b,
+				aiming: 0b,
+				cancel: 0b,
+				eqipped: 0b,
+				lastanim_0: 4
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0a4cb944",
+		type: "item",
+		title: "Any tank",
+		items: [{
+			item: "hbm:ammo_fireext"
+		},
+		{
+			item: "hbm:ammo_fireext 1 1"
+		},
+		{
+			item: "hbm:ammo_fireext 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "52af5196",
+		type: "xp",
+		xp: 10
+	}]
+}

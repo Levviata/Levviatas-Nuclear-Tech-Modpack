@@ -1,0 +1,70 @@
+{
+	icon: {
+		id: "hbm:gun_star_f_akimbo",
+		tag: {
+			state_0: 0b,
+			state_1: 0b,
+			lastanim_1: 4,
+			timer_0: 15,
+			lastanim_0: 4,
+			timer_1: 15,
+			aiming: 0b,
+			cancel: 0b,
+			eqipped: 0b
+		}
+	},
+	x: -1.5d,
+	y: 22.0d,
+	dependencies: [
+		"9dad60c8"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "df20c10d",
+		type: "item",
+		items: [{
+			id: "hbm:gun_star_f_akimbo",
+			tag: {
+				mouse3_1: 0b,
+				timer_0: 15,
+				state_1: 0b,
+				mouse1_1: 0b,
+				reload_1: 0b,
+				animtimer_0: 155,
+				lastanim_1: 4,
+				mouse3_0: 0b,
+				lastanim_0: 4,
+				timer_1: 15,
+				cancel: 0b,
+				eqipped: 0b,
+				mouse2_0: 0b,
+				mouse2_1: 0b,
+				state_0: 0b,
+				mouse1_0: 0b,
+				animtimer_1: 168,
+				reload_0: 0b,
+				aiming: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8ccbdeb5",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any .22 LR"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: ".22 LR"
+				}
+			}
+		}]
+	}]
+}
