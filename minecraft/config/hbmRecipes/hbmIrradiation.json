@@ -97,6 +97,11 @@
 	"input": ["dict","gemDiamond"],
       "solidOutput": ["hbm:gem_rad"],
       "fusionOnly": false
-	}
+	},
+    {
+      "input": ["item","hbm:meteorite_sword_bred"],
+      "solidOutput": ["hbm:meteorite_sword_irradiated"],
+      "fusionOnly": false
+    }
   ]
 }

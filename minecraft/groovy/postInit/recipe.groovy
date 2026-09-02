@@ -1028,7 +1028,7 @@ recipeCount++
 recipeCount++
 
 crafting.shapedBuilder()
-        .output(item('hbm:meteorite_sword_irradiated'))
+        .output(item('hbm:meteorite_sword_bred'))
         .row('ADA')
         .row('CBC')
         .row('ADA')
