@@ -20,5 +20,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f6066ca0",
+		type: "item",
+		item: "hbm:ducc"
 	}]
 }
