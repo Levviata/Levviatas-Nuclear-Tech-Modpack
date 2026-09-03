@@ -21,6 +21,7 @@
 	{
 		uid: "79224b0f",
 		type: "item",
+		title: "Any ball",
 		items: [{
 			item: "hbm:ammo_standard 1 71"
 		},
