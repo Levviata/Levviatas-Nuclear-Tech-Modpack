@@ -1,7 +1,7 @@
 {
 	title: "Factories",
 	x: 6.0d,
-	y: 2.0d,
+	y: 2.5d,
 	text: [
 		"The Assembly and Chemical Factory work x2 times faster but needs twice the power. ",
 		"It also must be cooled with water and produces Low-Pressure Steam as a side product."

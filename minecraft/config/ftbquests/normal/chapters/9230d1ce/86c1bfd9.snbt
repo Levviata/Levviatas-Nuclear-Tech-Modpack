@@ -1,6 +1,6 @@
 {
-	x: 1.0d,
-	y: 4.0d,
+	x: 0.0d,
+	y: 10.0d,
 	shape: "hexagon",
 	dependencies: [
 		"f90a1d32"
