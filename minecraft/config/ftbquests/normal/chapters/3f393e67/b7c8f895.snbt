@@ -3,11 +3,9 @@
 	y: 21.0d,
 	description: "Pollution Inc.",
 	text: [
-		"Needs a fluid identifier.",
+		"Vents fluids to the enviroment, for better or worse.",
 		"",
-		"Removes fluids from the duct its attached to.",
-		"",
-		"The box with the vent must be placed adjacent to a duct in order to drain, the big pipe at the end should be unobstructated since that's where fluids exit."
+		"To operate, give it a Fluid Identifier and connect a fluid duct to the horizontal ports."
 	],
 	dependencies: [
 		"82d71470"
