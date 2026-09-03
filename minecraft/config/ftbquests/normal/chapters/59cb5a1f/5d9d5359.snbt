@@ -1,6 +1,10 @@
 {
-	x: 8.0d,
-	y: 4.0d,
+	x: 5.0d,
+	y: 5.5d,
+	description: "Not good for power",
+	text: [
+		""
+	],
 	tasks: [{
 		uid: "0e88bd0d",
 		type: "item",
