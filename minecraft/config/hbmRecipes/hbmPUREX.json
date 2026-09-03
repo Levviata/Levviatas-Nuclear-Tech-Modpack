@@ -1104,5 +1104,6 @@
       "nameWrapper": "purex.recycle",
       "autoSwitchGroup": "autoswitch.pile"
     }
-  ]
+  ],
+  "comment": "add rgp pluto, waste, and pu239 rods, total 3"
 }

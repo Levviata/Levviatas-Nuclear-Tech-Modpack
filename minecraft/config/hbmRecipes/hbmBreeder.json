@@ -150,5 +150,6 @@
       "flux": 600,
       "output": ["hbm:rod_quad",1,11]
     }
-  ]
+  ],
+  "comment": "remove bred meteo sword, total 1"
 }

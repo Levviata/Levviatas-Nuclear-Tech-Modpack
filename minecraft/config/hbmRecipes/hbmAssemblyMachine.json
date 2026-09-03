@@ -9141,5 +9141,8 @@
       "duration": 600,
       "power": 100
     }
-  ]
+  ],
+  "comment": "removed breeder and research reactors",
+  "comment": "added mp size 15 balefire, size 15 thermo, size 15 mirv, warhead n2 and mirvlet, missile n2, size 15 wrhead balefire, nuclear thruster, relay satellite",
+  "comment": "total 11"
 }

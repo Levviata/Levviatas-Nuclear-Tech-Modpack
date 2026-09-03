@@ -20,5 +20,6 @@
       "ingredient": ["dict","blockAnyBismoid"],
       "output": ["hbm:gem_alexandrite"]
     }
-  ]
+  ],
+  "comment": "remove schraranium, add alxenadrite recipe. total 2"
 }

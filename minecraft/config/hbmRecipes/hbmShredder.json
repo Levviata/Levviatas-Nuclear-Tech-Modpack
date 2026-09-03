@@ -981,5 +981,6 @@
       "input": ["hbm:block_slag",1,1],
       "output": ["hbm:powder_cement",4]
     }
-  ]
+  ],
+  "comment": "block of slag:1 recipe, total 1"
 }

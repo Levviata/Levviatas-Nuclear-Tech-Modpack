@@ -2,7 +2,7 @@ def recipeCount = 0;
 def replacedCount = 0;
 def removedCount = 0;
 def documented = 0;
-def hbmRecipes = 24;
+def hbmRecipes = 41;
 
 // REFINED STORAGE //
 crafting.shapedBuilder()

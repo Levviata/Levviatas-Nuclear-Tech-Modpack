@@ -103,5 +103,6 @@
       "solidOutput": ["hbm:meteorite_sword_irradiated"],
       "fusionOnly": false
     }
-  ]
+  ],
+  "comment": "add radio gem and bred to irradiated meteo sword recipes, total 2"
 }

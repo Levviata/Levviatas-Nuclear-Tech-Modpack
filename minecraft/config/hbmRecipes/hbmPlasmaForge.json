@@ -603,5 +603,6 @@
       "power": 1000000,
       "ignitionTemp": 1000000
     }
-  ]
+  ],
+  "comment": "add railgun and capsule, dual miniguns, total 3"
 }
