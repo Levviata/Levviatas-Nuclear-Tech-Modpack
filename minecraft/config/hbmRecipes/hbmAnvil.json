@@ -3223,6 +3223,22 @@
       "tierLower": 1916169,
       "tierUpper": -1,
       "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateSextupleAnyResistantAlloy",4],
+        ["dict","ingotSchrabidium",8],
+        ["dict","ingotMagnetizedTungsten",8],
+        ["item","hbm:pa_coil",1,3],
+        ["dict","gunMechanismSaturnite",2],
+        ["item","hbm:undefined",2]
+      ],
+      "outputs": [
+        ["single",["hbm:machine_stirling_creative",1]]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
     }
   ]
 }
