@@ -8,6 +8,10 @@
 	x: 2.5d,
 	y: 2.5d,
 	shape: "square",
+	description: "Neutron Flux",
+	text: [
+		""
+	],
 	tasks: [{
 		uid: "e9f28939",
 		type: "checkmark",
