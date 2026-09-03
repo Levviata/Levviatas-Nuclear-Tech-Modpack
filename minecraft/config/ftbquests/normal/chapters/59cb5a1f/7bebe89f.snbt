@@ -1,6 +1,7 @@
 {
-	x: 6.0d,
-	y: 4.0d,
+	icon: "hbm:rbmk_console",
+	x: 4.0d,
+	y: 5.5d,
 	tasks: [{
 		uid: "edaef8d2",
 		type: "checkmark",
