@@ -1,7 +1,7 @@
 {
 	title: "Combustible Fuels",
 	icon: "hbm:fluid_icon 1 46",
-	x: -6.0d,
+	x: -3.5d,
 	y: 2.5d,
 	shape: "square",
 	text: [

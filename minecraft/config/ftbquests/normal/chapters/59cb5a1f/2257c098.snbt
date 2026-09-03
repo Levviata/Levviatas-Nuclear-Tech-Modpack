@@ -1,6 +1,6 @@
 {
 	icon: "hbm:machine_waste_drum",
-	x: 7.5d,
+	x: 5.0d,
 	y: 2.5d,
 	shape: "square",
 	tasks: [{

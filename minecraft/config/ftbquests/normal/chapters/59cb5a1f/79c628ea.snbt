@@ -1,7 +1,7 @@
 {
 	icon: "hbm:machine_combustion_engine",
-	x: -3.5d,
-	y: 4.0d,
+	x: -5.0d,
+	y: 5.5d,
 	text: [
 		"The Industrial Combustion Engine is a generator with configurable speed that uses all grades of combustible at different efficiencies, depending on the obligatory Piston Set.",
 		"",

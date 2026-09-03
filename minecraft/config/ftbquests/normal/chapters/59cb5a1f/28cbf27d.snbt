@@ -1,6 +1,6 @@
 {
-	x: -4.5d,
-	y: 4.0d,
+	x: -2.0d,
+	y: 5.5d,
 	text: [
 		"The Turbofan is a generator that accepts aviation grade fuels to produce power.",
 		"",

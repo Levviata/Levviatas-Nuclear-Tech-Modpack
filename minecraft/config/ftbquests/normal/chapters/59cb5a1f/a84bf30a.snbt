@@ -1,6 +1,6 @@
 {
-	x: -8.5d,
-	y: 4.0d,
+	x: -4.0d,
+	y: 5.5d,
 	text: [
 		"The Diesel Generator accepts combustibles with Medium, High, and Aviation grades.",
 		"",
