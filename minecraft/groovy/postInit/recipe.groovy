@@ -956,7 +956,7 @@ crafting.shapedBuilder()
         .row('SBS')
         .row('SSS')
         .key('S', ore('plateSteel'))
-        .key('B', ore('ingotMingrade'))
+        .key('B', item('hbm:coil_copper_torus'))
         .replaceByName()
         .register()
 replacedCount++
