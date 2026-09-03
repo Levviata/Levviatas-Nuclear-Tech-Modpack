@@ -1,20 +1,28 @@
 {
-	x: -3.0d,
-	y: 0.5d,
-	description: "§e§nRequires:§r§e Integrated Circuit Board",
+	title: "Deuterium Extractors",
+	x: -0.4440476190475877d,
+	y: -0.40714285714282994d,
+	description: "§e§nRequires:§r§e Integrated Circuit Board or Resistant Alloy",
 	text: [
 		""
 	],
-	hide_dependency_lines: true,
 	dependencies: [
 		"37308693"
 	],
 	size: 1.25d,
+	or_tasks: true,
 	tasks: [{
 		uid: "444af21d",
 		type: "item",
 		items: [{
 			item: "hbm:machine_deuterium_extractor"
+		}]
+	},
+	{
+		uid: "07d85ec4",
+		type: "item",
+		items: [{
+			item: "hbm:machine_deuterium_tower"
 		}]
 	}]
 }
