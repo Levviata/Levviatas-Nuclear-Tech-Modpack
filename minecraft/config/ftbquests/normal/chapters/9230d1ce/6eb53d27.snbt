@@ -1,0 +1,23 @@
+{
+	x: 2.401870748299359d,
+	y: 3.4812925170068283d,
+	shape: "hexagon",
+	text: [
+		"The Klystron is an obligatory component for the production of KyUs (Klystron energy) which feed the reactions of the Fussion Reactor Vessel.",
+		"",
+		"To operate, attach to the Vessel and supply with external power and compressed air.",
+		"",
+		"The target Klystron energy needs to be set in the machine, too little or too much will reduce productivity drastically."
+	],
+	dependencies: [
+		"f547edc2"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "f1ab8a35",
+		type: "item",
+		items: [{
+			item: "hbm:fusion_klystron"
+		}]
+	}]
+}

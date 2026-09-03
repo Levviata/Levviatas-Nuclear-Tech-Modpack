@@ -1,0 +1,15 @@
+{
+	x: 1.1399659863946d,
+	y: 3.4812925170068283d,
+	dependencies: [
+		"f547edc2"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "8b3fdb01",
+		type: "item",
+		items: [{
+			item: "hbm:fusion_boiler"
+		}]
+	}]
+}

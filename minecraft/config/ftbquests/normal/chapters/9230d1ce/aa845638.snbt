@@ -1,0 +1,15 @@
+{
+	x: 1.1637755102041183d,
+	y: 2.230102040816348d,
+	dependencies: [
+		"f547edc2"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "a9850c3c",
+		type: "item",
+		items: [{
+			item: "hbm:fusion_coupler"
+		}]
+	}]
+}

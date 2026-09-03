@@ -1,0 +1,15 @@
+{
+	x: 2.4137755102041183d,
+	y: 1.605102040816348d,
+	dependencies: [
+		"f547edc2"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "aceb907f",
+		type: "item",
+		items: [{
+			item: "hbm:fusion_collector"
+		}]
+	}]
+}
