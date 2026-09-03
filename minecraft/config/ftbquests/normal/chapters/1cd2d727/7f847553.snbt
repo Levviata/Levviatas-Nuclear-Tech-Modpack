@@ -2,12 +2,7 @@
 	x: -11.0d,
 	y: 0.0d,
 	text: [
-		"The Pneumatic Tube carries items instantly using Compressed Air with 1 PU pressure. ",
-		"",
-		"They are compact and can send a stack of items every 0.25 seconds, but this speed can't be upgraded and they are more expensive compared to conveyors.",
-		"",
-		"With a Screwdriver and Right-Click you set pipes as input, to set an output Crouch-Right-Click. ",
-		"Input has a configurable filter."
+		"Description can be found on Early Game chapter."
 	],
 	or_tasks: true,
 	tasks: [{
