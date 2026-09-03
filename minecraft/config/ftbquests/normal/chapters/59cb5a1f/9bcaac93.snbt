@@ -1,0 +1,14 @@
+{
+	title: "Mid Game (post-oil)",
+	x: -6.5d,
+	y: 5.5d,
+	shape: "square",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "bc391442",
+		type: "checkmark",
+		title: "Mid game"
+	}]
+}

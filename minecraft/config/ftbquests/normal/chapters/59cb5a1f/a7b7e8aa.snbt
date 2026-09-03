@@ -1,0 +1,14 @@
+{
+	title: "Late Game (post-resistant alloy)",
+	x: -6.5d,
+	y: 7.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "3e7cba69",
+		type: "checkmark",
+		title: "Late Game"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	title: "Early Game (pre-oil)",
+	x: -6.5d,
+	y: 4.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "5ab28529",
+		type: "checkmark",
+		title: "Early game"
+	}]
+}
