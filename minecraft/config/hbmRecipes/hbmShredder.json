@@ -1,5 +1,4 @@
 {
-  "comment": "Ingot/block/ore -> dust recipes are generated in post and can therefore not be changed with the config. Non-auto recipes do not use ore dict.",
   "recipes": [
     {
       "input": ["minecraft:wool",1,11],

@@ -1,5 +1,4 @@
 {
-  "comment": "Outputs have to be an array of up to four item stacks. Fewer aren't used by default recipes, but should work anyway.",
   "recipes": [
     {
       "input": ["item","hbm:bedrock_ore_new",1,160],
