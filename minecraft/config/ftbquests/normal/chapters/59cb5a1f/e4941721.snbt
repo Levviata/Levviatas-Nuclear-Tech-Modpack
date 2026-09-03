@@ -7,7 +7,11 @@
 		"",
 		"mB are millibuckets which are 0.001 of a Bucket.",
 		"",
-		"NTM Community Edition interchanges automatically RF to HE and HE to RF so there is no need for Converter blocks."
+		"NTM Community Edition interchanges automatically RF to HE and HE to RF so there is no need for Converter blocks.",
+		"",
+		"The chart can be read",
+		"- horizontally which is the progression stage",
+		"- and vertically for the generator types."
 	],
 	size: 2.0d,
 	tasks: [{
