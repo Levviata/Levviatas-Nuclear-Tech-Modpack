@@ -1,6 +1,17 @@
 {
 	x: 1.1637755102041183d,
-	y: 4.730102040816348d,
+	y: 3.4812925170068283d,
+	text: [
+		"The Breeding Chamber uses neutron flux from the Vessel to irradiate materials.",
+		"",
+		"Works as a RBMK irradiation Channel, sharing its recipes.",
+		"",
+		"It has some unique recipes for",
+		"- Syngas",
+		"- and Reformate Gas",
+		"",
+		"Isn't affected by port sharing rules."
+	],
 	dependencies: [
 		"f547edc2"
 	],
