@@ -1,0 +1,22 @@
+{
+	title: "Watz",
+	icon: "hbm:watz",
+	x: 6.0d,
+	y: 5.5d,
+	description: "Not good for power",
+	text: [
+		""
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "0315e012",
+		type: "item",
+		items: [{
+			item: "hbm:watz_pump"
+		}]
+	},
+	{
+		uid: "448df0be",
+		type: "checkmark"
+	}]
+}
