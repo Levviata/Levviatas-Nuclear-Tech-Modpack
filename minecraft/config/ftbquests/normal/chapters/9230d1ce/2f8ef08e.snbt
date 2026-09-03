@@ -5,7 +5,7 @@
 		"The Fusion Reactor Boiler boils water into Super Dense Steam using plasma energy.",
 		"Respects port energy sharing rules so multiple Boilers will have reduced production.",
 		"",
-		"1 mB of water needs 200 TU to boil as usual, the benefit is the higher compressed steam which makes it more efficient than regular boilers."
+		"1 mB of water needs 200 TU to boil as usual, the benefit is the higher compression level of steam which makes it more efficient than regular boilers."
 	],
 	dependencies: [
 		"f547edc2"
