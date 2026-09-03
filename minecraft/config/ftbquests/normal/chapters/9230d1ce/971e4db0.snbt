@@ -1,11 +1,20 @@
 {
-	x: -0.5d,
-	y: 10.0d,
+	x: -0.12193877551016641d,
+	y: 3.4812925170068283d,
 	shape: "hexagon",
-	dependencies: [
-		"27e13754"
+	text: [
+		"The Plasma Forge is a machine capable of making most end-game items.",
+		"",
+		"To operate it needs ingredients, external energy, plasma energy, and sometimes Stellar Flux.",
+		"",
+		"Has custom recipes for",
+		"- Railgun and Deuterium Plasma Capsule",
+		"- Dual Miniguns"
 	],
-	size: 1.5d,
+	dependencies: [
+		"f547edc2"
+	],
+	size: 1.25d,
 	tasks: [{
 		uid: "f4866e5b",
 		type: "item",
