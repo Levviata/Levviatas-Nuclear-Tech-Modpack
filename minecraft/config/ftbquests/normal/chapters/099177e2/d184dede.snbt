@@ -1,0 +1,10 @@
+{
+	x: 13.5d,
+	y: -11.0d,
+	shape: "square",
+	tasks: [{
+		uid: "8520b207",
+		type: "checkmark",
+		title: "Size 15"
+	}]
+}
