@@ -1,6 +1,15 @@
 {
 	x: 2.4137755102041183d,
 	y: 5.355102040816348d,
+	text: [
+		"The MHD Turbine generates electricity from plasma energy.",
+		"Respects port energy sharing rules so multiple Turbines will have reduced production.",
+		"",
+		"To operate, supply with cold perfluoromethyl and a minimum of 5MTU / tick of plasma energy.",
+		"If not enough plasma energy is fed, efficiency will be halved.",
+		"",
+		"Has a unique +35% conversion bonus from TU to HE."
+	],
 	dependencies: [
 		"f547edc2"
 	],

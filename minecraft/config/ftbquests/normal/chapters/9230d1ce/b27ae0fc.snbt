@@ -1,6 +1,14 @@
 {
 	x: 2.4137755102041183d,
 	y: 1.605102040816348d,
+	text: [
+		"The Collector Chamber is a simple component that will increase production rate by 50%.",
+		"Can be stacked up to 150%.",
+		"",
+		"This benefit can be seen as a green bar in the Vessel as the Collector lacks any GUI or ports.",
+		"",
+		"It does not use plasma's flux or energy level, works by itself."
+	],
 	dependencies: [
 		"f547edc2"
 	],

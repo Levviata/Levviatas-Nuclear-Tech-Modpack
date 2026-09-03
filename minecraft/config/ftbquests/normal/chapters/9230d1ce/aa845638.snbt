@@ -1,6 +1,12 @@
 {
 	x: 1.1637755102041183d,
 	y: 2.230102040816348d,
+	text: [
+		"The Plasma Coupler turns produced plasma into Klystron energy which can be used to fuel another Vessel.",
+		"Respects port energy sharing rules.",
+		"",
+		"Some recipes require this as the minimum KyU needed to ignite the plasma exceeds the output of 4 Klystrons."
+	],
 	dependencies: [
 		"f547edc2"
 	],
