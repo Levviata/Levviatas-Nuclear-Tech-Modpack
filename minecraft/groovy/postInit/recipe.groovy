@@ -1588,6 +1588,26 @@ crafting.removeByOutput(item('hbm:rod_quad:*'))
 removedCount++
 removedCount++
 removedCount++
+// add new recipes here levviata for the love of god
+
+// book of boxcar pages, stupid as hell but thats what makes it fun
+crafting.addShapeless(item('hbm:stamp_book'), [ore('flatStamp'), ore('logWood'), ore('cropPotato'), ore('stone'), ore('paper')]) // page 1
+crafting.addShapeless(item('hbm:stamp_book:1'), [ore('flatStamp'), ore('ingotIron'), ore('dustRedstone'), ore('gemCoal'), ore('paper')]) // page 2
+crafting.addShapeless(item('hbm:stamp_book:2'), [ore('flatStamp'), ore('ingotTitanium'), ore('ingotLatex'), ore('ingotAsbestos'), ore('paper')]) // page 3
+crafting.addShapeless(item('hbm:stamp_book:3'), [ore('flatStamp'), ore('ingotMingrade'), ore('ingotGraphite'), ore('ingotCobalt'), ore('paper')]) // page 4
+crafting.addShapeless(item('hbm:stamp_book:4'), [ore('flatStamp'), ore('dustDuraSteel'), ore('dustSteel'), ore('deshPowder'), item('hbm:flame_opinion')]) // page 5
+crafting.addShapeless(item('hbm:stamp_book:5'), [ore('flatStamp'), ore('dustCadmium'), ore('ingotFerrouranium'), ore('ingotFiberglass'), item('hbm:flame_conspiracy')]) // page 6
+crafting.addShapeless(item('hbm:stamp_book:6'), [ore('flatStamp'), item('hbm:gun_lag'), item('hbm:scrap_plastic'), ore('dustSaturnite'), item('hbm:mucho_mango'), item('hbm:flame_politics')]) // page 7
+crafting.addShapeless(item('hbm:stamp_book:7'), [ore('flatStamp'), item('hbm:gun_minigun'), item('hbm:nuke_fstbmb'), ore('ingotEuphemium'), ore('ingotSchrabidium'), item('hbm:flame_pony')]) // page 8
+recipeCount++
+recipeCount++
+recipeCount++
+recipeCount++
+recipeCount++
+recipeCount++
+recipeCount++
+recipeCount++
+
 // END NUCLEAR TECH //
 
 log.info("Adding " + recipeCount + " recipes.")

@@ -378,6 +378,10 @@ oreDict.add('decoBlock', item('hbm:deco_red_copper'))
 oreDict.add('decoBlock', item('hbm:deco_lead'))
 oreDict.add('decoBlock', item('hbm:deco_beryllium'))
 
+// add new entries here levviata
+oreDict.add('deshPowder', item('hbm:powder_desh'))
+oreDict.add('deshPowder', item('hbm:powder_desh_mix'))
+oreDict.add('deshPowder', item('hbm:powder_desh_ready'))
 
 log.info("Loaded ore dictionaries!")
 
