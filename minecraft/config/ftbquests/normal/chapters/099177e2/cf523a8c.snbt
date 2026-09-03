@@ -1,6 +1,6 @@
 {
-	x: 11.0d,
-	y: -12.0d,
+	x: 10.0d,
+	y: -12.5d,
 	or_tasks: true,
 	tasks: [{
 		uid: "8b924734",
