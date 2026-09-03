@@ -1,6 +1,9 @@
 {
 	x: 12.0d,
 	y: 5.0d,
+	text: [
+		"All book page stamps can be crafted, you are welcome."
+	],
 	tasks: [{
 		uid: "05c71275",
 		type: "item",
