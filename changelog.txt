@@ -1,3 +1,141 @@
+# version 2.2.0
+
+### Quests
+
+Added quests for
+- Coilgun
+- Capacitors, Batteries chapter (electricity pylon)
+Fluids chapter:
+    - Flow Control pump
+    - Flow Gauge pipe
+    - Redstone fluid valve
+    - Fluid valve
+    - Fluid valve with counter
+    - Drainage Pipe
+- Turret Mob Filter
+- Foundry Tank
+- Multi Purpose Bomb
+- Bunch of info quests for Generators chapter
+- Watz (generator chapter)
+- Fusion Reactor components:
+    - Collector Chamber
+    - Boiler
+    - MHD Turbine
+    - Breeding chamber
+    - Plasma Coupler
+    - Klystron
+
+Changed task amounts for
+- crane: splitter, boxer, and unboxer -> x1 to x4
+- Paintable Pneumatic Pipe -> x1 to x4
+
+Added needed ammo to all weapon tasks
+Added Fractioning Tower Separator task to Fractioning Tower
+Removed Breeder and Research reactor sections from Reactors chapter.
+Removed Liquid oxygen and Deuterium quests from Late Game (chapter)
+Fixed drones tasks and titles (Automation chapter)
+Fix task amount for red connector
+Fix dependencies for Ionized particles
+Tweaked Deuterium Extractor quest in general
+
+### Quest Descriptions
+Add description to
+- !Plasma Forge
+- Boxcar book
+
+Add subtitle to
+- Zirnox (generator chapter)
+- Nuclear info quest (generator chapter)
+
+Extend descriptions for
+- !!Fusion Reactor (operating)
+- Alexandrite
+- Dineutronium Anvil
+- Generators info quest
+
+Fix descriptions for
+- AUTOCAL
+- Steel
+- Speedloader
+- Pneumatic pipe
+- Hot Crude oil
+
+Reworked Drainage Pipe description
+
+### Quest Rewards
+
+Buffed rewards for
+- Overdrive upgrade MkII -> speed, efficiency, and overdrive mkI upgrades
+- Solid Fuel (grinding) -> x32 solid fuel
+LvNTM chapter:
+- Redstone -> x32 to x64
+- Lead ingot (grinding) -> x8 to x16
+- Iron ingot (grinding) -> x80 iron ingots
+- Titanium ingot (grinding) -> x16 to x32
+- Copper ingot -> x16 to x32
+- Titanium armor -> x4 titanium ingots to x12
+- Cryolite (grinding) -> x16 to x32
+- Coal (grinding) -> x12 coal blocks
+- Steel (grinding) -> x48 to x64
+
+Nerfed rewards for
+- Clayball -> x32 to x16
+- Red copper cable -> x64 red copper cable to x16 red wire coated, task changed to x16 cables
+
+Fixed fluid refunds
+Fix cable drum rewards
+Added reward to secret weapon -> x1 ducc
+Added and fixed rewards for a bunch of quests (too lazy to document it)
+
+### Recipes
+
+Tweaked Ghiorsium insert and cladding
+Buffed output for crane: splitter, router, boxer, and unboxer
+Added recipes for
+- !!Chicago Pile rods recycling (PUREX)
+- !All boxcar page stamps
+- Construction and Destruction wands
+- NI4NI and it's mods
+- Glitch
+- Corrupted radio
+- Ducc
+- Creative:
+    - Klystron
+    - Wireless grid, storage, and storage disk
+    - Battery (infinite battery)
+    - Stirling engine
+- Balefire and digamma fire
+- Digamma matter
+- Coilgun
+- Heretic Autoshotgun
+- Wild Pegasus Dry Whisky
+- Fabsol's Vodka (revive)
+- Scrumpy
+- Spawn egg for Mask man and big man jonhson
+- Duck egg
+- Ncrpa armor to rpa armor and viceversa
+- Ace and queen of spades Cards
+
+Tweaked Cable Drum -> minecraft grade copper ingot to a block of the stuff
+Removed old chicago pile recipes
+Remove Meteorite sword (bred) from bredder reactor and replace it for Meteorite sword (irradiated)
+Moved Meteorite sword (irradiated) recipe to the RBMK irradiation channel
+
+### General
+
+Added Explosive hazard to Ullapool Caber
+Added ore dictionaries:
+- 12 gauge
+- 10 gauge
+- mini nuke
+- flamer fuel
+- 40mm grenade
+- rocket
+- capacitor
+- deshPowder
+Changed weapon adsing (scoping) from key V to Middle mouse button
+Fixed default options and keybinds
+
 # version 2.1.0
 Update Nuclear Tech: Community Edition to its latest git action build, fixing the Chicago Pile and a bunch of other issues.
 
