@@ -29,16 +29,16 @@ For Cleanroom, scroll down to its section.
 
 8/10 A random bystander
 
-"I'm not even halfway through the modpack and I have completed over 300 quests already!"
+"I'm not even halfway through the modpack and I have completed over 500 quests already!"
 
 8.5/10 Impatient guy
 
 ## Features
 - 24 chapters with over +1540 quests with quality information and pretty patterns 😏
 
-- 162 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 209 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
-  - Taint
+  - Coilgun
   - Lung Diagnostic
   - Mkunicorn
   - Double Barrel Shotgun (An Old Classic)
@@ -55,7 +55,7 @@ For Cleanroom, scroll down to its section.
   - N2 and Balefire Charges
   - And many more.
 
-- 3 custom Resource Packs with new textures for swords and tools.
+- 4 custom Resource Packs, one of them include new textures for swords and tools.
 
 - Complete, customized keybind map.
 
@@ -98,7 +98,9 @@ The game looks good, the FPS are good, the quests are good, what other Nuclear T
 
 - The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
 
-- Over +590 hours of development.
+- Over +620 hours of development.
 
 #### It was all planned
 your satisfaction is measured.
+
+king of unpayed labour.
