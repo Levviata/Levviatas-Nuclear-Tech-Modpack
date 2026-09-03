@@ -23,11 +23,11 @@
 		uid: "50f6358f",
 		type: "item",
 		item: "hbm:ingot_red_copper",
-		count: 8
+		count: 12
 	},
 	{
 		uid: "51a44047",
 		type: "xp",
-		xp: 20
+		xp: 40
 	}]
 }
