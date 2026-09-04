@@ -1,7 +1,7 @@
 {
 	x: 3.0d,
 	y: 9.0d,
-	description: "§e§nRequires:§r§e Cleaned or Dissolved Rare Earth Ore",
+	description: "§e§nRequires:§r§e Cleaned or Dissolved Rare Earth Ore or Cyclotron",
 	text: [
 		""
 	],
