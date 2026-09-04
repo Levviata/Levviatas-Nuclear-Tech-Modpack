@@ -1,0 +1,39 @@
+{
+	title: "DFC Cores",
+	x: 17.5d,
+	y: 0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"4112c1df"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "a9352c0a",
+		type: "item",
+		items: [{
+			item: "hbm:ams_core_sing"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5bd18ca1",
+		type: "item",
+		items: [{
+			item: "hbm:ams_core_wormhole"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ba357768",
+		type: "item",
+		items: [{
+			item: "hbm:ams_core_eyeofharmony"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
