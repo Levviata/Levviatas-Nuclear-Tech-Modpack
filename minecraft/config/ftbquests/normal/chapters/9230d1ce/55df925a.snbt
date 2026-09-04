@@ -1,6 +1,6 @@
 {
 	x: 13.0d,
-	y: -5.5d,
+	y: -5.0d,
 	dependencies: [
 		"96b82733"
 	],
@@ -31,5 +31,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5f52767a",
+		type: "xp_levels",
+		xp_levels: 123
 	}]
 }

@@ -18,5 +18,10 @@
 		items: [{
 			item: "hbm:machine_supercomputer"
 		}]
+	}],
+	rewards: [{
+		uid: "1a5e7d0f",
+		type: "xp",
+		xp: 100
 	}]
 }

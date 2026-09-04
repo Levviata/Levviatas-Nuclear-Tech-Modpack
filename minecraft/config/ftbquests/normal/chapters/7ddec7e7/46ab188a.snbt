@@ -3,7 +3,7 @@
 	icon: "hbm:stone_depth",
 	x: -4.0d,
 	y: 8.0d,
-	shape: "hexagon",
+	shape: "square",
 	text: [
 		""
 	],

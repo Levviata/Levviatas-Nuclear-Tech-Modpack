@@ -1,12 +1,12 @@
 {
-	x: -11.0d,
-	y: 8.0d,
+	x: -2.5d,
+	y: -0.5d,
 	dependencies: [
 		"1fcab694",
 		"16036b6d",
 		"283366a8"
 	],
-	size: 1.5d,
+	size: 1.25d,
 	tasks: [{
 		uid: "7b2017fb",
 		type: "item",

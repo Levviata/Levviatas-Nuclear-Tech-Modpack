@@ -1,5 +1,5 @@
 {
-	x: -0.5d,
+	x: 0.0d,
 	y: 5.5d,
 	text: [
 		"The Industrial Steam Turbine accepts any Steam (but Low-Pressure) as fuel to generate power.",

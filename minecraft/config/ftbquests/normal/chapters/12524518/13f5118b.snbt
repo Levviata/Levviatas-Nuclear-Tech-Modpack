@@ -1,8 +1,8 @@
 {
 	title: "Mid Game Fuels",
 	icon: "hbm:waste_earth",
-	x: 8.125d,
-	y: 7.0d,
+	x: 7.511904761904745d,
+	y: 6.94047619047619d,
 	shape: "square",
 	description: "Post-oil",
 	text: [

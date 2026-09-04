@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:billet_yharonite"
 		}]
+	}],
+	rewards: [{
+		uid: "2342caca",
+		type: "xp_levels",
+		xp_levels: 300
 	}]
 }

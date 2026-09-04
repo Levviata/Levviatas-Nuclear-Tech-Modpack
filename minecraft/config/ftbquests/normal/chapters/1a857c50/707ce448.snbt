@@ -1,6 +1,6 @@
 {
 	title: "Redstone-over-Radio Torches",
-	x: -10.5d,
+	x: -10.0d,
 	y: 3.0d,
 	text: [
 		"Each one has an extensive manual, press F1 while hovering the item in your inventory to open it."

@@ -1,16 +1,19 @@
 {
 	x: 17.5d,
-	y: 0.5d,
+	y: 2.0d,
+	shape: "gear",
 	description: "I'm not gonna even question it.",
 	text: [
 		""
 	],
+	hide_dependency_lines: true,
 	dependencies: [
 		"42e550a8",
 		"4112c1df"
 	],
 	hide: true,
 	dependency_requirement: "one_completed",
+	size: 1.25d,
 	tasks: [{
 		uid: "05204169",
 		type: "item",
@@ -19,5 +22,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f7c48050",
+		type: "xp",
+		xp: 500
 	}]
 }

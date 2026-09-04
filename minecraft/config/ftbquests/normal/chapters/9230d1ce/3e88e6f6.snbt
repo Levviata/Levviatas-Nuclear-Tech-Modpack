@@ -19,6 +19,6 @@
 	rewards: [{
 		uid: "d4a10d5b",
 		type: "xp_levels",
-		xp_levels: 30
+		xp_levels: 100
 	}]
 }

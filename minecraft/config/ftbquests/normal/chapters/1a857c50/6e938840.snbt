@@ -15,6 +15,7 @@
 		"6c965f51"
 	],
 	dependency_requirement: "one_completed",
+	or_tasks: true,
 	tasks: [{
 		uid: "28e78b19",
 		type: "item",

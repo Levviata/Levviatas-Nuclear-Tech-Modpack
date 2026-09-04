@@ -2,6 +2,7 @@
 	title: "Pre oil",
 	x: -6.5d,
 	y: -1.5d,
+	shape: "square",
 	tasks: [{
 		uid: "4b306358",
 		type: "checkmark",

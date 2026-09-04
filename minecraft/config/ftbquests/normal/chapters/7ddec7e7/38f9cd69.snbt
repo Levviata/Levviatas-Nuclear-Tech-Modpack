@@ -3,11 +3,11 @@
 	icon: "hbm:block_waste_painted",
 	x: 0.0d,
 	y: 4.5d,
-	shape: "hexagon",
+	shape: "rsquare",
 	text: [
 		"Nuclear Tech Mod Ores"
 	],
-	size: 1.5d,
+	size: 1.4d,
 	tasks: [{
 		uid: "3e434e5a",
 		type: "checkmark"

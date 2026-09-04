@@ -4,6 +4,7 @@
 	description: "Very useful",
 	text: [
 		"The Acidizer Input Partitioner stores up to nine Ore Acidizer Inputs and releases them if they match the required input size.",
+		"",
 		"Invalid items can be extracted from the side."
 	],
 	hide_dependency_lines: true,

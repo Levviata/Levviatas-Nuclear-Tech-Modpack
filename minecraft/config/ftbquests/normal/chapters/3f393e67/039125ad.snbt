@@ -20,5 +20,10 @@
 		type: "item",
 		item: "hbm:fluid_duct_mk2 1 1",
 		count: 64
+	},
+	{
+		uid: "d301ed38",
+		type: "xp",
+		xp: 20
 	}]
 }

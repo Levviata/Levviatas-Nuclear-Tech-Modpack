@@ -2,13 +2,14 @@
 	title: "Light Oil Results",
 	icon: "hbm:fluid_icon 1 21",
 	x: -10.5d,
-	y: 0.5d,
+	y: 1.0d,
 	text: [
 		""
 	],
 	dependencies: [
 		"f6e39711"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "a836fea9",
 		type: "item",

@@ -1,7 +1,7 @@
 {
 	title: "Watz",
 	icon: "hbm:watz",
-	x: 6.0d,
+	x: 7.5d,
 	y: 5.5d,
 	description: "Not good for power",
 	text: [

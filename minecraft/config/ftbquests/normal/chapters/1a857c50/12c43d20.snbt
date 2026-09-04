@@ -1,6 +1,6 @@
 {
 	title: "Redstone-over-Radio Panels",
-	x: -8.5d,
+	x: -8.0d,
 	y: 3.0d,
 	text: [
 		"Each one has an extensive manual, press F1 while hovering the item in your inventory to open it."

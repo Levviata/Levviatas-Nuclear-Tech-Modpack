@@ -1,6 +1,6 @@
 {
 	x: 17.0d,
-	y: -5.5d,
+	y: -5.0d,
 	dependencies: [
 		"dd65ecb8",
 		"96b82733"
@@ -14,5 +14,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cadee1a1",
+		type: "xp_levels",
+		xp_levels: 50052
 	}]
 }

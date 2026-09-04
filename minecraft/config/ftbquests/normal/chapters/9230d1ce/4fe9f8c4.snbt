@@ -12,5 +12,10 @@
 		items: [{
 			item: "hbm:ingot_osmiridium"
 		}]
+	}],
+	rewards: [{
+		uid: "af704483",
+		type: "xp_levels",
+		xp_levels: 100
 	}]
 }

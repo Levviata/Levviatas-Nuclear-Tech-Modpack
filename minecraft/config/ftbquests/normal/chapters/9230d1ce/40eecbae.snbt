@@ -1,7 +1,7 @@
 {
 	disable_toast: true,
-	x: -2.5d,
-	y: 11.25d,
+	x: -5.625d,
+	y: 7.5d,
 	description: "Removed",
 	text: [
 		"I decided to remove it because its unnecessary, uranium-238 is easier to obtain and exposed into Schrabidium.",
@@ -12,12 +12,17 @@
 		"86c1bfd9"
 	],
 	size: 0.75d,
+	or_tasks: true,
 	tasks: [{
 		uid: "52d1f8af",
 		type: "item",
 		items: [{
 			item: "hbm:ingot_schraranium"
 		}]
+	},
+	{
+		uid: "a0d59d45",
+		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "5078e041",

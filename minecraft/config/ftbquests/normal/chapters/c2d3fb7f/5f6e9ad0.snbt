@@ -2,6 +2,7 @@
 	title: "Diamond Fan",
 	x: 7.412500000000023d,
 	y: 7.160714285714299d,
+	shape: "pentagon",
 	text: [
 		""
 	],

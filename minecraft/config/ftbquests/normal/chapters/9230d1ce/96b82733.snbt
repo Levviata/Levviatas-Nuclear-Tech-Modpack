@@ -1,6 +1,6 @@
 {
 	x: 15.0d,
-	y: -4.0d,
+	y: -3.5d,
 	dependencies: [
 		"4fe9f8c4"
 	],
@@ -10,5 +10,10 @@
 		items: [{
 			item: "hbm:plate_euphemium"
 		}]
+	}],
+	rewards: [{
+		uid: "c9bd2d50",
+		type: "xp_levels",
+		xp_levels: 134
 	}]
 }

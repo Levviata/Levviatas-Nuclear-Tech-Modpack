@@ -1,5 +1,5 @@
 {
-	x: 0.0d,
+	x: 0.5d,
 	y: 4.0d,
 	text: [
 		"The Stirling Engine converts TUs (heat) received from below into power. To supply with heat place any Heat box below.",

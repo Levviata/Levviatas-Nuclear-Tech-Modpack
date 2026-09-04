@@ -5,7 +5,7 @@
 			PELLET_DEPLETION: 1536504000L
 		}
 	},
-	x: 2.5d,
+	x: 3.5d,
 	y: 2.5d,
 	shape: "square",
 	description: "Neutron Flux",

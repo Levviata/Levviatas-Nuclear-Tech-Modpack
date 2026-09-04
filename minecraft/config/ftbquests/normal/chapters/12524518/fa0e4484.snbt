@@ -3,6 +3,7 @@
 	x: 3.0d,
 	y: 7.0d,
 	shape: "square",
+	description: "Pre-oil",
 	text: [
 		""
 	],

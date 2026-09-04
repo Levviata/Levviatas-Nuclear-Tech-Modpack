@@ -4,6 +4,7 @@
 	dependencies: [
 		"acc0cc6f"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "3cb29426",
 		type: "item",

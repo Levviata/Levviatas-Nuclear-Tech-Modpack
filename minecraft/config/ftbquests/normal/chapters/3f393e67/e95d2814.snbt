@@ -1,6 +1,6 @@
 {
-	x: -4.5d,
-	y: 27.0d,
+	x: -4.50595238095238d,
+	y: 26.880952380952387d,
 	text: [
 		"The Lung Diagnostic tool informs you of the current health of your lungs.",
 		"",
