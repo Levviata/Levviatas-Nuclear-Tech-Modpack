@@ -4,22 +4,34 @@
 	text: [
 		"The Fractioning Tower separates useful products from petrochemicals.",
 		"",
-		"It can make Kerosene, Bitumen, BTX, etc."
+		"To operate, give a Fluid Identifier to the machine and introduce the fluid to be separated.",
+		"",
+		"Several Towers can placed on top of each other and separated using a Separator.",
+		"",
+		"It can make Kerosene, Sodium Aluminate, BTX, etc."
 	],
 	dependencies: [
 		"893c81c8"
 	],
 	size: 1.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "cd4c1701",
 		type: "item",
 		items: [{
 			item: "hbm:machine_fraction_tower"
 		}]
+	},
+	{
+		uid: "ca11fd79",
+		type: "item",
+		items: [{
+			item: "hbm:fraction_spacer"
+		}]
 	}],
 	rewards: [{
 		uid: "33e3b66f",
 		type: "xp",
-		xp: 10
+		xp: 150
 	}]
 }
