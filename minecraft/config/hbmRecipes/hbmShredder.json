@@ -979,7 +979,11 @@
     {
       "input": ["hbm:block_slag",1,1],
       "output": ["hbm:powder_cement",4]
+    },
+    {
+      "input": ["minecraft:dragon_egg",1],
+      "output": ["hbm:powder_spark_mix",12]
     }
   ],
-  "comment": "block of slag:1 recipe, total 1"
+  "comment": "recipes: block of slag:1, dragon egg, total 2"
 }
