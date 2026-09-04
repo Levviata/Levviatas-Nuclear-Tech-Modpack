@@ -3129,6 +3129,18 @@
     },
     {
       "inputs": [
+        ["item","hbm:machine_fluidtank"]
+      ],
+      "outputs": [
+        ["hbm:plate_steel",5,0,1.0],
+        ["hbm:shell",2,30,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
         ["item","hbm:undefined",9]
       ],
       "outputs": [
@@ -3226,20 +3238,16 @@
     },
     {
       "inputs": [
-        ["dict","plateSextupleAnyResistantAlloy",4],
-        ["dict","ingotSchrabidium",8],
-        ["dict","ingotMagnetizedTungsten",8],
-        ["item","hbm:pa_coil",1,3],
-        ["dict","gunMechanismSaturnite",2],
-        ["item","hbm:undefined",2]
+        ["item","hbm:machine_stirling"],
+        ["item","hbm:undefined",8]
       ],
       "outputs": [
-        ["single",["hbm:machine_stirling_creative",1]]
+        ["single",["hbm:machine_stirling_creative",1.0]]
       ],
       "tierLower": 1916169,
       "tierUpper": -1,
       "overlay": "CONSTRUCTION"
     }
   ],
-  "comment": "Removed breeder and research, ura rod, source rod, boron rod, rod detector, lithium rod, pluto rod, pluto239 rod. +9, Added glitch, ducc, broadcaster pc, creative: klystron, wireless grid, storage, storage disk, battery. +8. Total 17"
+  "comment": "Removed breeder and research, ura rod, source rod, boron rod, rod detector, lithium rod, pluto rod, pluto239 rod. +9, Added fluid tank, glitch, ducc, broadcaster pc, creative: klystron, wireless grid, storage, storage disk, battery. +9. Total 18"
 }
