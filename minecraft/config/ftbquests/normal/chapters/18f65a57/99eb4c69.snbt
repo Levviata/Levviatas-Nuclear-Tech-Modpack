@@ -1,0 +1,30 @@
+{
+	icon: "hbm:pribris_radiating",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		"There are three main bosses in Nuclear Tech",
+		"",
+		"- Mask Man",
+		"- Balls-O-Tron Prime",
+		"- and Martian Invasion Ship",
+		"",
+		"There's also a bunch of tough minibosses like the",
+		"",
+		"- Nuclear Creeper",
+		"- Meltdown Elemental (and the champion variant)",
+		"- and Big Man Jonhson (nuclear glyphid)"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "ea8379f2",
+		type: "checkmark",
+		title: "Bosses"
+	}],
+	rewards: [{
+		uid: "e2c66fd6",
+		type: "xp",
+		xp: 20
+	}]
+}

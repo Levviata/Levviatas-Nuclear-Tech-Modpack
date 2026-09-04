@@ -1,0 +1,20 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	shape: "gear",
+	description: "Nuclear Glyphid",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "d00ddbf5",
+		type: "kill",
+		entity: "hbm:entity_glyphid_nuclear",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3deefbf5",
+		type: "xp_levels",
+		xp_levels: 10
+	}]
+}

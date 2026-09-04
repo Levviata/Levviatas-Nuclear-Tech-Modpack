@@ -1,0 +1,48 @@
+{
+	x: 1.5d,
+	y: 2.5d,
+	shape: "gear",
+	text: [
+		"The Martian Invasion Ship is the last boss in Nuclear Tech, having 20k health, insane damage, and ludicrous attack patterns.",
+		"",
+		"To defeat it the Remnant Power Armor is a desirable choice with a Minigun or a similar high dps gun.",
+		"",
+		"Bit easier than BOT as the ship exposes its main body, which takes full damage.",
+		"",
+		"When killed it will give UFO Coin.",
+		"",
+		"The UFO Coin unlocks the last of the end-game ",
+		"- Gerald",
+		"- and the Schrabidium Hammer.",
+		"",
+		"Trivia:",
+		"",
+		"- The name and boss theme is a direct reference to Terraria's Martian Invasion Ship, which is a miniboss that appears during the Martian Madness event."
+	],
+	size: 1.25d,
+	or_tasks: true,
+	tasks: [{
+		uid: "0da8ebc4",
+		type: "kill",
+		icon: "hbm:spawn_ufo",
+		entity: "hbm:entity_ntm_ufo",
+		value: 1L
+	},
+	{
+		uid: "db40cdc3",
+		type: "item",
+		items: [{
+			item: "hbm:coin_ufo"
+		}]
+	}],
+	rewards: [{
+		uid: "1c7b07e5",
+		type: "xp_levels",
+		xp_levels: 350
+	},
+	{
+		uid: "a2d0e5bb",
+		type: "random",
+		table: 2
+	}]
+}

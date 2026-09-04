@@ -1,0 +1,47 @@
+{
+	x: -1.5d,
+	y: 2.5d,
+	shape: "gear",
+	text: [
+		"Mask Man has a 1/3 chance to spawn every 20~ minutes if the player is underground, has over 50 RADs contamination, and if he has crafted an Ore Acidizer",
+		"",
+		"Killing Mask Man gives",
+		"- M65-Z Gas Mask",
+		"- V1",
+		"- Skeleton Skull",
+		"- and importantly, Maskman Coin",
+		"",
+		"The Maskman Coin can be used to make powerful items",
+		"",
+		"Like",
+		"- Large Silver Key (which unlocks the next boss)",
+		"- Heart Booster (+40 health)",
+		"- Glider Jetpack and Ace of Spades (custom recipe)"
+	],
+	size: 1.25d,
+	or_tasks: true,
+	tasks: [{
+		uid: "651b5ce5",
+		type: "kill",
+		icon: "hbm:gas_mask_m65",
+		entity: "hbm:entity_mask_man",
+		value: 1L
+	},
+	{
+		uid: "db2d8739",
+		type: "item",
+		items: [{
+			item: "hbm:coin_maskman"
+		}]
+	}],
+	rewards: [{
+		uid: "a14d5ab9",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "d5d3f410",
+		type: "random",
+		table: 2
+	}]
+}

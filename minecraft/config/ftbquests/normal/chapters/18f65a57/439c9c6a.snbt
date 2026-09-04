@@ -1,0 +1,56 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	shape: "gear",
+	text: [
+		"Balls-O-Tron Prime (BOT) is a tough boss that can be spawned",
+		"- using a Large Silver Key in a mechanist's circle (a block, to spawn right-click with key. These can be found in a normal Jungle Pyramid)",
+		"- or by assembling and using it's summoning item.",
+		"",
+		"It has 15000 health and the body segments spawn green lasers, the segments and head deal contact damage, with the head dealing 1000 damage.",
+		"",
+		"Its advised to use Lunar Cybernetic or Schrabidium armor for mobility or defense.",
+		"",
+		"To deal damage a Shredder or Minigun are optimal, the segments can be destroyed which can kill BOT by reducing it to enough segments but destroying the head kills instantly.",
+		"",
+		"When killed it will give Balls-O-Tron Coin.",
+		"",
+		"The coin can be used to make",
+		"- Martian Invasion Ship",
+		"- DNT Nano Suit Leggings",
+		"- Heart of Darkness",
+		"- Queen of Spades (custom recipe)",
+		"",
+		"Trivia:",
+		"",
+		"- Balls-O-Tron was canonically created by Mask Man as a mechanical penis enlargement, but was too big and gained sentience.",
+		"",
+		"- Its a direct reference to The Destroyer from Terraria, a mechanical worm boss."
+	],
+	size: 1.25d,
+	or_tasks: true,
+	tasks: [{
+		uid: "a05fd537",
+		type: "kill",
+		icon: "hbm:spawn_worm",
+		entity: "hbm:entity_balls_o_tron",
+		value: 1L
+	},
+	{
+		uid: "10700391",
+		type: "item",
+		items: [{
+			item: "hbm:coin_worm"
+		}]
+	}],
+	rewards: [{
+		uid: "755795fd",
+		type: "xp_levels",
+		xp_levels: 100
+	},
+	{
+		uid: "9af1cbc8",
+		type: "random",
+		table: 2
+	}]
+}

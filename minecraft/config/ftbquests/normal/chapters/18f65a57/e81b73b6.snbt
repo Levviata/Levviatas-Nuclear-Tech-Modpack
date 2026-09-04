@@ -1,0 +1,16 @@
+{
+	icon: "hbm:pribris",
+	x: 0.0d,
+	y: 4.5d,
+	shape: "square",
+	tasks: [{
+		uid: "fcdff2d7",
+		type: "checkmark",
+		title: "Mini Bosses"
+	}],
+	rewards: [{
+		uid: "196c487c",
+		type: "xp",
+		xp: 20
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		"this shit dont work",
+		"",
+		"norwood pls fix"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "4b03f0f7",
+		type: "checkmark",
+		title: "Carts and Rails"
+	}]
+}
