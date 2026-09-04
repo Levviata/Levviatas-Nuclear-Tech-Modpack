@@ -4,7 +4,7 @@
 	text: [
 		"The Multi Fluid Identifier can apply an identifier to pipes, machines, or tanks.",
 		"",
-		" Fluids will only move from A to B when the correct identifier is applied."
+		"Pipes should have the appropriate fluid identifier or no fluid will go in or out! "
 	],
 	dependencies: [
 		"e4708a01"

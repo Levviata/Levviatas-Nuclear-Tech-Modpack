@@ -10,14 +10,7 @@
 		"",
 		" Mobs will drop Small Pile of Nitra on death which can be crafted into Nitra or Stimpacks, Nitra can duplicate some types of bullets. ",
 		"",
-		"",
-		"The Impact Drill is a pickaxe with high damage that must be powered, it has the same abilities excluding the Weapon Modifiers.",
-		"",
-		"",
-		"The Spiral Drill is a shovel with decent damage that must be powered, it has the same abilities.",
-		"",
-		"",
-		"There's also the Stun Stick but the swords are more cool cmon."
+		"The Impact and Spiral Drill work the same as the chainsaw, without the weapon modificators."
 	],
 	dependencies: [
 		"6dfb480a"

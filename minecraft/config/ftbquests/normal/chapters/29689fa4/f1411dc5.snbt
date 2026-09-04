@@ -3,7 +3,9 @@
 	x: -3.5d,
 	y: 6.0d,
 	text: [
-		"At any point in the processing steps the product may be shredded into Gravel. This is useful if you only want to produce a certain material."
+		"At any point in the processing steps the product may be shredded into Gravel.",
+		"",
+		"This may be useful to get specific products."
 	],
 	hide_dependency_lines: true,
 	dependencies: [

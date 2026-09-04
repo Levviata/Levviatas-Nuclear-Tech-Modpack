@@ -3,7 +3,9 @@
 	x: 11.03214285714283d,
 	y: -4.4452380952381105d,
 	text: [
-		"The Laser Rifle deals 50 damage and its ammo is Capacitors (not the circuits)."
+		"The Laser Rifle is a end game weapon that deals 50 Damage.",
+		"",
+		"Uses a special kind of capacitors as ammo."
 	],
 	dependencies: [
 		"f90a1d32"

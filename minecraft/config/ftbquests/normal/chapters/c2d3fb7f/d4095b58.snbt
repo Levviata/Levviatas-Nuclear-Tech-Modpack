@@ -4,7 +4,9 @@
 	y: 0.75d,
 	shape: "rsquare",
 	text: [
-		"In this chapter we will go through the Vanilla early game and the transition to Hbm's Nuclear Tech Mod's early game."
+		"In this chapter we will go through the Vanilla early game and some Nuclear Tech items.",
+		"",
+		"For unlocking the next Nuclear Tech chapter, complete \"What me do next?\" quest in LvNTM chapter."
 	],
 	size: 1.5d,
 	tasks: [{
