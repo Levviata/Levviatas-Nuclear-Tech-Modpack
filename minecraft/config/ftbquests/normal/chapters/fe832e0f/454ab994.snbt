@@ -1,6 +1,15 @@
 {
 	x: 0.5d,
 	y: -13.0d,
+	text: [
+		"Fits any Resistant Alloy weapon.",
+		"",
+		"Like",
+		"- Comically Long Pistol",
+		"- Tesla Cannon",
+		"- Minigun",
+		"- Missile Launcher"
+	],
 	tasks: [{
 		uid: "9fae32a7",
 		type: "item",

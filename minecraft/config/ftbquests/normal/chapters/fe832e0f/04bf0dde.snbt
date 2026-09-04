@@ -1,6 +1,16 @@
 {
 	x: -0.5d,
 	y: -14.0d,
+	text: [
+		"Fits any High-Speed Steel weapon.",
+		"",
+		"Like",
+		"- .22 Submachine Gun",
+		"- Liberator",
+		"- Congo Lake",
+		"- Flamethrower",
+		"- Mister Topaz"
+	],
 	tasks: [{
 		uid: "b92ab595",
 		type: "item",

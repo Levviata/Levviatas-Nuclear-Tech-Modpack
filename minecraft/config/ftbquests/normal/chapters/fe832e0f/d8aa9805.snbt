@@ -1,6 +1,9 @@
 {
 	x: 2.5d,
 	y: -13.5d,
+	text: [
+		"Fits in the Laser Rifle."
+	],
 	tasks: [{
 		uid: "6269cc62",
 		type: "item",

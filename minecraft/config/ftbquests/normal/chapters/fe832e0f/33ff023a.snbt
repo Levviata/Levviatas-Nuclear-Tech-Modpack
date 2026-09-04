@@ -1,6 +1,15 @@
 {
 	x: 1.5d,
 	y: -14.0d,
+	text: [
+		"Fits any Ferrouraniumm weapon.",
+		"",
+		"Like",
+		"- Anti-Materiel Rifle",
+		"- Autoshotgun",
+		"- Shredder",
+		"- Quad Rocket Launcher"
+	],
 	tasks: [{
 		uid: "b88dd69a",
 		type: "item",

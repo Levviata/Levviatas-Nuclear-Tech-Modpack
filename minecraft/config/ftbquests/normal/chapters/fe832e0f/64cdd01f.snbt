@@ -1,6 +1,16 @@
 {
 	x: 0.5d,
 	y: -14.0d,
+	text: [
+		"Fits any Weapon Steel gun.",
+		"",
+		"Like",
+		"- Target Pistol and dual guns",
+		"- Assault Rifle",
+		"- Zebra Rifle",
+		"- Grenade Machinegun",
+		"- Chemthrower"
+	],
 	tasks: [{
 		uid: "a412246d",
 		type: "item",

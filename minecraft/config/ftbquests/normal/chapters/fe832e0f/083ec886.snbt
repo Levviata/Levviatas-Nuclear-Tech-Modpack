@@ -1,6 +1,16 @@
 {
 	x: 1.5d,
 	y: -13.0d,
+	text: [
+		"Fits any Saturnite weapon.",
+		"",
+		"Like",
+		"- Tau Cannon",
+		"- Laser Pistol",
+		"- Pew Pew",
+		"- StG 77",
+		"- Fat Man"
+	],
 	tasks: [{
 		uid: "c5193814",
 		type: "item",
