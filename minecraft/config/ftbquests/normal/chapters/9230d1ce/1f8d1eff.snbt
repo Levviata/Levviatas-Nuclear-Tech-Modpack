@@ -1,6 +1,13 @@
 {
 	x: 3.0d,
 	y: 13.0d,
+	text: [
+		"Calcium Powder can be obtained from processing",
+		"- Block of slag",
+		"- Calcium Solution",
+		"- Limestone Powder",
+		"- or Chlorocalcite"
+	],
 	dependencies: [
 		"5f05da83"
 	],

@@ -3,12 +3,15 @@
 	y: -3.5d,
 	description: "§e§nRequires:§r§e Industrial Smokestack",
 	text: [
-		""
+		"Fullerene Solution can be processed in a SILEX to get Fullerene.",
+		"",
+		"Fullerene can be crystallized in a Ore acidizer to get an important end-game material."
 	],
 	min_required_dependencies: 1,
 	dependencies: [
 		"84cccbc5"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "b7fefc7d",
 		type: "item",

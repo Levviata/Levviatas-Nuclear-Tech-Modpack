@@ -1,6 +1,14 @@
 {
 	x: 20.0d,
 	y: 7.5d,
+	text: [
+		"Trixite can processed into a variety of rare materials, like niobium, cobalt, plutonium, and Nitanium.",
+		"",
+		"Nitanium can be mixed into an extremely good fuel called NITAN 100 Octane Super Fuel which provides160MHE per bucket as combustible.",
+		"",
+		"It can also make a Off-Brand Spark Battery which can be used to make the Infinite Battery.",
+		"(custom recipe)"
+	],
 	dependencies: [
 		"720c25b9"
 	],
@@ -10,5 +18,10 @@
 		items: [{
 			item: "hbm:ore_tikite"
 		}]
+	}],
+	rewards: [{
+		uid: "7c69d0b8",
+		type: "xp",
+		xp: 100
 	}]
 }

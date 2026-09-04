@@ -2,6 +2,9 @@
 	x: 0.0d,
 	y: 24.5d,
 	shape: "square",
+	text: [
+		"These are produced and used in the Fusion Reactor."
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "83fe8b1c",

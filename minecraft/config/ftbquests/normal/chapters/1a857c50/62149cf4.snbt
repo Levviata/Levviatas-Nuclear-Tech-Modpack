@@ -1,6 +1,9 @@
 {
 	x: 18.53214285714283d,
 	y: -5.4452380952381105d,
+	text: [
+		"Summons a Half-Life 2 helicopter."
+	],
 	dependencies: [
 		"b5bdadf2"
 	],
@@ -12,5 +15,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "626167e0",
+		type: "xp",
+		xp: 100
 	}]
 }

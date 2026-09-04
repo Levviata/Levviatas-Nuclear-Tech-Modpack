@@ -2,6 +2,19 @@
 	x: 4.0d,
 	y: -5.0d,
 	shape: "hexagon",
+	text: [
+		"The Gas Centrifuge can process hexafluorides like hexa Plutonium and hexa Uranium.",
+		"",
+		"Several gas centrifuges can be linked up which is required to process hexa Uranium and Uranium-235.",
+		"",
+		"Normally, only two centrifuges can be linked, but with the Overclocking Upgrade it can go up to 4.",
+		"",
+		"(to read the recipes, ",
+		"§2x G. Cents§r ",
+		"equals ",
+		"§21-4 Gas Centrifuges§r, ",
+		"this green text indicates the amount of linked centrifuges required)."
+	],
 	dependencies: [
 		"e05443a9"
 	],
@@ -16,6 +29,6 @@
 	rewards: [{
 		uid: "eef97699",
 		type: "xp",
-		xp: 20
+		xp: 100
 	}]
 }

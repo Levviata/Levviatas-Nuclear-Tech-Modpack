@@ -1,6 +1,23 @@
 {
 	x: -1.5d,
 	y: -5.5d,
+	text: [
+		"The Tank can hold 256000mB of fluid.",
+		"",
+		"It can store",
+		"- Corrosive",
+		"- and Hot fluids",
+		"",
+		"But it can't store",
+		"- Antimatter",
+		"- and Highly Corrosive fluids",
+		"",
+		"If Highly Corrosive (strongly corrosive) is stored the Tank will break, slowly venting the stored contents.",
+		"",
+		"If Antimatter is stored, the Tank will violently explode, dealing small damage and sending neutron flux in a radius contamining entities with 200~ rads. The antimatter will be voided instantly as well.",
+		"",
+		"A broken Tank can be recycled in any Anvil to get some resources back (courtesy of me, you are welcome)."
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "9ae8a18c",

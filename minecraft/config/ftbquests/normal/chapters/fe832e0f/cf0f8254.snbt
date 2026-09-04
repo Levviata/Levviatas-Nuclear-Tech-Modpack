@@ -1,6 +1,9 @@
 {
 	x: 1.5d,
 	y: 12.5d,
+	text: [
+		"The Chemthrower uses any fluid as fuel. Seriously, anything."
+	],
 	dependencies: [
 		"27d2816a"
 	],
@@ -15,12 +18,12 @@
 				mouse1_0: 0b,
 				animtimer_0: 408,
 				mouse3_0: 0b,
-				lastanim_0: 10,
 				timer_0: 0,
+				lastanim_0: 10,
 				aiming: 0b,
 				cancel: 0b,
-				mouse2_0: 0b,
-				eqipped: 1b
+				eqipped: 1b,
+				mouse2_0: 0b
 			}
 		}],
 		ignore_damage: true,

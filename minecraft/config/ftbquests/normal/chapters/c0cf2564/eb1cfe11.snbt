@@ -1,6 +1,20 @@
 {
 	x: 0.0d,
 	y: -5.5d,
+	text: [
+		"The Big-Ass Tank can hold 16.000.000mB (16 thousand buckets) of fluid.",
+		"",
+		"If the tank isn't placed on a stable foundation, it will scare you to hell with a loud sound.",
+		"",
+		"It can hold",
+		"- Hot",
+		"- Strongly Corrosive",
+		"",
+		"But it can't store antimatter.",
+		"",
+		"Unlike the Tank, if antimatter is stored the tank will be voided, leaving fire and a crater.",
+		"No contamination will be spread."
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "646f616d",

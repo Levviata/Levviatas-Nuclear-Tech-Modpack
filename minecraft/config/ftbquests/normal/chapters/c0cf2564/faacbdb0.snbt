@@ -1,6 +1,11 @@
 {
 	x: 1.5d,
 	y: -4.0d,
+	text: [
+		"The Magnetic Antimatter Container can hold 16000mB.",
+		"",
+		"It can store all fluids, including antimatter."
+	],
 	tasks: [{
 		uid: "d2457e35",
 		type: "item",

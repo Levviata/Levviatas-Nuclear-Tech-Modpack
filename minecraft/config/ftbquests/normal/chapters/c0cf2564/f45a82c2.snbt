@@ -1,6 +1,11 @@
 {
 	x: 1.5d,
 	y: -5.5d,
+	text: [
+		"The Heavy Magnetic Storage Tank can hold 512000mB of fluid.",
+		"",
+		"It can store any fluid, including antimatter."
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "badab6a7",
