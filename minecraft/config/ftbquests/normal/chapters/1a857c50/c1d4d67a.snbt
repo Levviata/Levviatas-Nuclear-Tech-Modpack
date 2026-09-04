@@ -1,0 +1,52 @@
+{
+	title: "Bauxite Solution Results",
+	icon: "hbm:fluid_icon 1 150",
+	x: -10.5d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f6e39711"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "871a5abc",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 114"
+		}]
+	},
+	{
+		uid: "28885cc5",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 149"
+		}]
+	},
+	{
+		uid: "9747d2ed",
+		type: "fluid",
+		fluid: "redmud"
+	},
+	{
+		uid: "153b82fe",
+		type: "fluid",
+		fluid: "sodium_aluminate"
+	}],
+	rewards: [{
+		uid: "262a3b96",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "64db5e5a",
+		type: "item",
+		item: "hbm:fluid_tank_lead_full 1 114"
+	},
+	{
+		uid: "a89b352d",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 149"
+	}]
+}

@@ -1,0 +1,52 @@
+{
+	title: "Reformate Results",
+	icon: "hbm:fluid_icon 1 92",
+	x: -11.0d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f6e39711"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "5d46b076",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 67"
+		}]
+	},
+	{
+		uid: "aa197d2d",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 95"
+		}]
+	},
+	{
+		uid: "316c33b5",
+		type: "fluid",
+		fluid: "aromatics"
+	},
+	{
+		uid: "3736435e",
+		type: "fluid",
+		fluid: "xylene"
+	}],
+	rewards: [{
+		uid: "c4692e85",
+		type: "xp",
+		xp: 20
+	},
+	{
+		uid: "07ae418d",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 67"
+	},
+	{
+		uid: "386be3fd",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 95"
+	}]
+}
