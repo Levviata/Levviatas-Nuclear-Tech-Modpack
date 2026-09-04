@@ -32,6 +32,6 @@
 		uid: "0ded2994",
 		type: "item",
 		item: "hbm:syringe_metal_stimpak",
-		count: 8
+		count: 16
 	}]
 }

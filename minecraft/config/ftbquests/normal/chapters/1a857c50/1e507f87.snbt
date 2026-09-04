@@ -16,5 +16,11 @@
 		items: [{
 			item: "hbm:barrel_antimatter"
 		}]
+	}],
+	rewards: [{
+		uid: "b659bc0f",
+		type: "item",
+		item: "hbm:ingot_saturnite",
+		count: 12
 	}]
 }

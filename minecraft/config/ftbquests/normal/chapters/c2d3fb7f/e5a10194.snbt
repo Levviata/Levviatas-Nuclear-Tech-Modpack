@@ -22,5 +22,11 @@
 		uid: "8a5d12af",
 		type: "random",
 		table: 2
+	},
+	{
+		uid: "ca38db83",
+		type: "item",
+		item: "minecraft:blaze_rod",
+		count: 12
 	}]
 }
