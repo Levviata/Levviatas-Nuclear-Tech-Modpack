@@ -3,5 +3,19 @@
 	icon: "hbm:conveyor_wand 1 3",
 	always_invisible: false,
 	group: -560674171,
-	default_quest_shape: ""
+	default_quest_shape: "",
+	images: [{
+		x: 2.0d,
+		y: 0.0d,
+		width: 1.55d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image6.png",
+		hover: [
+			"Transport Drone Tutorial",
+			"By Savage Vegeta"
+		],
+		click: "https://youtu.be/EaPSZcSy4Sg?si=C98qDnocTOt68Dyb&t=170",
+		dev: false
+	}]
 }
