@@ -8,10 +8,5 @@
 			item: "hbm:fluid_icon 1 54"
 		}],
 		consume_items: true
-	},
-	{
-		uid: "d8c62c82",
-		type: "fluid",
-		fluid: "plasma_bf"
 	}]
 }
