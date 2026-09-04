@@ -1,6 +1,10 @@
 {
 	x: 3.5d,
 	y: 5.5d,
+	description: "Stacks up to 16",
+	text: [
+		""
+	],
 	tasks: [{
 		uid: "6c4509ae",
 		type: "item",

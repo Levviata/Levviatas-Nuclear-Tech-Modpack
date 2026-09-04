@@ -1,7 +1,8 @@
 {
-	x: -8.5d,
+	x: 13.5d,
 	y: -6.0d,
 	shape: "square",
+	description: "Obligatory",
 	text: [
 		"Chips determine the accuracy of the missile."
 	],
