@@ -1056,12 +1056,6 @@ crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), 
 crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_desh').reuse()])
 recipeCount += 3*/
 
-// Sacrifice.
-crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_steel:*').reuse().transformDamage(2)])
-crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_titanium:*').reuse().transformDamage(2)])
-crafting.addShapeless(item('hbm:powder_spark_mix') * 10, [item('minecraft:dragon_egg'), item('hbm:blades_desh').reuse()])
-recipeCount += 3
-
 // meteorite sword filler recipes
 crafting.shapedBuilder()
         .output(item('hbm:meteorite_sword_machined'))
@@ -1606,6 +1600,17 @@ recipeCount++
 recipeCount++
 recipeCount++
 recipeCount++
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:medal_liquidator'))
+        .row('ABA')
+        .row('BCB')
+        .row('ABA')
+        .key('A', item('hbm:nugget_au198'))
+        .key('B', item('hbm:ingot_boron'))
+        .key('C', item('hbm:coin_radiation'))
+        .register()
 recipeCount++
 
 // END NUCLEAR TECH //
