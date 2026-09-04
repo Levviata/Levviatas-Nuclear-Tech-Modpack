@@ -1,0 +1,26 @@
+{
+	x: 25.5d,
+	y: 7.0d,
+	text: [
+		"Undefined can make a lot of creative or broken items.",
+		"",
+		"Like (Creative)",
+		"- Stirling Engine",
+		"- Klystron",
+		"- Battery (Infinite battery)",
+		"- N I 4 N I",
+		"- Destruction and Construction Wands",
+		"- Glitch",
+		"- And many more."
+	],
+	dependencies: [
+		"eb4863d6"
+	],
+	tasks: [{
+		uid: "4a88efb2",
+		type: "item",
+		items: [{
+			item: "hbm:undefined"
+		}]
+	}]
+}
