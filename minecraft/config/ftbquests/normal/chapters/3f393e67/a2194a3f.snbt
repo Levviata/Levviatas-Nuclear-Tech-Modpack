@@ -22,11 +22,5 @@
 		type: "item",
 		item: "hbm:charge_dynamite",
 		count: 8
-	},
-	{
-		uid: "2908b741",
-		type: "item",
-		item: "hbm:gravel_diamond",
-		count: 4
 	}]
 }
