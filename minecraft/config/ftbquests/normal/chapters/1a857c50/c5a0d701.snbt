@@ -3,7 +3,7 @@
 	x: 11.5d,
 	y: 5.5d,
 	shape: "pentagon",
-	description: "12x of each",
+	description: "128x of each",
 	text: [
 		""
 	],
