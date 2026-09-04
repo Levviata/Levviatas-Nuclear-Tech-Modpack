@@ -1,7 +1,7 @@
 {
 	disable_toast: true,
-	x: -4.5d,
-	y: -2.0d,
+	x: 2.5d,
+	y: -1.5d,
 	text: [
 		"Original had no recipe.",
 		"",
