@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "b6d2b249",
+		type: "item",
+		items: [{
+			id: "hbm:cart",
+			tag: {
+				cartBase: 1
+			}
+		}]
+	}]
+}
