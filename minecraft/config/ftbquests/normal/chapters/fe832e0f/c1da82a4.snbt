@@ -9,7 +9,7 @@
 		"",
 		"To fix them you can use a Gun Kit.",
 		"",
-		"All repair kits fix 25% of your guns total durability."
+		"All repair kits fix 25% of your guns total durability, only guns in the hotbar will be fixed."
 	],
 	size: 1.25d,
 	tasks: [{

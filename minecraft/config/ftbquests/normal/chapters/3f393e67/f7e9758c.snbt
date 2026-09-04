@@ -4,7 +4,9 @@
 	text: [
 		"Barrels are a easy and compact way to store a small quantity of fluids.",
 		"",
-		"The Safe Barrel is able to contain 12000mB (12 Buckets) of fluid but it cannot store hot, corrosive, or antimatter."
+		"The Safe Barrel is able to contain 12000mB (12 Buckets) of fluid but it cannot store hot, corrosive, or antimatter.",
+		"",
+		"Check out the Fluids chapter, it has full information for all barrels, tanks, and pipes!"
 	],
 	dependencies: [
 		"e4708a01"

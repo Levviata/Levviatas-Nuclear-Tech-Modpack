@@ -9,7 +9,9 @@
 		"",
 		"Has custom recipes for",
 		"- Railgun and Deuterium Plasma Capsule",
-		"- Dual Miniguns"
+		"- Dual Miniguns",
+		"",
+		"Can make Fusion Reactor Vessels for cheaper."
 	],
 	dependencies: [
 		"f547edc2"

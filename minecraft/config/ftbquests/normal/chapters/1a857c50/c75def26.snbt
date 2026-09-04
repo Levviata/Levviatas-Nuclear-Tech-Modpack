@@ -1,13 +1,15 @@
 {
-	x: -11.166666666666664d,
-	y: -4.092261904761905d,
+	x: -9.50595238095238d,
+	y: -4.714285714285715d,
 	text: [
-		"The Tank is the golden rule of fluid storage and it can hold 256000mB (256 Buckets) of any non-hazardous or antimatter fluid."
+		"The Tank is the golden rule of fluid storage and it can hold 256000mB (256 Buckets) of any non-hazardous or antimatter fluid.",
+		"",
+		"If you haven't, check out the Fluids chapter, it has full information for all barrels, tanks, and pipes!"
 	],
 	dependencies: [
 		"017d61b7"
 	],
-	size: 1.25d,
+	size: 1.5d,
 	tasks: [{
 		uid: "e4fe6f4c",
 		type: "item",

@@ -2,7 +2,9 @@
 	x: 8.5d,
 	y: 14.0d,
 	text: [
-		"There are many tiers of capacitors for Electricity Pylons, these are separate from the Capacitors inserted in Battery Sockets, think of these as \"mini\" capacitors."
+		"There are many tiers of capacitors for Electricity Pylons, these are separate from the Capacitors inserted in Battery Sockets, think of these as \"mini\" capacitors.",
+		"",
+		"All other mini capacitors can be found in the Batteries chapter."
 	],
 	dependencies: [
 		"9c0bfbee"

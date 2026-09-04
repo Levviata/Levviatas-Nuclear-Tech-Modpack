@@ -1,4 +1,5 @@
 {
+	title: "Heavy Oil",
 	x: -2.0d,
 	y: -2.0d,
 	text: [
@@ -9,7 +10,7 @@
 		"- Coal Gasoline",
 		"- Oil tar",
 		"",
-		"Not that useful. Good to make Bitumen and then Asphalt, which increases your walking speed."
+		"Not that useful by itself, though its good to make Bitumen and then Asphalt, which increases your walking speed."
 	],
 	dependencies: [
 		"893c81c8"

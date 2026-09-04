@@ -2,7 +2,7 @@
 	x: -2.5d,
 	y: 0.0d,
 	text: [
-		"Obtained from the Oil Refinery.",
+		"Obtained from the Oil Refinery and then heated.",
 		"",
 		"Crude Oil is used to make the most important petrochemicals for the mid game",
 		"- Light Oil",

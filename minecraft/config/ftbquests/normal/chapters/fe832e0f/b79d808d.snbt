@@ -6,7 +6,9 @@
 	text: [
 		"The Powered Drill is an useful utility weapon that mines blocks in a 3x3 area.",
 		"",
-		"As fuel/ammo it will accept any gasoline. To fil,l place in a tank as if you were to fill a canister."
+		"As fuel/ammo it will accept any gasoline. To filll place in a tank as if you were to fill a canister.",
+		"",
+		"Has different engines (weapon mods), these have different fuels which are displayed in the item's tooltip (by me, you are welcome)."
 	],
 	dependencies: [
 		"22e92344"
