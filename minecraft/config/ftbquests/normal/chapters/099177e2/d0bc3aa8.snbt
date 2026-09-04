@@ -3,12 +3,12 @@
 		id: "hbm:missile_custom",
 		tag: {
 			stability: 6916,
-			chip: 7012,
-			fuselage: 6968,
+			warhead: 6999,
 			display: {
 				Name: "§5Polite Lad"
 			},
-			warhead: 6999,
+			fuselage: 6968,
+			chip: 7012,
 			thruster: 6896
 		}
 	},
@@ -36,7 +36,11 @@
 		"",
 		"For irregular fuselage sizes like 10/15, a warhead of size 10 fits with size 15 thruster for example.",
 		"",
-		"All missiles have HP which determine how hard is it to take down. This is specially important in mutliplayer agaisnt enemy Henry and Howard turrets."
+		"All missiles have HP which determine how hard is it to take down. This is specially important in mutliplayer agaisnt enemy Henry and Howard turrets.",
+		"",
+		"The chart can be read",
+		"- horizontally which is the size of the component",
+		"- and vertically for the component type."
 	],
 	size: 1.75d,
 	tasks: [{
