@@ -4,7 +4,14 @@
 	y: -11.0d,
 	shape: "hexagon",
 	text: [
-		"The T-51b Power Armor is a set"
+		"The T-51b Power Armor is a direct upgrade from titanium and generally a good choice.",
+		"",
+		"As a full set",
+		"- 35% fire resistance if total damage received is 0.5% fire damage",
+		"- 15% physical resistance if received is 2% physical",
+		"- 25% explosion resistance if received is 5% explosion",
+		"- 100% fall damage resistance",
+		"- And 10% resistance to anything else"
 	],
 	dependencies: [
 		"37308693"
