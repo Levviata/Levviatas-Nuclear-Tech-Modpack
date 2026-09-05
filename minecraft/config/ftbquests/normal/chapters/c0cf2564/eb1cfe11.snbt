@@ -4,11 +4,11 @@
 	text: [
 		"The Big-Ass Tank can hold 16.000.000mB (16 thousand buckets) of fluid.",
 		"",
-		"If the tank isn't placed on a stable foundation, it will scare you to hell with a loud sound.",
+		"If the tank isn't placed on a stable foundation it will scare you to hell with a loud sound.",
 		"",
 		"It can hold",
 		"- Hot",
-		"- Strongly Corrosive",
+		"- and Strongly Corrosive fluids",
 		"",
 		"But it can't store antimatter.",
 		"",

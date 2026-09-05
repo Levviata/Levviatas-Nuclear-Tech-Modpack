@@ -4,7 +4,7 @@
 	text: [
 		"Grenades are completely customizable and come in 4 types with over 159 different combinations.",
 		"",
-		"Check out the \"Grenades\" chapter!"
+		"Check out the Grenades chapter!"
 	],
 	dependencies: [
 		"86867f7a"
