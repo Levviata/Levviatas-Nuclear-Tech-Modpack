@@ -1,6 +1,9 @@
 {
 	x: 3.0d,
 	y: -11.5d,
+	text: [
+		"The Turret Mob Filter gives turrets a set of mobs to filter, it can be a black and whitelist."
+	],
 	dependencies: [
 		"16c32ffa"
 	],

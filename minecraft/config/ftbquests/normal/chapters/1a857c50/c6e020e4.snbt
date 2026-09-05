@@ -1,6 +1,15 @@
 {
 	x: -2.5d,
 	y: -12.5d,
+	text: [
+		"The Industrial Combustion Engine is a generator with configurable speed that uses all grades of combustible at different efficiencies, depending on the obligatory Piston Set.",
+		"",
+		"It has 4 Piston Sets, to operate you will need a set.",
+		"",
+		"The fuel usage can be augmented using the slider, which will increase power generation.",
+		"",
+		"Hovering over the slider will show mB / tick usage and the piston HE / tick, second generated."
+	],
 	dependencies: [
 		"37308693"
 	],
@@ -11,6 +20,24 @@
 		items: [{
 			item: "hbm:machine_combustion_engine"
 		}]
+	},
+	{
+		uid: "73c0e457",
+		type: "item",
+		title: "Any piston set",
+		items: [{
+			item: "hbm:piston_set"
+		},
+		{
+			item: "hbm:piston_set 1 1"
+		},
+		{
+			item: "hbm:piston_set 1 2"
+		},
+		{
+			item: "hbm:piston_set 1 3"
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "90b1b798",

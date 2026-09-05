@@ -1,10 +1,29 @@
 {
 	x: -8.0d,
 	y: -14.0d,
+	text: [
+		"The Combined Cycle Gas Turbine is a complex generator with configurable speed that uses gas fuels, Engine Lubricant, and Water to produce a great amount of power.",
+		"",
+		"As fuel it will accept",
+		"- Natural Gas",
+		"- Coker Gas",
+		"- Petroleum Gas",
+		"- Syngas",
+		"- Oxyhydrogen",
+		"- Reformate Gas",
+		"- And Biogas",
+		"",
+		"The machine has unique ports for fuel, lubricant, water, steam, and power.",
+		"",
+		"When in operation, it will heat water, generating heat and Dense Steam, the steam should be used or drained as it will clog up the machine and make it unable to cool off.",
+		"At critical temperature, it will turn off.",
+		"",
+		"To crank the engine, hold the power button. To change the speed of the engine use the lever, pressing the AUTO button will speed or slow down the machine based on the power required for the power grid."
+	],
 	dependencies: [
 		"37308693"
 	],
-	size: 1.25d,
+	size: 1.5d,
 	tasks: [{
 		uid: "25a76c44",
 		type: "item",

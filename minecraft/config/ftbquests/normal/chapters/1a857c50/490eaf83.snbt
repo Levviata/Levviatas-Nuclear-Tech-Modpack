@@ -1,6 +1,9 @@
 {
 	x: -7.0d,
 	y: 10.0d,
+	text: [
+		"Kevlar is used in armor and the Kevlar Insert."
+	],
 	dependencies: [
 		"6e938840"
 	],

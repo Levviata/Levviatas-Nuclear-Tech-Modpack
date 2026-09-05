@@ -1,6 +1,11 @@
 {
 	x: 4.0d,
 	y: 6.0d,
+	text: [
+		"The Meteorite Sword is an upgradable sword that can reach up to 76 damage.",
+		"",
+		"It has a long progression line, using many different machines and items."
+	],
 	dependencies: [
 		"c747e73b"
 	],

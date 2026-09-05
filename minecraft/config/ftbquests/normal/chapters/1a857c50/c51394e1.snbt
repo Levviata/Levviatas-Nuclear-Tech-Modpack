@@ -1,6 +1,17 @@
 {
 	x: -7.0d,
 	y: -10.0d,
+	text: [
+		"The Geiger Counter informs of the",
+		"- Chunk radiation",
+		"- Enviromental radiation",
+		"- Total received radiation",
+		"- Player contamination",
+		"- Player Resistance",
+		"",
+		"It's used as a component for the Digamma Diagnostic.",
+		"(different diagnostics, not a upgrade)"
+	],
 	dependencies: [
 		"37308693"
 	],
