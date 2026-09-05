@@ -3,9 +3,13 @@
 	y: 0.0d,
 	shape: "hexagon",
 	text: [
-		"The ZIRNOX Nuclear Reactor is the cheapest nuclear reactor you will make early-on, it is also simple, being a single block without modular parts.",
+		"The ZIRNOX is a simple reactor used for breeding radioactive material, it also generates electricity but its mediocre.",
 		"",
-		"As fuel, it will accept ZIRNOX rods. "
+		"As fuel it will accept ZIRNOX Rods.",
+		"",
+		"To operate, feed the reactor fuel rods, Carbon Dioxide, and Water then click the red button at the top right.",
+		"",
+		"When supplied fuel and fluids the reactor will start depleting the fed fuel rods, increasing the core temperature and boiling water into Super Dense Steam that must be drained to avoid overheating."
 	],
 	size: 2.0d,
 	tasks: [{
