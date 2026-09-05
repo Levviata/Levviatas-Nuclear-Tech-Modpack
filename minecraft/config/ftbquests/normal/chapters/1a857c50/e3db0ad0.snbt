@@ -1,7 +1,7 @@
 {
 	title: "Metro Cop Cosplay",
-	x: -7.0d,
-	y: 14.0d,
+	x: -6.5d,
+	y: 13.0d,
 	shape: "pentagon",
 	description: "\"Pick up that can.\"",
 	text: [

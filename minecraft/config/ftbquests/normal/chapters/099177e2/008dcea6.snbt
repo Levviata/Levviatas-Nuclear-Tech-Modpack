@@ -1,7 +1,7 @@
 {
 	icon: "hbm:mp_fuselage_10_long_kerosene_sky",
-	x: 0.0d,
-	y: -6.0d,
+	x: -2.5d,
+	y: -5.5d,
 	shape: "square",
 	text: [
 		"Fuselage is the main body of the rocket.",

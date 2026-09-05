@@ -1,6 +1,6 @@
 {
-	x: -5.0d,
-	y: -6.0d,
+	x: -7.5d,
+	y: -5.5d,
 	shape: "square",
 	text: [
 		"Warheads are the explosive charge of the missile.",

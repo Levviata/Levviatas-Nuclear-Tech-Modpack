@@ -1,6 +1,6 @@
 {
 	x: 23.5d,
-	y: -1.5d,
+	y: -2.5d,
 	shape: "gear",
 	dependencies: [
 		"e7774335"
