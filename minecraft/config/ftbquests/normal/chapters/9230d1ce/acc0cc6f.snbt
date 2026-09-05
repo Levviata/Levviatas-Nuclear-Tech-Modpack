@@ -2,6 +2,7 @@
 	title: "Deuterium Extractors",
 	x: -0.4440476190475877d,
 	y: -0.40714285714282994d,
+	shape: "hexagon",
 	description: "§e§nRequires:§r§e Integrated Circuit Board or Resistant Alloy",
 	text: [
 		""
@@ -9,7 +10,7 @@
 	dependencies: [
 		"37308693"
 	],
-	size: 1.25d,
+	size: 1.5d,
 	or_tasks: true,
 	tasks: [{
 		uid: "444af21d",
