@@ -3,7 +3,9 @@
 	y: -2.5d,
 	description: "The ultimate Jetpack!",
 	text: [
-		"Come closer to godhood with the ability to fly at ludicrous speed."
+		"Closer and closer to total domination.",
+		"",
+		"(custom recipe)"
 	],
 	dependencies: [
 		"741702f6"
@@ -20,6 +22,12 @@
 	rewards: [{
 		uid: "dba9f982",
 		type: "xp",
-		xp: 20
+		xp: 300
+	},
+	{
+		uid: "c6e7019e",
+		type: "item",
+		item: "hbm:fluid_barrel_full 1 41",
+		count: 2
 	}]
 }
