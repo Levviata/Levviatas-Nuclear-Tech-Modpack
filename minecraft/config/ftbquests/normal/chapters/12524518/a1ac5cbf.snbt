@@ -22,5 +22,10 @@
 		items: [{
 			item: "hbm:undefined"
 		}]
+	}],
+	rewards: [{
+		uid: "500e6ac3",
+		type: "xp",
+		xp: 6969
 	}]
 }
