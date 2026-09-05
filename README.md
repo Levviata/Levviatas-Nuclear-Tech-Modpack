@@ -9,6 +9,8 @@ Latest releases will always be on GitHub.
 
 Nuclear Tech for 1.12.2 with a side of Refined Storage packaged with a ton of quests and nice little details.
 
+Not a single beta or alpha release like other modpacks, this thing is complete and final, fatten your brain with my delicious intellect.
+
 My curated list of optimization mods was also added, maximizing performance.
 
 OptiFine is disregarded and will cause issues, I have done my best to implement _most_ of its features. Though if you want shaders you'll have to use it (at your own discretion, without warranties). 
@@ -34,9 +36,11 @@ For Cleanroom, scroll down to its section.
 8.5/10 Impatient guy
 
 ## Features
-- 24 chapters with over +1540 quests with quality information and pretty patterns 😏
+(yes these numbers are real)
 
-- 209 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 25 chapters with 1565 quests with quality information and pretty patterns 😏
+
+- 210 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Coilgun
   - Lung Diagnostic
@@ -102,5 +106,7 @@ The game looks good, the FPS are good, the quests are good, what other Nuclear T
 
 #### It was all planned
 your satisfaction is measured.
+
+you are welcome
 
 king of unpayed labour.
