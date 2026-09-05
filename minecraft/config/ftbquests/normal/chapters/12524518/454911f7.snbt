@@ -1,0 +1,24 @@
+{
+	title: "My first RBMK Guide Book",
+	icon: "hbm:book_guide_book 1 1",
+	x: -1.5d,
+	y: 7.0d,
+	description: "Good luck",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "617cb310",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "9a631e8d",
+		type: "item",
+		item: "hbm:book_guide_book 1 1"
+	},
+	{
+		uid: "f71562b0",
+		type: "xp",
+		xp: 50
+	}]
+}
