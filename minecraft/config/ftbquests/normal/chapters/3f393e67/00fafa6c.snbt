@@ -4,8 +4,11 @@
 	x: 0.0d,
 	y: 4.0d,
 	shape: "rsquare",
+	description: "and a note",
 	text: [
-		""
+		"This modpack has a ton of chapters, most of which are found under the Checklists chapter group.",
+		"",
+		"To search inside it, hover the last chapter, this will show you over +13 chapters."
 	],
 	dependencies: [
 		"40511d59"
