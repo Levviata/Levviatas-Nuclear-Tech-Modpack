@@ -4,14 +4,15 @@
 	x: 0.0d,
 	y: 0.0d,
 	shape: "rsquare",
+	description: "How much is an excess of quality?",
 	text: [
-		"Welcome to Levviata's Nuclear Tech quests, in this modpack you'll be doing nuclear tech and managing hoarding issues (feat. Refined Storage).",
+		"Welcome to Levviata's Nuclear Tech, this modpack is like a Nuclear Tech tutorial with some Refined Storage in there.",
 		"",
-		"This mod uses the Community version of the Nuclear Tech Mod instead of the Extended, you will see differences. The Official Wiki still is very useful since the Community version is 0.999:1 to the original.",
+		"This mod uses the Community version of the Nuclear Tech Mod instead of the Extended, you will see differences.",
 		"",
-		"I will be guiding you through every important chunk of the mod, there are some things here missing in the wiki and in much more detail, if you like that information candy, favorite my modpack, I will come to your house and leave you a bismuth ingot packaged in gift wrap (shipping costs not added). ",
+		" The Official Wiki still is very useful since the Community version is 0.999:1 to the original.",
 		"",
-		"How much is an excess of quality?"
+		"I will be guiding you through every important chunk of the mod, there are some things here missing in the wiki and in much more detail, if you like that information candy, favorite my modpack, I will come to your house and leave you a bismuth ingot packaged in gift wrap (shipping costs not added). "
 	],
 	size: 2.0d,
 	tasks: [{
