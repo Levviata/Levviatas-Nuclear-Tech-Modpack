@@ -1591,7 +1591,7 @@ crafting.addShapeless(item('hbm:stamp_book:2'), [ore('flatStamp'), ore('ingotTit
 crafting.addShapeless(item('hbm:stamp_book:3'), [ore('flatStamp'), ore('ingotMingrade'), ore('ingotGraphite'), ore('ingotCobalt'), ore('paper')]) // page 4
 crafting.addShapeless(item('hbm:stamp_book:4'), [ore('flatStamp'), ore('dustDuraSteel'), ore('dustSteel'), ore('deshPowder'), item('hbm:flame_opinion')]) // page 5
 crafting.addShapeless(item('hbm:stamp_book:5'), [ore('flatStamp'), ore('dustCadmium'), ore('ingotFerrouranium'), ore('ingotFiberglass'), item('hbm:flame_conspiracy')]) // page 6
-crafting.addShapeless(item('hbm:stamp_book:6'), [ore('flatStamp'), item('hbm:gun_lag'), item('hbm:scrap_plastic'), ore('dustSaturnite'), item('hbm:mucho_mango'), item('hbm:flame_politics')]) // page 7
+crafting.addShapeless(item('hbm:stamp_book:6'), [ore('flatStamp'), item('hbm:gun_lag'), item('minecraft:sugar'), ore('dustSaturnite'), item('hbm:mucho_mango'), item('hbm:flame_politics')]) // page 7
 crafting.addShapeless(item('hbm:stamp_book:7'), [ore('flatStamp'), item('hbm:gun_minigun'), item('hbm:nuke_fstbmb'), ore('ingotEuphemium'), ore('ingotSchrabidium'), item('hbm:flame_pony')]) // page 8
 recipeCount++
 recipeCount++
