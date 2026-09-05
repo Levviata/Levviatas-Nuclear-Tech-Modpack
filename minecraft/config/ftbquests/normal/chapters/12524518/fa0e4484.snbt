@@ -1,11 +1,11 @@
 {
-	title: "Early Game Fuels",
+	title: "Early Fuels",
 	x: 3.0d,
 	y: 7.0d,
 	shape: "square",
 	description: "Pre-oil",
 	text: [
-		""
+		"You can't get a RBMK before oil by the way, these are for show."
 	],
 	size: 1.25d,
 	tasks: [{
