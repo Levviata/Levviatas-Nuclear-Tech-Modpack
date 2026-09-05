@@ -1,3 +1,93 @@
+# version 2.3.0 FINAL
+(because I genuinely ran out of things to do)
+
+### Quests
+Added Bosses chapter
+
+Add quests
+- All DFC cores
+!!(Bosses chapter)
+    - Mask man, Balls-O-Tron Prime, Martian Invasion Ship
+    - Nuclear Creeper, Meltdown elemental, and Big man jonhson (nuclear glyphid)
+- Undefined
+- Reformate and bauxite solution Results (fractioning tower)
+
+Add more information to Custom missile section
+Add Fractioning tower spacer task to Frac tower
+Added transport drone tutorial (feat. savage vegeta)
+Fixed red connector task amount
+!Rearranged a third of the quest book, changing shape, size, patterns, bit of everything.
+Removed plasma tasks (fluids chapter)
+Removed coker oil results
+
+### Quest Rewards
+
+Add rewards
+- Magnetic Antimatter storage -> x12 saturnite ingot
+- Blaze rod (grinding) -> x12 blaze rods
+
+Buff rewards
+- Stimpak (grinding) -> x8 to x16
+- Diamond (grinding) -> x14 to x32
+
+Removed diamond gravel reward from mining charge
+
+### Quest Descriptions
+
+Added descriptions
+- All generic parts (weapon mods)
+- Calcium powder
+- Speed upgrade
+- Plasma info
+- Gas centrifuge
+- Fullerene solution
+- Chopper summon
+- Overclocking upgrade
+- Trixite ore
+- Chemthrower
+(Fluids chapter)
+- Tank
+- Big Ass tank
+- Heavy Magnetic Storage
+- Magnetic Antimatter Container
+
+Rewrite descriptions
+- Multi Fluid Identifier
+- Derrick
+- Laser Rifle
+- Power saving and efficiency upgrades
+- So it begins! (Vanilla chapter)
+- Electric tools
+- Destruction (Bedrock Ore chapter)
+
+Extend descriptions
+- Heavy Oil (also add title)
+- Hot crude oil
+- Plasma forge
+- Powered drill
+- Repair Kits and Gun Wear
+- Tank (oil age)
+- Gold capacitor (early game)
+- Custom missiles (information)
+
+Add subtitles
+- Emitter health and radius upgrades
+- Both fensu quests
+- Missile chips info
+
+Fix subtitle for Plastic man
+Reworked Fractioning tower description
+Removed description for DNT armor
+Extended strontium subtitle
+
+### Recipes
+Added recipes
+- Liquidator Medal (alternative recipe)
+- Tank (anvil, recycling)
+
+Fix creative stirling engine recipe
+Moved dragon egg recipe to shredder
+
 # version 2.2.0
 
 ### Quests
