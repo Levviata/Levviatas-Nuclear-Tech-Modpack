@@ -3242,7 +3242,7 @@
         ["item","hbm:undefined",8]
       ],
       "outputs": [
-        ["single",["hbm:machine_stirling_creative",1.0]]
+        ["hbm:machine_stirling_creative",1.0]
       ],
       "tierLower": 1916169,
       "tierUpper": -1,
