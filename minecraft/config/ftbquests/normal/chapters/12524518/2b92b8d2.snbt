@@ -41,6 +41,7 @@
 		"An AUTOCAL with a nice script can be used to control the added complexity of multiple piles."
 	],
 	size: 2.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "03f3b158",
 		type: "item",
