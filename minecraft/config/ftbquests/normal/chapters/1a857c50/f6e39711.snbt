@@ -6,7 +6,8 @@
 		"",
 		"To operate, give a Fluid Identifier to the machine and introduce the fluid to be separated.",
 		"",
-		"Several Towers can placed on top of each other and separated using a Separator.",
+		"Several Towers can placed on top of each other to increment production.",
+		"If that's undesirable, they can be separated using a Separator.",
 		"",
 		"It can make Kerosene, Sodium Aluminate, BTX, etc."
 	],
