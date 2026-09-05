@@ -1,0 +1,20 @@
+{
+	x: 16.0d,
+	y: 2.0d,
+	text: [
+		"The anvil tier 5 can make",
+		"",
+		"- Doomsday Missile",
+		"- Black Mesa Power Switch"
+	],
+	dependencies: [
+		"0a012d55"
+	],
+	tasks: [{
+		uid: "a73ace7e",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_saturnite"
+		}]
+	}]
+}
