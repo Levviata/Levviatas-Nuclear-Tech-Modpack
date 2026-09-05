@@ -3,6 +3,7 @@
 	icon: "hbm:fluid_icon 1 92",
 	x: -11.0d,
 	y: 0.0d,
+	description: "§e§nRequires:§r§e Vacuum Refinery",
 	text: [
 		""
 	],
