@@ -5,7 +5,7 @@
 	text: [
 		"Drillbits are inserted in the red glowing slot of the Large Mining Drill, they are used to mine various tiers of Bedrock Ore.",
 		"",
-		"Each drillbit can be tipped with diamond, this gives abilities. Better drillbits with diamond tips have even more abiltiies."
+		"Each drillbit can be tipped with diamond, this gives abilities. Better drillbits with diamond tips have even more abilties."
 	],
 	dependencies: [
 		"32ce0f5a"
