@@ -11,14 +11,19 @@ Add quests
     - Nuclear Creeper, Meltdown elemental, and Big man jonhson (nuclear glyphid)
 - Undefined
 - Reformate and bauxite solution Results (fractioning tower)
+- RBMK guide book
+- Saturnite Anvil
 
 Add more information to Custom missile section
 Add Fractioning tower spacer task to Frac tower
+Added title for a bunch of quests
 Added transport drone tutorial (feat. savage vegeta)
 Fixed red connector task amount
 !Rearranged a third of the quest book, changing shape, size, patterns, bit of everything.
 Removed plasma tasks (fluids chapter)
 Removed coker oil results
+Tweak deuterium extractors quest a bit
+Tweaked rbmk early fuels
 
 ### Quest Rewards
 
@@ -31,6 +36,7 @@ Buff rewards
 - Diamond (grinding) -> x14 to x32
 
 Removed diamond gravel reward from mining charge
+Add proper rewards to boostpack and glider jetpacks
 
 ### Quest Descriptions
 
@@ -45,6 +51,14 @@ Added descriptions
 - Overclocking upgrade
 - Trixite ore
 - Chemthrower
+- T-51b armor
+- Meteorite sword
+- Turret mob filter
+- Kevlar
+- Geiger counter
+(from generator chapter, copy pasted)
+- Industrial combustion engine
+- Combined cycle gas turbine
 (Fluids chapter)
 - Tank
 - Big Ass tank
@@ -59,6 +73,9 @@ Rewrite descriptions
 - So it begins! (Vanilla chapter)
 - Electric tools
 - Destruction (Bedrock Ore chapter)
+- ZIRNOX
+- Glider jetpack
+- LvNTM
 
 Extend descriptions
 - Heavy Oil (also add title)
@@ -69,11 +86,31 @@ Extend descriptions
 - Tank (oil age)
 - Gold capacitor (early game)
 - Custom missiles (information)
+- Disk drive and manipulator
+- Burner press preheater
+- RBMK
+- Cadmium steel
+- Self charging battery
+- M1TTY armor
 
 Add subtitles
 - Emitter health and radius upgrades
 - Both fensu quests
 - Missile chips info
+
+Fix wording
+- Rewards (quest)
+- Drop of mercury (grinding)
+- Bosses quest
+- Diesel and aviation engine
+- Custom missile info
+- Big ass tank
+- Grenades
+
+Fix typos
+- Drillbits
+- Advanced control unit
+- Hazards
 
 Fix subtitle for Plastic man
 Reworked Fractioning tower description
@@ -87,6 +124,7 @@ Added recipes
 
 Fix creative stirling engine recipe
 Moved dragon egg recipe to shredder
+Change stamp page 7 -> scrap powder to sugar
 
 # version 2.2.0
 
