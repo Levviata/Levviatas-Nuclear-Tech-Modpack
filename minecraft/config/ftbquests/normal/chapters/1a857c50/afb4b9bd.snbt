@@ -1,7 +1,11 @@
 {
+	title: "T-51b Power Armor",
 	x: -8.0d,
 	y: -11.0d,
 	shape: "hexagon",
+	text: [
+		"The T-51b Power Armor is a set"
+	],
 	dependencies: [
 		"37308693"
 	],
@@ -57,6 +61,12 @@
 	rewards: [{
 		uid: "d93a1d9d",
 		type: "xp",
-		xp: 10
+		xp: 200
+	},
+	{
+		uid: "51563d32",
+		type: "item",
+		item: "hbm:hev_battery",
+		count: 2
 	}]
 }
