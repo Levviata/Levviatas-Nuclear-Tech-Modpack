@@ -3,9 +3,9 @@
 	y: 0.0d,
 	shape: "hexagon",
 	text: [
-		"Cadmium and Technetium Steel are the main material of the mid game.",
+		"Cadmium and Technetium Steel are the main material of the late-mid game.",
 		"",
-		"Widely used in many recipes, it unlocks the next Oil Refinery, the Vacuum Refinery which unlocks late mid-game!",
+		"Widely used in many recipes, it unlocks the next Oil Refinery, the Vacuum Refinery.",
 		"",
 		"One step toward godhood."
 	],

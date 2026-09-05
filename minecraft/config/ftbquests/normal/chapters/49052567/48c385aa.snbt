@@ -4,7 +4,9 @@
 	text: [
 		"The Disk Drive can store up to 8 Storage Disks.",
 		"",
-		"The Disk Manipulator can extract or insert items into the grid from a Storage Disk."
+		"The Disk Manipulator can extract or insert items into the grid from a Storage Disk.",
+		"",
+		"Post-oil and resistant alloy, available after getting cadium or technetium steel."
 	],
 	tasks: [{
 		uid: "14e5a89b",
