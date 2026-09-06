@@ -9,7 +9,7 @@ Latest releases will always be on GitHub.
 
 A complete Nuclear Tech quest book with Refined Storage.
 
-Not a single beta or alpha release like other modpacks, this thing is complete and final, fatten your brain with my delicious intellect.
+Not a single beta or alpha release like other modpacks, this thing is complete and final. Fatten your brain with my delicious intellect.
 
 My curated list of optimization mods was also added, maximizing performance.
 
