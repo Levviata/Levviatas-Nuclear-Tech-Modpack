@@ -7,7 +7,7 @@ Latest releases will always be on GitHub.
 
 # LvNTM (Levviata's Nuclear Tech Modpack for 1.12.2)
 
-A complete Nuclear Tech quest book with Refined Storage.
+A complete Nuclear Tech modpack with quest book and Refined Storage.
 
 Not a single beta or alpha release like other modpacks, this thing is complete and final. Fatten your brain with my delicious intellect.
 
