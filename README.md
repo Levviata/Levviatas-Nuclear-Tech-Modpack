@@ -90,6 +90,8 @@ You also must disable these conflicting mods:
 If you don't, your screen will be messed up, and you won't be able to move your mouse in-game.
 
 ## Notes
+Update to Attribute Modifier v1.1.0 to fix axe and sword stats.
+
 After downloading all desired mods, you may disable File Director mod to boot up faster.
 
 The Electricity Pylon quest cannot be completed due to pylon capacitors having no recipes, this is an oversight.
