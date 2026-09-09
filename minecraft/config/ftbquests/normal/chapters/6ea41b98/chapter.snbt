@@ -1,6 +1,6 @@
 {
 	title: "Machines",
-	always_invisible: true,
+	always_invisible: false,
 	group: -560674171,
 	default_quest_shape: ""
 }
