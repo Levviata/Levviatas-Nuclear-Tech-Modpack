@@ -11,12 +11,6 @@
 		"- Capacitor (block)",
 		"- Capacitor Bus.",
 		"",
-		"Place all on top of each other in that order starting with the Pylon at the top, with the Capacitor Bus having its red copper port exposed at the bottom.",
-		"",
-		"The transformer pylon will make its connected pylons and capacitor bus separate from the power grid, cycling power in but not out of it.",
-		"",
-		"To get power out, you may connect single pylons to the transformer or use the Capacitor bus.",
-		"",
 		"You may change the color of the cable connecting the pylons with dye."
 	],
 	dependencies: [
@@ -32,34 +26,8 @@
 			item: "hbm:red_pylon"
 		}],
 		count: 4L
-	},
-	{
-		uid: "762dd94d",
-		type: "item",
-		items: [{
-			item: "hbm:capacitor_bus"
-		}]
-	},
-	{
-		uid: "9d63286f",
-		type: "item",
-		items: [{
-			item: "hbm:capacitor_copper"
-		}]
 	}],
 	rewards: [{
-		uid: "04cc3a7a",
-		type: "item",
-		item: "hbm:capacitor_bus",
-		count: 3
-	},
-	{
-		uid: "a025fdbd",
-		type: "item",
-		item: "hbm:capacitor_copper",
-		count: 3
-	},
-	{
 		uid: "725f0653",
 		type: "item",
 		item: "hbm:ingot_red_copper",
