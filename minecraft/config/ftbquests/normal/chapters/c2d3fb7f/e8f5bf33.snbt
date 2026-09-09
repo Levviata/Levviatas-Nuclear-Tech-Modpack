@@ -1,5 +1,6 @@
 {
 	title: "Advancement: &eA Terrible Fortress",
+	disable_toast: true,
 	x: 14.0d,
 	y: 6.0d,
 	text: [

@@ -1,5 +1,6 @@
 {
 	title: "Acquire Hardware",
+	disable_toast: true,
 	x: 2.0d,
 	y: 6.0d,
 	description: "Get an iron ingot",
