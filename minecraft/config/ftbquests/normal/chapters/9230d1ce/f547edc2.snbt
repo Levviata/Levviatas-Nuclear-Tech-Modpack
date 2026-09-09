@@ -32,6 +32,9 @@
 		"",
 		"More KyUs (Klystron energy unit) do not accelerate production."
 	],
+	dependencies: [
+		"3dcad7e6"
+	],
 	size: 1.5d,
 	tasks: [{
 		uid: "13859962",
