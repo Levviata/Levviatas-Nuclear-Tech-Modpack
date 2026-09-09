@@ -47,17 +47,17 @@ For Cleanroom, scroll down to its section.
   - All Caliber Conversion Kits (weapon mod)
   - Paa Hazmat suit to Paa Battle suit
   - Shimmer tools use CMB Steel and Euphemium
-  - All Meteorite Sword recipes (custom)
+  - All Meteorite Sword recipes
   - Security Armor (tweaked)
   - Dual miniguns (Plasma Forge)
-  - Cheaper Multi Fluid Identifier
+  - Heretic Autoshotgun
   - Bismuth Blocks to Alexandrite (Exposure Chamber)
   - Radioactive Gem
   - Balefire shard (made with Radioactive gems)
   - N2 and Balefire Charges
   - And many more.
 
-- 4 custom Resource Packs, one of them include new textures for swords and tools.
+- 4 custom Resource Packs, one with new textures and touchups for swords and tools.
 
 - Complete, customized keybind map.
 
@@ -67,7 +67,7 @@ For Cleanroom, scroll down to its section.
   - Quests have treats and fun explosives
   - Swords are flipped horizontally
   - Stat rebalances for Redstone and Great sword
-  - Dynamic tooltip for Powered Drill fuel usage and its other engines.
+  - Dynamic tooltip for Powered Drill fuel usage and its other engines
   - Informative tooltips for machines (if they are deprecated, how they work, alternative names)
   - Damage rebalance for axes
 
