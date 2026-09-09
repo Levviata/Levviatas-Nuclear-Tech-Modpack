@@ -17,7 +17,9 @@
 		"",
 		"In the early game, you will need a filter with the capacity to protect from Airborne Particles to protect yourself from coal and asbestos particles."
 	],
+	min_required_dependencies: 1,
 	dependencies: [
+		"40511d59",
 		"44b358f0"
 	],
 	size: 1.5d,
