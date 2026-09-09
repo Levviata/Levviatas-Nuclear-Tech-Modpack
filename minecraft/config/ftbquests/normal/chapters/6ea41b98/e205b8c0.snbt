@@ -1,6 +1,8 @@
 {
+	disable_toast: true,
 	x: -7.0d,
 	y: 4.0d,
+	dependency_requirement: "all_started",
 	tasks: [{
 		uid: "fadc96cd",
 		type: "item",
