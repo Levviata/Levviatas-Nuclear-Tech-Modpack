@@ -49,7 +49,7 @@ key_key.categories.hbm.craneMoveDown:208
 key_key.categories.hbm.craneMoveLeft:203
 key_key.categories.hbm.craneMoveRight:205
 key_key.categories.hbm.craneLoad:28
-key_key.categories.hbm.ability:-99
+key_key.categories.hbm.ability:47
 key_key.categories.hbm.abilityAlt:56
 key_key.categories.hbm.copyToolAlt:56
 key_key.categories.hbm.copyToolCtrl:29
