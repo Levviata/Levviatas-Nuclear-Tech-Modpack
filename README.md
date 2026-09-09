@@ -7,9 +7,7 @@ Latest releases will always be on GitHub.
 
 # LvNTM (Levviata's Nuclear Tech Modpack for 1.12.2)
 
-A complete Nuclear Tech modpack with quest book and Refined Storage.
-
-Not a single beta or alpha release like other modpacks, this thing is complete and final. Fatten your brain with my delicious intellect.
+A lightweight and complete Nuclear Tech modpack with a quest book and Refined Storage.
 
 My curated list of optimization mods was also added, maximizing performance.
 
@@ -40,7 +38,7 @@ For Cleanroom, scroll down to its section.
 
 - 25 chapters with 1565 quests with quality information and pretty patterns 😏
 
-- 210 custom recipes that implement new recipes, remove deprecated items, rebalances, QoL, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 210 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Coilgun
   - Lung Diagnostic
@@ -94,9 +92,9 @@ If you don't, your screen will be messed up, and you won't be able to move your 
 ## Notes
 After downloading all desired mods, you may disable File Director mod to boot up faster.
 
-The Electricity Pylon quest cannot be completed due to pylon capacitors having no recipes.
+The Electricity Pylon quest cannot be completed due to pylon capacitors having no recipes, this is an oversight.
 
-With Cleanroom and 32 chunks, the FPS still hold up and hit a stable >60.
+With Cleanroom and 32 chunks, the FPS still hold up and hit a stable >60, which is a miracle to be honest.
 
 The game looks good, the FPS are good, the quests are good, what other Nuclear Tech modpack would you ever wish than this one!
 
@@ -109,6 +107,6 @@ The game looks good, the FPS are good, the quests are good, what other Nuclear T
 #### It was all planned
 your satisfaction is measured.
 
-you are welcome
+Fatten your brain with my delicious intellect.
 
 king of unpayed labour.
