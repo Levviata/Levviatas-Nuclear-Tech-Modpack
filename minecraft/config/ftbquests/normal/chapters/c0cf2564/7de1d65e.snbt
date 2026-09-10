@@ -1,8 +1,10 @@
 {
+	icon: "hbm:fluid_icon 1 41",
 	x: 1.0d,
 	y: 12.5d,
+	or_tasks: true,
 	tasks: [{
-		uid: "42809051",
+		uid: "5f54801b",
 		type: "item",
 		items: [{
 			item: "hbm:fluid_icon 1 41"
@@ -10,8 +12,7 @@
 		consume_items: true
 	},
 	{
-		uid: "f8324825",
-		type: "fluid",
-		fluid: "balefire"
+		uid: "fc522420",
+		type: "checkmark"
 	}]
 }

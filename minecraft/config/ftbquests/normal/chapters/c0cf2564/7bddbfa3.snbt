@@ -1,8 +1,10 @@
 {
+	icon: "hbm:fluid_icon 1 62",
 	x: -6.0d,
 	y: 5.0d,
+	or_tasks: true,
 	tasks: [{
-		uid: "d127239a",
+		uid: "57aa8f5d",
 		type: "item",
 		items: [{
 			item: "hbm:fluid_icon 1 62"
@@ -10,8 +12,7 @@
 		consume_items: true
 	},
 	{
-		uid: "ab36b613",
-		type: "fluid",
-		fluid: "coaloil"
+		uid: "7d2390cd",
+		type: "checkmark"
 	}]
 }

@@ -1,8 +1,10 @@
 {
+	icon: "hbm:fluid_icon 1 27",
 	x: 7.0d,
 	y: 4.0d,
+	or_tasks: true,
 	tasks: [{
-		uid: "95c6a447",
+		uid: "1a79adb1",
 		type: "item",
 		items: [{
 			item: "hbm:fluid_icon 1 27"
@@ -10,8 +12,7 @@
 		consume_items: true
 	},
 	{
-		uid: "706b1cdf",
-		type: "fluid",
-		fluid: "biofuel"
+		uid: "e83f3516",
+		type: "checkmark"
 	}]
 }

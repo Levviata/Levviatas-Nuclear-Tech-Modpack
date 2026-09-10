@@ -1,8 +1,10 @@
 {
+	icon: "hbm:fluid_icon 1 87",
 	x: -1.5d,
 	y: 19.5d,
+	or_tasks: true,
 	tasks: [{
-		uid: "7fe12e2e",
+		uid: "dd522b38",
 		type: "item",
 		items: [{
 			item: "hbm:fluid_icon 1 87"
@@ -10,8 +12,7 @@
 		consume_items: true
 	},
 	{
-		uid: "9e04be78",
-		type: "fluid",
-		fluid: "oxyhydrogen"
+		uid: "b1e5874a",
+		type: "checkmark"
 	}]
 }

@@ -1,8 +1,10 @@
 {
+	icon: "hbm:fluid_icon 1 110",
 	x: 0.0d,
 	y: 9.0d,
+	or_tasks: true,
 	tasks: [{
-		uid: "a6f8301f",
+		uid: "d07fcfd1",
 		type: "item",
 		items: [{
 			item: "hbm:fluid_icon 1 110"
@@ -10,8 +12,7 @@
 		consume_items: true
 	},
 	{
-		uid: "a926c40f",
-		type: "fluid",
-		fluid: "estradiol"
+		uid: "9f1fe628",
+		type: "checkmark"
 	}]
 }

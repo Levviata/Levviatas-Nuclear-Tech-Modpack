@@ -1,7 +1,8 @@
 {
+	icon: "hbm:fluid_icon 1 104",
 	x: -7.0d,
 	y: 4.0d,
-se	or_tasks: true,
+	or_tasks: true,
 	tasks: [{
 		uid: "86a0a9c7",
 		type: "item",

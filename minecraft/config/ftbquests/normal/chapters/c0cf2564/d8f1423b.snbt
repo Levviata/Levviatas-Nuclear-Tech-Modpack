@@ -1,8 +1,10 @@
 {
+	icon: "hbm:fluid_icon 1 64",
 	x: -6.0d,
 	y: 6.0d,
+	or_tasks: true,
 	tasks: [{
-		uid: "838023e1",
+		uid: "0805e280",
 		type: "item",
 		items: [{
 			item: "hbm:fluid_icon 1 64"
@@ -10,8 +12,7 @@
 		consume_items: true
 	},
 	{
-		uid: "5c6d08c8",
-		type: "fluid",
-		fluid: "naphtha_crack"
+		uid: "6db35749",
+		type: "checkmark"
 	}]
 }

@@ -1,8 +1,10 @@
 {
+	icon: "hbm:fluid_icon 1 146",
 	x: 2.0d,
 	y: 4.0d,
+	or_tasks: true,
 	tasks: [{
-		uid: "b6f7883b",
+		uid: "0e74be64",
 		type: "item",
 		items: [{
 			item: "hbm:fluid_icon 1 146"
@@ -10,8 +12,7 @@
 		consume_items: true
 	},
 	{
-		uid: "e0c1d149",
-		type: "fluid",
-		fluid: "perfluoromethyl_cold"
+		uid: "f413d916",
+		type: "checkmark"
 	}]
 }

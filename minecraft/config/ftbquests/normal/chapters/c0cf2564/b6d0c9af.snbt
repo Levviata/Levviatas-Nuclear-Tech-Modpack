@@ -1,8 +1,10 @@
 {
+	icon: "hbm:fluid_icon 1 109",
 	x: 2.0d,
 	y: 8.0d,
+	or_tasks: true,
 	tasks: [{
-		uid: "b5309865",
+		uid: "47e2b678",
 		type: "item",
 		items: [{
 			item: "hbm:fluid_icon 1 109"
@@ -10,8 +12,7 @@
 		consume_items: true
 	},
 	{
-		uid: "cca9765f",
-		type: "fluid",
-		fluid: "cholesterol"
+		uid: "441b64ad",
+		type: "checkmark"
 	}]
 }

@@ -1,8 +1,10 @@
 {
+	icon: "hbm:fluid_icon 1 103",
 	x: 1.5d,
 	y: 16.5d,
+	or_tasks: true,
 	tasks: [{
-		uid: "6b05f74e",
+		uid: "a3bfd2b3",
 		type: "item",
 		items: [{
 			item: "hbm:fluid_icon 1 103"
@@ -10,8 +12,7 @@
 		consume_items: true
 	},
 	{
-		uid: "65b5e99f",
-		type: "fluid",
-		fluid: "mustardgas"
+		uid: "a0477070",
+		type: "checkmark"
 	}]
 }

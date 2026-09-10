@@ -1,8 +1,10 @@
 {
+	icon: "hbm:fluid_icon 1 118",
 	x: -1.0d,
 	y: 8.0d,
+	or_tasks: true,
 	tasks: [{
-		uid: "f34bb914",
+		uid: "a51cfcb8",
 		type: "item",
 		items: [{
 			item: "hbm:fluid_icon 1 118"
@@ -10,8 +12,7 @@
 		consume_items: true
 	},
 	{
-		uid: "d04b00be",
-		type: "fluid",
-		fluid: "potassium_chloride"
+		uid: "e5245bf2",
+		type: "checkmark"
 	}]
 }
