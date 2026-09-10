@@ -1,5 +1,5 @@
 {
-	x: 18.0d,
+	x: 17.5d,
 	y: 10.0d,
 	shape: "pentagon",
 	dependencies: [
