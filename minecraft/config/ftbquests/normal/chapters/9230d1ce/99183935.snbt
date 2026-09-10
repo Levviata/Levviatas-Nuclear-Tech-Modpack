@@ -1,4 +1,5 @@
 {
+	title: "Resistant Alloys",
 	x: 8.5d,
 	y: 13.5d,
 	shape: "hexagon",
@@ -15,10 +16,17 @@
 	],
 	size: 1.5d,
 	tasks: [{
-		uid: "dd8b6f25",
+		uid: "a31f80a4",
 		type: "item",
 		items: [{
 			item: "hbm:ingot_cdalloy"
+		}]
+	},
+	{
+		uid: "1e650caa",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_tcalloy"
 		}]
 	}],
 	rewards: [{
