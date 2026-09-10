@@ -1,6 +1,6 @@
 {
 	x: 24.0d,
-	y: 18.0d,
+	y: 10.0d,
 	text: [
 		"When hitting an enemy, shoot 12 Gauge rounds from the inventory.",
 		"",

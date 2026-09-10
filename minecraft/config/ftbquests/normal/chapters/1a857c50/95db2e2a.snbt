@@ -1,6 +1,9 @@
 {
-	x: -1.0d,
-	y: -3.5d,
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"Carbon Dioxide is the main coolant for the ZIRNOX generator."
+	],
 	dependencies: [
 		"fd3db02d"
 	],
@@ -13,18 +16,12 @@
 		}]
 	},
 	{
-		uid: "cc9c0662",
-		type: "fluid",
-		fluid: "carbondioxide"
+		uid: "16d82c51",
+		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "13f2d887",
 		type: "xp",
 		xp: 20
-	},
-	{
-		uid: "3ab5c5b9",
-		type: "item",
-		item: "hbm:fluid_tank_full 1 55"
 	}]
 }

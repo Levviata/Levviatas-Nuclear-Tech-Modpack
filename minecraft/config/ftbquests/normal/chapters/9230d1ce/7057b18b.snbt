@@ -8,6 +8,7 @@
 		"It mainly unlocks Bismuth and Cadmiun / Technetium Steel which branch down to a ton of high tech weapons and machines."
 	],
 	size: 2.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "2f5dd76d",
 		type: "item",

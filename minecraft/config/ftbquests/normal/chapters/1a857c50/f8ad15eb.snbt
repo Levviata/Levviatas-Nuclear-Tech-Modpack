@@ -1,6 +1,6 @@
 {
-	x: -1.5d,
-	y: -16.5d,
+	x: -3.5d,
+	y: -16.0d,
 	text: [
 		"Will hover mid-air giving a creative-ish flight, Sneaking will stop it. ",
 		"Hovering will consume less fuel while inceasing mobility.",

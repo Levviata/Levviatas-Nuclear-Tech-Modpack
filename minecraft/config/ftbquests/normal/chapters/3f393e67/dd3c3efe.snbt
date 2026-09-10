@@ -1,7 +1,7 @@
 {
 	title: "64x Steel and 32x Red Copper",
-	x: 1.0d,
-	y: 15.5d,
+	x: 1.3154761904761685d,
+	y: 15.697619047619078d,
 	shape: "pentagon",
 	text: [
 		""

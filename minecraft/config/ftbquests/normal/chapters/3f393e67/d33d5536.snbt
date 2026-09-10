@@ -1,7 +1,7 @@
 {
 	title: "Diesel-Powered Armor",
 	x: -7.0d,
-	y: 30.5d,
+	y: 32.5d,
 	text: [
 		"The Diesel-Powered armor is a rather odd looking set that gives Speed and Jump Boost III.",
 		"",

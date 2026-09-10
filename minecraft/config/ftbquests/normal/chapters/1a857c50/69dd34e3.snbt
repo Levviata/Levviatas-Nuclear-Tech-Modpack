@@ -1,7 +1,7 @@
 {
 	icon: "hbm:ore_alexandrite",
-	x: -11.0d,
-	y: -9.0d,
+	x: -13.059523809523789d,
+	y: -10.787500000000009d,
 	text: [
 		"Alexandrite Ore is an extremely rare depth ore that generates in 1 ore veins every 100th chunk.",
 		"",

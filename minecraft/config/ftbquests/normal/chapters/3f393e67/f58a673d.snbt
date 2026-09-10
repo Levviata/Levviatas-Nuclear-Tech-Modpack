@@ -1,7 +1,7 @@
 {
 	title: "Pollution",
 	x: 5.5535714285714235d,
-	y: 23.92857142857143d,
+	y: 25.92857142857143d,
 	shape: "hexagon",
 	description: "and Detector!",
 	text: [

@@ -1,5 +1,5 @@
 {
-	x: 20.5d,
+	x: 20.0d,
 	y: 18.0d,
 	dependencies: [
 		"8d6f8db0"
@@ -16,6 +16,7 @@
 	{
 		uid: "70491639",
 		type: "item",
+		title: "PaA Plate",
 		items: [{
 			item: "hbm:hazmat_paa_plate"
 		},
@@ -28,6 +29,7 @@
 	{
 		uid: "f71c9199",
 		type: "item",
+		title: "PaA Legs",
 		items: [{
 			item: "hbm:hazmat_paa_legs"
 		},
@@ -40,6 +42,7 @@
 	{
 		uid: "f8257c1a",
 		type: "item",
+		title: "PaA Boots",
 		items: [{
 			item: "hbm:hazmat_paa_boots"
 		},

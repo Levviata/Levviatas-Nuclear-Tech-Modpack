@@ -1,7 +1,7 @@
 {
 	title: "M1TTY Armor set",
-	x: -1.8809523809523796d,
-	y: -6.285714285714285d,
+	x: -7.5d,
+	y: 8.0d,
 	text: [
 		"The M1TTY Environment Suit Helmet is a great mid-game electric armor which gives you Speed and Jump Boost and Night Vision while underwater.",
 		"",
@@ -14,10 +14,8 @@
 		"- And 10% resistance for anything else"
 	],
 	dependencies: [
-		"03f4949c",
-		"a14582da"
+		"03f4949c"
 	],
-	size: 1.25d,
 	tasks: [{
 		uid: "68ff0356",
 		type: "item",

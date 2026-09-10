@@ -1,6 +1,6 @@
 {
 	x: -10.0d,
-	y: 28.5d,
+	y: 30.5d,
 	shape: "octagon",
 	description: "The Automatic Calculator",
 	text: [

@@ -1,6 +1,6 @@
 {
 	x: -6.0d,
-	y: 23.0d,
+	y: 25.0d,
 	text: [
 		"The Electric Furnace works as a slightly faster furnace but with power as fuel.",
 		"",
@@ -9,6 +9,7 @@
 	dependencies: [
 		"82d71470"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "17a884b4",
 		type: "item",

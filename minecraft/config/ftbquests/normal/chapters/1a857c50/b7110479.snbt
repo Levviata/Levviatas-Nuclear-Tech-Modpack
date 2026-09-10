@@ -1,6 +1,6 @@
 {
-	x: 1.3392857142857153d,
-	y: -1.2857142857142918d,
+	x: -14.499999999999993d,
+	y: 1.2601190476190496d,
 	text: [
 		"The Large Cooling Tower converts Low-Pressure Steam into water at a rate of 10.000mB / tick.",
 		"",
@@ -9,7 +9,7 @@
 	dependencies: [
 		"4dbff794"
 	],
-	size: 1.25d,
+	size: 1.5d,
 	tasks: [{
 		uid: "27ba6f16",
 		type: "item",

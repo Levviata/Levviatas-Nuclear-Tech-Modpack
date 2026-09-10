@@ -1,6 +1,7 @@
 {
-	x: 4.5d,
-	y: 8.0d,
+	title: "Upgrades",
+	x: -5.0d,
+	y: 12.0d,
 	text: [
 		"Upgrades are inserted in the Top-Right (empty column of four) slots of almost all machines."
 	],

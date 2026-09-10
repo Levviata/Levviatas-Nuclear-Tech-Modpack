@@ -8,6 +8,9 @@
 		"",
 		"It may be colored. Only same colored cables with connect."
 	],
+	dependencies: [
+		"90be8287"
+	],
 	tasks: [{
 		uid: "43208df4",
 		type: "item",

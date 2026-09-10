@@ -1,6 +1,6 @@
 {
-	x: -7.5d,
-	y: -6.0d,
+	x: -10.5d,
+	y: -4.5d,
 	shape: "pentagon",
 	text: [
 		"By tumbling redstone ore in a centrifuger, you get a drop of mercury, this can be used to make desh.",

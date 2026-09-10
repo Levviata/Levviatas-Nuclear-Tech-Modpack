@@ -1,6 +1,6 @@
 {
 	x: 7.5d,
-	y: 24.0d,
+	y: 26.0d,
 	text: [
 		"The Super Stimpak heals you 25 hearts but slows you for 10 seconds."
 	],

@@ -1,6 +1,6 @@
 {
-	x: 6.5d,
-	y: 7.5d,
+	x: -5.0d,
+	y: 10.5d,
 	text: [
 		"The Speed Upgrade improves the transference rate of",
 		"- Importers and Exporters",

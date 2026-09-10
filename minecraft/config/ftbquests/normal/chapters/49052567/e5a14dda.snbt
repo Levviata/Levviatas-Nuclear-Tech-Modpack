@@ -1,6 +1,6 @@
 {
 	x: -4.5d,
-	y: 4.5d,
+	y: 5.0d,
 	text: [
 		"The Pattern Grid allows storing the current Crafting Grid as a Pattern, this can be used to make crafting entries and automating crafting inside the network."
 	],

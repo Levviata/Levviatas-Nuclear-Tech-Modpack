@@ -1,7 +1,7 @@
 {
 	title: "Heat Boxes",
 	x: -4.5d,
-	y: 20.0d,
+	y: 22.0d,
 	text: [
 		"Heats up machines on top by burning fuel.",
 		"",

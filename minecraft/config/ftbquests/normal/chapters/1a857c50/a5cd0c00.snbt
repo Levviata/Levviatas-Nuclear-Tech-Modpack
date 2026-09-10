@@ -1,8 +1,8 @@
 {
-	x: -6.0d,
-	y: 6.5d,
+	x: -5.0d,
+	y: 10.0d,
 	text: [
-		"Can be refined from Cracked Oil or dissociating Natural Gas in a Radiolysis chamber.",
+		"Unsaturated Hydrocarbons are mainly produced from refining Cracked Oil and can be made later on from dissociating Natural Gas (radiolysis).",
 		"",
 		"It's an essential material for progression.",
 		"",

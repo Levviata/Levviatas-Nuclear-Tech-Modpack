@@ -1,6 +1,6 @@
 {
 	x: -7.5d,
-	y: 29.5d,
+	y: 31.5d,
 	text: [
 		"The Oil Reservoir Detector checks if the blocks below have Oil or not. ",
 		"",

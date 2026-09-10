@@ -1,7 +1,7 @@
 {
 	title: "Heavy Oil",
-	x: -2.0d,
-	y: -2.0d,
+	x: -2.5d,
+	y: -2.5d,
 	text: [
 		"Heavy Oil is a bad combustile that can make Bitumen and Industrial Oil.",
 		"",
@@ -15,6 +15,7 @@
 	dependencies: [
 		"893c81c8"
 	],
+	size: 1.25d,
 	or_tasks: true,
 	tasks: [{
 		uid: "1b4f4c99",

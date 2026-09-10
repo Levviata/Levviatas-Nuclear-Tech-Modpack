@@ -1,15 +1,19 @@
 {
-	x: -3.5d,
-	y: 5.0d,
+	x: -4.238095238095248d,
+	y: 6.761904761904752d,
 	shape: "hexagon",
 	text: [
 		"The Ore Acidizer processes materials using fluids, usually acids.",
 		"",
-		"It has a main use in Bedrock Ore processing."
+		"It has a main use in Bedrock Ore processing.",
+		"",
+		"",
+		"Obtaining the Ore Acidizer enables one of the conditions for Mask Man to appear."
 	],
 	dependencies: [
 		"5b1b40f1"
 	],
+	size: 1.5d,
 	tasks: [{
 		uid: "b77b3e97",
 		type: "item",

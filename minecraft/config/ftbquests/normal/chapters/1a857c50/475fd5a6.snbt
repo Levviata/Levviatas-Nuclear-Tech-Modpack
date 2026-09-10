@@ -1,6 +1,6 @@
 {
-	x: 4.0d,
-	y: -5.0d,
+	x: -13.0d,
+	y: 7.5d,
 	shape: "hexagon",
 	text: [
 		"The Gas Centrifuge can process hexafluorides like hexa Plutonium and hexa Uranium.",

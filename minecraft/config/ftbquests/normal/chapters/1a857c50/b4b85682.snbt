@@ -1,6 +1,6 @@
 {
-	x: -5.482142857142847d,
-	y: -0.6785714285714164d,
+	x: -6.0d,
+	y: 0.0d,
 	description: "§e§nRequires:§r§e Kevlar Insert",
 	text: [
 		"The SAPI Insert protects 15% from Projectiles, its inserted in the Insert slot of the chestplate and it has 1750 durability.",

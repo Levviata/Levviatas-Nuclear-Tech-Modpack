@@ -1,6 +1,6 @@
 {
 	x: 6.5d,
-	y: 20.0d,
+	y: 22.0d,
 	shape: "hexagon",
 	description: "Factorio r us",
 	text: [

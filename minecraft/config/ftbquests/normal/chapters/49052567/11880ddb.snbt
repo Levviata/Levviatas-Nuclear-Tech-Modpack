@@ -2,7 +2,7 @@
 	title: "Fluid Grid",
 	icon: "refinedstorage:grid 1 3",
 	x: -4.5d,
-	y: 1.5d,
+	y: 1.0d,
 	description: "Removed",
 	text: [
 		"The Fluid Grid has been removed (along with the fluid parts) in favor of NTM's fluid storage. The Wireless Fluid Grid has been removed as well."

@@ -1,8 +1,10 @@
 {
 	x: 2.5d,
 	y: 1.5d,
+	text: [
+		"Uranium Fuel can be obtained from the Gas Centrifuge."
+	],
 	dependencies: [
-		"5caced1c",
 		"02c2472b"
 	],
 	tasks: [{

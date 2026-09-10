@@ -2,7 +2,7 @@
 	title: "Watz Powerplant",
 	icon: "hbm:watz",
 	x: -7.5d,
-	y: 6.5d,
+	y: 7.0d,
 	shape: "hexagon",
 	text: [
 		"The Watz Powerplant is a multiblock reactor that must be constructed. To start, place the Core Component, this will display an hologram that you can build on.",

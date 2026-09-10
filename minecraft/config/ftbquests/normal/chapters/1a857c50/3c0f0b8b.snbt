@@ -1,6 +1,6 @@
 {
-	x: 1.5d,
-	y: -10.5d,
+	x: -6.5d,
+	y: 15.75d,
 	text: [
 		"The Ammo Bag can hold 8 stacks of any round, supplying any held weapon of its ammo."
 	],
@@ -24,6 +24,7 @@
 	{
 		uid: "df9b8c0d",
 		type: "item",
-		item: "hbm:ammo_container"
+		item: "hbm:ammo_container",
+		count: 4
 	}]
 }

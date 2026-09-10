@@ -1,6 +1,6 @@
 {
-	x: 3.5d,
-	y: 0.5d,
+	x: 1.5d,
+	y: 4.5d,
 	text: [
 		"The Network Transmitter can connect to a Network Receiver at any distance using a Network Card (as long as the chunk is loaded).",
 		"",
@@ -9,6 +9,9 @@
 		"The receiving network must not have a Controller as the Transmitter provides power and connects the receiving network's components.",
 		"",
 		"A Receiver can't have more than one Transmitter."
+	],
+	dependencies: [
+		"90be8287"
 	],
 	tasks: [{
 		uid: "95066c74",

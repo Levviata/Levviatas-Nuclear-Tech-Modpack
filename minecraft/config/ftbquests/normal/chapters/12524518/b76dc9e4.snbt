@@ -1,11 +1,13 @@
 {
-	x: 5.5d,
+	x: 4.5d,
 	y: 1.5d,
 	text: [
-		"After removing the fuel from the ZINOX Rod, you will get Depleted Uranium Fuel, you will need to cool it down."
+		"When fully depleted, the rod can be crafted into hot Depleted Uranium Fuel which needs to be cool down.",
+		"",
+		"This byproduct can then be processed in a PUREX."
 	],
 	dependencies: [
-		"6c9b8a55",
+		"e3bcad20",
 		"1a788b23"
 	],
 	tasks: [{

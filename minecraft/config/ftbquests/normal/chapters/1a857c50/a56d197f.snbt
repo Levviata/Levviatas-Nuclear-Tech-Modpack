@@ -1,6 +1,6 @@
 {
-	x: 6.0d,
-	y: -6.5d,
+	x: -11.5d,
+	y: 8.5d,
 	description: "§e§nRequires:§r§e Builder's Jetpack",
 	text: [
 		"The Vectored Jetpack offers higher mobility at the cost of higher fuel consumption.",

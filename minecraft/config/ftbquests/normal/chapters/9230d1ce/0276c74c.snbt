@@ -1,7 +1,7 @@
 {
 	title: "Starmetal Tools",
 	x: 25.0d,
-	y: 17.5d,
+	y: 10.0d,
 	description: "§e§nRequires:§r§e Decorated Cobalt Tools",
 	text: [
 		"The Starmetal Sword has 26 damage and has Stunning 3, Decapitator and Luck of the Collector weapon modifiers.",

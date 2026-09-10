@@ -1,6 +1,6 @@
 {
-	x: 0.0d,
-	y: 13.5d,
+	x: 3.5d,
+	y: 8.750000000000014d,
 	text: [
 		"The recipe has been replaced, its made with",
 		"- Processor Binding",

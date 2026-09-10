@@ -1,6 +1,7 @@
 {
 	x: 0.0d,
-	y: 16.0d,
+	y: 17.0d,
+	shape: "hexagon",
 	text: [
 		"Steel is the most important material in NTM, most machines are made out of steel one way or the other. ",
 		"",
@@ -9,6 +10,7 @@
 	dependencies: [
 		"a488de09"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "1638f0ed",
 		type: "item",

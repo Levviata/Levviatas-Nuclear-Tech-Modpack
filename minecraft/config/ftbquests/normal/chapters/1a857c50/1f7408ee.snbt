@@ -1,6 +1,6 @@
 {
-	x: -4.0d,
-	y: 8.0d,
+	x: -2.5d,
+	y: 10.0d,
 	text: [
 		"Cracked Oil can be obtained in the Radiolysis machine and Fractioning Tower but its mainly produced in the Catalytic Cracking Tower.",
 		"",
@@ -16,6 +16,7 @@
 	dependencies: [
 		"33d5df4b"
 	],
+	size: 1.2d,
 	or_tasks: true,
 	tasks: [{
 		uid: "ca78e072",

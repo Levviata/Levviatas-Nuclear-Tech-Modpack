@@ -1,8 +1,11 @@
 {
-	x: 0.0d,
+	x: -1.5d,
 	y: 1.5d,
 	text: [
 		"The Wrench can change the rotation of any RS machine, including cables."
+	],
+	dependencies: [
+		"90be8287"
 	],
 	tasks: [{
 		uid: "33759d53",

@@ -1,61 +1,70 @@
 {
-	title: "Steel Tools",
-	x: -2.5d,
+	title: "Steel Tools and Armor",
+	x: 2.5d,
 	y: 17.0d,
 	text: [
-		"Steel tools are great because they have special abilities like Vein Mining and Stunning.",
+		"§6Steel tools§r",
 		"",
-		"You may activate or deactivate these effects pressing right click.",
-		"Pressing Alt opens up your tool's abilities, you may customizate them at will.",
+		"The tools have special abilities like Vein Mining and Stunning.",
 		"",
-		"Hoes are miserable forgotten and ability-less sadly."
+		"These can be activated by pressing V.",
+		"",
+		"Pressing Alt opens the abilities menu which shows all abilities and customizable presets.",
+		"",
+		"Steel tools have a maximum of 2 custom presets. End game tools have up to 8.",
+		"",
+		"",
+		"§6Steel armor§r",
+		"",
+		"The armor provides the same protection as diamond, without the armor toughness. ",
+		"It will also provide 9.8% radiation resistance.",
+		"",
+		"If equipped as a set, it will provide",
+		"- 10% physical protection if total damage received is 2% physical.",
+		"",
+		"Armor in Nuclear Tech go in sets (like in Terraria), so for example a single piece of end game armor isn't as strong as a full set of Steel.",
+		"",
+		"Most of the defense of a set comes in the set bonus, which provides % protections."
 	],
 	dependencies: [
 		"86867f7a"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "15238be7",
 		type: "item",
+		title: "Tools",
 		items: [{
 			item: "hbm:steel_sword"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
-	},
-	{
-		uid: "6a113bca",
-		type: "item",
-		items: [{
+		},
+		{
 			item: "hbm:steel_pickaxe"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
-	},
-	{
-		uid: "c98b894c",
-		type: "item",
-		items: [{
+		},
+		{
 			item: "hbm:steel_axe"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
-	},
-	{
-		uid: "5ca6507c",
-		type: "item",
-		items: [{
+		},
+		{
 			item: "hbm:steel_shovel"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
 	},
 	{
-		uid: "19f8962c",
+		uid: "f6833605",
 		type: "item",
+		title: "Armor",
 		items: [{
-			item: "hbm:steel_hoe"
+			item: "hbm:steel_helmet"
+		},
+		{
+			item: "hbm:steel_plate"
+		},
+		{
+			item: "hbm:steel_legs"
+		},
+		{
+			item: "hbm:steel_boots"
 		}],
-		consume_items: true,
 		ignore_damage: true,
 		ignore_nbt: 1b
 	}],

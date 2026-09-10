@@ -1,6 +1,6 @@
 {
 	x: -2.5d,
-	y: 21.0d,
+	y: 23.0d,
 	description: "Pollution Inc.",
 	text: [
 		"Vents fluids to the enviroment, for better or worse.",

@@ -1,7 +1,7 @@
 {
 	title: "Electric Tools",
-	x: -4.273809523809518d,
-	y: -3.6428571428571317d,
+	x: -5.5d,
+	y: -3.5d,
 	text: [
 		"The Electric Chainsaw is an axe with abilities that makes mobs drop nitra.",
 		"",
@@ -15,7 +15,7 @@
 	dependencies: [
 		"6dfb480a"
 	],
-	size: 1.25d,
+	size: 1.5d,
 	tasks: [{
 		uid: "885cf376",
 		type: "item",

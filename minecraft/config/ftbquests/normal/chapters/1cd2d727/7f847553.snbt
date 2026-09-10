@@ -1,6 +1,6 @@
 {
 	disable_toast: true,
-	x: -11.0d,
+	x: -9.5d,
 	y: 0.0d,
 	text: [
 		"Description can be found on Early Game chapter."

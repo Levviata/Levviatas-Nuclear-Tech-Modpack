@@ -1,7 +1,7 @@
 {
 	title: "Electricity Pylon",
-	x: 7.0d,
-	y: 14.0d,
+	x: 6.0d,
+	y: 19.5d,
 	text: [
 		"Electricity Pylon are a handy electric carrying machine that can cover wide areas.",
 		"They come in wood and steel, steel is drastically better looking.",

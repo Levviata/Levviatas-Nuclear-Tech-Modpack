@@ -1,6 +1,6 @@
 {
-	x: -5.5d,
-	y: 3.5d,
+	x: -4.0d,
+	y: 5.0d,
 	text: [
 		"The Containment Box seals any radioactive, pyrophiric, blinding material inside its inventory negating its effects.",
 		"",

@@ -1,6 +1,6 @@
 {
 	title: "Naptha",
-	x: -3.5d,
+	x: -4.5d,
 	y: 1.5d,
 	text: [
 		"Naphtha is mediocre combustible that will poison the enviroment if spilled.",
@@ -13,6 +13,7 @@
 	dependencies: [
 		"893c81c8"
 	],
+	size: 1.25d,
 	or_tasks: true,
 	tasks: [{
 		uid: "f285b4f8",

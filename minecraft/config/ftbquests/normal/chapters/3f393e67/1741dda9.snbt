@@ -1,6 +1,6 @@
 {
-	x: 3.017857142857153d,
-	y: 17.321428571428562d,
+	x: 4.5d,
+	y: 13.0d,
 	description: "Basic",
 	text: [
 		"Generates power by burning solid and liquid fuels like wood and logs or wood oil.",
@@ -14,10 +14,8 @@
 		"All generators can be found in the Generators chapter!"
 	],
 	dependencies: [
-		"86867f7a",
 		"cb1a89bb"
 	],
-	size: 1.25d,
 	tasks: [{
 		uid: "ada42507",
 		type: "item",

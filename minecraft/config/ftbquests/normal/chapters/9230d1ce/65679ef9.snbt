@@ -1,6 +1,6 @@
 {
 	x: 23.5d,
-	y: 11.5d,
+	y: 16.5d,
 	description: "§aRequires blueprint",
 	text: [
 		"The Radiation-Powered Engine can turn Long-Lived and Short-Lived nuclear waste into power.",

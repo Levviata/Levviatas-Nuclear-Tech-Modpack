@@ -5,11 +5,11 @@
 	shape: "hexagon",
 	description: "Meltdowns will void warranty.",
 	text: [
-		"The RBMK is a post-oil modular nuclear reactor that can make Bismuth and many other important products.",
+		"The RBMK (or \"high-power channel-type reactor\") is a post-oil modular nuclear reactor that can make Bismuth and many other important products.",
 		"",
-		"The RBMK Console has a Guide Book embedded into it's details which you can Right-Click to get one, you may also craft it with a book and a potato, this book explains the fundamentals of a RBMK reactor.",
+		"RBMK reactors should be built in one chunk instead of intersecting others as a good practice.",
 		"",
-		"Since it's modular, it has many optimal configurations, I got mine from an indian guy online and it works wonder, shout out to Savage Vegeta, though the wiki also has designs."
+		"Since it's modular, it has many optimal configurations. I got mine from an indian guy online and it works wonder, shout out to Savage Vegeta, though the wiki also has designs."
 	],
 	size: 2.0d,
 	or_tasks: true,
@@ -80,5 +80,10 @@
 		uid: "b270f303",
 		type: "item",
 		item: "hbm:rbmk_fuel_empty"
+	},
+	{
+		uid: "f20abaa5",
+		type: "xp",
+		xp: 100
 	}]
 }

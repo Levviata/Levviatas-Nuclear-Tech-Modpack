@@ -1,6 +1,6 @@
 {
-	x: 4.0d,
-	y: 16.5d,
+	x: 5.0d,
+	y: 14.5d,
 	text: [
 		"Battery sockets are the new Energy Storage Blocks, they house power storing equipment and connect to the power grid like cables.",
 		"",
@@ -16,7 +16,6 @@
 	dependencies: [
 		"cb1a89bb"
 	],
-	size: 1.25d,
 	tasks: [{
 		uid: "72989f3c",
 		type: "item",

@@ -1,12 +1,14 @@
 {
-	x: -5.5d,
-	y: -2.5d,
+	x: -7.5d,
+	y: -1.5d,
+	shape: "hexagon",
 	text: [
 		"Polymer Bars are an extremely useful material used in all sorts of machines, guns, and items."
 	],
 	dependencies: [
 		"bf9ecf70"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "56c6f71e",
 		type: "item",

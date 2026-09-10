@@ -1,6 +1,6 @@
 {
-	x: -7.0d,
-	y: -10.0d,
+	x: -9.0d,
+	y: -9.5d,
 	text: [
 		"The Geiger Counter informs of the",
 		"- Chunk radiation",

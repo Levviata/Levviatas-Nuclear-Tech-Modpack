@@ -1,7 +1,7 @@
 {
 	title: "Gasoline",
-	x: -4.5d,
-	y: 2.5d,
+	x: -6.0d,
+	y: 1.5d,
 	text: [
 		"Gasoline is a good combustible that generates 1.51MHE power per bucket.",
 		"",

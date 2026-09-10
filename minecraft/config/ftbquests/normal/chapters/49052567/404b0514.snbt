@@ -1,6 +1,6 @@
 {
-	x: -1.5d,
-	y: 13.5d,
+	x: 5.0d,
+	y: 9.250000000000014d,
 	text: [
 		"The recipe has been replaced, its made with",
 		"- Basic Processor (not changed)",

@@ -8,6 +8,7 @@
 	dependencies: [
 		"4112c1df"
 	],
+	size: 1.25d,
 	or_tasks: true,
 	tasks: [{
 		uid: "a9352c0a",

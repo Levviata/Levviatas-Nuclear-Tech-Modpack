@@ -1,14 +1,13 @@
 {
-	x: -1.0d,
-	y: 4.0d,
-	description: "No longer a Worker's choice",
+	x: -2.5d,
+	y: 5.0d,
+	description: "No longer a worker's choice",
 	text: [
 		"Desh is an exotic superalloy"
 	],
 	dependencies: [
 		"04b29439"
 	],
-	size: 1.25d,
 	tasks: [{
 		uid: "894e88b7",
 		type: "item",

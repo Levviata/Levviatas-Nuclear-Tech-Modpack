@@ -1,7 +1,7 @@
 {
 	title: "Starmetal Armor",
 	x: 25.5d,
-	y: 15.5d,
+	y: 11.5d,
 	description: "§e§nRequires:§r§e Cobalt Armor",
 	text: [
 		"The Starmetal Armor gives equal protection to diamond and provides 90% radiation resistance.",

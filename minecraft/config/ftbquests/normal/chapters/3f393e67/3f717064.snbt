@@ -1,6 +1,6 @@
 {
 	x: 12.5d,
-	y: 25.5d,
+	y: 27.5d,
 	description: "§e§nRequires:§r§e Lead Cladding",
 	text: [
 		"For that Chernobyl Liquidator look, medal not included.",

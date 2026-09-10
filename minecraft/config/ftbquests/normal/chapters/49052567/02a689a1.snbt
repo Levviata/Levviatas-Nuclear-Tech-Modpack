@@ -1,6 +1,6 @@
 {
-	x: -5.0d,
-	y: 8.0d,
+	x: -4.785714285714292d,
+	y: 8.285714285714278d,
 	text: [
 		"The Crafter can store up to 9 Patterns which can be crafted inside any Grid.",
 		"To get more slots, place more Crafters.",

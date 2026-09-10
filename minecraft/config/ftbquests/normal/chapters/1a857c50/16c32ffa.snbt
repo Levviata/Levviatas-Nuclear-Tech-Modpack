@@ -4,8 +4,8 @@
 		id: "hbm:turret_chip",
 		tag: {}
 	},
-	x: 4.0d,
-	y: -12.5d,
+	x: -13.0d,
+	y: 13.5d,
 	text: [
 		"You can run turrets fine without it, which is definitely not intended but whatever. Seems like its optional for now."
 	],

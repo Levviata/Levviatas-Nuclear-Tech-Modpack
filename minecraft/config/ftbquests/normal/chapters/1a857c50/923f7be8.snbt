@@ -1,6 +1,6 @@
 {
-	x: 2.0d,
-	y: 9.0d,
+	x: 1.5d,
+	y: 3.0d,
 	text: [
 		"The Electric Groundwater Pump does the same as a Steam pump but with power. ",
 		"",

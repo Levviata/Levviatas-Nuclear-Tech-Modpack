@@ -1,10 +1,9 @@
 {
 	title: "ZIRNOX Rods",
 	icon: "hbm:rod_zirnox_empty",
-	x: 10.5d,
+	x: 9.5d,
 	y: 0.0d,
 	shape: "square",
-	description: "All the rods",
 	text: [
 		""
 	],

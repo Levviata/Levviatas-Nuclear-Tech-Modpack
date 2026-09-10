@@ -1,6 +1,6 @@
 {
 	x: -4.5d,
-	y: 29.5d,
+	y: 31.5d,
 	description: "OR task",
 	text: [
 		"The Compressor can pressurize fluids, adding PUs. ",

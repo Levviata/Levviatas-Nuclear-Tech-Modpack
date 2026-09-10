@@ -1,8 +1,10 @@
 {
-	x: -3.5d,
-	y: 5.5d,
+	x: -3.0d,
+	y: 5.0d,
 	text: [
-		"The Nuclear Waste Disposal Drum safely contains and lets radioactive waste decay."
+		"The Nuclear Waste Disposal Drum safely contains Long-lived and Short-lived nuclear waste and lets it decay.",
+		"",
+		"Tiny piles decay much faster than full waste which makes it the preferred way."
 	],
 	tasks: [{
 		uid: "bac0a5ff",

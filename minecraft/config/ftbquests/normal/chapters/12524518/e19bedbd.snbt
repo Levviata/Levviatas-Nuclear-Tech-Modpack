@@ -1,9 +1,14 @@
 {
-	x: 5.5d,
+	x: 4.5d,
 	y: -1.5d,
+	text: [
+		"When fully depleted, the rod can be crafted into hot Depleted Uranium-235 Fuel which needs to be cool down.",
+		"",
+		"This byproduct can then be processed in a PUREX."
+	],
 	dependencies: [
-		"6f269a07",
-		"1a788b23"
+		"1a788b23",
+		"03013b4a"
 	],
 	tasks: [{
 		uid: "b4d22dfa",

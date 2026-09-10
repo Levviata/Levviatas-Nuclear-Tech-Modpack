@@ -1,6 +1,6 @@
 {
-	x: -6.5d,
-	y: 6.5d,
+	x: -6.285714285714292d,
+	y: 6.785714285714278d,
 	text: [
 		"The Crafting Monitor tracks any scheduled crafting in the grid.",
 		"",

@@ -1,6 +1,6 @@
 {
-	x: 20.5d,
-	y: 12.55476190476189d,
+	x: 20.48809523809524d,
+	y: 12.154761904761912d,
 	description: "§e§nRequires:§r§e Vectored Jetpack",
 	text: [
 		"As fuel it uses BF Rocket Fuel.",
@@ -12,6 +12,7 @@
 		"0a012d55",
 		"a56d197f"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "60b6ab22",
 		type: "item",

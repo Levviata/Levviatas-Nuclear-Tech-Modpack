@@ -5,6 +5,7 @@
 		"4fe9f8c4",
 		"e7774335"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "71422dd8",
 		type: "item",
@@ -44,6 +45,6 @@
 	rewards: [{
 		uid: "5f52767a",
 		type: "xp_levels",
-		xp_levels: 123
+		xp_levels: 12345
 	}]
 }

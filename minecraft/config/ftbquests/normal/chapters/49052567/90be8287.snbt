@@ -4,6 +4,9 @@
 	text: [
 		"The Controller supplies power to connected components, manages their power consumption, and connects them together."
 	],
+	dependencies: [
+		"dd7abe9c"
+	],
 	size: 1.25d,
 	tasks: [{
 		uid: "7731c8ff",

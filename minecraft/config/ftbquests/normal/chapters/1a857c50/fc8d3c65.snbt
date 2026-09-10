@@ -1,13 +1,14 @@
 {
-	x: -11.601190476190482d,
-	y: -2.5714285714285694d,
+	x: -12.178571428571416d,
+	y: 0.01011904761903537d,
 	text: [
 		"The Industrial Liquefaction Machine can turn many materials into their liquid form.",
 		"",
 		"It can make a variety of unique products like Sunflower Seed Oil or Seeding Slurry."
 	],
 	dependencies: [
-		"017d61b7"
+		"017d61b7",
+		"262c9aef"
 	],
 	size: 1.5d,
 	tasks: [{

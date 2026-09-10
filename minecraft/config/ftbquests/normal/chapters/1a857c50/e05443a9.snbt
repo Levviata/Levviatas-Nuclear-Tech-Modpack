@@ -1,11 +1,15 @@
 {
-	x: 4.0d,
-	y: -8.0d,
+	x: -13.0d,
+	y: 10.0d,
 	shape: "hexagon",
-	dependencies: [
-		"03f4949c",
-		"a14582da"
+	description: "§e§nRequires:§r§e Microchip",
+	text: [
+		""
 	],
+	dependencies: [
+		"03f4949c"
+	],
+	size: 1.25d,
 	tasks: [{
 		uid: "04b36b9e",
 		type: "item",

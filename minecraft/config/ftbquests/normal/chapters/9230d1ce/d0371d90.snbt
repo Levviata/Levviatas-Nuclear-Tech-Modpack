@@ -1,7 +1,7 @@
 {
 	title: "Bismuth Armor",
 	x: 22.0d,
-	y: 17.5d,
+	y: 10.0d,
 	description: "§e§nRequires:§r§e Bismuth",
 	text: [
 		"Bismuth Armor is a great armor set that provides Jump Boost and Speed VII, Regeneration II, Night Vision, and the ability to dash 3 times.",

@@ -1,8 +1,8 @@
 {
 	title: "Equipment Modification Tables",
-	x: -2.5d,
-	y: 15.0d,
-	description: "Subtract, divide, and add armor accessories!",
+	x: -3.0d,
+	y: 17.0d,
+	description: "Armor accessories and weapon modifications",
 	text: [
 		"The Armor Modification Table can insert accessories into your armor, each armor piece has 9 slots:",
 		"",
@@ -15,13 +15,15 @@
 		"",
 		"The accessories are unique to each piece of armor, a Chestplate slot in a helmet piece is intended and some accessories may be placed in different equipment slots in the table, this doesn't mean you'll be able to wear it in your chestplate slot, a helmet has a Chestplate somehow and I accept that quirkiness. ",
 		"",
-		"The Weapon Modification Table is vastly different and is able to insert accessories to guns, to use, place a gun in the left-most slot, starting down.",
 		"",
-		"If you hover your gun, it will tell you which accessories it accepts. If you have dual guns, you may select the second gun to modify it, that is the up and down arrows with a number to it's left, the number is the gun selected."
+		"The Weapon Modification Table is vastly different and is able to insert mods to guns, to use, place a gun in the left-most slot, starting down.",
+		"",
+		"More on weapon mods in the Weapons chapter!"
 	],
 	dependencies: [
 		"86867f7a"
 	],
+	size: 1.25d,
 	or_tasks: true,
 	tasks: [{
 		uid: "3f1f9955",

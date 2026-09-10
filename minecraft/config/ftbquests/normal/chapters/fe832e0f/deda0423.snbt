@@ -1,9 +1,10 @@
 {
-	title: "Technetium / Cadmium",
+	title: "Resistant Alloy",
 	disable_toast: true,
 	x: 2.5d,
 	y: 16.5d,
 	shape: "hexagon",
+	description: "Technetium / Cadmium Steel",
 	text: [
 		""
 	],

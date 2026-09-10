@@ -1,6 +1,6 @@
 {
-	x: -8.0d,
-	y: -14.0d,
+	x: -10.0d,
+	y: -13.5d,
 	text: [
 		"The Combined Cycle Gas Turbine is a complex generator with configurable speed that uses gas fuels, Engine Lubricant, and Water to produce a great amount of power.",
 		"",

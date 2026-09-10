@@ -1,6 +1,6 @@
 {
-	x: -8.0d,
-	y: 9.5d,
+	x: -7.5714285714285765d,
+	y: 9.571428571428555d,
 	description: "Nuclear Tech",
 	text: [
 		"The Automatic Crafting Table is a lighting speed, powered machine that crafts the set recipe (blueprint grid) when items are feed into it.",

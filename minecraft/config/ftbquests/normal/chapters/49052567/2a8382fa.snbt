@@ -1,13 +1,12 @@
 {
 	x: 0.0d,
-	y: 8.5d,
+	y: 9.5d,
 	description: "§e§nRequires:§r§e Polymer, Military Grade Circuit Board, Technetium Steel",
 	text: [
 		""
 	],
 	dependencies: [
 		"6dfb480a",
-		"fb5c7dbd",
 		"11f806c5",
 		"e05443a9"
 	],

@@ -4,16 +4,12 @@
 	dependencies: [
 		"4112c1df"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "f284970e",
 		type: "item",
 		items: [{
 			item: "hbm:billet_yharonite"
 		}]
-	}],
-	rewards: [{
-		uid: "2342caca",
-		type: "xp_levels",
-		xp_levels: 300
 	}]
 }

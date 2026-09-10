@@ -1,6 +1,6 @@
 {
-	x: -0.5d,
-	y: 7.0d,
+	x: -0.7619047619047734d,
+	y: 6.761904761904752d,
 	description: "Infinite oil collection",
 	text: [
 		"The Hydraulic Fracking Tower is the best oil extractor, collecting oil from deposits faster than the Derrick and the Pumpjack.",

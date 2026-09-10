@@ -1,7 +1,7 @@
 {
 	title: "Desh Tools",
-	x: 1.5d,
-	y: 4.5d,
+	x: -5.0d,
+	y: 5.0d,
 	description: "Infinite durability",
 	text: [
 		"All desh tools have infinite durability and are immune to fire and any other item voiding (I added that)."

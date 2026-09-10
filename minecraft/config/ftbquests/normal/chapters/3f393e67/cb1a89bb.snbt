@@ -1,12 +1,14 @@
 {
-	x: 2.0d,
-	y: 15.0d,
+	x: 2.5d,
+	y: 14.5d,
+	shape: "hexagon",
 	text: [
 		"Minecraft Grade Copper is an alloy of copper and redstone, its widely used in electric things like cables or magnet coils."
 	],
 	dependencies: [
 		"a488de09"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "f8805e16",
 		type: "item",

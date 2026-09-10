@@ -1,12 +1,13 @@
 {
 	x: 0.0d,
-	y: 5.5d,
+	y: 6.5d,
 	description: "§e§nRequires:§r§e Latex Bar, Analog Circuit Board",
 	text: [
 		"The 1k Storage Part allows to make 1k blocks and 1k disks. They can store up to 1 thousand items."
 	],
 	dependencies: [
-		"9b8a4cff"
+		"9b8a4cff",
+		"90be8287"
 	],
 	tasks: [{
 		uid: "2a6d2668",

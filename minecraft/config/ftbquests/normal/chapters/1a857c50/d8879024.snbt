@@ -1,13 +1,13 @@
 {
-	x: -6.553571428571416d,
-	y: -1.1428571428571388d,
+	x: -7.5d,
+	y: 0.75d,
 	text: [
 		"The Radioisotope Thermoelectric (RT) Generator is a machine that converts RTG Pellets into power."
 	],
 	dependencies: [
 		"6dfb480a"
 	],
-	size: 1.25d,
+	size: 1.5d,
 	tasks: [{
 		uid: "e12e59a2",
 		type: "item",

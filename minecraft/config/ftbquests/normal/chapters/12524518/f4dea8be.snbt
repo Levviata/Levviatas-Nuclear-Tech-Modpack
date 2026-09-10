@@ -1,11 +1,92 @@
 {
-	x: -4.0d,
-	y: 8.0d,
+	title: "PWR Reactor",
+	icon: "hbm:pwr_controller",
+	x: -3.5d,
+	y: 9.0d,
+	shape: "hexagon",
+	description: "Pressurized Water Reactor",
+	text: [
+		"Cooling fluids",
+		"- Coolant",
+		"- MUG Root Beer",
+		"- Heavy Water",
+		"- Liquid Sodium and Thorium Salt"
+	],
+	size: 2.0d,
+	or_tasks: true,
 	tasks: [{
-		uid: "6afbce9b",
+		uid: "b8b31a4e",
 		type: "item",
 		items: [{
 			item: "hbm:pwr_controller"
 		}]
+	},
+	{
+		uid: "d7bbc2b6",
+		type: "item",
+		items: [{
+			item: "hbm:pwr_port"
+		}]
+	},
+	{
+		uid: "67f2a9a6",
+		type: "item",
+		items: [{
+			item: "hbm:pwr_casing"
+		}]
+	},
+	{
+		uid: "1ebf4dfd",
+		type: "item",
+		items: [{
+			item: "hbm:pwr_reflector"
+		}]
+	},
+	{
+		uid: "3351fe36",
+		type: "item",
+		items: [{
+			item: "hbm:pwr_neutron_source"
+		}]
+	},
+	{
+		uid: "dddbf243",
+		type: "item",
+		items: [{
+			item: "hbm:pwr_fuelrod"
+		}]
+	},
+	{
+		uid: "ef6fbbff",
+		type: "item",
+		items: [{
+			item: "hbm:pwr_control"
+		}]
+	},
+	{
+		uid: "1e807096",
+		type: "item",
+		items: [{
+			item: "hbm:pwr_channel"
+		}]
+	},
+	{
+		uid: "6c141866",
+		type: "item",
+		items: [{
+			item: "hbm:pwr_heatex"
+		}]
+	},
+	{
+		uid: "a7e0b079",
+		type: "item",
+		items: [{
+			item: "hbm:pwr_heatsink"
+		}]
+	}],
+	rewards: [{
+		uid: "c4e16e54",
+		type: "xp",
+		xp: 100
 	}]
 }

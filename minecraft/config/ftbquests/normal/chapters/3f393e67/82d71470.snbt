@@ -1,13 +1,14 @@
 {
 	icon: "hbm:machine_crucible",
 	x: -4.5d,
-	y: 22.0d,
+	y: 24.0d,
 	shape: "hexagon",
 	description: "Molten core!",
 	text: [
-		"The Crucible turns ingots into liquid ingots which then can be cast by a Foundry Basin below the green outlet of the Crucible.",
+		"The Crucible turns materials into liquid which then can be cast by a Foundry Basin below the green outlet of the Crucible.",
 		"",
 		"The foundry basin needs a mold to work, hoppers can be attached to it.",
+		"Molds can be shaped in an Anvil.",
 		"",
 		"A hopper may be placed below a Foundry Basin to collect the produced cast.",
 		"",
@@ -17,6 +18,7 @@
 		"083d7aa0"
 	],
 	size: 1.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "4c41b9a8",
 		type: "item",
@@ -29,20 +31,6 @@
 		type: "item",
 		items: [{
 			item: "hbm:foundry_mold"
-		}]
-	},
-	{
-		uid: "06ac2654",
-		type: "item",
-		items: [{
-			item: "hbm:mold 1 2"
-		}]
-	},
-	{
-		uid: "49fca3a3",
-		type: "item",
-		items: [{
-			item: "hbm:mold 1 19"
 		}]
 	},
 	{
@@ -64,6 +52,20 @@
 		type: "item",
 		items: [{
 			item: "hbm:foundry_basin"
+		}]
+	},
+	{
+		uid: "795ba792",
+		type: "item",
+		items: [{
+			item: "hbm:foundry_tank"
+		}]
+	},
+	{
+		uid: "b88264b1",
+		type: "item",
+		items: [{
+			item: "hbm:mold_base"
 		}]
 	}],
 	rewards: [{

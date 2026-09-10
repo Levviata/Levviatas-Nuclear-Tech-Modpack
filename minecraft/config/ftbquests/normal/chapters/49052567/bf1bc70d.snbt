@@ -1,6 +1,6 @@
 {
 	title: "Wood Mass Storage Unit",
-	x: 9.5d,
+	x: 9.0d,
 	y: 4.5d,
 	description: "Tier 1, 1000 item capacity",
 	text: [

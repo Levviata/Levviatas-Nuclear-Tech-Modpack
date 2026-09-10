@@ -1,7 +1,7 @@
 {
 	title: "FEL and SILEX",
-	x: -5.5d,
-	y: -16.0d,
+	x: -7.5d,
+	y: -15.5d,
 	shape: "hexagon",
 	description: "§e§nRequires:§r§e Desh",
 	text: [

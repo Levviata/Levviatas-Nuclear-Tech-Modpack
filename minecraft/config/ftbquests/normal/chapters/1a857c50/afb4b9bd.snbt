@@ -1,7 +1,7 @@
 {
 	title: "T-51b Power Armor",
-	x: -8.0d,
-	y: -11.0d,
+	x: -10.0d,
+	y: -10.5d,
 	shape: "hexagon",
 	text: [
 		"The T-51b Power Armor is a direct upgrade from titanium and generally a good choice.",

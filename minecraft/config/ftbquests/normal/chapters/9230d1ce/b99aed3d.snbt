@@ -4,6 +4,7 @@
 	dependencies: [
 		"e7774335"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "661e18e4",
 		type: "item",

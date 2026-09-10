@@ -1,6 +1,6 @@
 {
 	x: 20.5d,
-	y: 10.0d,
+	y: 10.095238095238095d,
 	description: "The ultimate Jetpack!",
 	text: [
 		"Closer and closer to total domination.",
@@ -10,6 +10,7 @@
 	dependencies: [
 		"741702f6"
 	],
+	size: 1.5d,
 	tasks: [{
 		uid: "b6841627",
 		type: "item",

@@ -1,7 +1,7 @@
 {
 	title: "Light Oil",
-	x: -2.0d,
-	y: 2.0d,
+	x: -2.5d,
+	y: 2.5d,
 	text: [
 		"Light Oil is a good combustible valuable for its use in Desh alloying and obtaining Kerosene.",
 		"",
@@ -17,6 +17,7 @@
 	dependencies: [
 		"893c81c8"
 	],
+	size: 1.25d,
 	or_tasks: true,
 	tasks: [{
 		uid: "14568f8f",
