@@ -1,0 +1,24 @@
+{
+	title: "Tantalium",
+	x: -3.5d,
+	y: 35.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"5b005018",
+		"0cc7d46c"
+	],
+	tasks: [{
+		uid: "1a48e70f",
+		type: "item",
+		items: [{
+			item: "hbm:gem_tantalium"
+		}]
+	}],
+	rewards: [{
+		uid: "f76b4533",
+		type: "xp",
+		xp: 40
+	}]
+}

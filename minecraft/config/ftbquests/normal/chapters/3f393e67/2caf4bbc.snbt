@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 34.0d,
+	dependencies: [
+		"3d998aab",
+		"7d265608",
+		"0cc7d46c"
+	],
+	tasks: [{
+		uid: "2a817ff6",
+		type: "item",
+		items: [{
+			item: "hbm:powder_niobium"
+		}]
+	}]
+}

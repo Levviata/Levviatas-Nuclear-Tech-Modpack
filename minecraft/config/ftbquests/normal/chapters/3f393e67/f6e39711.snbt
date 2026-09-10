@@ -1,0 +1,36 @@
+{
+	x: -3.0d,
+	y: 29.5d,
+	text: [
+		"The Fractioning Tower separates useful products from fluids.",
+		"",
+		"To operate, give a Fluid Identifier to the machine and introduce the fluid to be separated.",
+		"",
+		"Several Towers can placed on top of each other to increment production.",
+		"If that's undesirable, they can be separated using a Separator."
+	],
+	dependencies: [
+		"52766c40"
+	],
+	size: 1.25d,
+	or_tasks: true,
+	tasks: [{
+		uid: "cd4c1701",
+		type: "item",
+		items: [{
+			item: "hbm:machine_fraction_tower"
+		}]
+	},
+	{
+		uid: "ca11fd79",
+		type: "item",
+		items: [{
+			item: "hbm:fraction_spacer"
+		}]
+	}],
+	rewards: [{
+		uid: "33e3b66f",
+		type: "xp",
+		xp: 150
+	}]
+}
