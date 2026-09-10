@@ -7,7 +7,7 @@ Add bloom to
 - Refined storage machines (mostly grids and the controller)
 
 Add quests for
-- Rails and Trains (not working so dont care)
+- PWR
 
 Increment Antimatter barrel total storage from 16B to 32B 
 
