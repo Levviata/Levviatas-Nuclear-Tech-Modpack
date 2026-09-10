@@ -15,3 +15,4 @@ things i would change:
 
 - fix loot table removing old items like the chicago pile rods
 - add recipe for 16 cigs to polonium nugget
+- fix shimmer tool recipe as its too expensive
