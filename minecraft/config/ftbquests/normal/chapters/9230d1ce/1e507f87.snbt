@@ -2,10 +2,7 @@
 	x: 19.5d,
 	y: 15.5d,
 	text: [
-		"The Magnetic Antimatter Container can hold 16000mB (16 Buckets) of any",
-		"- Hot",
-		"- Highly Corrosive",
-		"- And Antimatter fluid."
+		"The Magnetic Antimatter Container can hold 16000mB of any fluid, including antimatter."
 	],
 	dependencies: [
 		"0a012d55"
