@@ -1,0 +1,14 @@
+{
+	x: -3.738095238095241d,
+	y: 6.511904761904766d,
+	dependencies: [
+		"86c1bfd9"
+	],
+	tasks: [{
+		uid: "4b5dba69",
+		type: "item",
+		items: [{
+			item: "hbm:gem_alexandrite"
+		}]
+	}]
+}
