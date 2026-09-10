@@ -1,10 +1,12 @@
 {
+	title: "Bismoids",
 	x: 2.5d,
 	y: 13.5d,
 	shape: "hexagon",
-	description: "Obtained from RBMK or Bedrock ore processing",
 	text: [
-		"Bismuth is a late game material."
+		"Bismuth is obtained from RBMK or Bedrock ore processing.",
+		"",
+		"Arsenic is obtained from acidizing Oily Scrap with High-Performance Solvent in an Ore Acidizer."
 	],
 	dependencies: [
 		"7057b18b",
@@ -12,11 +14,19 @@
 	],
 	dependency_requirement: "one_completed",
 	size: 1.5d,
+	or_tasks: true,
 	tasks: [{
-		uid: "d4d9b59f",
+		uid: "f6b1a1e2",
 		type: "item",
 		items: [{
-			item: "hbm:ingot_bismuth"
+			item: "hbm:nugget_bismuth"
+		}]
+	},
+	{
+		uid: "2d659e25",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_arsenic"
 		}]
 	}]
 }
