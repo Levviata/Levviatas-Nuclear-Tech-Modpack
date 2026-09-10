@@ -1,9 +1,12 @@
 {
+	title: "Bronze Bismoids",
 	x: 2.5d,
 	y: 11.5d,
+	text: [
+		""
+	],
 	dependencies: [
-		"7df97880",
-		"9ccfed5d"
+		"7df97880"
 	],
 	dependency_requirement: "one_completed",
 	tasks: [{
