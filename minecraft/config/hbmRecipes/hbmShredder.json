@@ -983,7 +983,11 @@
     {
       "input": ["minecraft:dragon_egg",1],
       "output": ["hbm:powder_spark_mix",12]
+    },
+    {
+      "input": ["hbm:cigarette",16],
+      "output": ["hbm:nugget_polonium",1]
     }
   ],
-  "comment": "recipes: block of slag:1, dragon egg, total 2"
+  "comment": "recipes: block of slag:1, dragon egg, cigs, total 3"
 }
