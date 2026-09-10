@@ -1,0 +1,44 @@
+{
+	title: "16x Bismoid Ingots",
+	x: 0.5d,
+	y: 15.0d,
+	shape: "pentagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"7df97880"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "fc6a3d5a",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_arsenic"
+		}],
+		count: 16L
+	},
+	{
+		uid: "504e7596",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bismuth"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "551c5b9a",
+		type: "random",
+		table: 5
+	},
+	{
+		uid: "242045b1",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "20c76a54",
+		type: "xp",
+		xp: 300
+	}]
+}
