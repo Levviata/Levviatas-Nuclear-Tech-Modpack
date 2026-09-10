@@ -1,10 +1,10 @@
 {
-	x: 13.0d,
-	y: -5.0d,
+	x: -15.5d,
+	y: 24.0d,
 	dependencies: [
-		"96b82733"
+		"4fe9f8c4",
+		"e7774335"
 	],
-	size: 1.25d,
 	tasks: [{
 		uid: "71422dd8",
 		type: "item",
@@ -15,7 +15,16 @@
 		ignore_nbt: 1b
 	},
 	{
-		uid: "585eed50",
+		uid: "34165d90",
+		type: "item",
+		items: [{
+			item: "hbm:euphemium_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "57ac99af",
 		type: "item",
 		items: [{
 			item: "hbm:euphemium_legs"
@@ -24,7 +33,7 @@
 		ignore_nbt: 1b
 	},
 	{
-		uid: "c2110a68",
+		uid: "73f11001",
 		type: "item",
 		items: [{
 			item: "hbm:euphemium_boots"

@@ -1,0 +1,27 @@
+{
+	title: "Rosenberg Pest Control Box",
+	x: 23.0d,
+	y: 18.0d,
+	text: [
+		"The Rosenberg Pest Control Box does what it says, it kills mobs in a 15m radius if powered. ",
+		"",
+		"Players are also killed instantly, so it's useful to have a power switch.",
+		"",
+		"Each one drains 500kHE/s."
+	],
+	dependencies: [
+		"abfc425a"
+	],
+	tasks: [{
+		uid: "2423cfaf",
+		type: "item",
+		items: [{
+			item: "hbm:radiobox"
+		}]
+	}],
+	rewards: [{
+		uid: "54af6019",
+		type: "xp",
+		xp: 60
+	}]
+}

@@ -1,7 +1,7 @@
 {
 	title: "Bismuth Tools",
-	x: 5.0d,
-	y: 8.0d,
+	x: 3.5d,
+	y: 12.0d,
 	description: "§e§nRequires:§r§e Starmetal tools",
 	text: [
 		""
@@ -9,6 +9,7 @@
 	dependencies: [
 		"7df97880"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "ba9dcb9f",
 		type: "item",

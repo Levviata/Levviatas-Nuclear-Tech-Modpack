@@ -1,0 +1,25 @@
+{
+	x: -3.5d,
+	y: 15.0d,
+	text: [
+		"The Hydrotreater uses 1 PU (pressurized) Liquid Hydrogen to process petrochemicals.",
+		"",
+		"It can be used to speed up the production of some petrochemicals or make new fluids unique to the machine."
+	],
+	dependencies: [
+		"f90a1d32"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "efcfde5c",
+		type: "item",
+		items: [{
+			item: "hbm:machine_hydrotreater"
+		}]
+	}],
+	rewards: [{
+		uid: "f71d75b7",
+		type: "xp",
+		xp: 150
+	}]
+}

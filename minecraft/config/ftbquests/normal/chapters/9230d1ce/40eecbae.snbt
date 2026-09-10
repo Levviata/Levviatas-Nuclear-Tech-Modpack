@@ -1,10 +1,10 @@
 {
 	disable_toast: true,
-	x: -5.625d,
+	x: -6.125d,
 	y: 7.5d,
 	description: "Removed",
 	text: [
-		"I decided to remove it because its unnecessary, uranium-238 is easier to obtain and exposed into Schrabidium.",
+		"I decided to remove it because its unnecessary, uranium-238 is radically easier to process into schrabidium.",
 		"",
 		"Schraranium only use is to obtain Schrabidium. It can be processed in many ways, but its preferred to get Schrabidium directly."
 	],

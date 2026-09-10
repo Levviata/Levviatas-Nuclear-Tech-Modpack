@@ -1,6 +1,6 @@
 {
-	x: 2.4137755102041183d,
-	y: 1.605102040816348d,
+	x: -9.0d,
+	y: 12.0d,
 	text: [
 		"The Collector Chamber is a simple component that will increase production rate by 50%.",
 		"Can be stacked up to 150%.",
@@ -12,7 +12,6 @@
 	dependencies: [
 		"f547edc2"
 	],
-	size: 1.25d,
 	tasks: [{
 		uid: "aceb907f",
 		type: "item",

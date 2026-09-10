@@ -1,0 +1,32 @@
+{
+	x: 14.0d,
+	y: 13.5d,
+	shape: "hexagon",
+	description: "§e§nRequires:§r§e Versatile Integrated Circuit",
+	text: [
+		"The Vacuum Refinery accepts 2PU Crude Oil and Desulfurized Crude Oil.",
+		"",
+		"Its the main way to get Reformate.",
+		"",
+		"It can make",
+		"- Vacuum Heavy Oil and Light Oil",
+		"- Sour Gas",
+		"- Reformate and Reformate Gas."
+	],
+	dependencies: [
+		"99183935"
+	],
+	size: 1.75d,
+	tasks: [{
+		uid: "23c112ec",
+		type: "item",
+		items: [{
+			item: "hbm:machine_vacuum_distill"
+		}]
+	}],
+	rewards: [{
+		uid: "aae9ad9f",
+		type: "xp",
+		xp: 20
+	}]
+}

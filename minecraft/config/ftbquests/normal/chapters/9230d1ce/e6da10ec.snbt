@@ -1,0 +1,32 @@
+{
+	x: 20.61309523809524d,
+	y: 15.5d,
+	description: "§e§nRequires:§r§e ESAPI Insert",
+	text: [
+		"The XSAPI Insert protects 25% from Projectiles and 10% of all damage, its inserted in the Insert slot of the chestplate and it has 2500 durability.",
+		"",
+		"Its absolute successor is the Yharonite Insert."
+	],
+	dependencies: [
+		"0a012d55"
+	],
+	tasks: [{
+		uid: "3fb99f96",
+		type: "item",
+		items: [{
+			item: "hbm:insert_xsapi"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7db81d40",
+		type: "xp",
+		xp: 50
+	},
+	{
+		uid: "19823f21",
+		type: "item",
+		item: "hbm:insert_esapi"
+	}]
+}

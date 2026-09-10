@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: 15.5d,
+	text: [
+		"BSCCO is a superconducting alloy made from Bismuth, Strontium, Calcium, and Copper in the Crucible.",
+		"",
+		"Its used to make coils for both the Particle Accelerator and the Fusion Reactor."
+	],
+	dependencies: [
+		"7df97880"
+	],
+	tasks: [{
+		uid: "d9baec36",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bscco"
+		}]
+	}]
+}

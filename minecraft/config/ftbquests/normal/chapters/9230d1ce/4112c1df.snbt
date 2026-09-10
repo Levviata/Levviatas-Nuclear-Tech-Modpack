@@ -1,8 +1,8 @@
 {
 	title: "DFC Reactor",
-	x: 17.5d,
-	y: -1.5d,
-	shape: "hexagon",
+	x: -19.0d,
+	y: 27.5d,
+	shape: "gear",
 	dependencies: [
 		"4fe9f8c4"
 	],

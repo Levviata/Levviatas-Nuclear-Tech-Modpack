@@ -1,16 +1,14 @@
 {
-	x: 15.0d,
-	y: -3.5d,
-	description: "§e§nRequires:§r§e Millitary Grade Circuit, Builder's Jetpack",
+	x: 6.0d,
+	y: -6.5d,
+	description: "§e§nRequires:§r§e Builder's Jetpack",
 	text: [
 		"The Vectored Jetpack offers higher mobility at the cost of higher fuel consumption.",
 		"",
 		"Can toggled any time with key C."
 	],
-	hide_dependency_lines: true,
 	dependencies: [
-		"e05443a9",
-		"f8ad15eb"
+		"e05443a9"
 	],
 	tasks: [{
 		uid: "b9d80b40",

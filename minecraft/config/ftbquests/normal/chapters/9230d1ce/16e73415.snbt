@@ -1,14 +1,16 @@
 {
 	title: "Chlorophyte Tools",
-	x: 7.0d,
-	y: 7.0d,
+	x: -11.5d,
+	y: 17.0d,
+	description: "§e§nRequires:§r§e Bismuth Tools",
 	text: [
 		""
 	],
 	dependencies: [
-		"6871af1c",
 		"2b3c8a79"
 	],
+	size: 1.25d,
+	or_tasks: true,
 	tasks: [{
 		uid: "525dec24",
 		type: "item",

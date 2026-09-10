@@ -1,0 +1,30 @@
+{
+	x: 16.0d,
+	y: 13.0d,
+	dependencies: [
+		"1c848d12"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "ddeda551",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 92"
+		}]
+	},
+	{
+		uid: "72ab4024",
+		type: "fluid",
+		fluid: "reformate"
+	}],
+	rewards: [{
+		uid: "7d1a461c",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 92"
+	},
+	{
+		uid: "77eb7ccd",
+		type: "xp",
+		xp: 70
+	}]
+}

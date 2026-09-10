@@ -1,0 +1,42 @@
+{
+	x: 18.0d,
+	y: 10.0d,
+	shape: "pentagon",
+	dependencies: [
+		"75cecdaa"
+	],
+	tasks: [{
+		uid: "cb1590bf",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_overdrive_2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f515579d",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "a3e0dd6e",
+		type: "item",
+		item: "hbm:upgrade_effect_3"
+	},
+	{
+		uid: "80092e05",
+		type: "item",
+		item: "hbm:upgrade_speed_3"
+	},
+	{
+		uid: "7512b94d",
+		type: "item",
+		item: "hbm:upgrade_overdrive_1"
+	},
+	{
+		uid: "40d6d729",
+		type: "xp",
+		xp: 100
+	}]
+}

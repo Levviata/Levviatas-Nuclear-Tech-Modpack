@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: 10.0d,
+	dependencies: [
+		"ca6dd53f"
+	],
+	tasks: [{
+		uid: "cfff9dab",
+		type: "item",
+		items: [{
+			item: "hbm:upgrade_overdrive_3"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

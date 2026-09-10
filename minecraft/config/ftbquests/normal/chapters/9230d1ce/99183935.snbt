@@ -1,0 +1,29 @@
+{
+	x: 8.5d,
+	y: 13.5d,
+	shape: "hexagon",
+	text: [
+		"Cadmium and Technetium Steel are the main material of the late-mid game.",
+		"",
+		"Widely used in many recipes, it unlocks the next Oil Refinery, the Vacuum Refinery.",
+		"",
+		"One step toward godhood."
+	],
+	dependencies: [
+		"7057b18b",
+		"dafb33f6"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "dd8b6f25",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_cdalloy"
+		}]
+	}],
+	rewards: [{
+		uid: "943e77b8",
+		type: "xp",
+		xp: 20
+	}]
+}

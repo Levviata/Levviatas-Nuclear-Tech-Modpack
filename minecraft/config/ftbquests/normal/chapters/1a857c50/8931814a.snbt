@@ -1,7 +1,7 @@
 {
 	x: 0.0d,
 	y: 0.0d,
-	shape: "hexagon",
+	shape: "gear",
 	text: [
 		"After extracting and heating Crude Oil it may be processed.",
 		"",

@@ -1,0 +1,35 @@
+{
+	x: 19.0d,
+	y: 9.0d,
+	shape: "hexagon",
+	description: "§e§nRequires:§r§e Any Hard Plastic, Versatile Circuit Board",
+	text: [
+		"The Pyrolysis Oven is an useful machine capable of working like a Combination Oven and a more efficient Industrial Solidifier with some other unique recipes mixed in.",
+		"",
+		"It's main use is to make Fine Soot consistently thus enabling automation of Crystalline Fullerene.",
+		"",
+		"It can produce Solid Fuel at about x2.5~ better fluid efficiency."
+	],
+	dependencies: [
+		"75cecdaa"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "36ac0aa8",
+		type: "item",
+		items: [{
+			item: "hbm:machine_pyrooven"
+		}]
+	}],
+	rewards: [{
+		uid: "8cee7dc1",
+		type: "xp",
+		xp: 350
+	},
+	{
+		uid: "f46b4d5d",
+		type: "item",
+		item: "hbm:fluid_barrel_full 1 95",
+		count: 4
+	}]
+}

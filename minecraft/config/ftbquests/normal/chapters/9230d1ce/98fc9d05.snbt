@@ -1,6 +1,6 @@
 {
-	x: 2.4137755102041183d,
-	y: 5.355102040816348d,
+	x: -9.0d,
+	y: 10.5d,
 	text: [
 		"The MHD Turbine generates electricity from plasma energy.",
 		"Respects port energy sharing rules so multiple Turbines will have reduced production.",
@@ -13,7 +13,6 @@
 	dependencies: [
 		"f547edc2"
 	],
-	size: 1.25d,
 	tasks: [{
 		uid: "96bc0b8e",
 		type: "item",

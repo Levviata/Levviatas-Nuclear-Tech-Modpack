@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "6afbce9b",
+		type: "item",
+		items: [{
+			item: "hbm:pwr_controller"
+		}]
+	}]
+}

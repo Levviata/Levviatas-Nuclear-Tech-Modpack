@@ -1,7 +1,7 @@
 {
 	title: "Fusion Reactor Vessel",
-	x: 5.0d,
-	y: 3.5d,
+	x: -10.5d,
+	y: 13.5d,
 	shape: "hexagon",
 	text: [
 		"The Fusion Reactor Vessel is an expensive machine that can produce: ",
@@ -33,9 +33,9 @@
 		"More KyUs (Klystron energy unit) do not accelerate production."
 	],
 	dependencies: [
-		"3dcad7e6"
+		"f90a1d32"
 	],
-	size: 1.5d,
+	size: 1.75d,
 	tasks: [{
 		uid: "13859962",
 		type: "item",

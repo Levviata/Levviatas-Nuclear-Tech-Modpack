@@ -1,0 +1,43 @@
+{
+	icon: "hbm:gun_lasrifle",
+	x: -3.5d,
+	y: 12.0d,
+	text: [
+		"The Laser Rifle is a end game weapon that deals 50 Damage.",
+		"",
+		"Uses a special kind of capacitors as ammo."
+	],
+	dependencies: [
+		"f90a1d32"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "82470abd",
+		type: "item",
+		items: [{
+			item: "hbm:gun_lasrifle"
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4c31e04f",
+		type: "item",
+		title: "Any Capacitor",
+		items: [{
+			item: "hbm:ammo_standard 1 67"
+		},
+		{
+			item: "hbm:ammo_standard 1 68"
+		},
+		{
+			item: "hbm:ammo_standard 1 69"
+		}]
+	}],
+	rewards: [{
+		uid: "60d0a6cf",
+		type: "xp",
+		xp: 100
+	}]
+}

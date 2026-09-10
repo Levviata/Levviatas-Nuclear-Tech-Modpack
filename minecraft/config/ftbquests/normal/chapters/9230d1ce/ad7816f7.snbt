@@ -1,6 +1,6 @@
 {
-	x: 23.5d,
-	y: -0.5d,
+	x: -12.0d,
+	y: 26.5d,
 	shape: "gear",
 	text: [
 		""
@@ -8,7 +8,6 @@
 	dependencies: [
 		"e7774335"
 	],
-	size: 1.5d,
 	tasks: [{
 		uid: "a60af0a3",
 		type: "item",

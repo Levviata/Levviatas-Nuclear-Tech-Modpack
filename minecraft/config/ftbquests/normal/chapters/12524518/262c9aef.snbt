@@ -12,6 +12,7 @@
 		"Since it's modular, it has many optimal configurations, I got mine from an indian guy online and it works wonder, shout out to Savage Vegeta, though the wiki also has designs."
 	],
 	size: 2.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "0d0a5e6d",
 		type: "item",

@@ -1,0 +1,59 @@
+{
+	title: "Remnants Power Armor",
+	x: 1.5d,
+	y: 12.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7df97880"
+	],
+	tasks: [{
+		uid: "15ea0ab4",
+		type: "item",
+		items: [{
+			id: "hbm:rpa_helmet",
+			tag: {
+				charge: 2500000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b59b5217",
+		type: "item",
+		items: [{
+			id: "hbm:rpa_plate",
+			tag: {
+				charge: 2500000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b5a087ca",
+		type: "item",
+		items: [{
+			id: "hbm:rpa_legs",
+			tag: {
+				charge: 2500000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e1b361bd",
+		type: "item",
+		items: [{
+			id: "hbm:rpa_boots",
+			tag: {
+				charge: 2500000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

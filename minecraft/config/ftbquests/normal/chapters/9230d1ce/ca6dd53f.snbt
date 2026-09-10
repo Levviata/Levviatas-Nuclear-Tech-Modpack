@@ -1,0 +1,27 @@
+{
+	x: 2.5d,
+	y: 11.5d,
+	dependencies: [
+		"7df97880",
+		"9ccfed5d"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "5498f942",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotAnyBismoidBronze"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotAnyBismoidBronze"
+				}
+			}
+		}]
+	}]
+}

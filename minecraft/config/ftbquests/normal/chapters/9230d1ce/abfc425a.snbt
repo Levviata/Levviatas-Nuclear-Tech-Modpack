@@ -1,0 +1,31 @@
+{
+	x: 23.5d,
+	y: 16.0d,
+	dependencies: [
+		"47aeecca"
+	],
+	tasks: [{
+		uid: "dee3a776",
+		type: "item",
+		items: [{
+			item: "hbm:ring_starmetal"
+		}]
+	}],
+	rewards: [{
+		uid: "95184a5b",
+		type: "xp",
+		xp: 50
+	},
+	{
+		uid: "584d2a5a",
+		type: "item",
+		item: "hbm:ingot_saturnite",
+		count: 8
+	},
+	{
+		uid: "0a334c49",
+		type: "item",
+		item: "hbm:ingot_meteorite",
+		count: 4
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 10.5d,
+	y: 10.5d,
+	text: [
+		"The Radiolysis Chamber can separate quimical compounds from fluids and generate electricity from RTG Pellets."
+	],
+	dependencies: [
+		"99183935"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "82e94343",
+		type: "item",
+		items: [{
+			item: "hbm:machine_radiolysis"
+		}]
+	}],
+	rewards: [{
+		uid: "f372df9f",
+		type: "xp",
+		xp: 100
+	}]
+}

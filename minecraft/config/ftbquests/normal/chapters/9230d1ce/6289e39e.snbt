@@ -1,0 +1,38 @@
+{
+	x: 5.5d,
+	y: 15.5d,
+	description: "§e§nRequires:§r§e Industrial Smokestack",
+	text: [
+		"Fullerene Solution can be processed in a SILEX to get Fullerene.",
+		"",
+		"Fullerene can be crystallized in a Ore acidizer to get an important end-game material."
+	],
+	min_required_dependencies: 1,
+	dependencies: [
+		"7057b18b"
+	],
+	size: 1.25d,
+	or_tasks: true,
+	tasks: [{
+		uid: "b7fefc7d",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 131"
+		}]
+	},
+	{
+		uid: "5fc2e4ae",
+		type: "fluid",
+		fluid: "fullerene"
+	}],
+	rewards: [{
+		uid: "9cda740b",
+		type: "item",
+		item: "hbm:fluid_tank_lead_full 1 131"
+	},
+	{
+		uid: "d8c6c2c7",
+		type: "xp",
+		xp: 70
+	}]
+}

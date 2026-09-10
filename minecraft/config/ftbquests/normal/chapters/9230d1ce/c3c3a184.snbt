@@ -1,6 +1,6 @@
 {
-	x: 17.5d,
-	y: 2.0d,
+	x: -19.0d,
+	y: 31.0d,
 	shape: "gear",
 	description: "I'm not gonna even question it.",
 	text: [

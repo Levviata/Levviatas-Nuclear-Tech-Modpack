@@ -1,7 +1,7 @@
 {
 	x: -6.0d,
 	y: 33.0d,
-	shape: "gear",
+	shape: "hexagon",
 	description: "Oil age or aged oil?",
 	text: [
 		"The Oil Derrick can extract oil deposits by being placed above them, a pipe will extrude from the derrick and dig into the ground until it reaches the oil.",

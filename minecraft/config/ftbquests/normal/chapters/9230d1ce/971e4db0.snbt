@@ -1,6 +1,6 @@
 {
-	x: -0.12193877551016641d,
-	y: 3.4812925170068283d,
+	x: -10.5d,
+	y: 8.5d,
 	shape: "hexagon",
 	text: [
 		"The Plasma Forge is a machine capable of making most end-game items.",
@@ -16,7 +16,6 @@
 	dependencies: [
 		"f547edc2"
 	],
-	size: 1.25d,
 	tasks: [{
 		uid: "f4866e5b",
 		type: "item",

@@ -1,8 +1,13 @@
 {
 	x: 0.5d,
-	y: 10.5d,
+	y: 9.0d,
+	description: "High-Performance Solvent",
 	text: [
-		"Chlorinated Petroleum Wax is made from any Wax and Chlorine Gas, it's used to make Ionized Particles and High-Peformance Solvent."
+		"Chlorinated Petroleum Wax is made from any Wax and Chlorine Gas.",
+		"",
+		"It can make High-Peformance Solvent which unlocks a good chunk of the late-mid game!",
+		"",
+		"See more about this on the Late Game chapter."
 	],
 	tasks: [{
 		uid: "01334cd5",

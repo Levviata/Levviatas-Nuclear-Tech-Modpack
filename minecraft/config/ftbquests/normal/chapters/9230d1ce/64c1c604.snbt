@@ -1,0 +1,30 @@
+{
+	x: 18.0d,
+	y: 13.0d,
+	dependencies: [
+		"8a71393d"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "f9bfb300",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_icon 1 95"
+		}]
+	},
+	{
+		uid: "aea12f06",
+		type: "fluid",
+		fluid: "xylene"
+	}],
+	rewards: [{
+		uid: "23c30b60",
+		type: "item",
+		item: "hbm:fluid_tank_full 1 95"
+	},
+	{
+		uid: "bc2232f7",
+		type: "xp",
+		xp: 70
+	}]
+}

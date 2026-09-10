@@ -1,0 +1,19 @@
+{
+	x: 17.0d,
+	y: 11.0d,
+	dependencies: [
+		"64c1c604"
+	],
+	tasks: [{
+		uid: "6a7ade62",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_pc"
+		}]
+	}],
+	rewards: [{
+		uid: "249ac738",
+		type: "xp",
+		xp: 50
+	}]
+}

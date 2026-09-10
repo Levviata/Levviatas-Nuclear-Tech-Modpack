@@ -1,0 +1,21 @@
+{
+	x: 21.687925170068027d,
+	y: 15.517006802721085d,
+	dependencies: [
+		"0a012d55"
+	],
+	tasks: [{
+		uid: "3985cb9f",
+		type: "item",
+		items: [{
+			item: "hbm:injector_5htp"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "60303324",
+		type: "xp",
+		xp: 100
+	}]
+}

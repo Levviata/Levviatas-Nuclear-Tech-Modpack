@@ -1,0 +1,24 @@
+{
+	x: -0.5d,
+	y: 17.5d,
+	text: [
+		"Summons a Half-Life 2 helicopter."
+	],
+	dependencies: [
+		"b5bdadf2"
+	],
+	tasks: [{
+		uid: "3f5076e4",
+		type: "item",
+		items: [{
+			item: "hbm:chopper"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "626167e0",
+		type: "xp",
+		xp: 100
+	}]
+}

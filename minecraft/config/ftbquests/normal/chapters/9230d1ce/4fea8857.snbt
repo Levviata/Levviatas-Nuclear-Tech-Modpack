@@ -1,0 +1,25 @@
+{
+	x: -2.5d,
+	y: 17.5d,
+	description: "§aRequires blueprint",
+	text: [
+		""
+	],
+	dependencies: [
+		"b5bdadf2"
+	],
+	tasks: [{
+		uid: "b31be60e",
+		type: "item",
+		items: [{
+			item: "hbm:missile_soyuz_lander"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9cf5455e",
+		type: "xp",
+		xp: 100
+	}]
+}

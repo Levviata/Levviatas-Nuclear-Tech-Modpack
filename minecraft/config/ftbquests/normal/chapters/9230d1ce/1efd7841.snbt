@@ -1,0 +1,26 @@
+{
+	x: -1.5d,
+	y: 13.5d,
+	description: "§e§nRequires:§r§e Bismuth or Arsenic",
+	text: [
+		"The Versatile Integrated Circuit is a very important end-game circuit that can make Versatile Circuit Board."
+	],
+	dependencies: [
+		"7df97880",
+		"5f2268ec"
+	],
+	dependency_requirement: "one_completed",
+	size: 1.25d,
+	tasks: [{
+		uid: "33354d77",
+		type: "item",
+		items: [{
+			item: "hbm:circuit 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "76fe18e8",
+		type: "xp",
+		xp: 100
+	}]
+}

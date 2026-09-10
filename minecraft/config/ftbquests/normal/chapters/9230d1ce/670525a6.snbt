@@ -1,6 +1,6 @@
 {
-	x: 1.1637755102041183d,
-	y: 3.4812925170068283d,
+	x: -12.0d,
+	y: 12.0d,
 	text: [
 		"The Breeding Chamber uses neutron flux from the Vessel to irradiate materials.",
 		"",
@@ -15,7 +15,6 @@
 	dependencies: [
 		"f547edc2"
 	],
-	size: 1.25d,
 	tasks: [{
 		uid: "6b18ec2c",
 		type: "item",
