@@ -6,6 +6,8 @@
 	shape: "hexagon",
 	description: "Pressurized Water Reactor",
 	text: [
+		"The PWR is a modular reactor similar to the RBMK with the added bonus of being able to be built in 3D.",
+		"",
 		"Cooling fluids",
 		"- Coolant",
 		"- MUG Root Beer",
