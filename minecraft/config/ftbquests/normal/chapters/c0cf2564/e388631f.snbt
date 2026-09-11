@@ -1,0 +1,13 @@
+{
+	x: -2.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "d090d235",
+		type: "item",
+		items: [{
+			item: "hbm:inf_water"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
