@@ -17,12 +17,12 @@
 				mouse1_0: 0b,
 				animtimer_0: 130,
 				mouse3_0: 0b,
-				timer_0: 7,
 				lastanim_0: 4,
+				timer_0: 7,
 				aiming: 0b,
 				cancel: 0b,
-				eqipped: 0b,
-				mouse2_0: 0b
+				mouse2_0: 0b,
+				eqipped: 0b
 			}
 		}],
 		ignore_damage: true,
