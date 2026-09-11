@@ -1,0 +1,13 @@
+{
+	x: -0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "7b352958",
+		type: "item",
+		items: [{
+			item: "hbm:zirconium_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
