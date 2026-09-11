@@ -1,6 +1,6 @@
 {
 	x: 4.0d,
-	y: 3.5d,
+	y: 2.5d,
 	description: "Very useful",
 	text: [
 		"While in the off-hand it will reduce radioactive intake by x3 and it will negate any pyrophoric (burn) effect from materials held in the inventory."

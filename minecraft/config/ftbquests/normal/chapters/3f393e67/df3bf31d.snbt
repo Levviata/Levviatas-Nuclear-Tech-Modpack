@@ -1,6 +1,6 @@
 {
 	x: 2.0d,
-	y: 3.5d,
+	y: 2.5d,
 	description: "§e§nRequires:§r§e Burner Press",
 	text: [
 		"The M65-Z Gas Mask is a direct upgrade from leather additionally protecting from Eye Irritants and 9% radiation."

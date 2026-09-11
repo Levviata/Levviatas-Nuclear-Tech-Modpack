@@ -1,6 +1,6 @@
 {
 	x: 5.5d,
-	y: 5.0d,
+	y: 4.0d,
 	text: [
 		"Conveyors are handy blocks that can transport items. ",
 		"It moves objects from A to B. Objects must be inserted or dropped onto the conveyors.",

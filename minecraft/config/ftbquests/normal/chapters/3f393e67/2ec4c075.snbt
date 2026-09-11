@@ -1,6 +1,6 @@
 {
 	x: -3.0d,
-	y: 5.0d,
+	y: 4.0d,
 	text: [
 		"While holding the Cloth, press right click to \"wet\" the cloth. Or drop into water."
 	],

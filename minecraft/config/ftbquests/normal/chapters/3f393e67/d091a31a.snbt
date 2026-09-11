@@ -1,6 +1,6 @@
 {
 	x: 7.0d,
-	y: 4.5d,
+	y: 3.5d,
 	text: [
 		"Conveyor Inserters are blocks that take items from conveyor belts and outputs them into a storage space. ",
 		"",
