@@ -1,6 +1,6 @@
 {
 	x: -1.0d,
-	y: 2.0d,
+	y: 1.5d,
 	text: [
 		"The Iron Furnace is slightly faster than the vanilla furnace, it can smelt ingredients within 8 seconds instead of 10.",
 		"",
@@ -12,6 +12,7 @@
 	dependencies: [
 		"00fafa6c"
 	],
+	size: 1.25d,
 	optional: true,
 	tasks: [{
 		uid: "e78ceb64",

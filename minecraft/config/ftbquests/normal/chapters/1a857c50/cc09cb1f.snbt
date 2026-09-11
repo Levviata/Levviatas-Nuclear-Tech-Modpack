@@ -1,13 +1,12 @@
 {
 	x: -2.5d,
-	y: -4.5d,
+	y: -4.0d,
 	text: [
 		"Asphalt is a block that increases player movement by 50% when walked on."
 	],
 	dependencies: [
 		"38d3870b"
 	],
-	size: 1.25d,
 	or_tasks: true,
 	tasks: [{
 		uid: "03cc839d",

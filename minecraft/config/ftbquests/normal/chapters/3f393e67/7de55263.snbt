@@ -1,6 +1,6 @@
 {
 	x: 0.0d,
-	y: 1.5d,
+	y: 0.5d,
 	text: [
 		"The Annihilator is a simple machine that destroys items and fluids.",
 		"",
@@ -17,6 +17,7 @@
 	dependencies: [
 		"00fafa6c"
 	],
+	size: 1.25d,
 	optional: true,
 	tasks: [{
 		uid: "2a6f52ea",

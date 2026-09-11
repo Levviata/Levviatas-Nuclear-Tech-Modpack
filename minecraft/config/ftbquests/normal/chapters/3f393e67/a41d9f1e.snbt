@@ -1,6 +1,6 @@
 {
 	x: 1.0d,
-	y: 2.0d,
+	y: 1.5d,
 	text: [
 		"The Bricked Furnace is almost the same as the vanilla furnace, but it can smelt construction materials faster, such as sand and cobblestone being smelted at double the speed. ",
 		"",
@@ -11,6 +11,7 @@
 	dependencies: [
 		"00fafa6c"
 	],
+	size: 1.25d,
 	optional: true,
 	tasks: [{
 		uid: "b1241a2a",
