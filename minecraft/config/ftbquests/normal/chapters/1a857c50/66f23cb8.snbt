@@ -1,0 +1,41 @@
+{
+	title: "Tipped Drillbits",
+	x: -25.5d,
+	y: 10.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"5bf99359"
+	],
+	tasks: [{
+		uid: "3ca9ddd0",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any tippedDrillbit"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "tippedDrillbit"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3a9e4d80",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 16
+	},
+	{
+		uid: "2a35f7e3",
+		type: "xp",
+		xp: 50
+	}]
+}
