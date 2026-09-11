@@ -6,8 +6,10 @@
 		"Minecraft Grade Copper is an alloy of copper and redstone, its widely used in electric things like cables or magnet coils."
 	],
 	dependencies: [
-		"a488de09"
+		"a488de09",
+		"fe1c92a7"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "f8805e16",

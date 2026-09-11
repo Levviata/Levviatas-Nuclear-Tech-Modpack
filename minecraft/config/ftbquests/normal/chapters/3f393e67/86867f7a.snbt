@@ -8,8 +8,10 @@
 		"You will always need this stuff, so might as well start producing large amounts early, you won't regret it."
 	],
 	dependencies: [
-		"a488de09"
+		"a488de09",
+		"57ae7d19"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "1638f0ed",

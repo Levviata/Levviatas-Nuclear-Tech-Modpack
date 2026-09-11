@@ -7,8 +7,10 @@
 		"Smelt enough steel, tungsten and cobalt into a crucible then cast into an ingot."
 	],
 	dependencies: [
-		"82d71470"
+		"82d71470",
+		"2dd76cc8"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "3a0e194f",
