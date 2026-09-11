@@ -1,3 +1,62 @@
+## missing ##
 tile.radio_autocal.name=AUTOCAL
 item.weapon_mod_special.nickel.name=NI4NI - Nickel Coins
 item.weapon_mod_special.doubloons.name=NI4NI - Doubloon Coins
+# has legacy in the name but has a modern model, ok
+tile.sliding_blast_door_legacy.name=Sliding Blast Door
+## "fixes" ##
+item.inf_water.name=Infinite Water Barrel
+item.inf_water_mk2.name=Infinite Water Barrel Mk.²
+## legacy ##
+item.template_folder.name=Template Folder (LEGACY)
+# coils
+tile.hadron_coil_mese.name=Dense Mese Coil (LEGACY)
+tile.hadron_coil_alloy.name=Dense Superconducting Coil (LEGACY)
+tile.hadron_coil_gold.name=Dense Gold Coil (LEGACY)
+tile.hadron_coil_neodymium.name=Dense Neodymium Coil (LEGACY)
+tile.hadron_coil_magtung.name=Dense 4000k Superconductor Coil (LEGACY)
+tile.hadron_coil_schrabidium.name=Dense Schrabidic Coil (LEGACY)
+tile.hadron_coil_schrabidate.name=Dense Schrabidate Coil (LEGACY)
+tile.hadron_coil_starmetal.name=Dense Starmetal Coil (LEGACY)
+tile.hadron_coil_chlorophyte.name=Dense Chlorophyte Coil (LEGACY)
+# machines
+tile.machine_fensu.name=FEnSU (LEGACY)
+tile.machine_bat9000.name=Big-Ass Tank 9000 (LEGACY)
+tile.machine_turbine.name=Steam Turbine (LEGACY)
+# bad one
+tile.sliding_blast_door.name=Sliding Blast Door (LEGACY)
+# satellites
+item.sat_mapper.name=Surface Mapping Satellite (LEGACY)
+item.sat_scanner.name=Satellite with Depth-Resource Scanning Module (LEGACY)
+item.sat_radar.name=Radar Survey Satellite (LEGACY)
+item.sat_laser.name=Orbital Death Ray (LEGACY)
+item.sat_foeq.name=PEAF - Mk.I FOEQ Duna Probe with experimental Nuclear Propulsion (LEGACY)
+item.sat_lunar_miner.name=Lunar Mining Ship (LEGACY)
+item.sat_miner.name=Asteroid Mining Ship (LEGACY)
+item.sat_resonator.name=Xenium Resonator Satellite (LEGACY)
+# mini capacitors
+tile.capacitor_bus.name=Capacitor Bus (LEGACY)
+tile.capacitor_copper.name=Copper Capacitor (LEGACY)
+tile.capacitor_gold.name=Golden Capacitor (LEGACY)
+tile.capacitor_niobium.name=Niobium Capacitor (LEGACY)
+tile.capacitor_schrabidate.name=Schrabidate Capacitor (LEGACY)
+tile.capacitor_tantalium.name=Tantalium Capacitor (LEGACY)
+# energy storage
+tile.machine_dineutronium_battery.name=Spark Energy Storage Block (LEGACY)
+tile.machine_schrabidium_battery.name=Schrabidium Energy Storage Block (LEGACY)
+tile.machine_lithium_battery.name=Li-Ion Energy Storage Block (LEGACY)
+# pile rods
+item.pile_rod_uranium.name=Chicago Pile Uranium Rod (LEGACY)
+item.pile_rod_pu239.name=Chicago Pile Bred Uranium Rod (LEGACY)
+item.pile_rod_plutonium.name=Chicago Pile Plutonium Rod (LEGACY)
+item.pile_rod_source.name=Chicago Pile Ra226Be Neutron Source (LEGACY)
+item.pile_rod_boron.name=Chicago Pile Control Rod (LEGACY)
+item.pile_rod_lithium.name=Chicago Pile Lithium Cell (LEGACY)
+item.pile_rod_detector.name=Chicago Pile Control & Detector Rod (LEGACY)
+## unused ##
+# where does these come from?
+item.redcoil_capacitor.name=Redcoil Capacitor (UNUSED)
+item.euphemium_capacitor.name=Euphemium Capacitor (UNUSED)
+item.mp_warhead_15_volcano.name=Size 15 Volcano Warhead (UNUSED)
+# these are just WIP
+item.satellite.science_assembler.name=Space Laboratory - 0G Assembler (UNUSED)
