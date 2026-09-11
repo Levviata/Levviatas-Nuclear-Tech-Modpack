@@ -1,11 +1,19 @@
 {
 	x: 0.0d,
 	y: 11.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "c861f878",
 		type: "item",
 		items: [{
 			item: "hbm:ore_gneiss_copper"
+		}]
+	},
+	{
+		uid: "45bf2f40",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_copper"
 		}]
 	}],
 	rewards: [{

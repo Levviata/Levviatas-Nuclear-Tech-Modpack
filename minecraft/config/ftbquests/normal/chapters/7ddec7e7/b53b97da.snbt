@@ -1,11 +1,20 @@
 {
 	x: 5.50297619047619d,
 	y: 10.761904761904766d,
+	shape: "gear",
+	or_tasks: true,
 	tasks: [{
 		uid: "1f52bd22",
 		type: "item",
 		items: [{
 			item: "hbm:ore_depth_nether_nitan"
+		}]
+	},
+	{
+		uid: "7209fa72",
+		type: "item",
+		items: [{
+			item: "hbm:powder_nitan_mix"
 		}]
 	}],
 	rewards: [{

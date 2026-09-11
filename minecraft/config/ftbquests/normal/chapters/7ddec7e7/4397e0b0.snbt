@@ -1,11 +1,19 @@
 {
 	x: 4.0d,
 	y: 9.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "af1307b1",
 		type: "item",
 		items: [{
 			item: "hbm:ore_nether_cobalt"
+		}]
+	},
+	{
+		uid: "54d734d3",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_cobalt"
 		}]
 	}],
 	rewards: [{

@@ -1,11 +1,19 @@
 {
 	x: -1.0d,
 	y: 3.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "c5c25968",
 		type: "item",
 		items: [{
 			item: "hbm:ore_sulfur"
+		}]
+	},
+	{
+		uid: "d4a79b5d",
+		type: "item",
+		items: [{
+			item: "hbm:sulfur"
 		}]
 	}]
 }

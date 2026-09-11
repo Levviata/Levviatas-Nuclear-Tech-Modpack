@@ -2,11 +2,19 @@
 	icon: "hbm:ore_cinnabar",
 	x: -1.0d,
 	y: 5.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "c5dd2022",
 		type: "item",
 		items: [{
 			item: "hbm:cinnabar"
+		}]
+	},
+	{
+		uid: "35c3c38c",
+		type: "item",
+		items: [{
+			item: "hbm:ore_cinnabar"
 		}]
 	}],
 	rewards: [{

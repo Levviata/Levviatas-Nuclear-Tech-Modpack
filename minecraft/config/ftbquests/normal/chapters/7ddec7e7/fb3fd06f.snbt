@@ -1,11 +1,19 @@
 {
 	x: 1.5d,
 	y: 10.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "50a72d67",
 		type: "item",
 		items: [{
 			item: "hbm:ore_gneiss_uranium"
+		}]
+	},
+	{
+		uid: "4b8bffcf",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_uranium"
 		}]
 	}],
 	rewards: [{

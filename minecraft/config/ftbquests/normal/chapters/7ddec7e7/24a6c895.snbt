@@ -1,11 +1,19 @@
 {
 	x: -3.5d,
 	y: 9.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "ff5a04d9",
 		type: "item",
 		items: [{
 			item: "hbm:cluster_depth_titanium"
+		}]
+	},
+	{
+		uid: "7e27065b",
+		type: "item",
+		items: [{
+			item: "hbm:crystal_titanium"
 		}]
 	}],
 	rewards: [{

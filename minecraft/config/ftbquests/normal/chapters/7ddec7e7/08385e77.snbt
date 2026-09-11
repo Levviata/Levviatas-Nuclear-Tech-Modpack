@@ -1,11 +1,19 @@
 {
 	x: 5.0d,
 	y: 7.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "9a3be71f",
 		type: "item",
 		items: [{
 			item: "hbm:ore_nether_uranium"
+		}]
+	},
+	{
+		uid: "b56c8a11",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_uranium"
 		}]
 	}],
 	rewards: [{

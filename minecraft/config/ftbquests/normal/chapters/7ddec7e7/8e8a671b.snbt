@@ -1,11 +1,19 @@
 {
 	x: 4.0d,
 	y: 2.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "31e25262",
 		type: "item",
 		items: [{
 			item: "minecraft:emerald_ore"
+		}]
+	},
+	{
+		uid: "fe4fecc0",
+		type: "item",
+		items: [{
+			item: "minecraft:emerald"
 		}]
 	}]
 }

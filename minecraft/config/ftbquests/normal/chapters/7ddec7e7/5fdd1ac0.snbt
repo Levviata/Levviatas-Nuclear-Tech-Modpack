@@ -1,11 +1,19 @@
 {
 	x: 0.0d,
 	y: 8.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "6df32190",
 		type: "item",
 		items: [{
 			item: "hbm:ore_gneiss_iron"
+		}]
+	},
+	{
+		uid: "ce83459b",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
 		}]
 	}],
 	rewards: [{

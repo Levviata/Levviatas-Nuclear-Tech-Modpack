@@ -1,11 +1,19 @@
 {
 	x: -2.5d,
 	y: 7.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "e7d52cd2",
 		type: "item",
 		items: [{
 			item: "hbm:ore_depth_zirconium"
+		}]
+	},
+	{
+		uid: "4db6e610",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_zirconium"
 		}]
 	}],
 	rewards: [{

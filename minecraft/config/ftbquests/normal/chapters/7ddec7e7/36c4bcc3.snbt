@@ -1,11 +1,20 @@
 {
 	x: 3.0d,
 	y: 9.0d,
+	hide: true,
+	or_tasks: true,
 	tasks: [{
 		uid: "290ccf6d",
 		type: "item",
 		items: [{
 			item: "hbm:ore_nether_schrabidium"
+		}]
+	},
+	{
+		uid: "008d7757",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_schrabidium"
 		}]
 	}],
 	rewards: [{

@@ -6,11 +6,19 @@
 	text: [
 		""
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "6f0f3111",
 		type: "item",
 		items: [{
 			item: "hbm:niter"
+		}]
+	},
+	{
+		uid: "679f8b51",
+		type: "item",
+		items: [{
+			item: "hbm:ore_niter"
 		}]
 	}]
 }

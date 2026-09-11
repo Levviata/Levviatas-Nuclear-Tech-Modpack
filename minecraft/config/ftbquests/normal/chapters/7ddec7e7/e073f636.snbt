@@ -1,11 +1,20 @@
 {
 	x: -3.5d,
 	y: 3.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "0fcab02d",
 		type: "item",
 		items: [{
 			item: "hbm:ore_meteor 1 1"
 		}]
+	},
+	{
+		uid: "8a9a1338",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_copper"
+		}],
+		count: 16L
 	}]
 }

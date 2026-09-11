@@ -1,11 +1,20 @@
 {
 	x: -5.0d,
 	y: 1.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "d9211304",
 		type: "item",
 		items: [{
 			item: "hbm:ore_meteor 1 2"
 		}]
+	},
+	{
+		uid: "c975cdb5",
+		type: "item",
+		items: [{
+			item: "hbm:chunk_ore 1 2"
+		}],
+		count: 16L
 	}]
 }

@@ -1,11 +1,19 @@
 {
 	x: -4.0d,
 	y: 6.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "80b8cbd0",
 		type: "item",
 		items: [{
 			item: "hbm:ore_depth_cinnabar"
+		}]
+	},
+	{
+		uid: "890aa1bf",
+		type: "item",
+		items: [{
+			item: "hbm:cinnabar"
 		}]
 	}],
 	rewards: [{

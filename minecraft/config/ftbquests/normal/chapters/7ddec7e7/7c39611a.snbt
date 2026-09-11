@@ -1,11 +1,19 @@
 {
 	x: 7.0d,
 	y: 2.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "030c6831",
 		type: "item",
 		items: [{
 			item: "minecraft:coal_ore"
+		}]
+	},
+	{
+		uid: "c0dabaf1",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
 		}]
 	}]
 }

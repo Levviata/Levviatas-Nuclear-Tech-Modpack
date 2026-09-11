@@ -1,11 +1,19 @@
 {
 	x: -5.5d,
 	y: 8.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "17453548",
 		type: "item",
 		items: [{
 			item: "hbm:cluster_depth_tungsten"
+		}]
+	},
+	{
+		uid: "e38b3aff",
+		type: "item",
+		items: [{
+			item: "hbm:crystal_tungsten"
 		}]
 	}],
 	rewards: [{

@@ -6,11 +6,19 @@
 	text: [
 		""
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "966bc069",
 		type: "item",
 		items: [{
 			item: "hbm:lignite"
+		}]
+	},
+	{
+		uid: "874ac72a",
+		type: "item",
+		items: [{
+			item: "hbm:ore_lignite"
 		}]
 	}],
 	rewards: [{

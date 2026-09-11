@@ -1,11 +1,19 @@
 {
 	x: -1.0d,
 	y: 9.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "ffee3367",
 		type: "item",
 		items: [{
 			item: "hbm:ore_gneiss_asbestos"
+		}]
+	},
+	{
+		uid: "8f86fb3a",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_asbestos"
 		}]
 	}],
 	rewards: [{

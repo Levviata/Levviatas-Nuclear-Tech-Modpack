@@ -1,11 +1,19 @@
 {
 	x: 5.0d,
 	y: 4.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "069c6123",
 		type: "item",
 		items: [{
 			item: "minecraft:gold_ore"
+		}]
+	},
+	{
+		uid: "ba78ed17",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ingot"
 		}]
 	}]
 }

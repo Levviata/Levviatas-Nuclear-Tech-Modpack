@@ -1,11 +1,19 @@
 {
 	x: 10.0d,
 	y: 2.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "09fc711f",
 		type: "item",
 		items: [{
 			item: "minecraft:quartz_ore"
+		}]
+	},
+	{
+		uid: "3e520730",
+		type: "item",
+		items: [{
+			item: "minecraft:quartz"
 		}]
 	}]
 }

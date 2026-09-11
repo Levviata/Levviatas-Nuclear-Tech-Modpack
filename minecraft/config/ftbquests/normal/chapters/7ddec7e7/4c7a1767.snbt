@@ -1,11 +1,19 @@
 {
 	x: 5.0d,
 	y: 1.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "9effa9a1",
 		type: "item",
 		items: [{
 			item: "minecraft:redstone_ore"
+		}]
+	},
+	{
+		uid: "a9da5ab2",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
 		}]
 	}]
 }

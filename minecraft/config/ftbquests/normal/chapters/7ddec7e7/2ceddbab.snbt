@@ -1,11 +1,19 @@
 {
 	x: 0.0d,
 	y: 7.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "eb31d733",
 		type: "item",
 		items: [{
 			item: "hbm:ore_coltan"
+		}]
+	},
+	{
+		uid: "60b4b901",
+		type: "item",
+		items: [{
+			item: "hbm:fragment_coltan"
 		}]
 	}]
 }

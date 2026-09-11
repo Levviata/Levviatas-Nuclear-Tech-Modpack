@@ -1,11 +1,19 @@
 {
 	x: -1.5d,
 	y: 10.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "5407d99e",
 		type: "item",
 		items: [{
 			item: "hbm:ore_gneiss_gold"
+		}]
+	},
+	{
+		uid: "0212d432",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ingot"
 		}]
 	}],
 	rewards: [{

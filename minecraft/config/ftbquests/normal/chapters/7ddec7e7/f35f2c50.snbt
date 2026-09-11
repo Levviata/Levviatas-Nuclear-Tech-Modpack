@@ -1,11 +1,19 @@
 {
 	x: 5.5d,
 	y: 8.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "9572ef2e",
 		type: "item",
 		items: [{
 			item: "hbm:ore_nether_tungsten"
+		}]
+	},
+	{
+		uid: "f41109e6",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_tungsten"
 		}]
 	}],
 	rewards: [{

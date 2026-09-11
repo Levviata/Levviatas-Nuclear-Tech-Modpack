@@ -1,11 +1,19 @@
 {
 	x: -4.5d,
 	y: 9.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "982a4fa6",
 		type: "item",
 		items: [{
 			item: "hbm:ore_alexandrite"
+		}]
+	},
+	{
+		uid: "8f26ed32",
+		type: "item",
+		items: [{
+			item: "hbm:gem_alexandrite"
 		}]
 	}]
 }

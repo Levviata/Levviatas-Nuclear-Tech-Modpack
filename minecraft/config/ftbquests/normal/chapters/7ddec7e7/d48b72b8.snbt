@@ -1,11 +1,19 @@
 {
 	x: 1.0d,
 	y: 11.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "ec443ae5",
 		type: "item",
 		items: [{
 			item: "hbm:ore_gneiss_schrabidium"
+		}]
+	},
+	{
+		uid: "d754e095",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_schrabidium"
 		}]
 	}],
 	rewards: [{
