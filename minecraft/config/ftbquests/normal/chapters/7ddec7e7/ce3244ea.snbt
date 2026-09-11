@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_beryllium",
 	x: 0.0d,
 	y: 2.0d,
 	tasks: [{

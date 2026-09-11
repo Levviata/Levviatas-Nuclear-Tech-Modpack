@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_gneiss_iron",
 	x: 0.0d,
 	y: 8.5d,
 	or_tasks: true,

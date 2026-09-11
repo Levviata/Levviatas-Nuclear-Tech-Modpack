@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_nether_fire",
 	x: 3.0d,
 	y: 7.0d,
 	or_tasks: true,

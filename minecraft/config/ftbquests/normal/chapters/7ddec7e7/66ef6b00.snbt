@@ -1,12 +1,24 @@
 {
+	title: "Rare Earth Ore",
 	icon: "hbm:ore_rare",
 	x: 1.5d,
 	y: 4.5d,
+	text: [
+		""
+	],
+	or_tasks: true,
 	tasks: [{
 		uid: "d5093347",
 		type: "item",
 		items: [{
 			item: "hbm:chunk_ore"
+		}]
+	},
+	{
+		uid: "15847a64",
+		type: "item",
+		items: [{
+			item: "hbm:ore_rare"
 		}]
 	}],
 	rewards: [{

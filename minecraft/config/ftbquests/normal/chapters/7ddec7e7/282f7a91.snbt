@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_titanium",
 	x: 0.0d,
 	y: 3.0d,
 	tasks: [{

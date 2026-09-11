@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_tektite_osmiridium",
 	x: 0.0d,
 	y: 1.0d,
 	tasks: [{

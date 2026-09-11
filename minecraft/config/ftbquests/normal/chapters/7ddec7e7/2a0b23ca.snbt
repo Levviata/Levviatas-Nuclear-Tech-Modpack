@@ -1,4 +1,5 @@
 {
+	icon: "minecraft:quartz_ore",
 	x: 10.0d,
 	y: 2.5d,
 	or_tasks: true,

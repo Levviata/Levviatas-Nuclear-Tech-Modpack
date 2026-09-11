@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_gneiss_lithium",
 	x: -1.095238095238095d,
 	y: 11.178571428571438d,
 	shape: "hexagon",

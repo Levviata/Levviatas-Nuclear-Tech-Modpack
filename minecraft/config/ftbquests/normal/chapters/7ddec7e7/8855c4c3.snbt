@@ -1,4 +1,5 @@
 {
+	icon: "minecraft:lapis_ore",
 	x: 6.0d,
 	y: 1.0d,
 	or_tasks: true,

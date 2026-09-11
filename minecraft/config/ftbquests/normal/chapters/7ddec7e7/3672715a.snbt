@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_cobalt",
 	x: 1.0d,
 	y: 5.5d,
 	tasks: [{

@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_copper",
 	x: -2.5d,
 	y: 4.5d,
 	tasks: [{

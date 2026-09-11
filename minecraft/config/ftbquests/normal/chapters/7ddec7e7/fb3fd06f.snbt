@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_gneiss_uranium",
 	x: 1.5d,
 	y: 10.0d,
 	or_tasks: true,

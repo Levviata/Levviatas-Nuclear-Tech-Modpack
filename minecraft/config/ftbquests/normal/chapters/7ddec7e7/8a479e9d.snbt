@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_aluminium",
 	x: -2.0d,
 	y: 3.5d,
 	tasks: [{

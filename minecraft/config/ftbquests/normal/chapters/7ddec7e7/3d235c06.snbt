@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_tungsten",
 	x: -1.0d,
 	y: 6.5d,
 	or_tasks: true,

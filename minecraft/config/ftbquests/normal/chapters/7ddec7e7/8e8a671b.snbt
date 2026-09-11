@@ -1,4 +1,5 @@
 {
+	icon: "minecraft:emerald_ore",
 	x: 4.0d,
 	y: 2.5d,
 	or_tasks: true,

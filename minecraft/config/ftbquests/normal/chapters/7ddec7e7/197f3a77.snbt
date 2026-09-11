@@ -1,4 +1,5 @@
 {
+	icon: "hbm:cluster_depth_tungsten",
 	x: -5.5d,
 	y: 8.5d,
 	or_tasks: true,

@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_gneiss_schrabidium",
 	x: 1.0d,
 	y: 11.0d,
 	or_tasks: true,

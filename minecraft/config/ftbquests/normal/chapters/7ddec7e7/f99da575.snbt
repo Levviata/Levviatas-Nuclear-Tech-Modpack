@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_depth_borax",
 	x: -5.5d,
 	y: 7.5d,
 	or_tasks: true,

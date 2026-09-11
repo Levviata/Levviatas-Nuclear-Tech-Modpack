@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_gneiss_copper",
 	x: 0.0d,
 	y: 11.5d,
 	or_tasks: true,

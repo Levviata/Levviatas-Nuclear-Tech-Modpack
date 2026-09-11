@@ -1,4 +1,5 @@
 {
+	icon: "hbm:ore_meteor 1 1",
 	x: -3.5d,
 	y: 3.0d,
 	or_tasks: true,
