@@ -34,6 +34,7 @@ item.sat_foeq.name=PEAF - Mk.I FOEQ Duna Probe with experimental Nuclear Propuls
 item.sat_lunar_miner.name=Lunar Mining Ship (LEGACY)
 item.sat_miner.name=Asteroid Mining Ship (LEGACY)
 item.sat_resonator.name=Xenium Resonator Satellite (LEGACY)
+item.sat_relay.name=Satellite Radar Relay (LEGACY)
 # mini capacitors
 tile.capacitor_bus.name=Capacitor Bus (LEGACY)
 tile.capacitor_copper.name=Copper Capacitor (LEGACY)
@@ -45,6 +46,15 @@ tile.capacitor_tantalium.name=Tantalium Capacitor (LEGACY)
 tile.machine_dineutronium_battery.name=Spark Energy Storage Block (LEGACY)
 tile.machine_schrabidium_battery.name=Schrabidium Energy Storage Block (LEGACY)
 tile.machine_lithium_battery.name=Li-Ion Energy Storage Block (LEGACY)
+# pile
+tile.block_graphite_detector.name=Pile Neutron Detector (LEGACY)
+tile.block_graphite_drilled.name=Drilled Graphite (LEGACY)
+tile.block_graphite_fuel.name=Pile Fuel (LEGACY)
+tile.block_graphite_lithium.name=Pile Lithium Fuel (LEGACY)
+tile.block_graphite_plutonium.name=Pile Fuel (Bred) (LEGACY)
+tile.block_graphite_rod.name=Pile Control Rod (LEGACY)
+tile.block_graphite_source.name=Pile Neutron Source (LEGACY)
+tile.block_graphite_tritium.name=Pile Lithium Fuel (Bred) (LEGACY)
 # pile rods
 item.pile_rod_uranium.name=Chicago Pile Uranium Rod (LEGACY)
 item.pile_rod_pu239.name=Chicago Pile Bred Uranium Rod (LEGACY)
@@ -53,6 +63,9 @@ item.pile_rod_source.name=Chicago Pile Ra226Be Neutron Source (LEGACY)
 item.pile_rod_boron.name=Chicago Pile Control Rod (LEGACY)
 item.pile_rod_lithium.name=Chicago Pile Lithium Cell (LEGACY)
 item.pile_rod_detector.name=Chicago Pile Control & Detector Rod (LEGACY)
+# reactors
+tile.machine_reactor_breeding.name=Breeding Reactor (LEGACY)
+tile.machine_reactor_small_new.name=Research Reactor (LEGACY)
 ## unused ##
 # where does these come from?
 item.redcoil_capacitor.name=Redcoil Capacitor (UNUSED)
