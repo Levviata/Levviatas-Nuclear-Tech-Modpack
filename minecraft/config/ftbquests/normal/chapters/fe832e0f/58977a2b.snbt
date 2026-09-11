@@ -1,6 +1,6 @@
 {
 	x: 5.0d,
-	y: -2.5d,
+	y: -1.5d,
 	text: [
 		"The Anti-Personell Mine deals up to 10 damage. ",
 		"It will trigger in a 2 block radius, hurting anyone in a 6 block radius.",

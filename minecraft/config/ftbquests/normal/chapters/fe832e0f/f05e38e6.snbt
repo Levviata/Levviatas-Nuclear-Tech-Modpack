@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_double_barrel",
 	x: -0.5d,
-	y: 23.5d,
+	y: 24.5d,
 	text: [
 		"Acceptable mods:",
 		"- Hacksaw",

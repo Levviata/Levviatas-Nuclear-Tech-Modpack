@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_autoshotgun",
 	x: -3.0d,
-	y: 18.5d,
+	y: 19.5d,
 	dependencies: [
 		"bc202618"
 	],

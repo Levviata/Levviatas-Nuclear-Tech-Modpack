@@ -1,6 +1,6 @@
 {
 	x: 5.5d,
-	y: -1.5d,
+	y: -0.5d,
 	text: [
 		"The Anti-Tank Mine deals over 35 damage.",
 		"It will explode creating a 5x5 crater, hurting anything in a 8 block radius",

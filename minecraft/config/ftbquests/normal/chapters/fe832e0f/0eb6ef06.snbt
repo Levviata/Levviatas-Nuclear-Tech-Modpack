@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_maresleg",
 	x: 1.0d,
-	y: 4.0d,
+	y: 5.0d,
 	dependencies: [
 		"22e92344"
 	],

@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_coilgun",
 	x: 0.5d,
-	y: 23.5d,
+	y: 24.5d,
 	text: [
 		"Has no mods."
 	],

@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_henry",
 	x: -1.0d,
-	y: 4.0d,
+	y: 5.0d,
 	dependencies: [
 		"22e92344"
 	],
@@ -17,12 +17,12 @@
 				mouse1_0: 0b,
 				animtimer_0: 368,
 				mouse3_0: 0b,
-				timer_0: 15,
 				lastanim_0: 4,
+				timer_0: 15,
 				aiming: 0b,
 				cancel: 0b,
-				eqipped: 0b,
-				mouse2_0: 0b
+				mouse2_0: 0b,
+				eqipped: 0b
 			}
 		}],
 		ignore_damage: true,

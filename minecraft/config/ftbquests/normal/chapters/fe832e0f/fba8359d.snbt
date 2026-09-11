@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_stinger",
 	x: 5.5d,
-	y: 12.5d,
+	y: 13.5d,
 	dependencies: [
 		"27d2816a"
 	],
@@ -15,8 +15,8 @@
 				state_0: 0b,
 				lockedon: 0b,
 				lockonprogress: 0,
-				lastanim_0: 4,
 				timer_0: 7,
+				lastanim_0: 4,
 				aiming: 0b,
 				cancel: 0b,
 				eqipped: 0b

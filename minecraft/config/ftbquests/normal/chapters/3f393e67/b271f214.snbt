@@ -2,7 +2,7 @@
 	title: "Gas Masks and Filters",
 	icon: "hbm:gas_mask_m65",
 	x: -6.5d,
-	y: 8.5d,
+	y: 6.5d,
 	shape: "square",
 	text: [
 		"Gas masks and Filters are used to protect you from airbone hazards.",

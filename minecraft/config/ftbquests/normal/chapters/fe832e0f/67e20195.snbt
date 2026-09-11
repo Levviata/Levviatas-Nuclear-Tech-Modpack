@@ -1,6 +1,6 @@
 {
 	x: -5.5d,
-	y: -0.5d,
+	y: 0.5d,
 	text: [
 		"Repairs 25% of the gun's durability and has 9 uses."
 	],

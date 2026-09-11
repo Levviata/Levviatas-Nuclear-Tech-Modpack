@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_laser_pistol",
 	x: 1.5d,
-	y: 22.0d,
+	y: 23.0d,
 	dependencies: [
 		"9dad60c8"
 	],

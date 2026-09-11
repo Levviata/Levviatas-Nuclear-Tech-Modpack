@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_fatman",
 	x: 1.5d,
-	y: 23.0d,
+	y: 24.0d,
 	dependencies: [
 		"9dad60c8"
 	],

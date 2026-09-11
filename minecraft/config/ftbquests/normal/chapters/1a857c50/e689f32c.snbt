@@ -1,6 +1,6 @@
 {
 	x: -8.5d,
-	y: 15.75d,
+	y: 16.25d,
 	description: "§e§nRequires:§r§e SAPI insert",
 	text: [
 		"The ESAPI Insert protects 20% from Projectiles and 5% of all damage, its inserted in the Insert slot of the chestplate and it has 2000 durability.",

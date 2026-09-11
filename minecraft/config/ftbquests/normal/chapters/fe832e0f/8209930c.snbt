@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_fireext",
 	x: -1.0d,
-	y: 5.5d,
+	y: 6.5d,
 	description: "Utility",
 	text: [
 		""

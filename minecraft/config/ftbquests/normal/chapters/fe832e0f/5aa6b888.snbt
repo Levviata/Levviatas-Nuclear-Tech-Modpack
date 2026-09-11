@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_congolake",
 	x: 0.5d,
-	y: 10.0d,
+	y: 11.0d,
 	dependencies: [
 		"3a802c4f"
 	],

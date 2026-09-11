@@ -1,6 +1,6 @@
 {
 	x: -7.5d,
-	y: 14.25d,
+	y: 14.75d,
 	shape: "hexagon",
 	text: [
 		"Weapon Steel is used for mid-game weapons, weapon mods, and rounds.",

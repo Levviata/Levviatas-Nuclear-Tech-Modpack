@@ -21,16 +21,10 @@
 		}]
 	},
 	{
-		uid: "5fc2e4ae",
-		type: "fluid",
-		fluid: "fullerene"
+		uid: "e74c6f97",
+		type: "checkmark"
 	}],
 	rewards: [{
-		uid: "9cda740b",
-		type: "item",
-		item: "hbm:fluid_tank_lead_full 1 131"
-	},
-	{
 		uid: "d8c6c2c7",
 		type: "xp",
 		xp: 70

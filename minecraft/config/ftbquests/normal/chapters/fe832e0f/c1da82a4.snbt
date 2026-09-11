@@ -2,7 +2,7 @@
 	title: "Repair Kits and Gun Wear",
 	icon: "hbm:screwdriver",
 	x: -3.5d,
-	y: -1.0d,
+	y: 0.0d,
 	shape: "square",
 	text: [
 		"Guns will wear down, reducing their accuracy, damage, and general usefulness.",

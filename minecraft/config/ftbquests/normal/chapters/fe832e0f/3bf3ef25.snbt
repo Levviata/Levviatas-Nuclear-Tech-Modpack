@@ -2,7 +2,7 @@
 	title: "Desh",
 	disable_toast: true,
 	x: -3.5d,
-	y: 11.0d,
+	y: 12.0d,
 	shape: "hexagon",
 	text: [
 		""

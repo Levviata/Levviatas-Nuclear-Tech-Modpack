@@ -1,6 +1,6 @@
 {
-	x: -5.5d,
-	y: 4.0d,
+	x: -5.440476190476197d,
+	y: 3.343452380952371d,
 	shape: "pentagon",
 	dependencies: [
 		"5b1b40f1"

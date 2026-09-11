@@ -2,7 +2,7 @@
 	title: "Gunmetal",
 	disable_toast: true,
 	x: 0.0d,
-	y: 2.0d,
+	y: 3.0d,
 	shape: "hexagon",
 	text: [
 		""
