@@ -7,11 +7,24 @@
 		"",
 		"You better watch out."
 	],
+	can_repeat: true,
 	size: 2.0d,
 	tasks: [{
 		uid: "322ae870",
 		type: "checkmark",
 		title: "Fluids",
 		icon: "hbm:fluid_icon 1 1"
+	}],
+	rewards: [{
+		uid: "9bc24181",
+		type: "command",
+		title: "100% Complete Chapter",
+		command: "/ftbquests change_progress complete @p c0cf2564"
+	},
+	{
+		uid: "a1096654",
+		type: "command",
+		title: "Reset Chapter Progress",
+		command: "/ftbquests change_progress reset @p c0cf2564"
 	}]
 }
