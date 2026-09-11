@@ -2,7 +2,7 @@
 	title: "Leather Mask With Advanced Filter",
 	x: -10.0d,
 	y: 7.5d,
-	description: "Equip an Advanced filter onto your leather mask",
+	description: "Equip an Advanced filter onto a leather mask",
 	text: [
 		"Well done, you are ready to go mine coal or asbestos without your lungs rotting.",
 		"",

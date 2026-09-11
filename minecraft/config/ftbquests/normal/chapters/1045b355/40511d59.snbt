@@ -4,7 +4,9 @@
 	y: 0.0d,
 	shape: "rsquare",
 	text: [
-		"No matter what your end goal is, the very beginning of the tech tree always looks the same. You'll need to get these three things:",
+		"No matter what your end goal is, the very beginning of Nuclear Tech always looks the same.",
+		"",
+		"You'll need to get these three things:",
 		"",
 		"- A Burner Press, which is made from iron, a piston and a furnace",
 		"",

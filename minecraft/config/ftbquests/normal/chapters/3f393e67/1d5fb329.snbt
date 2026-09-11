@@ -18,7 +18,7 @@
 		"",
 		"The Weapon Modification Table is vastly different and is able to insert mods to guns, to use, place a gun in the left-most slot, starting down.",
 		"",
-		"More on weapon mods in the Weapons chapter!"
+		"More on this in the Weapons chapter."
 	],
 	dependencies: [
 		"86867f7a"

@@ -10,7 +10,7 @@
 		"",
 		"When you are exposed to a lung hazard, you will see a pop on the top-left corner of the screen.",
 		"",
-		"To avoid lung damage avoid the hazard for now."
+		"To avoid lung damage avoid coal dust for now."
 	],
 	dependencies: [
 		"c3f748e4"

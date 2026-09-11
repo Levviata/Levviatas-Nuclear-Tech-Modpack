@@ -6,7 +6,7 @@
 		"",
 		"The Safe Barrel is able to contain 12000mB (12 Buckets) of fluid but it cannot store hot, corrosive, or antimatter.",
 		"",
-		"Check out the Fluids chapter, it has full information for all barrels, tanks, and pipes!"
+		"The Fluids chapter has full information for all barrels, tanks, and pipes."
 	],
 	dependencies: [
 		"e4708a01"
