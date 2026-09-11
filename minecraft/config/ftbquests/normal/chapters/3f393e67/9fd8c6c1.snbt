@@ -1,14 +1,9 @@
 {
-	title: "Plate and Wire Stamp",
+	title: "Plate and Wire Stamps",
 	x: 0.0d,
 	y: 12.0d,
 	text: [
-		"With plate stamps you make plates.",
-		"With wire stamps you make wires.",
-		"",
-		"You can make plates and wires out of metals and some non-metals.",
-		"",
-		"Both materials are widely used in many recipes."
+		"Plates and wires stamps can be pressed on metals and some non-metals."
 	],
 	dependencies: [
 		"3aba74ab",
