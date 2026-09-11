@@ -1,9 +1,19 @@
 {
+	icon: {
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "hbm:entity_ntm_test_dummy"
+			}
+		}
+	},
+	disable_toast: true,
 	x: -0.5d,
-	y: 0.0d,
+	y: -1.5d,
 	text: [
 		"The Test Dummy is spawnable replica of a player, it can be gived armor by right clicking with a piece."
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "e41ce82c",
 		type: "item",
@@ -15,5 +25,9 @@
 				}
 			}
 		}]
+	},
+	{
+		uid: "c80b19f9",
+		type: "checkmark"
 	}]
 }

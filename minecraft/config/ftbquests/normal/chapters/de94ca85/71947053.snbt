@@ -1,17 +1,25 @@
 {
+	title: "You are not supposed to be here",
+	icon: "minecraft:bedrock",
+	disable_toast: true,
 	x: -1.0d,
 	y: -3.5d,
 	shape: "rsquare",
-	description: "You are not supposed to be here!",
+	description: "Interesting items beyond",
 	text: [
-		"Fun things beyond"
+		""
 	],
 	size: 2.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "8d76f6ad",
 		type: "item",
 		items: [{
 			item: "minecraft:bedrock"
 		}]
+	},
+	{
+		uid: "a49829d5",
+		type: "checkmark"
 	}]
 }

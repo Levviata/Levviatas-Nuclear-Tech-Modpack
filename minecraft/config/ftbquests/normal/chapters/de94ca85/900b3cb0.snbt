@@ -1,6 +1,9 @@
 {
+	icon: "hbm:zirconium_legs",
+	disable_toast: true,
 	x: -0.5d,
-	y: 1.0d,
+	y: -0.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "7b352958",
 		type: "item",
@@ -9,5 +12,9 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "999bcb7d",
+		type: "checkmark"
 	}]
 }

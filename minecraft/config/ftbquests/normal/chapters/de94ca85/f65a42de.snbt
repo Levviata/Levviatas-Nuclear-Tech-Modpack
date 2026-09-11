@@ -1,14 +1,21 @@
 {
+	icon: "hbm:piston_inserter",
+	disable_toast: true,
 	x: -1.5d,
-	y: 1.0d,
+	y: -0.5d,
 	text: [
 		"Im not sure whats this for"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "0042de21",
 		type: "item",
 		items: [{
 			item: "hbm:piston_inserter"
 		}]
+	},
+	{
+		uid: "774288c3",
+		type: "checkmark"
 	}]
 }

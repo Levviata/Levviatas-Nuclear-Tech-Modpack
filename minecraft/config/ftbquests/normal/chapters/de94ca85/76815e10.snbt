@@ -1,17 +1,24 @@
 {
+	icon: "hbm:spinny_light",
+	disable_toast: true,
 	x: -1.5d,
-	y: 0.0d,
+	y: -1.5d,
 	text: [
 		"Lums with a cool pattern, redstone activated.",
 		"",
 		"Color can be changed with dye."
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "d59f4337",
 		type: "item",
 		items: [{
 			item: "hbm:spinny_light"
 		}]
+	},
+	{
+		uid: "7f068b6e",
+		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "775a61fb",

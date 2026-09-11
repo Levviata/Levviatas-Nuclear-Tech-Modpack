@@ -1,14 +1,21 @@
 {
+	icon: "hbm:machine_industrial_generator",
+	disable_toast: true,
 	x: 0.5d,
-	y: 0.0d,
+	y: -1.5d,
 	text: [
 		""
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "0de2bb5a",
 		type: "item",
 		items: [{
 			item: "hbm:machine_industrial_generator"
 		}]
+	},
+	{
+		uid: "48d7caf7",
+		type: "checkmark"
 	}]
 }
