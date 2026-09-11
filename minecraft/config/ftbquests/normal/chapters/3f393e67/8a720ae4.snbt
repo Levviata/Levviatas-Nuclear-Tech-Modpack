@@ -1,7 +1,9 @@
 {
 	x: 10.0d,
 	y: 22.0d,
+	min_required_dependencies: 1,
 	dependencies: [
+		"de486724",
 		"17b254e8",
 		"02ad9546"
 	],
