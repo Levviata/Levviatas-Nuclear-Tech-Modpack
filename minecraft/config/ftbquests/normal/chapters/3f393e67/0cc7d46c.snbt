@@ -6,8 +6,10 @@
 		"Coltan is used to make Niobium and Tantalium."
 	],
 	dependencies: [
-		"f2ddf3e5"
+		"f2ddf3e5",
+		"3dca19a8"
 	],
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "2a108011",
 		type: "item",
