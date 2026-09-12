@@ -3,7 +3,7 @@
 	x: -5.0d,
 	y: 12.0d,
 	text: [
-		"Upgrades are inserted in the Top-Right (empty column of four) slots of almost all machines."
+		"Upgrades are inserted in the Top-Right (empty column of four) slots of most Refined Storage machines."
 	],
 	size: 1.25d,
 	tasks: [{
