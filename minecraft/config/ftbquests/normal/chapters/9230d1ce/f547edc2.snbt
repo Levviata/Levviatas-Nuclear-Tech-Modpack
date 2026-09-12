@@ -1,19 +1,14 @@
 {
 	title: "Fusion Reactor Vessel",
-	x: -10.5d,
-	y: 13.5d,
+	icon: "hbm:fusion_torus",
+	x: -10.473214285714278d,
+	y: 13.517857142857146d,
 	shape: "hexagon",
 	text: [
-		"The Fusion Reactor Vessel is an expensive machine that can produce: ",
-		"- Helium-4 ",
-		"- Ionized Particles ",
-		"- Chlorophyte powder ",
-		"- Thermonuclear Ashes ",
-		"- Gold Powder",
+		"The Fusion Reactor Vessel is an expensive constructed machine that can make a ton of useful late game products.",
 		"",
-		"Ionized Particles makes Schrabidium armor, other particles, and Chlorophyte powder for tools.",
+		"To start constructing it, place the Fusion Reactor Vessel Core Component.",
 		"",
-		"As reward, rare materials are refunded 1/3, and common materials 1/2",
 		"",
 		"§2Fusion Reactor§r",
 		"",
@@ -30,7 +25,9 @@
 		"",
 		"External energy and fuel levels determine working speed, if any is below 50%, the reactor will decrease productivity. ",
 		"",
-		"More KyUs (Klystron energy unit) do not accelerate production."
+		"More KyUs (Klystron energy unit) do not accelerate production.",
+		"",
+		"As reward, rare materials are refunded 1/3, and common materials 1/2"
 	],
 	dependencies: [
 		"f90a1d32"
