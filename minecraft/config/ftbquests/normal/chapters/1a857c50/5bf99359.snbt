@@ -11,19 +11,19 @@
 		"32ce0f5a"
 	],
 	tasks: [{
-		uid: "bfff8626",
+		uid: "e06b2712",
 		type: "item",
 		items: [{
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any anyDrillbit"
+					Name: "Any drillbit"
 				}
 			},
 			ForgeCaps: {
 				Parent: {
 					id: "ore",
-					data: "anyDrillbit"
+					data: "drillbit"
 				}
 			}
 		}],
@@ -32,6 +32,6 @@
 	rewards: [{
 		uid: "0c4cd7d5",
 		type: "xp",
-		xp: 20
+		xp: 50
 	}]
 }
