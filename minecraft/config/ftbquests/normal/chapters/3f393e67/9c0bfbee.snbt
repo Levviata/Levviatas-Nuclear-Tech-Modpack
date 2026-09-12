@@ -4,12 +4,8 @@
 	y: 19.5d,
 	text: [
 		"Electricity Pylon are a handy electric carrying machine that can cover wide areas.",
-		"They come in wood and steel, steel is drastically better looking.",
 		"",
-		"To construct this type of pylon you need three components",
-		"- Electricity Pylon",
-		"- Capacitor (block)",
-		"- Capacitor Bus.",
+		"They come in wood and steel, steel is drastically better looking.",
 		"",
 		"You may change the color of the cable connecting the pylons with dye."
 	],
