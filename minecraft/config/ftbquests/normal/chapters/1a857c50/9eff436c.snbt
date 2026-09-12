@@ -3,7 +3,9 @@
 	x: -20.0d,
 	y: 8.0d,
 	text: [
-		"You got it without the Survey Scanner! That's either one lucky strip mining session or you got x-ray hacks."
+		"You got it without the Survey Scanner! That's either one lucky strip mining session or you got x-ray hacks.",
+		"",
+		"(completes automatically after getting Gerald)"
 	],
 	dependencies: [
 		"d50ab900"
