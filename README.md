@@ -1,7 +1,9 @@
 ## Download 
 CurseForge: www.curseforge.com/minecraft/modpacks/levviatas-nuclear-tech-modpack/
 
-Modrinth and GitHub: https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack/releases
+Modrinth: https://modrinth.com/modpack/levviatas-nuclear-tech-pack
+
+GitHub: https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack/releases
 
 Latest releases will always be on GitHub.
 
