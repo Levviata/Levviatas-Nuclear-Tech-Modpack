@@ -28,5 +28,19 @@
 		],
 		click: "https://www.youtube.com/watch?v=tTl2GgvBbag",
 		dev: false
+	},
+	{
+		x: -3.5d,
+		y: 11.0d,
+		width: 1.55d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image6.png",
+		hover: [
+			"PWR Tutorial",
+			"By Savage Vegeta"
+		],
+		click: "https://www.youtube.com/watch?v=3nHCB3QCysk",
+		dev: false
 	}]
 }
