@@ -17,15 +17,5 @@
 	{
 		uid: "11268d0f",
 		type: "checkmark"
-	}],
-	rewards: [{
-		uid: "9af56fc6",
-		type: "item",
-		item: "hbm:fluid_tank_lead_full 1 143"
-	},
-	{
-		uid: "661bb4cf",
-		type: "xp",
-		xp: 50
 	}]
 }
