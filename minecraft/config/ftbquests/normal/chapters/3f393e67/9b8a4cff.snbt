@@ -15,6 +15,7 @@
 	],
 	dependencies: [
 		"b15d7e81",
+		"9b677b3e",
 		"00fafa6c"
 	],
 	dependency_requirement: "one_completed",
