@@ -1,0 +1,55 @@
+{
+	icon: "hbm:machine_cyclotron",
+	x: -7.5d,
+	y: 7.5d,
+	shape: "hexagon",
+	text: [
+		"The Cyclotron is a machine that bombards element powders with element boxes to get heavier elements and antimatter.",
+		"",
+		"To operate, water and energy must be provided. Ongoing operations burn water and generate Low-Pressure Steam which must be used or vented.",
+		"",
+		"Consumes over 2MHE / second, making it decently power intensive.",
+		"",
+		"Speed upgrades increase coolant consumption instead of energy. ",
+		"Power saving upgrades come with no downsides.",
+		"",
+		"Green ports don't work for me, might be bugged."
+	],
+	dependencies: [
+		"03f4949c"
+	],
+	size: 1.5d,
+	or_tasks: true,
+	tasks: [{
+		uid: "776c77f7",
+		type: "item",
+		items: [{
+			item: "hbm:machine_cyclotron"
+		}]
+	},
+	{
+		uid: "e1fc973e",
+		type: "item",
+		title: "Element Boxes",
+		items: [{
+			item: "hbm:part_lithium"
+		},
+		{
+			item: "hbm:part_beryllium"
+		},
+		{
+			item: "hbm:part_carbon"
+		},
+		{
+			item: "hbm:part_copper"
+		},
+		{
+			item: "hbm:part_plutonium"
+		}]
+	}],
+	rewards: [{
+		uid: "d019b43d",
+		type: "xp",
+		xp: 100
+	}]
+}
