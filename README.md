@@ -5,8 +5,6 @@ Modrinth: https://modrinth.com/modpack/levviatas-nuclear-tech-pack
 
 GitHub: https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack/releases
 
-Latest releases will always be on GitHub.
-
 # LvNTM (Levviata's Nuclear Tech Modpack for 1.12.2)
 
 A lightweight and complete Nuclear Tech modpack with a quest book and Refined Storage.
