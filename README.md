@@ -34,9 +34,8 @@ For Cleanroom, scroll down to its section.
 8.5/10 Impatient guy
 
 ## Features
-(yes these numbers are real)
 
-- 25 chapters with 1565 quests with quality information and pretty patterns 😏
+- 23 chapters with 1565 quests with quality information and pretty patterns 😏
 
 - 210 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
