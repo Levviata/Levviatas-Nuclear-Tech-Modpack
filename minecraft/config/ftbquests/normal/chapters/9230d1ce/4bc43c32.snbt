@@ -1,0 +1,140 @@
+{
+	title: "Inertial Confinement Fusion Reactor",
+	x: -19.0d,
+	y: 5.5d,
+	shape: "hexagon",
+	description: "ICF",
+	text: [
+		"The ICF is another expensive constructed machine that can make up to several GHE / sec.",
+		"",
+		"To start constructing it, place the Core Component."
+	],
+	dependencies: [
+		"fd2d6c96"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "4c281229",
+		type: "item",
+		items: [{
+			item: "hbm:icf_component"
+		}],
+		count: 50L
+	},
+	{
+		uid: "78d8084b",
+		type: "item",
+		items: [{
+			id: "hbm:icf_component",
+			Damage: 3s,
+			tag: {
+				display: {
+					Lore: [
+						"§r§7§c3x64 + 48"
+					]
+				}
+			}
+		}],
+		count: 240L
+	},
+	{
+		uid: "3fd2a044",
+		type: "item",
+		items: [{
+			id: "hbm:bolt",
+			Damage: 33s,
+			tag: {
+				display: {
+					Lore: [
+						"§r§7§c15x64"
+					]
+				}
+			}
+		}],
+		count: 960L
+	},
+	{
+		uid: "9edc4a8c",
+		type: "item",
+		items: [{
+			id: "hbm:plate_cast",
+			Damage: 30s,
+			tag: {
+				display: {
+					Lore: [
+						"§r§7§c3x64 + 48"
+					]
+				}
+			}
+		}],
+		count: 240L
+	},
+	{
+		uid: "e10085a5",
+		type: "item",
+		items: [{
+			id: "hbm:icf_component",
+			Damage: 1s,
+			tag: {
+				display: {
+					Lore: [
+						"§r§7§c1x64 + 53"
+					]
+				}
+			}
+		}],
+		count: 117L
+	},
+	{
+		uid: "59eb43f1",
+		type: "item",
+		items: [{
+			id: "hbm:plate_cast",
+			Damage: 46s,
+			tag: {
+				display: {
+					Lore: [
+						"§r§7§c1x64 + 53"
+					]
+				}
+			}
+		}],
+		count: 117L
+	},
+	{
+		uid: "ca237379",
+		type: "item",
+		items: [{
+			item: "hbm:struct_icf_core"
+		}]
+	},
+	{
+		uid: "d1996eac",
+		type: "item",
+		items: [{
+			item: "hbm:boltgun"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0a3001b2",
+		type: "item",
+		title: "Any welding tool",
+		items: [{
+			id: "hbm:blowtorch",
+			tag: {
+				GAS: 4000
+			}
+		},
+		{
+			id: "hbm:acetylene_torch",
+			tag: {
+				UNSATURATEDS: 8000,
+				OXYGEN: 16000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
