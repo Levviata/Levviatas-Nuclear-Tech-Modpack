@@ -6,13 +6,14 @@ Add bloom to
 - Railgun
 - Refined storage machines (mostly grids and the controller)
 
-Add quests for
-- PWR
+turn comically long pistol into alucard's gun
+https://sketchfab.com/3d-models/hellsing-alucard-pistol-45eca01aa60542daa8b679325a148a22
 
-Increment Antimatter barrel total storage from 16B to 32B 
+Add quests for
+- ICF and its modular lasers
+
+Increment Antimatter barrel total storage from 16B to 32B (i cant fucking do it)
 
 things i would change:
 
 - fix loot table removing old items like the chicago pile rods
-- add recipe for 16 cigs to polonium nugget
-- fix shimmer tool recipe as its too expensive
