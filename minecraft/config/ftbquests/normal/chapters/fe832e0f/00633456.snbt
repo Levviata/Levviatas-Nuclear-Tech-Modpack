@@ -1,7 +1,7 @@
 {
 	icon: "hbm:tnt_ntm",
 	x: 3.5d,
-	y: -1.0d,
+	y: 0.0d,
 	shape: "square",
 	text: [
 		"Mines are explosives that are armed for close-proximity which will trigger if any entity steps near.",

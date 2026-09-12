@@ -1,6 +1,6 @@
 {
 	x: 5.0d,
-	y: 0.5d,
+	y: 1.5d,
 	description: "Deadly",
 	text: [
 		"The Fat Mine deals over 500 damage.  ",

@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_missile_launcher",
 	x: 4.0d,
-	y: 18.0d,
+	y: 19.0d,
 	dependencies: [
 		"deda0423"
 	],

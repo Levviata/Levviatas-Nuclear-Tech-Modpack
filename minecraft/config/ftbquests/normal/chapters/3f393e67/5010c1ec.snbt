@@ -1,7 +1,7 @@
 {
 	x: -10.0d,
 	y: 30.5d,
-	shape: "octagon",
+	shape: "circle",
 	description: "The Automatic Calculator",
 	text: [
 		"The AUTOCAL is a machine that can process scripts to perform basic actions like math or sending RoR signals.",

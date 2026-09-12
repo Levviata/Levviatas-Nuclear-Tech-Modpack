@@ -1,6 +1,6 @@
 {
 	x: -8.5d,
-	y: 8.5d,
+	y: 6.5d,
 	description: "Fancy leather helmet",
 	text: [
 		"A leather gas mask without a filter."

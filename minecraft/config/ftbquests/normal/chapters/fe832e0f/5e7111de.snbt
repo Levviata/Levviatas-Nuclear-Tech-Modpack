@@ -1,7 +1,7 @@
 {
 	icon: "hbm:gun_amat",
 	x: -1.0d,
-	y: 18.0d,
+	y: 19.0d,
 	dependencies: [
 		"bc202618"
 	],

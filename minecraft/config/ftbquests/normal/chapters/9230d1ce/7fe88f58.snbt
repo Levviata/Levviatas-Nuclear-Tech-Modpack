@@ -1,6 +1,6 @@
 {
 	title: "Particle Accelerator",
-	x: -21.5d,
+	x: -23.0d,
 	y: 9.5d,
 	shape: "hexagon",
 	text: [
