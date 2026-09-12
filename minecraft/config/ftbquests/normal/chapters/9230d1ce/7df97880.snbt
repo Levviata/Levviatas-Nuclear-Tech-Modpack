@@ -18,15 +18,38 @@
 	tasks: [{
 		uid: "f6b1a1e2",
 		type: "item",
+		title: "Bismuth",
 		items: [{
 			item: "hbm:nugget_bismuth"
+		},
+		{
+			item: "hbm:ingot_bismuth"
+		},
+		{
+			item: "hbm:billet_bismuth"
+		},
+		{
+			item: "hbm:powder_bismuth"
+		},
+		{
+			item: "hbm:scraps 1 8300"
+		},
+		{
+			item: "hbm:block_bismuth"
 		}]
 	},
 	{
 		uid: "2d659e25",
 		type: "item",
+		title: "Arsenic",
 		items: [{
 			item: "hbm:nugget_arsenic"
+		},
+		{
+			item: "hbm:ingot_arsenic"
+		},
+		{
+			item: "hbm:scraps 1 3300"
 		}]
 	}]
 }
