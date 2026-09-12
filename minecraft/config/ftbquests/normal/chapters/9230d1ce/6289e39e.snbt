@@ -5,7 +5,7 @@
 	text: [
 		"Fullerene Solution can be processed in a SILEX to get Fullerene.",
 		"",
-		"Fullerene can be crystallized in a Ore acidizer to get an important end-game material."
+		"Fullerene can be crystallized in a Ore acidizer to get Fulllerene Crystals which is an important end game material."
 	],
 	min_required_dependencies: 1,
 	dependencies: [
