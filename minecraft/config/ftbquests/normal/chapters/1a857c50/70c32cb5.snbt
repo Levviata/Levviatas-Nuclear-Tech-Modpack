@@ -1,6 +1,10 @@
 {
 	x: -4.0d,
 	y: 13.5d,
+	description: "Very useful",
+	text: [
+		"Solvent is mainly used in Bedrock ore processing and late game circuit production."
+	],
 	dependencies: [
 		"6e938840"
 	],
@@ -13,18 +17,12 @@
 		}]
 	},
 	{
-		uid: "0eb25da7",
-		type: "fluid",
-		fluid: "solvent"
+		uid: "c2f33252",
+		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "8a9c79a4",
 		type: "xp",
 		xp: 20
-	},
-	{
-		uid: "d6d8c2bd",
-		type: "item",
-		item: "hbm:fluid_tank_full 1 83"
 	}]
 }
