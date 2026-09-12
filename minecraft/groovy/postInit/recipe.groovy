@@ -1629,6 +1629,36 @@ crafting.shapedBuilder()
         .register()
 replacedCount++
 
+crafting.addShapeless(item('hbm:sliding_blast_door_legacy'), [ore('ntmscrewdriver').reuse(), item('hbm:sliding_blast_door_2')])
+crafting.addShapeless(item('hbm:sliding_blast_door_2'), [ore('ntmscrewdriver').reuse(), item('hbm:sliding_blast_door_legacy')])
+recipeCount++
+recipeCount++
+
+// stupid thing
+crafting.removeByOutput(item('hbm:sliding_blast_door'))
+removedCount++
+
+crafting.removeByOutput(item('hbm:sliding_blast_door_skin0'))
+crafting.removeByOutput(item('hbm:sliding_blast_door_skin1:1'))
+crafting.removeByOutput(item('hbm:sliding_blast_door_skin2:2'))
+removedCount++
+removedCount++
+removedCount++
+
+crafting.addShapeless(item('hbm:sliding_blast_door_skin0'), [ore('plateIron'), ore('dyeWhite')])
+crafting.addShapeless(item('hbm:sliding_blast_door_skin1'), [ore('plateIron'), ore('dyeOrange')])
+crafting.addShapeless(item('hbm:sliding_blast_door_skin2'), [ore('plateIron'), ore('dyeOrange'), ore('dyeBlack')])
+recipeCount++
+recipeCount++
+recipeCount++
+
+crafting.addShapeless(item('hbm:sliding_blast_door_skin0'), [ore('slidingBlastDoor').reuse(), ore('dyeWhite')])
+crafting.addShapeless(item('hbm:sliding_blast_door_skin1'), [ore('slidingBlastDoor').reuse(), ore('dyeOrange')])
+crafting.addShapeless(item('hbm:sliding_blast_door_skin2'), [ore('slidingBlastDoor').reuse(), ore('dyeOrange'), ore('dyeBlack')])
+recipeCount++
+recipeCount++
+recipeCount++
+
 // END NUCLEAR TECH //
 
 log.info("Adding " + recipeCount + " recipes.")

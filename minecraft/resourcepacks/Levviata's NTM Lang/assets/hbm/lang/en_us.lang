@@ -7,6 +7,8 @@ tile.sliding_blast_door_legacy.name=Sliding Blast Door
 ## "fixes" ##
 item.inf_water.name=Infinite Water Barrel
 item.inf_water_mk2.name=Infinite Water Barrel Mk.²
+tile.sliding_blast_door_2.name=Sliding Blast Door
+tile.blast_door.name=Single Blast Door
 ## legacy ##
 item.template_folder.name=Template Folder (LEGACY)
 # coils

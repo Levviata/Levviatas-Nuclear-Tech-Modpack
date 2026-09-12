@@ -827,22 +827,6 @@
         ["item","hbm:motor",2]
       ],
       "outputItem": [
-        ["single",["hbm:sliding_blast_door"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.slidingdoor_legacy",
-      "inputItem": [
-        ["dict","plateSteel",16],
-        ["dict","ingotTungsten",8],
-        ["item","hbm:reinforced_glass",4],
-        ["dict","ingotAnyRubber",4],
-        ["dict","boltDuraSteel",16],
-        ["item","hbm:motor",2]
-      ],
-      "outputItem": [
         ["single",["hbm:sliding_blast_door_legacy"]]
       ],
       "duration": 200,
@@ -9142,5 +9126,5 @@
       "power": 100
     }
   ],
-  "comment": "removed breeder and research reactors, added mp size 15 balefire, size 15 thermo, size 15 mirv, warhead n2 and mirvlet, missile n2, size 15 wrhead balefire, nuclear thruster, relay satellite, total 11"
+  "comment": "removed breeder and research reactors, added mp size 15 balefire, size 15 thermo, size 15 mirv, warhead n2 and mirvlet, missile n2, size 15 wrhead balefire, nuclear thruster, relay satellite, fixed sliding door recipe by removing 'new' one, total 12"
 }

@@ -384,5 +384,8 @@ oreDict.add('deshPowder', item('hbm:powder_desh'))
 oreDict.add('deshPowder', item('hbm:powder_desh_mix'))
 oreDict.add('deshPowder', item('hbm:powder_desh_ready'))
 
+oreDict.add('slidingBlastDoor', item('hbm:sliding_blast_door_legacy'))
+oreDict.add('slidingBlastDoor', item('hbm:sliding_blast_door_2'))
+
 log.info("Loaded ore dictionaries!")
 

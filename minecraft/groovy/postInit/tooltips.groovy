@@ -1,5 +1,8 @@
 import net.minecraftforge.event.entity.player.ItemTooltipEvent
 
+def slidingblastdoor1 = "Craft with a screwdriver to change variant."
+def slidingblastdoor2 = "Has craftable skins."
+
 // here comes the LevviataInc fix.
 event_manager.listen { ItemTooltipEvent event ->
     if (event.getItemStack() in item('hbm:rad_absorber')) { // cant remove that special § letter from the tooltip, lame
@@ -98,6 +101,14 @@ event_manager.listen { ItemTooltipEvent event ->
     if (event.getItemStack() in item('hbm:mp_warhead_15_volcano')) {
         event.getToolTip() << "Doesn't explode as it lacks code."
         event.getToolTip() << "Use Tectonic Missile."
+    }
+    if (event.getItemStack() in item('hbm:sliding_blast_door_legacy')) {
+        event.getToolTip() << slidingblastdoor1
+        event.getToolTip() << slidingblastdoor2
+    }
+    if (event.getItemStack() in item('hbm:sliding_blast_door_2')) {
+        event.getToolTip() << slidingblastdoor1
+        event.getToolTip() << slidingblastdoor2
     }
 }
 log.info("Loaded tooltips!")
