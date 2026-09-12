@@ -3,14 +3,15 @@
 	x: -3.5d,
 	y: 12.0d,
 	text: [
-		"The Laser Rifle is a end game weapon that deals 50 Damage.",
+		"The Laser Rifle deals 50 laser damage and will disintegrate any entity on kill.",
 		"",
-		"Uses a special kind of capacitors as ammo."
+		"Has three weapon specific mods."
 	],
 	dependencies: [
 		"f90a1d32"
 	],
 	size: 1.25d,
+	or_tasks: true,
 	tasks: [{
 		uid: "82470abd",
 		type: "item",
