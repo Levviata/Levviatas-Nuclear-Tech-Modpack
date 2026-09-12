@@ -1107,9 +1107,9 @@ crafting.shapedBuilder()
         .row('SSS')
         .row('KAK')
         .row('SSS')
-        .key('S', item('hbm:ingot_combine_steel'))
-        .key('K', item('hbm:block_combine_steel'))
-        .key('A', item('hbm:block_euphemium'))
+        .key('S', ore('ingotAnyResistantAlloy'))
+        .key('K', ore('blockAnyResistantAlloy'))
+        .key('A', ore('blockAnyPlastic'))
         .replaceByName()
         .register()
 replacedCount++
@@ -1120,10 +1120,10 @@ crafting.shapedBuilder()
         .row('SCC')
         .row('SAK')
         .row('SCC')
-        .key('S', item('hbm:plate_combine_steel'))
-        .key('K', item('hbm:block_combine_steel'))
-        .key('A', item('hbm:block_euphemium'))
-        .key('C', item('hbm:ingot_combine_steel'))
+        .key('S', ore('plateTripleAnyResistantAlloy'))
+        .key('K', ore('blockAnyResistantAlloy'))
+        .key('A', ore('blockAnyPlastic'))
+        .key('C', ore('ingotAnyResistantAlloy'))
         .replaceByName()
         .register()
 replacedCount++
@@ -1515,9 +1515,9 @@ crafting.addShapeless(item('hbm:rpa_boots'), [item('hbm:ncrpa_boots').withNbt(['
 crafting.addShapeless(item('hbm:rpa_boots'), [item('hbm:ncrpa_boots').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
 
 
-crafting.addShapeless(item('hbm:balefire'), [item('hbm:undefined')])
-crafting.addShapeless(item('hbm:fire_digamma'), [item('hbm:undefined'), item('hbm:undefined')])
-crafting.addShapeless(item('hbm:digamma_matter'), [item('hbm:undefined'), item('hbm:undefined'), item('hbm:undefined')])
+crafting.addShapeless(item('hbm:balefire') * 64, [item('hbm:undefined')])
+crafting.addShapeless(item('hbm:fire_digamma')  * 64, [item('hbm:undefined'), item('hbm:undefined')])
+crafting.addShapeless(item('hbm:digamma_matter')  * 64, [item('hbm:undefined'), item('hbm:undefined'), item('hbm:undefined')])
 recipeCount++
 recipeCount++
 recipeCount++
@@ -1573,6 +1573,11 @@ crafting.removeByOutput(item('hbm:pile_rod_source'))
 crafting.removeByOutput(item('hbm:pile_rod_boron'))
 crafting.removeByOutput(item('hbm:pile_rod_lithium'))
 crafting.removeByOutput(item('hbm:pile_rod_detector'))
+removedCount++
+removedCount++
+removedCount++
+removedCount++
+removedCount++
 
 // bye bye reactors, rods, and plates
 // deprecate to match v 1.0.27_X5771
@@ -1612,6 +1617,17 @@ crafting.shapedBuilder()
         .key('C', item('hbm:coin_radiation'))
         .register()
 recipeCount++
+
+crafting.shapedBuilder()
+        .name(resource('hbm:block_slag'))
+        .output(item('hbm:block_slag'))
+        .row('AAA')
+        .row('AAA')
+        .row('AAA')
+        .key('A', ore('ingotSlag'))
+        .replaceByName()
+        .register()
+replacedCount++
 
 // END NUCLEAR TECH //
 
