@@ -96,7 +96,7 @@ The Electricity Pylon quest cannot be completed due to pylon capacitors having n
 
 With Cleanroom and 32 chunks, the FPS still hold up and hit a stable >60, which is a miracle to be honest.
 
-After booting once and downloading all the required mods, you may disable File Director mod to boot up faster.
+After booting once and downloading all required mods, you may disable File Director mod to boot up faster.
 
 The game looks good, the FPS are good, the quests are good, what other Nuclear Tech modpack would you ever wish than this one!
 
