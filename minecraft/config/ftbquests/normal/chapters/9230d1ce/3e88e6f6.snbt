@@ -2,6 +2,10 @@
 	x: -19.0d,
 	y: 20.5d,
 	shape: "gear",
+	description: "End game",
+	text: [
+		""
+	],
 	dependencies: [
 		"f4dc6388"
 	],
@@ -15,5 +19,12 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d01a1296",
+		type: "command",
+		title: "give secret bedrock ore seen quest",
+		auto: "invisible",
+		command: "/ftbquests change_progress complete @p 9eff436c"
 	}]
 }
