@@ -1,6 +1,7 @@
 {
 	x: 2.0d,
 	y: 24.0d,
+	shape: "hexagon",
 	text: [
 		"The Industrial Mixer is an important machine that mixes liquids and solids to make new products.",
 		"",

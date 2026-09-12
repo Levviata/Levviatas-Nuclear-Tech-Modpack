@@ -1,6 +1,7 @@
 {
 	x: -7.5d,
-	y: 12.0d,
+	y: 12.5d,
+	shape: "hexagon",
 	text: [
 		"The Coker Unit cooks petrochemicals into new products.",
 		"",

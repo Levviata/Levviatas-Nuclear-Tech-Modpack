@@ -1,11 +1,13 @@
 {
 	title: "Meteor Ores",
+	icon: "hbm:meteor_brick",
 	x: -5.0d,
 	y: 3.0d,
-	shape: "square",
+	shape: "rsquare",
 	text: [
 		""
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "291254ad",
 		type: "checkmark",

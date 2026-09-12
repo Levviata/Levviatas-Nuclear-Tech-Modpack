@@ -1,6 +1,7 @@
 {
 	x: 0.5d,
 	y: 30.5d,
+	shape: "hexagon",
 	text: [
 		"The Chemical Plant is a fluid refinery that can make a ton of useful fluids, it's used until the end game, that's how useful it is.",
 		"",
