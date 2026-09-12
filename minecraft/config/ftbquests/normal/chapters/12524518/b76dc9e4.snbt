@@ -1,6 +1,7 @@
 {
 	x: 4.5d,
 	y: 1.5d,
+	description: "Depleted and cooled",
 	text: [
 		"When fully depleted, the rod can be crafted into hot Depleted Uranium Fuel which needs to be cool down.",
 		"",
