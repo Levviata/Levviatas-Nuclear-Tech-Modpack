@@ -3200,6 +3200,18 @@
     },
     {
       "inputs": [
+        ["item","refinedstorage:portable_grid",1],
+        ["item","hbm:undefined",8]
+      ],
+      "outputs": [
+        ["refinedstorage:portable_grid",1,1,1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
         ["item","refinedstorage:storage",16,3],
         ["item","hbm:undefined",8]
       ],
@@ -3247,7 +3259,19 @@
       "tierLower": 1916169,
       "tierUpper": -1,
       "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_barrel_empty",1],
+        ["item","hbm:undefined",8]
+      ],
+      "outputs": [
+        ["hbm:fluid_barrel_infinite",1,1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
     }
   ],
-  "comment": "Removed breeder and research, ura rod, source rod, boron rod, rod detector, lithium rod, pluto rod, pluto239 rod. +9, Added fluid tank, glitch, ducc, broadcaster pc, creative: klystron, wireless grid, storage, storage disk, battery, stirling. +10. Total 19"
+  "comment": "Removed breeder and research, ura rod, source rod, boron rod, rod detector, lithium rod, pluto rod, pluto239 rod. +9, Added fluid tank, glitch, ducc, broadcaster pc, creative: klystron, wireless grid, portable grid, barrel, storage, storage disk, battery, stirling. +12. Total 21"
 }
