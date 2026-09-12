@@ -4,7 +4,7 @@
 	y: 5.000000000000007d,
 	description: "DO NOT TOUCH",
 	text: [
-		""
+		"no rewards here"
 	],
 	size: 2.0d,
 	tasks: [{
