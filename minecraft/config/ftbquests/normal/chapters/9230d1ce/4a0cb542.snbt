@@ -13,6 +13,7 @@
 		"f90a1d32"
 	],
 	size: 1.25d,
+	or_tasks: true,
 	tasks: [{
 		uid: "f5d90d24",
 		type: "item",

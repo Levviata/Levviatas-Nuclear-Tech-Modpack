@@ -11,6 +11,7 @@
 		"0477fbc8"
 	],
 	dependency_requirement: "one_completed",
+	or_tasks: true,
 	tasks: [{
 		uid: "06a3e8e7",
 		type: "item",
@@ -28,6 +29,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "557feb2b",
+		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "5ff2e5d3",

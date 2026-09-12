@@ -9,6 +9,7 @@
 	dependencies: [
 		"fe345438"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "fbdec183",
 		type: "item",
@@ -17,6 +18,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "6f79eb70",
+		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "286f1365",
