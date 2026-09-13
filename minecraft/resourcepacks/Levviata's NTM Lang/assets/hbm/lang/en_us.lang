@@ -73,5 +73,3 @@ tile.machine_reactor_small_new.name=Research Reactor (LEGACY)
 item.redcoil_capacitor.name=Redcoil Capacitor (UNUSED)
 item.euphemium_capacitor.name=Euphemium Capacitor (UNUSED)
 item.mp_warhead_15_volcano.name=Size 15 Volcano Warhead (UNUSED)
-# these are just WIP
-item.satellite.science_assembler.name=Space Laboratory - 0G Assembler (UNUSED)
