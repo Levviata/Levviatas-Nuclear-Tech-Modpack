@@ -1,11 +1,16 @@
 {
 	x: 6.5d,
 	y: 7.0d,
+	or_tasks: true,
 	tasks: [{
 		uid: "b30beabc",
 		type: "item",
 		items: [{
 			item: "hbm:icf"
 		}]
+	},
+	{
+		uid: "bd574472",
+		type: "checkmark"
 	}]
 }
