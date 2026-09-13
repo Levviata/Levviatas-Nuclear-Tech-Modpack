@@ -14,8 +14,10 @@
 		"All generators can be found in the Generators chapter!"
 	],
 	dependencies: [
-		"cb1a89bb"
+		"cb1a89bb",
+		"138fad66"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "ada42507",

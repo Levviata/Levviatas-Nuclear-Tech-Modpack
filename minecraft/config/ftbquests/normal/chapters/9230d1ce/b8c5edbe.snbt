@@ -1,6 +1,7 @@
 {
 	x: 26.5d,
 	y: 14.0d,
+	shape: "gear",
 	text: [
 		"The Neutrino Lens will detect valuable ores when connected to an orbiting Depth Scanning Satellite (must have same frequency).",
 		"",

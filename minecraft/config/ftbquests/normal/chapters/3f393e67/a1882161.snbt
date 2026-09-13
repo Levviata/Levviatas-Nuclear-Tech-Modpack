@@ -8,8 +8,10 @@
 		"May make High-Performance Solvent, Nitric Acid, Fracking Solution, and many other important fluids."
 	],
 	dependencies: [
+		"6b3f38ee",
 		"48a2a7c5"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "d2f10ac3",

@@ -9,8 +9,10 @@
 		"To use, you place two Shredder Blades of any material into the slots which look like shredding saws, then connect it to your power grid and you'll be able to shred anything your heart desires (it's a free scrap state!)."
 	],
 	dependencies: [
-		"b05b9b02"
+		"b05b9b02",
+		"c1ce0151"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "3fc0bab7",

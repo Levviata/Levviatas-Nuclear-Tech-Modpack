@@ -11,8 +11,10 @@
 		"It can produce Solid Fuel at about x2.5~ better fluid efficiency."
 	],
 	dependencies: [
-		"75cecdaa"
+		"75cecdaa",
+		"83b3a732"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "36ac0aa8",

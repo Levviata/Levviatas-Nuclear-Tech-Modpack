@@ -6,8 +6,10 @@
 		"The Air Intake makes Compressed Air, this can be used to make Hot Air Blast for the Blast Furnace, though it has other uses."
 	],
 	dependencies: [
-		"86867f7a"
+		"86867f7a",
+		"dfc3200a"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "6f6080e3",

@@ -7,10 +7,12 @@
 		""
 	],
 	dependencies: [
-		"4fe9f8c4",
 		"3a68af11",
+		"4fe9f8c4",
+		"dc7d25f0",
 		"0c8523cb"
 	],
+	dependency_requirement: "one_completed",
 	size: 2.0d,
 	tasks: [{
 		uid: "e5def291",

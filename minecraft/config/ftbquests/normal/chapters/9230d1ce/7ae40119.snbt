@@ -3,8 +3,9 @@
 	y: 15.0d,
 	dependencies: [
 		"99183935",
-		"e05443a9"
+		"632c03b2"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "ba007f02",

@@ -6,8 +6,10 @@
 		"Makes advanced circuits, like machine upgrades, and importantly, the Analog Circuit Board."
 	],
 	dependencies: [
-		"82d71470"
+		"82d71470",
+		"e57af521"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "f7b3640a",

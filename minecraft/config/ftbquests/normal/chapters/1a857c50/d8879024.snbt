@@ -5,8 +5,10 @@
 		"The Radioisotope Thermoelectric (RT) Generator is a machine that converts RTG Pellets into power."
 	],
 	dependencies: [
-		"6dfb480a"
+		"6dfb480a",
+		"dd568687"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "e12e59a2",

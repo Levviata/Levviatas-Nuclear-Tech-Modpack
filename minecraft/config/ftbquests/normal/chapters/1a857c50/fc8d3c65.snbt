@@ -7,9 +7,10 @@
 		"It can make a variety of unique products like Sunflower Seed Oil or Seeding Slurry."
 	],
 	dependencies: [
-		"017d61b7",
-		"262c9aef"
+		"0dc3297e",
+		"017d61b7"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "357f62c3",

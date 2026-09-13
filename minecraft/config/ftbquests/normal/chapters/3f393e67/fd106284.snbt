@@ -14,8 +14,10 @@
 		"For more energy storage check out the Batteries chapter!"
 	],
 	dependencies: [
-		"cb1a89bb"
+		"cb1a89bb",
+		"f32d434f"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "72989f3c",

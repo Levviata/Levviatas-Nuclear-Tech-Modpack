@@ -13,8 +13,10 @@
 		"Can be upgraded. "
 	],
 	dependencies: [
+		"8694c084",
 		"64546c02"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "9b5bfa4b",

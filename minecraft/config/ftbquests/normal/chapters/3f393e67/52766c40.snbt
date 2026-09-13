@@ -8,8 +8,10 @@
 		"The welding arms move when crafting and that makes it extra cool."
 	],
 	dependencies: [
+		"cd202426",
 		"82d71470"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "757c1955",

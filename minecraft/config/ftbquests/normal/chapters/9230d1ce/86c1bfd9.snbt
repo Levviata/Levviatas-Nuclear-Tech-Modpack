@@ -3,8 +3,10 @@
 	y: 10.0d,
 	shape: "hexagon",
 	dependencies: [
-		"f90a1d32"
+		"f90a1d32",
+		"6ae34130"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.75d,
 	tasks: [{
 		uid: "d1cc2fe4",

@@ -7,8 +7,10 @@
 		"For example, Light Oil converts into Aromatic Hydrocarbons, Reformate Gas, and Liquid Hydrogen."
 	],
 	dependencies: [
-		"f90a1d32"
+		"f90a1d32",
+		"2ca197a8"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "ffbc21f3",

@@ -7,8 +7,10 @@
 		"It can be used to speed up the production of some petrochemicals or make new fluids unique to the machine."
 	],
 	dependencies: [
-		"f90a1d32"
+		"f90a1d32",
+		"8238ae6b"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "efcfde5c",

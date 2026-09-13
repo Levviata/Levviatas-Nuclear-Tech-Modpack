@@ -9,8 +9,10 @@
 		"Must be powered."
 	],
 	dependencies: [
-		"99183935"
+		"99183935",
+		"df424a08"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "d5662427",

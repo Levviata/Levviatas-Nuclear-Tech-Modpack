@@ -7,8 +7,10 @@
 		"If you haven't, check out the Fluids chapter, it has full information for all barrels, tanks, and pipes!"
 	],
 	dependencies: [
+		"d4938236",
 		"017d61b7"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "e4fe6f4c",

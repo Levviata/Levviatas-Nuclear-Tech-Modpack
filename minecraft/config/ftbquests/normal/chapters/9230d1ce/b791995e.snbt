@@ -7,8 +7,11 @@
 		"It also must be cooled with water and produces Low-Pressure Steam as a side product."
 	],
 	dependencies: [
-		"99183935"
+		"99183935",
+		"5fe9c31b",
+		"fe338c74"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "8509598d",

@@ -15,8 +15,10 @@
 		"Needs a heat box below."
 	],
 	dependencies: [
-		"083d7aa0"
+		"083d7aa0",
+		"74756a60"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	or_tasks: true,
 	tasks: [{

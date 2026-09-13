@@ -14,8 +14,10 @@
 		"- Reformate and Reformate Gas."
 	],
 	dependencies: [
-		"99183935"
+		"99183935",
+		"fd8154ef"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.75d,
 	tasks: [{
 		uid: "23c112ec",

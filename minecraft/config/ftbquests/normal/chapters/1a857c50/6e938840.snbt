@@ -11,8 +11,7 @@
 		"- Coker Gas and Solid Fuel."
 	],
 	dependencies: [
-		"1f7408ee",
-		"6c965f51"
+		"1f7408ee"
 	],
 	dependency_requirement: "one_completed",
 	or_tasks: true,

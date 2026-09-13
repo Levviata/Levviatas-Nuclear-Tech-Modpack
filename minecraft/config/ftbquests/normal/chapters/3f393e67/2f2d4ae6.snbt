@@ -8,8 +8,10 @@
 		"Note: All quests involving fluids will require 1 Bucket to complete, the quest will show the fluid icon with the amount to submit which then will be refunded."
 	],
 	dependencies: [
+		"26fde5fc",
 		"8a25fa82"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "1a4fc2d7",

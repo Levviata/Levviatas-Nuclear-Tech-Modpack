@@ -15,8 +15,10 @@
 		"You may also change the priority of the specific Battery Socket, a higher priority does it's configured behaviour much faster."
 	],
 	dependencies: [
-		"fd106284"
+		"fd106284",
+		"c8420c9d"
 	],
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "81bbe83b",
 		type: "item",

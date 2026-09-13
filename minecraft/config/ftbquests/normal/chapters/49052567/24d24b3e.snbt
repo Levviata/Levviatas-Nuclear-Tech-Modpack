@@ -6,10 +6,7 @@
 		"The Grid gives access to the storage attached to the storage system, you may insert or extract items from your storage blocks or disks."
 	],
 	dependencies: [
-		"974fcf0f",
-		"90be8287",
-		"9b8a4cff",
-		"82d71470"
+		"90be8287"
 	],
 	size: 1.25d,
 	tasks: [{

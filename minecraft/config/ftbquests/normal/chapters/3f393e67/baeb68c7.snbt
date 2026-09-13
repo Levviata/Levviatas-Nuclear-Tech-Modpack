@@ -34,8 +34,11 @@
 		"It can harvest Sugar cane, cactus, and Mustard Willow but the Automatic Thresher does a better job at it."
 	],
 	dependencies: [
-		"86867f7a"
+		"86867f7a",
+		"a34c2cec",
+		"694a0204"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	or_tasks: true,
 	tasks: [{
