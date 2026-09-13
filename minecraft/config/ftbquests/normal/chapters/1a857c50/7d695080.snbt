@@ -2,6 +2,11 @@
 	x: -7.5d,
 	y: -5.0d,
 	shape: "hexagon",
+	text: [
+		"The Electric Arc Furnace can smelt every mineral, ore, and metal.",
+		"",
+		"It can melt Quartz which yields Silicon, a useful material that can make Microchips."
+	],
 	dependencies: [
 		"6dfb480a"
 	],
