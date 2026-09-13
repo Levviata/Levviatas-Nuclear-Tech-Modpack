@@ -3,7 +3,17 @@
 	x: 1.5d,
 	y: 12.0d,
 	text: [
-		""
+		"The Remnants Power Armor is the best armor (before Fau and DNT), its made with a blueprint in the Precision Assembly Machine.",
+		"",
+		"As a full set",
+		"- 90% fire resistance if total damage received is 25% Fire",
+		"- 75% physical protection if damage received is 50% Physical",
+		"- 80% energy protection if damage received is 30% Energy",
+		"- 25% explosion resistance if damage received is 15% Explosion",
+		"- 100% fall resistance.",
+		"- 45% resistance to any other damage if its 15% of any other type.",
+		"",
+		" "
 	],
 	dependencies: [
 		"7df97880"
