@@ -8,8 +8,8 @@
 	group: 0,
 	default_quest_shape: "",
 	images: [{
-		x: -24.726190476190474d,
-		y: 10.988095238095234d,
+		x: -26.330357142857146d,
+		y: 10.982142857142854d,
 		width: 1.55d,
 		height: 1.0d,
 		rotation: 0.0d,
@@ -19,6 +19,30 @@
 			"By Savage Vegetta"
 		],
 		click: "https://www.youtube.com/watch?v=os7E3b8NO64",
+		dev: false
+	},
+	{
+		x: -19.0d,
+		y: 2.0d,
+		width: 1.55d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "lvimages:textures/image6.png",
+		hover: [],
+		click: "https://youtu.be/TrAtMS970sI?si=WPKnZb55blCrOdIs",
+		dev: false
+	},
+	{
+		x: -17.0d,
+		y: 3.5d,
+		width: 1.0d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "minecraft:textures/items/barrier.png",
+		hover: [
+			"Laser And Fuel Calculation Utils"
+		],
+		click: "https://nucleartech.wiki/wiki/Inertial_Confinement_Fusion_Reactor#Laser_Port",
 		dev: false
 	}]
 }
