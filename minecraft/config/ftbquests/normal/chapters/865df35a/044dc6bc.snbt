@@ -1,6 +1,6 @@
 {
-	x: 1.5d,
-	y: -2.0d,
+	x: 1.0d,
+	y: -1.5d,
 	text: [
 		"Improves the speed of each machine operation, making products faster.",
 		"",
