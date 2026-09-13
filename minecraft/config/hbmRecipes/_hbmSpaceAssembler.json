@@ -1,0 +1,15 @@
+{
+  "recipes": [
+    {
+      "name": "space.crystalcircuit",
+      "inputItem": [
+        ["item","hbm:orbital_assembly"]
+      ],
+      "outputItem": [
+        ["single",["hbm:circuit",1,20]]
+      ],
+      "duration": 3600,
+      "power": 0
+    }
+  ]
+}
