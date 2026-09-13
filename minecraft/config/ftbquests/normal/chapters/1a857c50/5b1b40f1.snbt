@@ -3,7 +3,12 @@
 	y: 5.0d,
 	description: "No longer a worker's choice",
 	text: [
-		"Desh is an exotic superalloy"
+		"Desh is an exotic superalloy used for important mid game machines.",
+		"",
+		"It is quite useful.",
+		"",
+		"Desh items can't get destroyed by fire or cactus ",
+		"(I added that)."
 	],
 	dependencies: [
 		"04b29439"
