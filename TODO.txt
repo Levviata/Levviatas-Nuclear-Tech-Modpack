@@ -6,13 +6,12 @@ Add bloom to
 - Railgun
 - Refined storage machines (mostly grids and the controller)
 
+Increment Antimatter barrel total storage from 16B to 32B (i cant fucking do it)
+
 turn comically long pistol into alucard's gun
 https://sketchfab.com/3d-models/hellsing-alucard-pistol-45eca01aa60542daa8b679325a148a22
 
-Add quests for
-- ICF and its modular lasers
-
-Increment Antimatter barrel total storage from 16B to 32B (i cant fucking do it)
+fix RS chapter deps
 
 things i would change:
 
