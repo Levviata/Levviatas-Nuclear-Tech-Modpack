@@ -1,0 +1,33 @@
+{
+	x: -17.0d,
+	y: 5.5d,
+	text: [
+		"Pellets can also be supplied with Muon particles to increase reactivity.",
+		"",
+		"All possible fuels can be seen in the item catalog."
+	],
+	dependencies: [
+		"4bc43c32"
+	],
+	size: 1.25d,
+	or_tasks: true,
+	tasks: [{
+		uid: "4001e0c0",
+		type: "item",
+		items: [{
+			item: "hbm:machine_icf_press"
+		}]
+	},
+	{
+		uid: "01088249",
+		type: "item",
+		items: [{
+			item: "hbm:icf_pellet_empty"
+		}]
+	}],
+	rewards: [{
+		uid: "e12b99bf",
+		type: "xp",
+		xp: 100
+	}]
+}
