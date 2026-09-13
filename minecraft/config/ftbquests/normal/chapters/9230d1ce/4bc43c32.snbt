@@ -1,13 +1,28 @@
 {
-	title: "Inertial Confinement Fusion Reactor",
+	title: "Inertial Confinement Fusion Reactor (ICF)",
 	x: -19.0d,
 	y: 5.5d,
 	shape: "hexagon",
-	description: "ICF",
 	text: [
-		"The ICF is another expensive constructed machine that can make up to several GHE / sec.",
+		"The ICF is an expensive 17x5 constructed machine that can make up to several GHE per second.",
 		"",
-		"To start constructing it, place the Core Component."
+		"To start constructing it, place the Core Component",
+		"- The  ICF containment vessel wall should be welded",
+		"- And the ICF casing should be riveted.",
+		"",
+		"The reactor doesn't work by itself, needing external lasers to complete the reaction.",
+		"",
+		"§6Reactor§r",
+		"",
+		"When provided with cooling fluid, the reactor works by focusing the fed fuel pellet using two external laser units, heating up the cooling fluid, generating Stellar Flux, and electricity.",
+		"",
+		"The top buffers are for fuel pellets and the bottom for depleted.",
+		"",
+		"Pellets can be made in the ICF Fuel Pellet Maker. Can be automated.",
+		"",
+		"§6Lasers§r",
+		"",
+		"See next quest."
 	],
 	dependencies: [
 		"fd2d6c96"
