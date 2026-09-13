@@ -1,0 +1,64 @@
+{
+	title: "ICF Laser Components",
+	x: -19.0d,
+	y: 3.5d,
+	text: [
+		"The ICF lasers are modular units (like the PWR reactor) with many different customizations. ",
+		"",
+		"Since all parts have specific rules, I have provided a video as a tutorial."
+	],
+	dependencies: [
+		"4bc43c32"
+	],
+	size: 1.25d,
+	or_tasks: true,
+	tasks: [{
+		uid: "80972b81",
+		type: "item",
+		items: [{
+			item: "hbm:icf_controller"
+		}]
+	},
+	{
+		uid: "ec21b76d",
+		type: "item",
+		items: [{
+			item: "hbm:icf_laser_component"
+		}]
+	},
+	{
+		uid: "f45580fc",
+		type: "item",
+		items: [{
+			item: "hbm:icf_laser_component 1 1"
+		}]
+	},
+	{
+		uid: "5f43eb12",
+		type: "item",
+		items: [{
+			item: "hbm:icf_laser_component 1 2"
+		}]
+	},
+	{
+		uid: "b6f7298e",
+		type: "item",
+		items: [{
+			item: "hbm:icf_laser_component 1 3"
+		}]
+	},
+	{
+		uid: "9546cd60",
+		type: "item",
+		items: [{
+			item: "hbm:icf_laser_component 1 4"
+		}]
+	},
+	{
+		uid: "a7cdf7ab",
+		type: "item",
+		items: [{
+			item: "hbm:icf_laser_component 1 5"
+		}]
+	}]
+}
