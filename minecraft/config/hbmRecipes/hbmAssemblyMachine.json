@@ -817,22 +817,6 @@
       "power": 100
     },
     {
-      "name": "ass.slidingdoor",
-      "inputItem": [
-        ["dict","plateSteel",16],
-        ["dict","ingotTungsten",8],
-        ["item","hbm:reinforced_glass",4],
-        ["dict","ingotAnyRubber",4],
-        ["dict","boltDuraSteel",16],
-        ["item","hbm:motor",2]
-      ],
-      "outputItem": [
-        ["single",["hbm:sliding_blast_door_legacy"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
       "name": "ass.vehicledoor",
       "inputItem": [
         ["dict","plateTripleSteel",16],
@@ -4671,41 +4655,6 @@
       ],
       "duration": 100,
       "power": 100
-    },
-    {
-      "name": "ass.soyuz",
-      "inputItem": [
-        ["dict","shellTitanium",32],
-        ["dict","ingotRubber",64],
-        ["item","hbm:rocket_fuel",64],
-        ["item","hbm:thruster_small",12],
-        ["item","hbm:thruster_medium",12],
-        ["item","hbm:circuit",4,13],
-        ["item","hbm:part_generic",32,3]
-      ],
-      "outputItem": [
-        ["single",["hbm:missile_soyuz"]]
-      ],
-      "duration": 6000,
-      "power": 100,
-      "blueprintpool": "discover.soyuz"
-    },
-    {
-      "name": "ass.lander",
-      "inputItem": [
-        ["dict","shellAluminum",4],
-        ["dict","ingotRubber",16],
-        ["item","hbm:rocket_fuel",16],
-        ["item","hbm:thruster_small",3],
-        ["item","hbm:circuit",3,14],
-        ["item","hbm:part_generic",12,3]
-      ],
-      "outputItem": [
-        ["single",["hbm:missile_soyuz_lander"]]
-      ],
-      "duration": 2400,
-      "power": 100,
-      "blueprintpool": "discover.soyuz"
     },
     {
       "name": "ass.satellitebase",
@@ -9124,6 +9073,144 @@
       ],
       "duration": 600,
       "power": 100
+    },
+    {
+      "name": "ass.slidingdoor",
+      "inputItem": [
+        ["dict","plateSteel",16],
+        ["dict","ingotTungsten",8],
+        ["item","hbm:reinforced_glass",4],
+        ["dict","ingotAnyRubber",4],
+        ["dict","boltDuraSteel",16],
+        ["item","hbm:motor",2]
+      ],
+      "outputItem": [
+        ["single",["hbm:sliding_blast_door_legacy"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.0gassembler",
+      "inputItem": [
+        ["dict","shellWeaponSteel",4],
+        ["dict","plateTripleAnyBismoidBronze",4],
+        ["dict","billetPlutoniumRG",16],
+        ["item","hbm:motor_bismuth",4],
+        ["item","hbm:circuit",4,15],
+        ["item","hbm:part_generic",4,3]
+      ],
+      "outputItem": [
+        ["single",["hbm:satellite",1,12]]
+      ],
+      "duration": 600,
+      "power": 25000
+    },
+    {
+      "name": "ass.lander",
+      "inputItem": [
+        ["dict","shellAluminum",4],
+        ["dict","ingotRubber",16],
+        ["item","hbm:rocket_fuel",16],
+        ["item","hbm:thruster_small",3],
+        ["item","hbm:circuit",3,14],
+        ["item","hbm:part_generic",12,3],
+        ["item","hbm:drive",8,4]
+      ],
+      "outputItem": [
+        ["single",["hbm:missile_soyuz_lander"]]
+      ],
+      "duration": 2400,
+      "power": 25000
+    },
+    {
+      "name": "ass.lambdarocket",
+      "inputItem": [
+        ["item","hbm:part_generic",64,6],
+        ["item","hbm:ingot_tungsten_carbide",24],
+        ["item","hbm:rocket_fuel",64],
+        ["item","hbm:circuit",24,8],
+        ["item","hbm:drive",1,7]
+      ],
+      "outputItem": [
+        ["single",["hbm:missile_lambda"]]
+      ],
+      "duration": 1200,
+      "power": 50000
+    },
+    {
+      "name": "ass.soyuz",
+      "inputItem": [
+        ["dict","shellTitanium",32],
+        ["dict","ingotRubber",64],
+        ["item","hbm:rocket_fuel",64],
+        ["item","hbm:thruster_small",12],
+        ["item","hbm:thruster_medium",12],
+        ["item","hbm:circuit",4,13],
+        ["item","hbm:part_generic",32,3],
+        ["item","hbm:drive",4,4]
+      ],
+      "outputItem": [
+        ["single",["hbm:missile_soyuz"]]
+      ],
+      "duration": 6000,
+      "power": 25000
+    },
+    {
+      "name": "ass.alclad",
+      "inputItem": [
+        ["dict","dustAluminum",8],
+        ["dict","plateCopper",2]
+      ],
+      "outputItem": [
+        ["single",["hbm:part_generic",1,6]]
+      ],
+      "duration": 200,
+      "power": 50000,
+      "named": true
+    },
+    {
+      "name": "ass.titaniumconstruction",
+      "inputItem": [
+        ["dict","plateTitanium",4],
+        ["dict","ingotAnyPlastic",8]
+      ],
+      "outputItem": [
+        ["single",["hbm:part_generic",1,6]]
+      ],
+      "duration": 600,
+      "power": 1000,
+      "named": true
+    },
+    {
+      "name": "ass.launchpadsoyuz",
+      "inputItem": [
+        ["item","hbm:concrete_rebar",64],
+        ["dict","plateSextupleSteel",32],
+        ["dict","ingotAnyHardPlastic",24],
+        ["item","hbm:motor",24],
+        ["item","hbm:circuit",1,14]
+      ],
+      "outputItem": [
+        ["single",["hbm:launchpad_soyuz"]]
+      ],
+      "duration": 1200,
+      "power": 5000
+    },
+    {
+      "name": "ass.launchpadlambda",
+      "inputItem": [
+        ["item","hbm:concrete_rebar",64],
+        ["dict","plateSextupleSteel",12],
+        ["item","hbm:motor_bismuth",4],
+        ["item","hbm:circuit",1,14],
+        ["item","hbm:drive",1,7]
+      ],
+      "outputItem": [
+        ["single",["hbm:launchpad_lambda"]]
+      ],
+      "duration": 1200,
+      "power": 5000
     }
   ],
   "comment": "removed breeder and research reactors, added mp size 15 balefire, size 15 thermo, size 15 mirv, warhead n2 and mirvlet, missile n2, size 15 wrhead balefire, nuclear thruster, relay satellite, fixed sliding door recipe by removing 'new' one, total 12"
