@@ -1,6 +1,6 @@
 {
 	x: -0.5d,
-	y: 17.5d,
+	y: 17.0d,
 	text: [
 		"Summons a Half-Life 2 helicopter."
 	],
