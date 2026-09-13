@@ -6,11 +6,7 @@
 	shape: "rsquare",
 	description: "How much is an excess of quality?",
 	text: [
-		"Welcome to Levviata's Nuclear Tech, this modpack is like a Nuclear Tech tutorial with some Refined Storage in there.",
-		"",
-		"This mod uses the Community version of the Nuclear Tech Mod instead of the Extended, you will see differences.",
-		"",
-		" The Official Wiki still is very useful since the Community version is 0.999:1 to the original.",
+		"Welcome to Levviata's Nuclear Tech, a complete and detailed Nuclear Tech and Refined Storage modpack with a questbook and many new recipes.",
 		"",
 		"I will be guiding you through every important chunk of the mod, there are some things here missing in the wiki and in much more detail. ",
 		"",
