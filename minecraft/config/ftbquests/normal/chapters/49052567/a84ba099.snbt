@@ -1,0 +1,31 @@
+{
+	title: "Applied Energistic 2?",
+	x: -2.0d,
+	y: -0.5d,
+	description: "AE2",
+	text: [
+		"AE2 is not included in the modpack.",
+		"",
+		"If you added AE2 and want to use it instead of Refined Storage, you may complete this chapter with the command reward.",
+		"",
+		"There are no AE2 quests."
+	],
+	can_repeat: true,
+	tasks: [{
+		uid: "d2cb29a1",
+		type: "checkmark",
+		title: "Using AE2?"
+	}],
+	rewards: [{
+		uid: "54b3e60d",
+		type: "command",
+		title: "100% Complete Chapter",
+		command: "/ftbquests change_progress complete @p 49052567"
+	},
+	{
+		uid: "1ce1683c",
+		type: "command",
+		title: "Reset Chapter Progress",
+		command: "/ftbquests change_progress reset @p 49052567"
+	}]
+}
