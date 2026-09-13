@@ -4,7 +4,7 @@
 	y: -1.5d,
 	shape: "square",
 	text: [
-		"In the world there are certain stone resources that are needed later on in progression and in large quantities, these stones are:",
+		"In the world there are stone resources that can be mined in bulk to get resources, these stones are:",
 		" ",
 		"- Hematite (iron), ",
 		"",
@@ -19,7 +19,7 @@
 		"- and Sulfurous Stone (sulfur).",
 		"",
 		"",
-		"These resource blocks are spread around the world like patches and can be used to automate resource gathering."
+		"These resource blocks are spread around the world like patches."
 	],
 	tasks: [{
 		uid: "e3880ca8",
