@@ -1,0 +1,12 @@
+{
+	x: -4.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "c4eb5761",
+		type: "item",
+		items: [{
+			item: "hbm:missile_soyuz"
+		}],
+		ignore_nbt: 1b
+	}]
+}
