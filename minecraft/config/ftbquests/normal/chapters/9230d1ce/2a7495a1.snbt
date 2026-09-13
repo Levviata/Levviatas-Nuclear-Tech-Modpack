@@ -5,8 +5,8 @@
 		"The Radiolysis Chamber can separate quimical compounds from fluids and generate electricity from RTG Pellets."
 	],
 	dependencies: [
-		"a7c9181b",
 		"99183935",
+		"a7c9181b",
 		"495f78f0"
 	],
 	dependency_requirement: "one_completed",
