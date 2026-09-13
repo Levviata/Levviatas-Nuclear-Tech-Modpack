@@ -7,13 +7,15 @@ GitHub: https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack/releases
 
 # LvNTM (Levviata's Nuclear Tech Modpack for 1.12.2)
 
-A lightweight and complete Nuclear Tech modpack with a quest book and Refined Storage.
+A lightweight and complete Nuclear Tech modpack with a quest book and Refined Storage. 
 
 My curated list of optimization mods was also added, maximizing performance.
 
 OptiFine is disregarded and will cause issues, I have done my best to implement _most_ of its features. Though if you want shaders you'll have to use it (at your own discretion, without warranties). 
 
 For Cleanroom, scroll down to its section.
+
+If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life) or your preferred fork. There are no AE2 quests.
 
 ## Reviews
 
