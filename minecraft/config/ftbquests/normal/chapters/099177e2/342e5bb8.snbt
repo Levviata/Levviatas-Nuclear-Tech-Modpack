@@ -1,0 +1,25 @@
+{
+	title: "Lambda Rocket and Launch Pad",
+	x: -3.5d,
+	y: 4.0d,
+	text: [
+		""
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "609379ec",
+		type: "item",
+		items: [{
+			item: "hbm:launchpad_lambda"
+		}]
+	},
+	{
+		uid: "7dd82370",
+		type: "item",
+		items: [{
+			item: "hbm:missile_lambda"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
