@@ -1,6 +1,9 @@
 {
 	x: -1.0d,
 	y: 11.0d,
+	text: [
+		"Mostly used as normal Light Oil."
+	],
 	dependencies: [
 		"1f7408ee"
 	],
