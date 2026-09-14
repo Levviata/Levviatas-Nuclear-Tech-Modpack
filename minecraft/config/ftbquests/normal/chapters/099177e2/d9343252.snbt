@@ -1,6 +1,11 @@
 {
-	x: -4.0d,
-	y: 3.0d,
+	title: "Soyuz Rocket and Launch Pad",
+	x: -3.5d,
+	y: 2.0d,
+	text: [
+		""
+	],
+	size: 1.25d,
 	tasks: [{
 		uid: "c4eb5761",
 		type: "item",
@@ -8,5 +13,12 @@
 			item: "hbm:missile_soyuz"
 		}],
 		ignore_nbt: 1b
+	},
+	{
+		uid: "0a93548e",
+		type: "item",
+		items: [{
+			item: "hbm:launchpad_soyuz"
+		}]
 	}]
 }
