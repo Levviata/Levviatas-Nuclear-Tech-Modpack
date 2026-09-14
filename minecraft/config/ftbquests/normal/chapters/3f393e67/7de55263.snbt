@@ -1,6 +1,6 @@
 {
 	x: 0.0d,
-	y: 0.5d,
+	y: 0.625d,
 	text: [
 		"The Annihilator is a simple machine that destroys items and fluids.",
 		"",

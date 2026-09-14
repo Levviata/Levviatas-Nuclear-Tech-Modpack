@@ -1,6 +1,6 @@
 {
-	x: 2.5d,
-	y: 4.5d,
+	x: 4.0d,
+	y: 5.0d,
 	text: [
 		"The Meteorite Sword is an upgradable sword that can reach up to 76 damage.",
 		"",
