@@ -1018,25 +1018,6 @@
       "autoSwitchGroup": "autoswitch.schrab"
     },
     {
-      "name": "purex.pilepu239",
-      "inputItem": [
-        ["item","hbm:pile_rod_pu239"]
-      ],
-      "inputFluid": [
-        ["SULFURIC_ACID",100]
-      ],
-      "outputItem": [
-        ["single",["hbm:billet_pu239"]],
-        ["single",["hbm:billet_pu_mix"]],
-        ["single",["hbm:billet_uranium"]],
-        ["single",["hbm:plate_iron",2]]
-      ],
-      "duration": 40,
-      "power": 100,
-      "nameWrapper": "purex.recycle",
-      "autoSwitchGroup": "autoswitch.pile"
-    },
-    {
       "name": "purex.pilergp",
       "inputItem": [
         ["item","hbm:pile_rod",1,5]
