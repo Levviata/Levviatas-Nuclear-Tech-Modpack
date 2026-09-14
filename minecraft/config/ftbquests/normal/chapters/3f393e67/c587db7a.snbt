@@ -13,6 +13,8 @@
 		"64546c02"
 	],
 	size: 1.5d,
+	optional: true,
+	or_tasks: true,
 	tasks: [{
 		uid: "09bc71eb",
 		type: "item",
