@@ -20,8 +20,10 @@
 		"This quest unlocks the \"Bedrock Ore\" Chapter, check it out!"
 	],
 	dependencies: [
+		"e205b8c0",
 		"8a25fa82"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "9ff24950",

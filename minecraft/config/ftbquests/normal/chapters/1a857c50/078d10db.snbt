@@ -6,8 +6,10 @@
 		"The Centrifuge is a machine that separates product into smaller bits, it's widely used in Bedrock Ore processing."
 	],
 	dependencies: [
-		"6dfb480a"
+		"6dfb480a",
+		"d7355e9e"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "48668cea",

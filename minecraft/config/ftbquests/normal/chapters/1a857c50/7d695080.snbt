@@ -8,8 +8,10 @@
 		"It can melt Quartz which yields Silicon, a useful material that can make Microchips."
 	],
 	dependencies: [
-		"6dfb480a"
+		"6dfb480a",
+		"530d93e7"
 	],
+	dependency_requirement: "one_started",
 	size: 1.5d,
 	tasks: [{
 		uid: "26761649",

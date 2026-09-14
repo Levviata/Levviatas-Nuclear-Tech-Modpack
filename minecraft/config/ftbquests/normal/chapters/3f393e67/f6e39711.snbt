@@ -10,8 +10,10 @@
 		"If that's undesirable, they can be separated using a Separator."
 	],
 	dependencies: [
-		"52766c40"
+		"52766c40",
+		"d9ad900b"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	or_tasks: true,
 	tasks: [{

@@ -2,8 +2,10 @@
 	x: -10.5d,
 	y: -12.0d,
 	dependencies: [
+		"d4174ee2",
 		"37308693"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "47be61ee",

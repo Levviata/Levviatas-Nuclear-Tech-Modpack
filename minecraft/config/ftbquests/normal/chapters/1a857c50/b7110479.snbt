@@ -7,8 +7,10 @@
 		"Its about 100 Condensers in one."
 	],
 	dependencies: [
+		"fe576799",
 		"4dbff794"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "27ba6f16",

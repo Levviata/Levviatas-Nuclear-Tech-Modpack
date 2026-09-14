@@ -6,9 +6,6 @@
 		"",
 		"Only accepts missiles of size 10 and 10/15."
 	],
-	dependencies: [
-		"fd3db02d"
-	],
 	size: 1.25d,
 	tasks: [{
 		uid: "38fcca82",

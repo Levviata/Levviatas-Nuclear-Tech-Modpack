@@ -16,8 +16,10 @@
 		"Green ports don't work for me, might be bugged."
 	],
 	dependencies: [
-		"03f4949c"
+		"03f4949c",
+		"834eae29"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	or_tasks: true,
 	tasks: [{

@@ -11,8 +11,10 @@
 		"Hovering over the slider will show mB / tick usage and the piston HE / tick, second generated."
 	],
 	dependencies: [
+		"79c628ea",
 		"37308693"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "cebc71e6",

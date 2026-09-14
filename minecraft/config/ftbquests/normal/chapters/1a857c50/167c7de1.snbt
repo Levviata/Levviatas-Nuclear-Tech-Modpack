@@ -16,8 +16,11 @@
 		"To contain the laser, use Compound Mesh or any similar block with good radiation and blast resistance."
 	],
 	dependencies: [
-		"37308693"
+		"155097f9",
+		"37308693",
+		"4ec26e2d"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "b8438b0c",

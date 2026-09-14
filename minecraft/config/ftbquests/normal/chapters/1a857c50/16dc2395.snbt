@@ -6,8 +6,10 @@
 		"The Industrial Boiler has higher capacity and will not explode if full."
 	],
 	dependencies: [
-		"c747e73b"
+		"c747e73b",
+		"71636a51"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "59cec158",
@@ -19,6 +21,6 @@
 	rewards: [{
 		uid: "4e7181a0",
 		type: "xp",
-		xp: 20
+		xp: 100
 	}]
 }

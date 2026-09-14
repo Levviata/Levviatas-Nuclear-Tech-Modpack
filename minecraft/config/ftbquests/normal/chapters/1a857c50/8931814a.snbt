@@ -16,8 +16,10 @@
 		"- And many more."
 	],
 	dependencies: [
+		"74691d04",
 		"8a25fa82"
 	],
+	dependency_requirement: "one_completed",
 	size: 2.25d,
 	tasks: [{
 		uid: "92a5413f",

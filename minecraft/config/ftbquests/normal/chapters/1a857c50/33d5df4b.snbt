@@ -19,8 +19,10 @@
 		"- Industrial Oil"
 	],
 	dependencies: [
+		"2dc4f3a5",
 		"5b1b40f1"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "0d989fc0",

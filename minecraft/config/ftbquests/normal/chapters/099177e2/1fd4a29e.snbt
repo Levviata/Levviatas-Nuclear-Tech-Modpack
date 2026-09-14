@@ -6,9 +6,6 @@
 		"",
 		"You must construct it, to start, place the [Launch Pad] Core Component, around it will be displayed what blocks must be placed, you'll use 11 Scaffold Blocks and 80 Component Blocks."
 	],
-	dependencies: [
-		"e05443a9"
-	],
 	size: 1.5d,
 	tasks: [{
 		uid: "3a7b3b7c",
