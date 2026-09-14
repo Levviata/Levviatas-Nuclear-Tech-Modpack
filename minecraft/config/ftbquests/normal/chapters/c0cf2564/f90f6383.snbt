@@ -1,0 +1,23 @@
+{
+	x: 4.5d,
+	y: -2.0d,
+	text: [
+		"Exhaust Pipes are specifically for handling polluting fluids.",
+		"",
+		"It can handle",
+		"- Smoke",
+		"- Leaded Smoke",
+		"- And Poison Smoke",
+		"",
+		"The fluid identifier can't be changed.",
+		"",
+		"For any other fluid, use a Universal Fluid Duct instead."
+	],
+	tasks: [{
+		uid: "9d2b8da2",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_duct_exhaust"
+		}]
+	}]
+}
