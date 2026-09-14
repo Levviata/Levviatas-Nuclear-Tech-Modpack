@@ -1,9 +1,12 @@
 {
 	title: "Soyuz Rocket and Launch Pad",
-	x: -3.5d,
-	y: 2.0d,
+	x: -4.375d,
+	y: 17.5d,
 	text: [
 		""
+	],
+	dependencies: [
+		"683c907b"
 	],
 	size: 1.25d,
 	tasks: [{
