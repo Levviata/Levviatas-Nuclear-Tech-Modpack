@@ -28,7 +28,10 @@
 		height: 1.0d,
 		rotation: 0.0d,
 		image: "lvimages:textures/image6.png",
-		hover: [],
+		hover: [
+			"ICF Operation Tutorial",
+			"By Savage Vegeta"
+		],
 		click: "https://youtu.be/TrAtMS970sI?si=WPKnZb55blCrOdIs",
 		dev: false
 	},
