@@ -53,9 +53,7 @@
         ["HELIUM4",16000]
       ],
       "outputItem": [
-        [
-          ["hbm:drive",1,4]
-        ]
+          ["single",["hbm:drive",1,4]]
       ],
       "duration": 1200,
       "power": 10000
@@ -111,9 +109,7 @@
         ["HELIUM4",16000]
       ],
       "outputItem": [
-        [
           ["single",["hbm:drive",1,5]]
-        ]
       ],
       "duration": 1200,
       "power": 10000
@@ -169,9 +165,7 @@
         ["HELIUM4",16000]
       ],
       "outputItem": [
-        [
           ["single",["hbm:drive",1,7]]
-        ]
       ],
       "duration": 6000,
       "power": 10000
@@ -227,9 +221,7 @@
         ["HELIUM4",16000]
       ],
       "outputItem": [
-        [
           ["single",["hbm:drive",1,9]]
-        ]
       ],
       "duration": 18000,
       "power": 10000
