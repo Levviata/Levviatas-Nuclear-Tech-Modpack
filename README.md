@@ -110,6 +110,6 @@ The game looks good, the FPS are good, the quests are good, what other Nuclear T
 #### It was all planned
 your satisfaction is measured.
 
-Fatten your brain with my delicious intellect.
+fatten your brain with my delicious intellect.
 
 king of unpayed labour.
