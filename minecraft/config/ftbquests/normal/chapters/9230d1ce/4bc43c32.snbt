@@ -37,7 +37,8 @@
 		items: [{
 			item: "hbm:icf_component"
 		}],
-		count: 50L
+		count: 50L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "78d8084b",
@@ -53,39 +54,48 @@
 				}
 			}
 		}],
-		count: 240L
+		count: 240L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "3fd2a044",
 		type: "item",
 		items: [{
-			id: "hbm:bolt",
-			Damage: 33s,
+			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Lore: [
-						"§r§7§c15x64"
-					]
+					Name: "Any boltDuraSteel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "boltDuraSteel"
 				}
 			}
 		}],
-		count: 960L
+		count: 960L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "9edc4a8c",
 		type: "item",
 		items: [{
-			id: "hbm:plate_cast",
-			Damage: 30s,
+			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Lore: [
-						"§r§7§c3x64 + 48"
-					]
+					Name: "Any plateTripleSteel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "plateTripleSteel"
 				}
 			}
 		}],
-		count: 240L
+		count: 240L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "e10085a5",
@@ -101,30 +111,36 @@
 				}
 			}
 		}],
-		count: 117L
+		count: 117L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "59eb43f1",
 		type: "item",
 		items: [{
-			id: "hbm:plate_cast",
-			Damage: 46s,
+			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Lore: [
-						"§r§7§c1x64 + 53"
-					]
+					Name: "Any plateTripleAnyBismoidBronze"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "plateTripleAnyBismoidBronze"
 				}
 			}
 		}],
-		count: 117L
+		count: 117L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "ca237379",
 		type: "item",
 		items: [{
 			item: "hbm:struct_icf_core"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "d1996eac",

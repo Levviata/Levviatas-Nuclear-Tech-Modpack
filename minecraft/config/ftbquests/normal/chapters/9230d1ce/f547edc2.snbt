@@ -41,15 +41,28 @@
 		items: [{
 			item: "hbm:fusion_component"
 		}],
-		count: 484L
+		count: 484L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "2f37667a",
 		type: "item",
 		items: [{
-			item: "hbm:plate_cast 1 30"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plateTripleSteel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "plateTripleSteel"
+				}
+			}
 		}],
-		count: 484L
+		count: 484L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "5a0d9607",
@@ -57,7 +70,8 @@
 		items: [{
 			item: "hbm:fusion_component 1 3"
 		}],
-		count: 280L
+		count: 280L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "66c741e1",
@@ -65,14 +79,16 @@
 		items: [{
 			item: "hbm:fusion_component 1 2"
 		}],
-		count: 160L
+		count: 160L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "cd6cae99",
 		type: "item",
 		items: [{
 			item: "hbm:struct_torus_core"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "26cfb503",
