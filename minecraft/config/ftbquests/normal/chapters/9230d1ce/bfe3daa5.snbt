@@ -16,5 +16,11 @@
 		items: [{
 			item: "hbm:anvil_saturnite"
 		}]
+	}],
+	rewards: [{
+		uid: "05e66826",
+		type: "item",
+		item: "hbm:ingot_saturnite",
+		count: 10
 	}]
 }
