@@ -1,5 +1,198 @@
-# version 2.3.0 FINAL
-(because I genuinely ran out of things to do)
+# version 3.0.0
+
+Update NTM CE to 2.6.1.0, equivalent of 1.7.10 version X5808
+
+### Quests
+
+!!Overhauled Oil Age and Late Game -> they are new chapters entirely with new quests
+
+Added
+- Alexandrite
+- Bismoid grinding
+- Bronze Bismoids
+- PWR reactor
+- Zirconium Legs
+- Infinite Water Barrel and Mk.2
+- Inertial Confinement Fusion Reactor (ICF)
+- ICF Fuel Pellet Maker
+- ICF Laser Components
+- Cyclotron
+- AE2 info quest
+- Lambda Launch Pad and rocket
+- Soyuz rocket and new Launch Pad
+- Electric Heater
+- Arsenic and Bronze Arsenic ingots
+
+Added machines to Machines chapter
+- Fusion Reactor (torus)
+- ICF
+- DFC
+- Gerald
+- Particle Accelerator
+
+Moved
+- Fractioning tower (oil age) -> early game chapter
+- Coltass, tantalite, niobium powder (oil age>) -> early game chapter
+
+Renamed
+- Leftovers (chapter) -> Hidden quests
+
+Removed
+- All quests in Leftovers chapter
+- Legacy capacitors
+- Arsenic (mixed into Bismoids quest) and arsenic grinding
+- All plasma fluids
+- Fractioning tower results
+- Sellafite ores
+- Coal Tar Creosote
+- Steam Turbine
+
+Disable toasts
+- All Machines chapter's quests
+- Most vanilla quests
+
+Add dependencies
+- High speed steel
+- Minecraft Grade Copper
+- Steel
+- And many more.
+
+Tweak Dependencies
+- Black Lung and Mesothelioma
+- Gas Masks and Filters
+- Fusion Reactor Vessel
+
+!Generally tweak dependencies so quests unlock easier
+!Made quests easier to complete for those who want to 100% the quest book.
+Tweaked a lot of quest shapes and sizes
+Tweaked Bedrock Ore Processor
+Reduced drillbit and tipped drillbit to one task, so that there are fewer quests of it
+Tweaked Stone Age
+Remove unused quests here and there
+Unhide Machines chapter
+Reduced task amount for Ender Eye
+Fixed all tasks for Fluids chapter's quests
+Removed some duped quests
+Rearranged Machine Upgrade chapter a bit
+
+### Quest Descriptions
+
+Add
+- Solvent
+- Remnant Power Armor
+- Cracked Light Oil
+- ICF (generators chapter)
+
+Trim
+- Electricity Pylon -> remove legacy capacitor references and in general
+- Magnetic Antimatter Container
+- Plate and Wire Stamps
+- Industrial Steam Turbine
+- Catalytic Cracking Tower
+- Electricity Connector
+- Fusion Reactor (torus)
+
+Rewrite
+- Buildings and Loot
+- FEL and SILEX
+- Bakelite
+- Chlorinated Petroleum Wax
+- Had Enough Items and WAILA
+- What me start?
+- LvNTM
+- Keybinds (quest)
+
+Extend
+- Early Items and Machines
+- Laser Rifle
+- Desh Ingot
+- Fluids (main info)
+
+Fix wording
+- Equipment Modification Tables
+- Leather Mask With X Filter
+- AUTOCAL
+- What me do next?
+- Coal and Black Lung (vanilla chapter)
+- Safe barrel
+- High-Performance Solvent
+- Doomsday Missile
+- Stone Resources
+
+Concise
+- Trench maask
+- Fullerene liquid
+- Upgrades (Refined Storage)
+
+Subtitle
+- Depleted ZIRNOX uranium natural and fuel
+
+Updated 0G assembler description as it now works
+
+### Quest Rewards
+
+Add reward to Saturnite Anvil -> x10 Saturnite ingots
+
+Remove
+- Electricity Pylon -> legacy capacitors
+
+Buffed some fluid rewards
+
+### Recipes
+
+Added
+- x16 Cigs -> polonium nugget
+- Portable Grid (RS) -> x1 portable grid and x8 undefined
+- Infinite Fluid Barrel -> x1 empty barrel and x8 undefined
+- Sliding Blast Door variant -> change variant by crafting with screwdriver
+
+!1.7.10 recipe parity for:
+- Assembly Machine
+- PUREX
+- Anvil
+- Irradiation Chamber
+- Plasma Forge
+
+!Reworked Supercomputer recipes ->
+- Water and Cold Perfluoromethyl take the same time to craft
+- Chances for crafting success with Water have been nerfed, with Perfluoromethyl having 50%~ chance, and Helium-4 always succeeding
+
+Note: it really does bamboozle me how water had a better crafting success than the late game Helium-4, which is post-torus.
+
+Tweaked Shimmer tools -> replaced CMB steel for resistant alloy and euphemium block with polymer block
+Buff Balefire, Digamma fires, and Digamma matter output
+Fixed slag block recipe
+Fixed sliding blast door skin recipes
+Readd old chicago pile recycling for the Anvil and PUREX
+
+### General
+
+Added more entries to Levviata's NTM Lang
+- Parity with 1.7.10 (LEGACY) labeled items, all legacy items are labeled as such to avoid confusion.
+- "Fixed":
+    - Infinite Water Tank and Large -> Infinite Water Barrel and Mk.²
+    - Sideways Sliding Blast Door (keypad variant) -> Sliding Blast Door
+    - tile.sliding_blast_door_legacy (no name) -> Sliding Blast Door<
+    - Sliding Blast Door (hbm:blast_door) -> Single Blast Door
+- Unused (displays as "(UNUSED)"):
+    - Redcoil capacitor
+    - Euphemium capacitor
+    - Size 15 volcano warhead
+
+Added ore dict
+- tippedDrillbit
+- coloredPlatemetal
+
+Added tooltips to both Sliding Blast Door variants
+Added icons to all ores in Ores chapter
+Added PWR and ICF tutorial (feat. Savage Vegeta)
+Added ICF Laser and Fuel utils (from the wiki)
+Renamed drillbit ore dict from anyDrillbit
+Removed legacy tooltips
+Removed corrupt quests and one unused .zip file
+
+
+# version 2.3.0
 
 ### Quests
 Added Bosses chapter
