@@ -1125,5 +1125,5 @@
       "icon": ["hbm:fluid_icon",1,128]
     }
   ],
-  "comment": "Added: rgp pluto, waste, and pu239 rods. Parity with 1.7.10: tweak thorium salt, tweak schrabmen, tweak schrabpwr, tweak schrabzirnox. Total: 3"
+  "comment": "Added: rgp pluto, waste, and pu239 rods. Parity with 1.7.10: tweak thorium salt, tweak schrabmen, tweak schrabpwr, tweak schrabzirnox. Total: 7"
 }

@@ -9258,6 +9258,6 @@
   "comment": "Removed: breeder and research reactors.",
   "comment": "Custom Added: mpfuselage15balefire, mpwarhead15thermo, mpwarhead15mirv, warheadn2 and warheadmirvlet, missilen2, mpw15bf, thrusternerva, tweak satelliterelay",
   "comment": "Fix: remove 'new' sliding blast door, tweak 'legacy' sliding blast door",
-  "comment": "Total modified: 12 (always double check).",
+  "comment": "Total modified: 17 (always double check).",
   "comment": "Changed but not counted : Tweaked: platemixed, mpw15nuke, pwrreflector, boyshield, himarssmallnuke, soliniumcharge, mpw10nukesmall, mpw10nukelarge. dict plateTungCar -> neutron Reflector"
 }
