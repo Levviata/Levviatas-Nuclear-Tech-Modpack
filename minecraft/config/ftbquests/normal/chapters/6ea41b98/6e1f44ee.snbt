@@ -1,0 +1,21 @@
+{
+	icon: "hbm:icf",
+	x: -6.5d,
+	y: 16.5d,
+	text: [
+		"Unlocks the ICF quest if you are stuck."
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "87ebabf2",
+		type: "checkmark",
+		title: "Inertial Confinement Fusion Reactor (ICF)"
+	},
+	{
+		uid: "4305142c",
+		type: "item",
+		items: [{
+			item: "hbm:icf"
+		}]
+	}]
+}

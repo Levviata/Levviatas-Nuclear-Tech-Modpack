@@ -1,0 +1,26 @@
+{
+	icon: {
+		id: "hbm:sat_gerald",
+		tag: {}
+	},
+	x: -7.0d,
+	y: 17.5d,
+	text: [
+		"Unlocks Gerald quest if you are stuck."
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "12d5a280",
+		type: "item",
+		items: [{
+			id: "hbm:sat_gerald",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "39d6ba25",
+		type: "checkmark"
+	}]
+}

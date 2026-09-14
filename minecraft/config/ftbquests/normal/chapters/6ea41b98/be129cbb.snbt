@@ -1,0 +1,21 @@
+{
+	icon: "hbm:fusion_torus",
+	x: -7.5d,
+	y: 16.5d,
+	text: [
+		"Unlocks the Fusion Reactor quest if you are stuck."
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "516a58cf",
+		type: "checkmark",
+		title: "Fusion Reactor Torus"
+	},
+	{
+		uid: "2557ea6e",
+		type: "item",
+		items: [{
+			item: "hbm:fusion_torus"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	icon: "hbm:pa_detector",
+	x: -5.5d,
+	y: 16.5d,
+	text: [
+		"Unlocks the Particle Accelerator quest if you are stuck."
+	],
+	tasks: [{
+		uid: "d2a1b6fe",
+		type: "checkmark",
+		title: "Particle Accelerator"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "DFC",
+	icon: "hbm:dfc_emitter",
+	x: -6.0d,
+	y: 17.5d,
+	text: [
+		"Unlocks the DFC quest if you are stuck."
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "fac4208c",
+		type: "item",
+		items: [{
+			item: "hbm:dfc_emitter"
+		}]
+	},
+	{
+		uid: "67a3d44a",
+		type: "checkmark"
+	}]
+}
