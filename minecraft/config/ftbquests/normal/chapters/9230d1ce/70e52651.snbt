@@ -2,6 +2,7 @@
 	title: "Remnants Power Armor",
 	x: 1.5d,
 	y: 12.0d,
+	description: "§aRequires blueprint",
 	text: [
 		"The Remnants Power Armor is the best armor (before Fau and DNT), its made with a blueprint in the Precision Assembly Machine.",
 		"",
