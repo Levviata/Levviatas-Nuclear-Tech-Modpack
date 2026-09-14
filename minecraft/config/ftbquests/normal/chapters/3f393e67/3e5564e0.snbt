@@ -1,0 +1,24 @@
+{
+	x: -4.0d,
+	y: 37.5d,
+	description: "Blueprints",
+	text: [
+		"The Precision Assembly Machine can make Blueprint Booklets, the Remnant Armor, and the Orbital Assembly for the Crystal Circuit Board."
+	],
+	dependencies: [
+		"b48bc893"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "7fbdd9be",
+		type: "item",
+		items: [{
+			item: "hbm:machine_precass"
+		}]
+	}],
+	rewards: [{
+		uid: "a500df08",
+		type: "xp",
+		xp: 100
+	}]
+}
