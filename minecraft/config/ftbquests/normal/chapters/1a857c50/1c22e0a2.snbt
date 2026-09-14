@@ -1,0 +1,23 @@
+{
+	x: 2.5d,
+	y: 4.5d,
+	text: [
+		"The Electric Heater uses electricity to heat up fluids, can stacked to receive heat from the bottom at 85% efficiency."
+	],
+	dependencies: [
+		"c747e73b"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "0df8d15e",
+		type: "item",
+		items: [{
+			item: "hbm:heater_electric"
+		}]
+	}],
+	rewards: [{
+		uid: "b147c57f",
+		type: "xp",
+		xp: 100
+	}]
+}
