@@ -5,7 +5,9 @@
 	text: [
 		"Fluids are an important part of the mod, some are deadly, some are inoffensive, some change your gender.",
 		"",
-		"You better watch out."
+		"You better watch out.",
+		"",
+		"Chapter can be completed 100% or reset using the command reward."
 	],
 	can_repeat: true,
 	size: 2.0d,
