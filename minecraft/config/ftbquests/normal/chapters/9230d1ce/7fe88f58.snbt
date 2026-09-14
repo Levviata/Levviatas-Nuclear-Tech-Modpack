@@ -13,8 +13,10 @@
 		"To understand how it works, watch Savage Vegetta's tutorial."
 	],
 	dependencies: [
+		"6dda1be8",
 		"fd2d6c96"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "5e40b22a",

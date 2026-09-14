@@ -6,7 +6,9 @@
 		""
 	],
 	dependencies: [
-		"7df97880"
+		"7df97880",
+		"d568608d",
+		"5d6a29f7"
 	],
 	dependency_requirement: "one_completed",
 	tasks: [{

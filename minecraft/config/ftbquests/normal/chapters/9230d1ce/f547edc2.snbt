@@ -30,8 +30,10 @@
 		"As reward, rare materials are refunded 1/3, and common materials 1/2"
 	],
 	dependencies: [
-		"f90a1d32"
+		"f90a1d32",
+		"be129cbb"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.75d,
 	tasks: [{
 		uid: "13859962",

@@ -10,6 +10,7 @@
 		"",
 		"Refer to the image for a visual guide, there's a gif in the Official Wiki about how to aline the machines if you can't do it."
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "9adc6285",
 		type: "item",
@@ -19,5 +20,9 @@
 		count: 4L,
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "31951de0",
+		type: "checkmark"
 	}]
 }

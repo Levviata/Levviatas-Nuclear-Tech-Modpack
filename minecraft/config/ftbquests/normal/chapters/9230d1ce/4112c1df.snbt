@@ -4,8 +4,10 @@
 	y: 27.5d,
 	shape: "gear",
 	dependencies: [
-		"4fe9f8c4"
+		"4fe9f8c4",
+		"b9c9db32"
 	],
+	dependency_requirement: "one_completed",
 	size: 2.0d,
 	tasks: [{
 		uid: "bdaf3ee1",

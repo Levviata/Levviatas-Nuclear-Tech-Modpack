@@ -1,7 +1,7 @@
 {
 	title: "Astatine",
 	icon: "hbm:ingot_astatine",
-	x: -14.0d,
+	x: -13.5d,
 	y: 17.5d,
 	text: [
 		""

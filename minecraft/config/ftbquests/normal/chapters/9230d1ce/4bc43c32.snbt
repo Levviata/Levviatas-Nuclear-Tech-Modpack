@@ -25,8 +25,11 @@
 		"See next quest."
 	],
 	dependencies: [
-		"fd2d6c96"
+		"6e1f44ee",
+		"fd2d6c96",
+		"e5761e89"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	tasks: [{
 		uid: "4c281229",

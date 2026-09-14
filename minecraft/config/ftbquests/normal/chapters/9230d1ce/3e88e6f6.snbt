@@ -7,8 +7,10 @@
 		""
 	],
 	dependencies: [
-		"f4dc6388"
+		"f4dc6388",
+		"3a3f8bb3"
 	],
+	dependency_requirement: "one_completed",
 	size: 2.0d,
 	tasks: [{
 		uid: "6b3deba6",

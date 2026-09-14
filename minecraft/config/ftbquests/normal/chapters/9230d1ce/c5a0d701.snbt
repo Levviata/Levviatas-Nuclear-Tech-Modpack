@@ -3,13 +3,13 @@
 	x: 17.0d,
 	y: 9.0d,
 	shape: "pentagon",
-	description: "128x of each",
 	text: [
 		""
 	],
 	dependencies: [
 		"af8fd329"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "fd912359",
 		type: "item",

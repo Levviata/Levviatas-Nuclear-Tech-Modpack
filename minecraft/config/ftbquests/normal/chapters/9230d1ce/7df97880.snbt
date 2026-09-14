@@ -9,8 +9,10 @@
 		"Arsenic is obtained from acidizing Oily Scrap with High-Performance Solvent in an Ore Acidizer."
 	],
 	dependencies: [
+		"262c9aef",
+		"58b9b74a",
 		"7057b18b",
-		"262c9aef"
+		"3dcad7e6"
 	],
 	dependency_requirement: "one_completed",
 	size: 1.5d,

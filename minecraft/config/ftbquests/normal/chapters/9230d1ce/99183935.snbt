@@ -12,8 +12,11 @@
 	],
 	dependencies: [
 		"7057b18b",
-		"dafb33f6"
+		"dafb33f6",
+		"3258f63f",
+		"e65922de"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
 	or_tasks: true,
 	tasks: [{
