@@ -7,8 +7,9 @@ Update NTM CE to 2.6.1.0, equivalent of 1.7.10 version X5808
 !!Overhauled Oil Age and Late Game -> they are new chapters entirely with new quests
 
 Added
-- Alexandrite
+- Alexandrite gem
 - Bismoid grinding
+- Bismoids
 - Bronze Bismoids
 - PWR reactor
 - Zirconium Legs
