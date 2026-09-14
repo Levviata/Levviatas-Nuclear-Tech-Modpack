@@ -172,7 +172,7 @@ Added more entries to Levviata's NTM Lang
 - "Fixed":
     - Infinite Water Tank and Large -> Infinite Water Barrel and Mk.²
     - Sideways Sliding Blast Door (keypad variant) -> Sliding Blast Door
-    - tile.sliding_blast_door_legacy (no name) -> Sliding Blast Door<
+    - tile.sliding_blast_door_legacy (no name) -> Sliding Blast Door
     - Sliding Blast Door (hbm:blast_door) -> Single Blast Door
 - Unused (displays as "(UNUSED)"):
     - Redcoil capacitor
