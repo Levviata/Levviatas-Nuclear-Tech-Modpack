@@ -2,9 +2,9 @@
 	x: 5.0d,
 	y: 19.0d,
 	text: [
-		"A much simpler version of the pylons.",
+		"A simple connector pylon.",
 		"",
-		"They need to be connected to a cable or they won't share electricity, in our out.",
+		"They need to be connected to a red copper cable or they won't share electricity, in our out.",
 		"",
 		"You may change the color of the cable connecting the pylons with dye."
 	],
