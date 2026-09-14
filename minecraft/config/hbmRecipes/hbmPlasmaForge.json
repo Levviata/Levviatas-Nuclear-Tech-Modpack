@@ -448,29 +448,6 @@
       "ignitionTemp": 50000000
     },
     {
-      "name": "plsm.gerald",
-      "inputItem": [
-        ["dict","plateTripleSchrabidate",64],
-        ["dict","plateTripleSchrabidate",64],
-        ["dict","wireDenseBSCCO",64],
-        ["dict","wireDenseBSCCO",64],
-        ["item","hbm:det_nuke",64],
-        ["item","hbm:part_generic",64,4],
-        ["item","hbm:part_generic",64,4],
-        ["item","hbm:part_generic",64,4],
-        ["item","hbm:part_generic",64,4],
-        ["item","hbm:circuit",64,17],
-        ["item","hbm:coin_ufo"]
-      ],
-      "outputItem": [
-        ["single",["hbm:sat_gerald"]]
-      ],
-      "duration": 12000,
-      "power": 50000000,
-      "blueprintpool": "discover.gerald",
-      "ignitionTemp": 25000000
-    },
-    {
       "name": "plsm.dfccore",
       "inputItem": [
         ["dict","plateSextupleOsmiridium",16],
@@ -602,7 +579,33 @@
       "duration": 600,
       "power": 1000000,
       "ignitionTemp": 1000000
+    },
+    {
+      "name": "plsm.gerald",
+      "inputItem": [
+        ["dict","plateTripleSchrabidate",64],
+        ["dict","plateTripleSchrabidate",64],
+        ["dict","wireDenseBSCCO",64],
+        ["dict","wireDenseBSCCO",64],
+        ["item","hbm:det_nuke",64],
+        ["item","hbm:part_generic",64,4],
+        ["item","hbm:part_generic",64,4],
+        ["item","hbm:part_generic",64,4],
+        ["item","hbm:part_generic",64,4],
+        ["item","hbm:circuit",64,17],
+        ["item","hbm:drive",16,9],
+        ["item","hbm:coin_ufo"]
+      ],
+      "outputItem": [
+        ["single",["hbm:sat_gerald"]]
+      ],
+      "duration": 12000,
+      "power": 50000000,
+      "blueprintpool": "discover.gerald",
+      "ignitionTemp": 25000000
     }
   ],
-  "comment": "add railgun and capsule, dual miniguns, total 3"
+  "comment": "Parity with 1.7.10: tweaked gerald.",
+  "comment": "Added: railgun and capsule, dual miniguns.  ",
+  "comment": "Total: 3"
 }

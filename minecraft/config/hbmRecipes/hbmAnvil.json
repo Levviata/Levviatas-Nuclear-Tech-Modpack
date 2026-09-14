@@ -3360,7 +3360,45 @@
       "tierLower": 2,
       "tierUpper": -1,
       "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"]
+      ],
+      "outputs": [
+        ["hbm:platemetal",4,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateWeaponSteel",4],
+        ["dict","ingotStarmetal"],
+        ["dict","wireFineMagnetizedTungsten",8]
+      ],
+      "outputs": [
+        ["hbm:plate_armor_lunar",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.platemetal",4]
+      ],
+      "outputs": [
+        ["hbm:item.plate_iron",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
     }
   ],
-  "comment": "Removed breeder and research. +2, Added fluid tank, glitch, ducc, broadcaster pc, creative: klystron, wireless grid, portable grid, barrel, storage, storage disk, battery, stirling. +12. Total 14"
+  "comment": "Parity with 1.7.10: add platemetal, add alt plate_armor_lunar, add recycling plate metal",
+  "comment": "Removed: breeder and research.",
+  "comment": "Custom Added: fluid tank, glitch, ducc, broadcaster pc, Creative: klystron, wireless grid, portable grid, barrel, storage, storage disk, battery, stirling.",
+  "comment": "Total: 14"
 }
