@@ -8,12 +8,5 @@
 		items: [{
 			item: "hbm:ingot_bismuth_bronze"
 		}]
-	},
-	{
-		uid: "136d0abe",
-		type: "item",
-		items: [{
-			item: "hbm:ingot_arsenic_bronze"
-		}]
 	}]
 }
