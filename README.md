@@ -37,9 +37,9 @@ If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mod
 
 ## Features
 
-- 23 chapters with 1565 quests with quality information and pretty patterns 😏
+- 23 chapters with 1510 quests with quality information and pretty patterns 😏
 
-- 210 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 249 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Coilgun
   - Lung Diagnostic
@@ -58,7 +58,7 @@ If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mod
   - N2 and Balefire Charges
   - And many more.
 
-- 4 custom Resource Packs, one with new textures and touchups for swords and tools.
+- 4 custom Resource Packs, one with new textures and touchups for swords and tools, another for extending the current language files.
 
 - Complete, customized keybind map.
 
@@ -91,10 +91,6 @@ You also must disable these conflicting mods:
 If you don't, your screen will be messed up, and you won't be able to move your mouse in-game.
 
 ## Notes
-Update to Attribute Modifier v1.1.1 to fix axe and sword stats.
-
-The Electricity Pylon quest cannot be completed due to pylon capacitors having no recipes, this is an oversight.
-
 With Cleanroom and 32 chunks, the FPS still hold up and hit a stable >60, which is a miracle to be honest.
 
 After booting once and downloading all required mods, you may disable File Director mod to boot up faster.
@@ -105,7 +101,7 @@ The game looks good, the FPS are good, the quests are good, what other Nuclear T
 
 - The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
 
-- Over +640 hours of development.
+- Over +700 hours of development.
 
 #### It was all planned
 your satisfaction is measured.
