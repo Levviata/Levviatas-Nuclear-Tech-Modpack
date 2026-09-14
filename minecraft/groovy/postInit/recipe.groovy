@@ -1645,6 +1645,12 @@ removedCount++
 removedCount++
 removedCount++
 
+// plate metal
+crafting.removeByOutput(item('hbm:platemetal:*'))
+crafting.addShapeless(item('hbm:platemetal'), [ore('coloredPlatemetal')])
+removedCount++
+recipeCount++
+
 crafting.addShapeless(item('hbm:sliding_blast_door_skin0'), [ore('plateIron'), ore('dyeWhite')])
 crafting.addShapeless(item('hbm:sliding_blast_door_skin1'), [ore('plateIron'), ore('dyeOrange')])
 crafting.addShapeless(item('hbm:sliding_blast_door_skin2'), [ore('plateIron'), ore('dyeOrange'), ore('dyeBlack')])
