@@ -1,6 +1,10 @@
 {
+	icon: "hbm:icf",
 	x: 6.5d,
 	y: 7.0d,
+	text: [
+		"Generates GHE per second, more info on the Late Game chapter."
+	],
 	or_tasks: true,
 	tasks: [{
 		uid: "b30beabc",
