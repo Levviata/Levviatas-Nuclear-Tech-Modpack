@@ -15,6 +15,7 @@
 	tasks: [{
 		uid: "e59f6e32",
 		type: "item",
+		title: "Any electricity pylon",
 		items: [{
 			item: "hbm:red_pylon_steel_small"
 		},
