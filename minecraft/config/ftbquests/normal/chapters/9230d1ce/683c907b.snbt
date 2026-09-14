@@ -1,0 +1,27 @@
+{
+	x: -5.0d,
+	y: 15.75d,
+	text: [
+		"The Supercomputer is a machine that can write data to storage drives using coolants, it can also copy data.",
+		"",
+		"Flight Data can be obtained from the Space Laboratory.",
+		"",
+		"Storage drives with data are used in important machines and items, like the",
+		"- Soyuz and Lambda rockets, ",
+		"- Gerald, ",
+		"- and the Orbital Module."
+	],
+	dependencies: [
+		"f90a1d32",
+		"232c60b9"
+	],
+	dependency_requirement: "one_completed",
+	size: 1.5d,
+	tasks: [{
+		uid: "f0182484",
+		type: "item",
+		items: [{
+			item: "hbm:machine_supercomputer"
+		}]
+	}]
+}
