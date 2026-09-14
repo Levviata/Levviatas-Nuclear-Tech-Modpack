@@ -18,23 +18,17 @@
 		"A higher tier doesn't guarantee better materials.",
 		"I'm unsure if certain concentrations of ore require specific Acids, but I know that each tier above 1 requires an acid."
 	],
-	min_required_dependencies: 2,
+	min_required_dependencies: 1,
 	dependencies: [
+		"a452ee83",
+		"9eff436c",
 		"32ce0f5a",
-		"876bbe0e",
-		"9eff436c"
+		"876bbe0e"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.5d,
+	or_tasks: true,
 	tasks: [{
-		uid: "abc52c5b",
-		type: "item",
-		items: [{
-			item: "hbm:ore_density_scanner"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
-	},
-	{
 		uid: "c6528e88",
 		type: "item",
 		items: [{
@@ -44,6 +38,11 @@
 	rewards: [{
 		uid: "a45b8612",
 		type: "xp",
-		xp: 20
+		xp: 100
+	},
+	{
+		uid: "20129629",
+		type: "item",
+		item: "hbm:ore_density_scanner"
 	}]
 }
