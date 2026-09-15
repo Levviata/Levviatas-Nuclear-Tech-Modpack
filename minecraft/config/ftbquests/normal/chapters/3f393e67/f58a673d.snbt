@@ -3,7 +3,7 @@
 	x: 5.5535714285714235d,
 	y: 25.92857142857143d,
 	shape: "hexagon",
-	description: "and Detector!",
+	description: "and Detector",
 	text: [
 		"The Pollution Detector shows you how much pollution is accumulated near you.",
 		"",
