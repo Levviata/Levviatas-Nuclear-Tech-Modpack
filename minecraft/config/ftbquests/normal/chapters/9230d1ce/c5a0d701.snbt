@@ -1,46 +1,41 @@
 {
 	title: "Plastic Man",
-	x: 17.0d,
+	x: 19.0d,
 	y: 9.0d,
 	shape: "pentagon",
 	text: [
 		""
 	],
 	dependencies: [
+		"a15a7613",
 		"af8fd329"
 	],
+	dependency_requirement: "one_completed",
 	or_tasks: true,
 	tasks: [{
 		uid: "fd912359",
 		type: "item",
 		items: [{
-			item: "hbm:ingot_pvc"
-		}],
-		count: 128L
-	},
-	{
-		uid: "c8e141d5",
-		type: "item",
-		items: [{
-			item: "hbm:ingot_pc"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotAnyHardPlastic"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotAnyHardPlastic"
+				}
+			}
 		}],
 		count: 128L,
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "ba47de4b",
-		type: "random",
-		table: 4
-	},
-	{
 		uid: "8a9cfa94",
 		type: "random",
 		table: 2
-	},
-	{
-		uid: "086ca50b",
-		type: "random",
-		table: 1
 	},
 	{
 		uid: "a6d78454",
@@ -53,5 +48,10 @@
 		type: "item",
 		item: "hbm:ingot_pc",
 		count: 128
+	},
+	{
+		uid: "c2db563b",
+		type: "xp_levels",
+		xp_levels: 5
 	}]
 }
