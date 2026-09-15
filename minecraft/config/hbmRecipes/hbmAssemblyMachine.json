@@ -9142,7 +9142,7 @@
         ["item","hbm:neutron_reflector",4]
       ],
       "outputItem": [
-        ["single",["hbm:tpwr_reflector",4]]
+        ["single",["hbm:pwr_reflector",4]]
       ],
       "duration": 200,
       "power": 500

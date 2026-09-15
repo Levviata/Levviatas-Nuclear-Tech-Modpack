@@ -3387,10 +3387,10 @@
     },
     {
       "inputs": [
-        ["item","hbm:tile.platemetal",4]
+        ["item","hbm:platemetal",4]
       ],
       "outputs": [
-        ["hbm:item.plate_iron",1.0]
+        ["hbm:plate_iron",1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
