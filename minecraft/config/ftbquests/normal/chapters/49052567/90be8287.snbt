@@ -5,8 +5,10 @@
 		"The Controller supplies power to connected components, manages their power consumption, and connects them together."
 	],
 	dependencies: [
+		"892b5f3e",
 		"dd7abe9c"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "7731c8ff",
