@@ -10,6 +10,7 @@
 	dependencies: [
 		"8a76f5ce"
 	],
+	size: 1.25d,
 	tasks: [{
 		uid: "cad1d8c2",
 		type: "item",
