@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: 27.5d,
+	tasks: [{
+		uid: "e56ff9cb",
+		type: "item",
+		items: [{
+			item: "hbm:powder_ash 1 5"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: 29.0d,
+	tasks: [{
+		uid: "7abfc5e5",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_pvc"
+		}]
+	}]
+}
