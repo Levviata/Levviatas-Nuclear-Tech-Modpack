@@ -13,13 +13,15 @@
 	tasks: [{
 		uid: "8de9e0ad",
 		type: "item",
+		title: "Mustard Willow",
 		items: [{
 			item: "hbm:plant_flower 1 2"
 		},
 		{
 			item: "hbm:plant_flower 1 3"
 		}],
-		count: 32L
+		count: 32L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "7d2f39f4",
