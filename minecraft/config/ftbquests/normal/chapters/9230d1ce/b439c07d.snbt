@@ -1,0 +1,27 @@
+{
+	x: -15.0d,
+	y: 11.5d,
+	shape: "pentagon",
+	dependencies: [
+		"27f28a2e"
+	],
+	tasks: [{
+		uid: "1ad38561",
+		type: "item",
+		items: [{
+			item: "hbm:pellet_charged"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "6174c864",
+		type: "item",
+		item: "hbm:pellet_charged",
+		count: 8
+	},
+	{
+		uid: "71db86a2",
+		type: "choice",
+		table: 2
+	}]
+}
