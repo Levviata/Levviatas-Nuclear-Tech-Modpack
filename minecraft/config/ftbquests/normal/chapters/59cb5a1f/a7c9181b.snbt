@@ -1,6 +1,11 @@
 {
 	x: 3.5d,
 	y: 7.0d,
+	text: [
+		"The Radiolysis Chamber can separate quimical compounds from fluids and generate electricity from RTG Pellets.",
+		"",
+		"The RTG function works the same as the RTG Generator"
+	],
 	tasks: [{
 		uid: "151f49dc",
 		type: "item",
