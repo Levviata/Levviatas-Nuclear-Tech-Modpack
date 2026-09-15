@@ -14,6 +14,7 @@
 	tasks: [{
 		uid: "5498f942",
 		type: "item",
+		title: "Bronze Bismoid",
 		items: [{
 			id: "itemfilters:filter",
 			tag: {
@@ -27,6 +28,18 @@
 					data: "ingotAnyBismoidBronze"
 				}
 			}
+		},
+		{
+			item: "hbm:scraps 1 46"
+		},
+		{
+			item: "hbm:scraps 1 47"
+		},
+		{
+			item: "hbm:plate_cast 1 46"
+		},
+		{
+			item: "hbm:plate_cast 1 47"
 		}]
 	}]
 }
