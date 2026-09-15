@@ -40,5 +40,17 @@
 		uid: "20c76a54",
 		type: "xp",
 		xp: 300
+	},
+	{
+		uid: "1b51f680",
+		type: "item",
+		item: "hbm:ingot_arsenic",
+		count: 16
+	},
+	{
+		uid: "4a2511ca",
+		type: "item",
+		item: "hbm:ingot_bismuth",
+		count: 16
 	}]
 }
