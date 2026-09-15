@@ -9015,7 +9015,7 @@
         ["dict","plateCopper",2]
       ],
       "outputItem": [
-        ["single",["hbm:part_generic",1,6]]
+        ["single",["hbm:part_generic",2,6]]
       ],
       "duration": 200,
       "power": 50000,
@@ -9028,7 +9028,7 @@
         ["dict","ingotAnyPlastic",8]
       ],
       "outputItem": [
-        ["single",["hbm:part_generic",1,6]]
+        ["single",["hbm:part_generic",8,6]]
       ],
       "duration": 600,
       "power": 1000,
