@@ -170,5 +170,76 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9cdc20af",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 2400
+	},
+	{
+		uid: "405a0315",
+		type: "item",
+		item: "hbm:ingot_titanium",
+		count: 300
+	},
+	{
+		uid: "810d6a79",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 1440
+	},
+	{
+		uid: "f3dbbc03",
+		type: "item",
+		item: "hbm:ingot_dura_steel",
+		count: 60
+	},
+	{
+		uid: "f1126030",
+		type: "item",
+		item: "hbm:ingot_tungsten",
+		count: 351
+	},
+	{
+		uid: "b38aff31",
+		type: "item",
+		item: "hbm:ingot_cdalloy",
+		count: 272
+	},
+	{
+		uid: "cd752b95",
+		type: "item",
+		item: "hbm:ingot_combine_steel",
+		count: 133
+	},
+	{
+		uid: "96ccd549",
+		type: "item",
+		item: "hbm:ingot_cft",
+		count: 39
+	},
+	{
+		uid: "536a9d70",
+		type: "item",
+		item: "hbm:ingot_schrabidate",
+		count: 12
+	},
+	{
+		uid: "b5525b81",
+		type: "item",
+		item: "hbm:circuit 1 11",
+		count: 12
+	},
+	{
+		uid: "10797f5b",
+		type: "item",
+		item: "hbm:circuit 1 15",
+		count: 5
+	},
+	{
+		uid: "7bca79c1",
+		type: "xp_levels",
+		xp_levels: 30
 	}]
 }
