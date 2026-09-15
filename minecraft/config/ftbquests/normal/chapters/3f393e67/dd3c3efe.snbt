@@ -16,7 +16,8 @@
 		items: [{
 			item: "hbm:ingot_steel"
 		}],
-		count: 64L
+		count: 64L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "0559c56b",
@@ -24,7 +25,8 @@
 		items: [{
 			item: "hbm:ingot_red_copper"
 		}],
-		count: 32L
+		count: 32L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "90cb41e2",

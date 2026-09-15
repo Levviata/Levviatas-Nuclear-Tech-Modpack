@@ -11,7 +11,8 @@
 		items: [{
 			item: "minecraft:blaze_rod"
 		}],
-		count: 12L
+		count: 12L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "92fb46ae",

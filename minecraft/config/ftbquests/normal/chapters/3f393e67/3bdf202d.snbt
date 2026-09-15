@@ -11,7 +11,8 @@
 		items: [{
 			item: "hbm:ingot_meteorite"
 		}],
-		count: 24L
+		count: 24L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "12a0a1d5",

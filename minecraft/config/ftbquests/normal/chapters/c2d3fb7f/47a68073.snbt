@@ -20,7 +20,8 @@
 		items: [{
 			item: "hbm:coal_infernal"
 		}],
-		count: 32L
+		count: 32L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "e22023aa",
@@ -28,7 +29,8 @@
 		items: [{
 			item: "minecraft:quartz"
 		}],
-		count: 64L
+		count: 64L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "b6828822",
@@ -36,7 +38,8 @@
 		items: [{
 			item: "hbm:sulfur"
 		}],
-		count: 24L
+		count: 24L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "cb207d3a",
@@ -44,7 +47,8 @@
 		items: [{
 			item: "hbm:powder_fire"
 		}],
-		count: 16L
+		count: 16L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "59b437ce",

@@ -11,7 +11,8 @@
 		items: [{
 			item: "minecraft:diamond"
 		}],
-		count: 32L
+		count: 32L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "c72ecb8c",

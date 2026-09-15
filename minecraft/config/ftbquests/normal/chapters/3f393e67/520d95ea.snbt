@@ -11,7 +11,8 @@
 		items: [{
 			item: "hbm:ingot_cobalt"
 		}],
-		count: 16L
+		count: 16L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "78ebc412",

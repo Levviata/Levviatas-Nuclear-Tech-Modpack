@@ -19,7 +19,8 @@
 		items: [{
 			item: "hbm:ingot_steel"
 		}],
-		count: 2L
+		count: 2L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "fcdf8933",

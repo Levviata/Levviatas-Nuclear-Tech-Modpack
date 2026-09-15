@@ -11,7 +11,8 @@
 		items: [{
 			item: "hbm:syringe_metal_super"
 		}],
-		count: 16L
+		count: 16L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "65e96d34",
