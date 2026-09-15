@@ -1,5 +1,5 @@
 {
-	x: 19.0d,
+	x: 17.0d,
 	y: 9.0d,
 	shape: "hexagon",
 	description: "§e§nRequires:§r§e Any Hard Plastic, Versatile Circuit Board",
@@ -33,5 +33,11 @@
 		type: "item",
 		item: "hbm:fluid_barrel_full 1 95",
 		count: 4
+	},
+	{
+		uid: "994d048b",
+		type: "item",
+		item: "hbm:powder_ash 1 5",
+		count: 32
 	}]
 }

@@ -11,5 +11,11 @@
 			item: "hbm:pa_coil 1 1"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5d4f0453",
+		type: "item",
+		item: "hbm:pa_coil 1 1",
+		count: 3
 	}]
 }
