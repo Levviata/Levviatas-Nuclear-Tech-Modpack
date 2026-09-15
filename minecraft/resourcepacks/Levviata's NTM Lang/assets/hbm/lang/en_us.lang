@@ -69,7 +69,6 @@ item.pile_rod_detector.name=Chicago Pile Control & Detector Rod (LEGACY)
 tile.machine_reactor_breeding.name=Breeding Reactor (LEGACY)
 tile.machine_reactor_small_new.name=Research Reactor (LEGACY)
 ## unused ##
-# where does these come from?
+# These are patched out of the mod, but im leaving the entries
 item.redcoil_capacitor.name=Redcoil Capacitor (UNUSED)
 item.euphemium_capacitor.name=Euphemium Capacitor (UNUSED)
-item.mp_warhead_15_volcano.name=Size 15 Volcano Warhead (UNUSED)
