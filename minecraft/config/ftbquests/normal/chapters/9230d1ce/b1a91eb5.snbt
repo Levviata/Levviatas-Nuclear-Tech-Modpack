@@ -60,5 +60,10 @@
 		items: [{
 			item: "hbm:icf_laser_component 1 5"
 		}]
+	}],
+	rewards: [{
+		uid: "aec561cd",
+		type: "xp_levels",
+		xp_levels: 15
 	}]
 }

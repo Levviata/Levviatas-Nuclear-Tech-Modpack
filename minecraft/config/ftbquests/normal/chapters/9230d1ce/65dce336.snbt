@@ -15,5 +15,10 @@
 			}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "27f395cf",
+		type: "xp_levels",
+		xp_levels: 15
 	}]
 }
