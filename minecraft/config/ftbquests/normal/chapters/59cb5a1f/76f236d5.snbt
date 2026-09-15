@@ -1,6 +1,12 @@
 {
 	x: 0.5d,
 	y: 7.0d,
+	text: [
+		"The Leviathan Steam Turbine has almost infinite throughput at the cost of 85% efficiency.",
+		"Due to this, it can generate an insane amount of power if enough steam is fed.",
+		"",
+		"Works the same as an Industrial Steam Turbine, may be configured manually."
+	],
 	tasks: [{
 		uid: "974d0608",
 		type: "item",
