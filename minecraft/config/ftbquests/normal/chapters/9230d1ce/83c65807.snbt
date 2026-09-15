@@ -12,8 +12,29 @@
 	tasks: [{
 		uid: "d9baec36",
 		type: "item",
+		title: "BSCCO",
 		items: [{
-			item: "hbm:ingot_bscco"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotBSCCO"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotBSCCO"
+				}
+			}
+		},
+		{
+			item: "hbm:scraps 1 48"
+		},
+		{
+			item: "hbm:wire_dense 1 48"
+		},
+		{
+			item: "hbm:pa_coil 1 2"
 		}]
 	}]
 }
