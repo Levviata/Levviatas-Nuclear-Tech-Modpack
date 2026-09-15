@@ -13,7 +13,8 @@
 		type: "item",
 		items: [{
 			item: "hbm:machine_waste_drum"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "21e6ef27",

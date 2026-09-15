@@ -36,7 +36,8 @@
 		},
 		{
 			item: "hbm:ammo_standard 1 69"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "60d0a6cf",

@@ -33,7 +33,8 @@
 		type: "item",
 		items: [{
 			item: "hbm:ammo_standard 1 70"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "423f239e",

@@ -14,7 +14,8 @@
 		type: "item",
 		items: [{
 			item: "hbm:machine_purex"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "19e0197a",

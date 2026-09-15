@@ -22,70 +22,80 @@
 		type: "item",
 		items: [{
 			item: "hbm:pwr_controller"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "d7bbc2b6",
 		type: "item",
 		items: [{
 			item: "hbm:pwr_port"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "67f2a9a6",
 		type: "item",
 		items: [{
 			item: "hbm:pwr_casing"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "1ebf4dfd",
 		type: "item",
 		items: [{
 			item: "hbm:pwr_reflector"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "3351fe36",
 		type: "item",
 		items: [{
 			item: "hbm:pwr_neutron_source"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "dddbf243",
 		type: "item",
 		items: [{
 			item: "hbm:pwr_fuelrod"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "ef6fbbff",
 		type: "item",
 		items: [{
 			item: "hbm:pwr_control"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "1e807096",
 		type: "item",
 		items: [{
 			item: "hbm:pwr_channel"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "6c141866",
 		type: "item",
 		items: [{
 			item: "hbm:pwr_heatex"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "a7e0b079",
 		type: "item",
 		items: [{
 			item: "hbm:pwr_heatsink"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "c4e16e54",

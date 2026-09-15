@@ -61,28 +61,32 @@
 		items: [{
 			item: "hbm:pile_brick"
 		}],
-		count: 125L
+		count: 125L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "24e89761",
 		type: "item",
 		items: [{
 			item: "hbm:pile_device"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "8b5937cb",
 		type: "item",
 		items: [{
 			item: "hbm:pile_device 1 1"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "cab40465",
 		type: "item",
 		items: [{
 			item: "hbm:pile_device 1 2"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "a4237a79",

@@ -36,14 +36,16 @@
 		type: "item",
 		items: [{
 			item: "hbm:watz_pump"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "de8696e5",
 		type: "item",
 		items: [{
 			item: "hbm:struct_watz_core"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "e58e3b58",
@@ -51,7 +53,8 @@
 		items: [{
 			item: "hbm:watz_cooler"
 		}],
-		count: 26L
+		count: 26L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "95e84860",
@@ -59,7 +62,8 @@
 		items: [{
 			item: "hbm:watz_element"
 		}],
-		count: 36L
+		count: 36L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "6932153d",
@@ -67,7 +71,8 @@
 		items: [{
 			item: "hbm:watz_casing"
 		}],
-		count: 48L
+		count: 48L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "9dbec352",
@@ -75,7 +80,8 @@
 		items: [{
 			item: "hbm:bolt 1 33"
 		}],
-		count: 192L
+		count: 192L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "7c16ba9a",
