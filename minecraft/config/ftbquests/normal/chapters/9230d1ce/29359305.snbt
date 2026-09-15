@@ -10,8 +10,10 @@
 		"\"NOO Euphemia don't do it!\""
 	],
 	dependencies: [
-		"86c1bfd9"
+		"86c1bfd9",
+		"78137a9b"
 	],
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "12c7676e",
 		type: "item",

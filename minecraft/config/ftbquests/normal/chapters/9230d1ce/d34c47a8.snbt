@@ -8,7 +8,8 @@
 	],
 	dependencies: [
 		"86c1bfd9",
-		"40eecbae"
+		"40eecbae",
+		"c265e5cd"
 	],
 	dependency_requirement: "one_completed",
 	tasks: [{

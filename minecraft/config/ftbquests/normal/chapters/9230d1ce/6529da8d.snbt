@@ -8,8 +8,10 @@
 		"Has three weapon specific mods."
 	],
 	dependencies: [
-		"f90a1d32"
+		"f90a1d32",
+		"bb903104"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	or_tasks: true,
 	tasks: [{

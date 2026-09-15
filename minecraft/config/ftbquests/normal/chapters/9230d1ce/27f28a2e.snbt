@@ -6,8 +6,10 @@
 	],
 	dependencies: [
 		"f547edc2",
-		"d19941b2"
+		"d19941b2",
+		"31d128f2"
 	],
+	dependency_requirement: "one_completed",
 	size: 1.25d,
 	tasks: [{
 		uid: "06a4967d",
@@ -17,8 +19,8 @@
 		}]
 	}],
 	rewards: [{
-		uid: "011c6e7f",
-		type: "xp",
-		xp: 100
+		uid: "60fe38e0",
+		type: "xp_levels",
+		xp_levels: 10
 	}]
 }
