@@ -21,8 +21,11 @@
 		}]
 	},
 	{
-		uid: "e74c6f97",
-		type: "checkmark"
+		uid: "9763efd9",
+		type: "item",
+		items: [{
+			item: "hbm:powder_ash 1 5"
+		}]
 	}],
 	rewards: [{
 		uid: "d8c6c2c7",
