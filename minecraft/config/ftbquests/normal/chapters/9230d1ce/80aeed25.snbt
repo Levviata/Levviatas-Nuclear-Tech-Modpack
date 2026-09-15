@@ -1,7 +1,11 @@
 {
+	title: "x32 Any Resistant Alloy Ingots",
 	x: 8.5d,
 	y: 15.5d,
 	shape: "pentagon",
+	text: [
+		""
+	],
 	dependencies: [
 		"99183935"
 	],
@@ -9,9 +13,21 @@
 		uid: "85d77b6d",
 		type: "item",
 		items: [{
-			item: "hbm:ingot_cdalloy"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotAnyResistantAlloy"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotAnyResistantAlloy"
+				}
+			}
 		}],
-		count: 32L
+		count: 32L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "145370dc",
@@ -32,6 +48,12 @@
 		uid: "85278a50",
 		type: "item",
 		item: "hbm:ingot_cdalloy",
+		count: 32
+	},
+	{
+		uid: "af7bb5db",
+		type: "item",
+		item: "hbm:ingot_tcalloy",
 		count: 32
 	}]
 }
