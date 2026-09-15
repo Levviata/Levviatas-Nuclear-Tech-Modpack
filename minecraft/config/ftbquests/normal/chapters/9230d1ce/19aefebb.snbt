@@ -1,0 +1,26 @@
+{
+	x: 15.5d,
+	y: 11.0d,
+	dependencies: [
+		"75cecdaa"
+	],
+	tasks: [{
+		uid: "3273a421",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_cft"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "58a713cd",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "39ed4837",
+		type: "item",
+		item: "hbm:ingot_cft",
+		count: 32
+	}]
+}
