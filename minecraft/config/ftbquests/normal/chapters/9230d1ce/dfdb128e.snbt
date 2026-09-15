@@ -1,0 +1,54 @@
+{
+	title: "x32 Any Bronze Bismoid Ingots",
+	x: 3.0d,
+	y: 10.0d,
+	shape: "pentagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"ca6dd53f"
+	],
+	tasks: [{
+		uid: "a0f6756a",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotAnyBismoidBronze"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotAnyBismoidBronze"
+				}
+			}
+		}],
+		count: 32L,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "62da74a7",
+		type: "item",
+		item: "hbm:ingot_bismuth_bronze",
+		count: 32
+	},
+	{
+		uid: "c4b3e795",
+		type: "item",
+		item: "hbm:ingot_arsenic_bronze",
+		count: 32
+	},
+	{
+		uid: "b9475c0c",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "832c40cd",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}
