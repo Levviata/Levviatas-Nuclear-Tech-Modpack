@@ -1,15 +1,11 @@
 {
 	title: "Nuclear Tech Mod Ingots",
+	icon: "hbm:block_waste_painted",
 	x: -14.440476190476168d,
 	y: -1.624999999999993d,
 	shape: "rsquare",
 	text: [
 		""
 	],
-	size: 3.0d,
-	tasks: [{
-		uid: "7bda3773",
-		type: "checkmark",
-		icon: "hbm:block_waste_painted"
-	}]
+	size: 3.0d
 }
