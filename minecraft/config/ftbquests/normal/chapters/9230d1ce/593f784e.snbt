@@ -1,6 +1,6 @@
 {
-	x: -6.0d,
-	y: 0.0d,
+	x: -5.9375d,
+	y: 0.0714285714285694d,
 	shape: "square",
 	description: "That's some cool music.",
 	text: [

@@ -1,6 +1,6 @@
 {
 	x: 23.0d,
-	y: 8.5d,
+	y: 9.0d,
 	description: "Infinite power!",
 	text: [
 		"(Rosenberg-only since the battery doesn't work anymore)"
