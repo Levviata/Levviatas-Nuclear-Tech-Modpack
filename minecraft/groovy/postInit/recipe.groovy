@@ -1665,6 +1665,11 @@ recipeCount++
 recipeCount++
 recipeCount++
 
+crafting.addShapeless(item('hbm:gun_b92'), [ore('ntmscrewdriver').reuse(), item('hbm:gun_b93')])
+crafting.addShapeless(item('hbm:gun_b93'), [ore('ntmscrewdriver').reuse(), item('hbm:gun_b92')])
+recipeCount++
+recipeCount++
+
 // END NUCLEAR TECH //
 
 log.info("Adding " + recipeCount + " recipes.")
