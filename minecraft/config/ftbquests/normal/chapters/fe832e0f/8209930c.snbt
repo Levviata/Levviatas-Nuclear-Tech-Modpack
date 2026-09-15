@@ -37,10 +37,5 @@
 		{
 			item: "hbm:ammo_fireext 1 2"
 		}]
-	}],
-	rewards: [{
-		uid: "52af5196",
-		type: "xp",
-		xp: 10
 	}]
 }
