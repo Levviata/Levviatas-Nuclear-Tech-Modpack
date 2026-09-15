@@ -1,6 +1,10 @@
 {
 	x: 3.0d,
 	y: 5.5d,
+	text: [
+		"The Radiation-Powered Engine can turn Long-Lived and Short-Lived nuclear waste into power.",
+		"The radiation is negated inside the machine so the chunk won't contaminate."
+	],
 	tasks: [{
 		uid: "bc2c4b55",
 		type: "item",
