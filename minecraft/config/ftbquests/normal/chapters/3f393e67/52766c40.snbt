@@ -24,5 +24,17 @@
 		uid: "24265192",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "b89031df",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 16
+	},
+	{
+		uid: "38565425",
+		type: "item",
+		item: "hbm:ingot_tungsten",
+		count: 8
 	}]
 }

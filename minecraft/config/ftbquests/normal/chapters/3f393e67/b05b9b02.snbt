@@ -26,19 +26,31 @@
 		}]
 	}],
 	rewards: [{
-		uid: "0a101984",
-		type: "item",
-		item: "hbm:ingot_aluminium",
-		count: 32
-	},
-	{
 		uid: "32642055",
 		type: "item",
 		item: "hbm:ingot_steel",
 		count: 16
 	},
 	{
-		uid: "413aabd5",
+		uid: "afe88f32",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 8
+	},
+	{
+		uid: "e4620736",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 8
+	},
+	{
+		uid: "6d81b473",
+		type: "item",
+		item: "hbm:ingot_tungsten",
+		count: 4
+	},
+	{
+		uid: "5b2967e7",
 		type: "xp",
 		xp: 100
 	}]

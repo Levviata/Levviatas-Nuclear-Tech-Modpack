@@ -30,5 +30,17 @@
 		type: "item",
 		item: "hbm:ingot_steel",
 		count: 8
+	},
+	{
+		uid: "5df9bbda",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 8
+	},
+	{
+		uid: "258feaad",
+		type: "item",
+		item: "hbm:ingot_dura_steel",
+		count: 4
 	}]
 }

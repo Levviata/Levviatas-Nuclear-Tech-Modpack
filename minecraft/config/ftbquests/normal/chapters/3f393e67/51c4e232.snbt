@@ -22,5 +22,23 @@
 		uid: "f159bcae",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "0c54ee75",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 8
+	},
+	{
+		uid: "a65ad8b9",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 4
+	},
+	{
+		uid: "a6af236a",
+		type: "item",
+		item: "hbm:ingot_tungsten",
+		count: 4
 	}]
 }
