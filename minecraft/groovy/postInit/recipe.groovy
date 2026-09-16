@@ -1170,13 +1170,14 @@ replacedCount++
 
 crafting.shapedBuilder()
         .output(item('hbm:det_bale'))
-        .row('ABA')
+        .row('AFA')
         .row('DCD')
         .row('ABA')
         .key('A', item('hbm:neutron_reflector'))
-        .key('B', item('hbm:circuit:13'))
+        .key('B', item('hbm:circuit:14'))
         .key('C', item('hbm:egg_balefire_shard'))
         .key('D', item('hbm:det_charge'))
+        .key('F', ore('plateWeaponSteel'))
         .register()
 recipeCount++
 
@@ -1669,6 +1670,32 @@ crafting.addShapeless(item('hbm:gun_b92'), [ore('ntmscrewdriver').reuse(), item(
 crafting.addShapeless(item('hbm:gun_b93'), [ore('ntmscrewdriver').reuse(), item('hbm:gun_b92')])
 recipeCount++
 recipeCount++
+
+// par with 1.7.10
+crafting.shapedBuilder()
+        .name(resource('hbm:mp_warhead_15_boxcar'))
+        .output(item('hbm:mp_warhead_15_boxcar'))
+        .row('ABA')
+        .row('CFC')
+        .row('ADA')
+        .key('A', ore('ingotStarmetal'))
+        .key('B', item('hbm:det_nuke'))
+        .key('C', item('hbm:circuit:9'))
+        .key('D', ore('container16000tritium'))
+        .key('F', item('hbm:boxcar'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:mp_stability_20_flat'))
+        .row('BAB')
+        .row('BAB')
+        .key('A', item('hbm:steel_scaffold:*'))
+        .key('B', item('hbm:plate_cast:50')) // weapon steel
+        .register()
+recipeCount++
+
 
 // END NUCLEAR TECH //
 
