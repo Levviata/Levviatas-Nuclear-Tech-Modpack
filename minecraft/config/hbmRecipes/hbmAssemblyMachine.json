@@ -3739,39 +3739,6 @@
       "power": 100
     },
     {
-      "name": "ass.warheadnuke",
-      "inputItem": [
-        ["dict","plateTripleTitanium",12],
-        ["dict","plateTripleLead",6],
-        ["dict","billetUranium235",6],
-        ["item","hbm:cordite",12],
-        ["item","hbm:circuit",1,13]
-      ],
-      "outputItem": [
-        ["single",["hbm:warhead_nuclear"]]
-      ],
-      "duration": 400,
-      "power": 100
-    },
-    {
-      "name": "ass.warheadthermonuke",
-      "inputItem": [
-        ["dict","plateTripleTitanium",12],
-        ["dict","plateTripleLead",6],
-        ["dict","billetPlutonium239",8],
-        ["item","hbm:ball_tatb",12],
-        ["item","hbm:circuit",2,14]
-      ],
-      "inputFluid": [
-        ["DEUTERIUM",4000]
-      ],
-      "outputItem": [
-        ["single",["hbm:warhead_mirv"]]
-      ],
-      "duration": 600,
-      "power": 100
-    },
-    {
       "name": "ass.stealthmissile",
       "inputItem": [
         ["dict","plateTitanium",20],
@@ -3878,230 +3845,6 @@
       "power": 100
     },
     {
-      "name": "ass.mpt15kero",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","ntmpipeSteel",3],
-        ["dict","ingotTungsten",8],
-        ["dict","plateSteel",8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_15_kerosene"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt15kerodual",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","ntmpipeSteel",3],
-        ["dict","ingotTungsten",8],
-        ["dict","plateSteel",8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_15_kerosene_dual"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt15kerotriple",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","ntmpipeSteel",3],
-        ["dict","ingotTungsten",8],
-        ["dict","plateSteel",8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_15_kerosene_triple"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt15solid",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","ntmpipeDuraSteel",3],
-        ["dict","ingotTungsten",8],
-        ["dict","plateSteel",8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_15_solid"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt15solid16",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","ntmpipeDuraSteel",3],
-        ["dict","ingotTungsten",8],
-        ["dict","plateSteel",8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_15_solid_hexdecuple"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt15hydro",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","ntmpipeDuraSteel",3],
-        ["dict","ingotTungsten",8],
-        ["dict","ingotWorkersAlloy",4]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_15_hydrogen"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt15hydrodual",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","ntmpipeDuraSteel",3],
-        ["dict","ingotTungsten",8],
-        ["dict","ingotWorkersAlloy",4]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_15_hydrogen_dual"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt15bfshort",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","ntmpipeDuraSteel",5],
-        ["dict","plateTripleTungsten",8],
-        ["dict","plateSaturnite",8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_15_balefire_short"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt15bf",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","ntmpipeDuraSteel",5],
-        ["dict","plateTripleTungsten",16],
-        ["dict","plateSaturnite",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_15_balefire"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt15bflarge",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","ntmpipeDuraSteel",10],
-        ["dict","plateTripleTungsten",16],
-        ["dict","plateSaturnite",24]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_15_balefire_large"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt20kero",
-      "inputItem": [
-        ["item","hbm:seg_20"],
-        ["dict","ntmpipeSteel",6],
-        ["dict","ingotTungsten",16],
-        ["dict","plateSteel",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_20_kerosene"]]
-      ],
-      "duration": 400,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt20kerodual",
-      "inputItem": [
-        ["item","hbm:seg_20"],
-        ["dict","ntmpipeSteel",6],
-        ["dict","ingotTungsten",16],
-        ["dict","plateSteel",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_20_kerosene_dual"]]
-      ],
-      "duration": 400,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt20kerotriple",
-      "inputItem": [
-        ["item","hbm:seg_20"],
-        ["dict","ntmpipeSteel",6],
-        ["dict","ingotTungsten",16],
-        ["dict","plateSteel",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_20_kerosene_triple"]]
-      ],
-      "duration": 400,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt20solid",
-      "inputItem": [
-        ["item","hbm:seg_20"],
-        ["dict","ntmpipeDuraSteel",6],
-        ["dict","ingotTungsten",16],
-        ["dict","plateSteel",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_20_solid"]]
-      ],
-      "duration": 400,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt20solidmulti",
-      "inputItem": [
-        ["item","hbm:seg_20"],
-        ["dict","ntmpipeDuraSteel",6],
-        ["dict","ingotTungsten",16],
-        ["dict","plateSteel",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_20_solid_multi"]]
-      ],
-      "duration": 400,
-      "power": 100
-    },
-    {
-      "name": "ass.mpt20solidmultier",
-      "inputItem": [
-        ["item","hbm:seg_20"],
-        ["dict","ntmpipeDuraSteel",6],
-        ["dict","ingotTungsten",16],
-        ["dict","plateSteel",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_thruster_20_solid_multier"]]
-      ],
-      "duration": 400,
-      "power": 100
-    },
-    {
       "name": "ass.mpf10kero",
       "inputItem": [
         ["item","hbm:seg_10",2],
@@ -4192,231 +3935,6 @@
         ["single",["hbm:mp_fuselage_10_15_solid"]]
       ],
       "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpf1015hydro",
-      "inputItem": [
-        ["item","hbm:seg_10"],
-        ["item","hbm:seg_15"],
-        ["dict","plateCopper",24],
-        ["dict","plateSteel",8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_10_15_hydrogen"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpf1015bf",
-      "inputItem": [
-        ["item","hbm:seg_10"],
-        ["item","hbm:seg_15"],
-        ["dict","plateSaturnite",24],
-        ["dict","plateSteel",8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_10_15_balefire"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpf15kero",
-      "inputItem": [
-        ["item","hbm:seg_15",2],
-        ["dict","plateAluminum",32],
-        ["dict","plateSteel",12]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_15_kerosene"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpf15solid",
-      "inputItem": [
-        ["item","hbm:seg_15",2],
-        ["dict","plateTitanium",32],
-        ["dict","plateSteel",12]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_15_solid"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpf15hydro",
-      "inputItem": [
-        ["item","hbm:seg_15",2],
-        ["dict","plateCopper",32],
-        ["dict","plateSteel",12]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_15_hydrogen"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpf1520kero",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["item","hbm:seg_20"],
-        ["dict","plateAluminum",48],
-        ["dict","plateSteel",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_15_20_kerosene"]]
-      ],
-      "duration": 400,
-      "power": 100
-    },
-    {
-      "name": "ass.mpf1520solid",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["item","hbm:seg_20"],
-        ["dict","plateTitanium",48],
-        ["dict","plateSteel",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_fuselage_15_20_solid"]]
-      ],
-      "duration": 400,
-      "power": 100
-    },
-    {
-      "name": "ass.mpw10he",
-      "inputItem": [
-        ["item","hbm:seg_10"],
-        ["dict","plateSteel",6],
-        ["dict","ingotAnyHighexplosive",3],
-        ["item","hbm:circuit",1,8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_10_he"]]
-      ],
-      "duration": 100,
-      "power": 100
-    },
-    {
-      "name": "ass.mpw10inc",
-      "inputItem": [
-        ["item","hbm:seg_10"],
-        ["dict","plateSteel",6],
-        ["dict","ingotAnyHighexplosive",2],
-        ["dict","dustRedPhosphorus",6],
-        ["item","hbm:circuit",1,8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_10_incendiary"]]
-      ],
-      "duration": 100,
-      "power": 100
-    },
-    {
-      "name": "ass.mpw10bus",
-      "inputItem": [
-        ["item","hbm:seg_10"],
-        ["dict","plateWeaponSteel",6],
-        ["dict","ingotAnyHighexplosive",6],
-        ["item","hbm:circuit",2,8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_10_buster"]]
-      ],
-      "duration": 100,
-      "power": 100
-    },
-    {
-      "name": "ass.mpw10taint",
-      "inputItem": [
-        ["item","hbm:seg_10"],
-        ["dict","plateSteel",12],
-        ["item","hbm:det_cord",2],
-        ["item","hbm:powder_magic",12],
-        ["dict","container1000watz"]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_10_taint"]]
-      ],
-      "duration": 100,
-      "power": 100
-    },
-    {
-      "name": "ass.mpw10cloud",
-      "inputItem": [
-        ["item","hbm:seg_10"],
-        ["dict","plateSteel",12],
-        ["item","hbm:det_cord",2],
-        ["item","hbm:powder_magic",16]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_10_cloud"]]
-      ],
-      "duration": 100,
-      "power": 100
-    },
-    {
-      "name": "ass.mpw15he",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","plateSteel",12],
-        ["dict","ingotAnyHighexplosive",12],
-        ["item","hbm:circuit",3,8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_15_he"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.mpw15inc",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","plateSteel",12],
-        ["dict","ingotAnyHighexplosive",8],
-        ["dict","dustRedPhosphorus",16],
-        ["item","hbm:circuit",3,8]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_15_incendiary"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.warheadvolcano",
-      "inputItem": [
-        ["dict","plateTripleTitanium",12],
-        ["dict","plateTripleSteel",6],
-        ["item","hbm:det_nuke",3],
-        ["dict","blockUranium238",24],
-        ["item","hbm:circuit",5,10]
-      ],
-      "outputItem": [
-        ["single",["hbm:warhead_volcano"]]
-      ],
-      "duration": 600,
-      "power": 100
-    },
-    {
-      "name": "ass.mpw15n2",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","plateWeaponSteel",32],
-        ["item","hbm:ball_tatb",32],
-        ["item","hbm:circuit",8,9]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_15_n2"]]
-      ],
-      "duration": 400,
       "power": 100
     },
     {
@@ -8800,71 +8318,6 @@
       "power": 100
     },
     {
-      "name": "ass.mpwarhead15thermo",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","plateSteel",32],
-        ["dict","plateTitanium",16],
-        ["item","hbm:det_nuke",2],
-        ["item","hbm:circuit",1,13]
-      ],
-      "inputFluid": [
-        ["DEUTERIUM",10000]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_15_thermo"]]
-      ],
-      "duration": 600,
-      "power": 100
-    },
-    {
-      "name": "ass.mpwarhead15mirv",
-      "inputItem": [
-        ["item","hbm:seg_15"],
-        ["dict","plateSteel",24],
-        ["dict","plateTitanium",16],
-        ["item","hbm:warhead_mirvlet",7],
-        ["dict","ingotAnyPlasticexplosive",2],
-        ["dict","shellSteel"],
-        ["item","hbm:circuit",1,9]
-      ],
-      "outputItem": [
-        ["single",["hbm:mp_warhead_15_mirv"]]
-      ],
-      "duration": 600,
-      "power": 100
-    },
-    {
-      "name": "ass.warheadn2",
-      "inputItem": [
-        ["item","hbm:n2_charge",5],
-        ["dict","shellSteel",3],
-        ["item","hbm:wire_fine",6,2900],
-        ["dict","plateSteel",20],
-        ["dict","plateTitanium",12],
-        ["item","hbm:circuit",1,9]
-      ],
-      "outputItem": [
-        ["single",["hbm:warhead_n2"]]
-      ],
-      "duration": 300,
-      "power": 100
-    },
-    {
-      "name": "ass.warheadmirvlet",
-      "inputItem": [
-        ["dict","ingotTungsten"],
-        ["dict","plateSteel",3],
-        ["dict","ingotPlutonium239"],
-        ["dict","ingotAnyPlasticexplosive"]
-      ],
-      "outputItem": [
-        ["single",["hbm:warhead_mirvlet"]]
-      ],
-      "duration": 100,
-      "power": 100
-    },
-    {
       "name": "ass.missilen2",
       "inputItem": [
         ["item","hbm:thruster_large"],
@@ -8881,9 +8334,10 @@
       "name": "ass.mpw15bf",
       "inputItem": [
         ["item","hbm:seg_15"],
-        ["item","hbm:neutron_reflector",16],
-        ["item","hbm:det_bale",4],
-        ["item","hbm:circuit",2,14]
+        ["dict","plateWeaponSteel",12],
+        ["dict","plateSaturnite",4],
+        ["item","hbm:det_bale",5],
+        ["item","hbm:circuit",1,14]
       ],
       "outputItem": [
         ["single",["hbm:mp_warhead_15_balefire"]]
@@ -9206,13 +8660,56 @@
       "power": 100
     },
     {
+      "name": "ass.warheadnuke",
+      "inputItem": [
+        ["dict","plateWeaponSteel",18],
+        ["dict","billetPlutonium239",16],
+        ["item","hbm:neutron_reflector",16],
+        ["item","hbm:ball_tatb",18],
+        ["item","hbm:circuit",1,13]
+      ],
+      "outputItem": [
+        ["single",["hbm:warhead_nuclear"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.warheadmirvlet",
+      "inputItem": [
+        ["dict","plateWeaponSteel",2],
+        ["dict","billetPlutonium239",4],
+        ["item","hbm:neutron_reflector",4],
+        ["dict","ingotAnyHighexplosive",4],
+        ["item","hbm:circuit",1,7]
+      ],
+      "outputItem": [
+        ["single",["hbm:warhead_mirvlet"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
       "name": "ass.mpw10nukesmall",
       "inputItem": [
         ["item","hbm:seg_10"],
-        ["dict","plateWeaponSteel",16],
-        ["dict","billetPlutonium239",2],
+        ["dict","plateWeaponSteel",8],
+        ["dict","billetPlutonium239",4],
         ["item","hbm:neutron_reflector",4],
         ["dict","ingotAnyHighexplosive",4],
+        ["item","hbm:circuit",1,13]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_10_nuclear"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw10nukesmallalt",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["item","hbm:warhead_mirvlet"],
         ["item","hbm:circuit",1,13]
       ],
       "outputItem": [
@@ -9225,9 +8722,9 @@
       "name": "ass.mpw10nukelarge",
       "inputItem": [
         ["item","hbm:seg_10"],
-        ["dict","plateWeaponSteel",16],
-        ["dict","billetPlutonium239",6],
-        ["item","hbm:neutron_reflector",8],
+        ["dict","plateWeaponSteel",8],
+        ["dict","billetPlutonium239",8],
+        ["item","hbm:neutron_reflector",12],
         ["dict","ingotAnyHighexplosive",12],
         ["item","hbm:circuit",1,13]
       ],
@@ -9238,26 +8735,680 @@
       "power": 100
     },
     {
+      "name": "ass.mpw10nukelargealt",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["item","hbm:warhead_mirvlet",2],
+        ["dict","ingotAnyHighexplosive",4],
+        ["item","hbm:circuit",1,13]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_10_nuclear_large"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpwarhead15mirv",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","plateWeaponSteel",18],
+        ["item","hbm:warhead_mirvlet",7],
+        ["dict","ingotAnyPlasticexplosive",4],
+        ["dict","shellSteel"],
+        ["dict","blockGlass",2],
+        ["item","hbm:circuit",1,9]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_mirv"]]
+      ],
+      "duration": 600,
+      "power": 100
+    },
+    {
       "name": "ass.mpw15nuke",
       "inputItem": [
         ["item","hbm:seg_15"],
-        ["dict","plateWeaponSteel",32],
-        ["dict","billetPlutonium239",12],
-        ["item","hbm:neutron_reflector",12],
+        ["dict","plateWeaponSteel",18],
+        ["dict","billetPlutonium239",16],
+        ["item","hbm:neutron_reflector",16],
         ["item","hbm:ball_tatb",24],
-        ["item","hbm:circuit",3,13]
+        ["item","hbm:circuit",1,13]
       ],
       "outputItem": [
         ["single",["hbm:mp_warhead_15_nuclear"]]
       ],
       "duration": 400,
       "power": 100
+    },
+    {
+      "name": "ass.mpw15nukealt",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["item","hbm:warhead_nuclear"],
+        ["item","hbm:ball_tatb",6]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_nuclear"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.warheadn2",
+      "inputItem": [
+        ["dict","plateWeaponSteel",18],
+        ["item","hbm:n2_charge",5],
+        ["item","hbm:circuit",1,9]
+      ],
+      "outputItem": [
+        ["single",["hbm:warhead_n2"]]
+      ],
+      "duration": 300,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw15n2",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","plateWeaponSteel",18],
+        ["item","hbm:n2_charge",5],
+        ["item","hbm:circuit",1,9]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_n2"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw15n2alt",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["item","hbm:warhead_n2",1]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_n2"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw10he",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["dict","plateWeaponSteel",8],
+        ["dict","ingotAnyHighexplosive",4],
+        ["item","hbm:circuit",1,8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_10_he"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw10healt",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["item","hbm:warhead_generic_medium"]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_10_he"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw10inc",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["dict","plateWeaponSteel",8],
+        ["dict","ingotAnyHighexplosive",4],
+        ["dict","dustRedPhosphorus",4],
+        ["item","hbm:circuit",1,8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_10_incendiary"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw10incalt",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["item","hbm:warhead_incendiary_medium"]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_10_incendiary"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw10bus",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["dict","plateWeaponSteel",8],
+        ["dict","ingotAnyHighexplosive",8],
+        ["item","hbm:circuit",1,8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_10_buster"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw10busalt",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["item","hbm:warhead_buster_medium"]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_10_buster"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw10taint",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["dict","plateWeaponSteel",8],
+        ["item","hbm:det_cord",2],
+        ["item","hbm:powder_magic",12],
+        ["dict","container1000watz"]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_10_taint"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw10cloud",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["dict","plateWeaponSteel",8],
+        ["item","hbm:det_cord",2],
+        ["item","hbm:powder_magic",16]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_10_cloud"]]
+      ],
+      "duration": 100,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw15he",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","plateWeaponSteel",18],
+        ["dict","ingotAnyHighexplosive",8],
+        ["item","hbm:circuit",1,9]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_he"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw15healt",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["item","hbm:warhead_generic_large"]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_he"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw15inc",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","plateWeaponSteel",18],
+        ["dict","ingotAnyHighexplosive",8],
+        ["dict","dustRedPhosphorus",8],
+        ["item","hbm:circuit",1,9]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_incendiary"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpw15incalt",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["item","hbm:warhead_incendiary_large"]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_incendiary"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.warheadvolcano",
+      "inputItem": [
+        ["dict","plateWeaponSteel",18],
+        ["item","hbm:det_nuke",3],
+        ["dict","blockUranium238",24],
+        ["item","hbm:circuit",1,10]
+      ],
+      "outputItem": [
+        ["single",["hbm:warhead_volcano"]]
+      ],
+      "duration": 600,
+      "power": 100
+    },
+    {
+      "name": "ass.warheadthermonuke",
+      "inputItem": [
+        ["dict","plateWeaponSteel",18],
+        ["dict","billetPlutonium239",16],
+        ["item","hbm:ball_tatb",24],
+        ["item","hbm:neutron_reflector",16],
+        ["item","hbm:circuit",1,14]
+      ],
+      "inputFluid": [
+        ["DEUTERIUM",10000]
+      ],
+      "outputItem": [
+        ["single",["hbm:warhead_mirv"]]
+      ],
+      "duration": 600,
+      "power": 100
+    },
+    {
+      "name": "ass.mpwarhead15thermo",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","plateWeaponSteel",18],
+        ["dict","billetPlutonium239",16],
+        ["item","hbm:ball_tatb",24],
+        ["item","hbm:neutron_reflector",16],
+        ["item","hbm:circuit",1,14]
+      ],
+      "inputFluid": [
+        ["DEUTERIUM",10000]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_thermo"]]
+      ],
+      "duration": 600,
+      "power": 100
+    },
+    {
+      "name": "ass.mpwarhead15thermoalt",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["item","hbm:warhead_mirv"]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_thermo"]]
+      ],
+      "duration": 600,
+      "power": 100
+    },
+    {
+      "name": "ass.mpf1015hydro",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["item","hbm:seg_15"],
+        ["dict","plateCopper",24],
+        ["dict","plateSteel",8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_10_15_hydrogen"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpf1015bf",
+      "inputItem": [
+        ["item","hbm:seg_10"],
+        ["item","hbm:seg_15"],
+        ["dict","plateSaturnite",24],
+        ["dict","plateSteel",8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_10_15_balefire"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpf15kero",
+      "inputItem": [
+        ["item","hbm:seg_15",2],
+        ["dict","plateAluminum",32],
+        ["dict","plateWeaponSteel",12]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_15_kerosene"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpf15solid",
+      "inputItem": [
+        ["item","hbm:seg_15",2],
+        ["dict","plateTitanium",32],
+        ["dict","plateWeaponSteel",12]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_15_solid"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpf15hydro",
+      "inputItem": [
+        ["item","hbm:seg_15",2],
+        ["dict","plateCopper",32],
+        ["dict","plateWeaponSteel",12]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_15_hydrogen"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpf1520kero",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["item","hbm:seg_20"],
+        ["dict","plateAluminum",48],
+        ["dict","plateWeaponSteel",16]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_15_20_kerosene"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpf1520solid",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["item","hbm:seg_20"],
+        ["dict","plateTitanium",48],
+        ["dict","plateWeaponSteel",16]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_fuselage_15_20_solid"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt15kero",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","ntmpipeSteel",3],
+        ["dict","ingotTungsten",8],
+        ["dict","plateWeaponSteel",8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_15_kerosene"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt15kerodual",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","ntmpipeSteel",3],
+        ["dict","ingotTungsten",8],
+        ["dict","plateWeaponSteel",8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_15_kerosene_dual"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt15kerotriple",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","ntmpipeSteel",3],
+        ["dict","ingotTungsten",8],
+        ["dict","plateWeaponSteel",8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_15_kerosene_triple"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt15solid",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","ntmpipeDuraSteel",3],
+        ["dict","ingotTungsten",8],
+        ["dict","plateWeaponSteel",8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_15_solid"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt15solid16",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","ntmpipeDuraSteel",3],
+        ["dict","ingotTungsten",8],
+        ["dict","plateWeaponSteel",8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_15_solid_hexdecuple"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt15hydro",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","ntmpipeDuraSteel",3],
+        ["dict","ingotTungsten",8],
+        ["dict","ingotWorkersAlloy",4]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_15_hydrogen"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt15hydrodual",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","ntmpipeDuraSteel",3],
+        ["dict","ingotTungsten",8],
+        ["dict","ingotWorkersAlloy",4]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_15_hydrogen_dual"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt15bfshort",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","ntmpipeDuraSteel",5],
+        ["dict","plateTripleTungsten",8],
+        ["dict","plateSaturnite",8]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_15_balefire_short"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt15bf",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","ntmpipeDuraSteel",5],
+        ["dict","plateTripleTungsten",16],
+        ["dict","plateSaturnite",16]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_15_balefire"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt15bflarge",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","ntmpipeDuraSteel",10],
+        ["dict","plateTripleTungsten",16],
+        ["dict","plateSaturnite",24]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_15_balefire_large"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt20kero",
+      "inputItem": [
+        ["item","hbm:seg_20"],
+        ["dict","ntmpipeSteel",6],
+        ["dict","ingotTungsten",16],
+        ["dict","plateWeaponSteel",16]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_20_kerosene"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt20kerodual",
+      "inputItem": [
+        ["item","hbm:seg_20"],
+        ["dict","ntmpipeSteel",6],
+        ["dict","ingotTungsten",16],
+        ["dict","plateWeaponSteel",16]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_20_kerosene_dual"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt20kerotriple",
+      "inputItem": [
+        ["item","hbm:seg_20"],
+        ["dict","ntmpipeSteel",6],
+        ["dict","ingotTungsten",16],
+        ["dict","plateWeaponSteel",16]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_20_kerosene_triple"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt20solid",
+      "inputItem": [
+        ["item","hbm:seg_20"],
+        ["dict","ntmpipeDuraSteel",6],
+        ["dict","ingotTungsten",16],
+        ["dict","plateWeaponSteel",16]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_20_solid"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt20solidmulti",
+      "inputItem": [
+        ["item","hbm:seg_20"],
+        ["dict","ntmpipeDuraSteel",6],
+        ["dict","ingotTungsten",16],
+        ["dict","plateWeaponSteel",16]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_20_solid_multi"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpt20solidmultier",
+      "inputItem": [
+        ["item","hbm:seg_20"],
+        ["dict","ntmpipeDuraSteel",6],
+        ["dict","ingotTungsten",16],
+        ["dict","plateWeaponSteel",16]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_thruster_20_solid_multier"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.mpwarhead15volcano",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","plateWeaponSteel",18],
+        ["item","hbm:det_nuke",3],
+        ["dict","blockUranium238",24],
+        ["item","hbm:circuit",1,10]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_volcano"]]
+      ],
+      "duration": 600,
+      "power": 100
+    },
+    {
+      "name": "ass.mpwarhead15volcanoalt",
+      "inputItem": [
+        ["item","hbm:seg_15"],
+        ["dict","warhead_volcano"]
+      ],
+      "outputItem": [
+        ["single",["hbm:mp_warhead_15_volcano"]]
+      ],
+      "duration": 600,
+      "power": 100
     }
   ],
+  "comment": "ignore, rule for warheads: size 10 = 12 plates, 15 = 18. all weapon steel plates. size 10 = integrated circuit, HE and INC = military grade, others control unit, bale advanced control unit, ONE only its not like these warheads are fucking supercomputers.",
   "comment": "Parity from 1.7.10:  add flashdrive, tweak pyrooven, tweak iturbine,  tweak fusioncore.",
   "comment": "Removed: breeder and research reactors.",
   "comment": "Custom Added: mpfuselage15balefire, mpwarhead15thermo, mpwarhead15mirv, warheadn2 and warheadmirvlet, missilen2, mpw15bf, thrusternerva, tweak satelliterelay",
   "comment": "Fix: remove 'new' sliding blast door, tweak 'legacy' sliding blast door",
   "comment": "Total modified: 17 (always double check).",
-  "comment": "Changed but not counted : Tweaked: platemixed, mpw15nuke, pwrreflector, boyshield, himarssmallnuke, soliniumcharge, mpw10nukesmall, mpw10nukelarge. dict plateTungCar -> neutron Reflector"
+  "comment": "Changed but not counted : Tweaked: platemixed, mpw15nuke, pwrreflector, boyshield, himarssmallnuke, soliniumcharge, mpw10nukesmall, mpw10nukelarge. dict plateTungCar -> neutron Reflector because im goofy and i didnt see this means nothing"
 }
