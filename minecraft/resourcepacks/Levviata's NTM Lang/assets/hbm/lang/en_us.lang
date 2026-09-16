@@ -9,8 +9,10 @@ item.inf_water.name=Infinite Water Barrel
 item.inf_water_mk2.name=Infinite Water Barrel Mk.²
 tile.sliding_blast_door_2.name=Sliding Blast Door
 tile.blast_door.name=Single Blast Door
+item.warhead_mirvlet.name=Small Nuclear Warhead
 ## legacy ##
 item.template_folder.name=Template Folder (LEGACY)
+tile.machine_large_turbine.name=Industrial Steam Turbine (LEGACY)
 # coils
 tile.hadron_coil_mese.name=Dense Mese Coil (LEGACY)
 tile.hadron_coil_alloy.name=Dense Superconducting Coil (LEGACY)
