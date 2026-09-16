@@ -37,5 +37,29 @@
 		uid: "09657f1b",
 		type: "choice",
 		table: 2
+	},
+	{
+		uid: "b161a2b4",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 24
+	},
+	{
+		uid: "f661da45",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 16
+	},
+	{
+		uid: "2a6e20be",
+		type: "item",
+		item: "hbm:plate_polymer",
+		count: 32
+	},
+	{
+		uid: "e0514bf7",
+		type: "item",
+		item: "hbm:circuit 1 3",
+		count: 8
 	}]
 }

@@ -22,6 +22,24 @@
 	rewards: [{
 		uid: "45be5248",
 		type: "xp",
-		xp: 20
+		xp: 100
+	},
+	{
+		uid: "b21bce8e",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 16
+	},
+	{
+		uid: "1c92ac9d",
+		type: "item",
+		item: "hbm:ingot_aluminium",
+		count: 8
+	},
+	{
+		uid: "8dd3cfe6",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 4
 	}]
 }

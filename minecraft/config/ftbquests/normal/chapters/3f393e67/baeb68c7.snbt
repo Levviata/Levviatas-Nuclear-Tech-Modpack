@@ -59,5 +59,29 @@
 		uid: "8f751fa0",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "74da5784",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 16
+	},
+	{
+		uid: "5c6d4e68",
+		type: "item",
+		item: "hbm:powder_flux",
+		count: 32
+	},
+	{
+		uid: "6fdd4a34",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 12
+	},
+	{
+		uid: "fb857e47",
+		type: "item",
+		item: "hbm:ingot_tungsten",
+		count: 4
 	}]
 }

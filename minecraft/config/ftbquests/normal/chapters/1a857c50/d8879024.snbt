@@ -31,5 +31,23 @@
 				PELLET_DEPLETION: 1752000000L
 			}
 		}
+	},
+	{
+		uid: "fb60a2fa",
+		type: "item",
+		item: "hbm:ingot_lead",
+		count: 8
+	},
+	{
+		uid: "2e77243f",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 4
+	},
+	{
+		uid: "4d900177",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 4
 	}]
 }

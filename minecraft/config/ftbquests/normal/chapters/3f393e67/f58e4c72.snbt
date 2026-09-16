@@ -103,5 +103,17 @@
 				}]
 			}
 		}
+	},
+	{
+		uid: "8764f29e",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 8
+	},
+	{
+		uid: "f9efd8f2",
+		type: "item",
+		item: "hbm:powder_flux",
+		count: 32
 	}]
 }

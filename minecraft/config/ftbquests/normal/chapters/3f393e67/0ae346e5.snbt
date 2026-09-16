@@ -22,5 +22,17 @@
 		uid: "0539b42b",
 		type: "xp",
 		xp: 50
+	},
+	{
+		uid: "f8b52a7d",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 8
+	},
+	{
+		uid: "e3b26ee8",
+		type: "item",
+		item: "hbm:powder_flux",
+		count: 32
 	}]
 }
