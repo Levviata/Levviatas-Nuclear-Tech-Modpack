@@ -1,9 +1,16 @@
 {
-	x: 5.0d,
-	y: 29.5d,
-	description: "Carry a few",
+	title: "Contamination Removal",
+	x: 5.5d,
+	y: 29.0d,
+	description: "Handful to have at all times",
 	text: [
-		"The Player Decontaminator is a handy block that removes radiation from the player."
+		"§6Player Decontaminator§r",
+		"",
+		"The Player Decontaminator is a handy block that removes radiation from the player.",
+		"",
+		"§6RadAway§r",
+		"",
+		"RadAway is a consumable that clears radiation contamination from the player, this is the first tier."
 	],
 	dependencies: [
 		"974fcf0f"
@@ -14,10 +21,54 @@
 		items: [{
 			item: "hbm:decon"
 		}]
+	},
+	{
+		uid: "c1dafd53",
+		type: "item",
+		items: [{
+			item: "hbm:radaway"
+		}]
+	},
+	{
+		uid: "48241629",
+		type: "item",
+		items: [{
+			item: "hbm:iv_empty"
+		}]
 	}],
 	rewards: [{
 		uid: "9edc80ef",
 		type: "xp",
 		xp: 50
+	},
+	{
+		uid: "38f083f3",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 4
+	},
+	{
+		uid: "b487b764",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 4
+	},
+	{
+		uid: "cbde1a5b",
+		type: "item",
+		item: "hbm:ingot_beryllium",
+		count: 4
+	},
+	{
+		uid: "5f780bb1",
+		type: "item",
+		item: "hbm:ingot_biorubber",
+		count: 16
+	},
+	{
+		uid: "153a75ea",
+		type: "item",
+		item: "hbm:plate_iron",
+		count: 16
 	}]
 }
