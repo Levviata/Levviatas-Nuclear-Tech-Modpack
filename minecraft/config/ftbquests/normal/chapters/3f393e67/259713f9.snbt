@@ -1,0 +1,47 @@
+{
+	title: "Crates and Toolbox",
+	x: 2.5d,
+	y: 11.0d,
+	description: "Almost backpacks",
+	text: [
+		"§6Crates",
+		"",
+		"Crates can hold many items and can be opened while holding them.",
+		"",
+		"A max of one crate can be recursively hold, with one crate holding as many single crates as desired.",
+		"",
+		"There are",
+		"- Steel",
+		"- and Desh crates",
+		"",
+		"Tungsten Crates are used as a crafting recipent later on, so they are not useful for holding items.",
+		"",
+		"§6Toolbox",
+		"",
+		"The Toolbox can hold another set of hotbars, which are stored and configured with Shift-right-click and sifted with right-click."
+	],
+	dependencies: [
+		"e4708a01"
+	],
+	tasks: [{
+		uid: "eb8e78f0",
+		type: "item",
+		items: [{
+			item: "hbm:crate_iron"
+		}]
+	},
+	{
+		uid: "ca4df77c",
+		type: "item",
+		items: [{
+			item: "hbm:toolbox"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d80aa7e3",
+		type: "xp",
+		xp: 50
+	}]
+}
