@@ -2,7 +2,8 @@
 	x: 1.5d,
 	y: -4.0d,
 	text: [
-		"The Magnetic Antimatter Container can hold 16000mB.",
+		"The Magnetic Antimatter Container can hold 32000mB.",
+		"(buffed from 16b to 32b by me)",
 		"",
 		"It can store all fluids, including antimatter."
 	],
