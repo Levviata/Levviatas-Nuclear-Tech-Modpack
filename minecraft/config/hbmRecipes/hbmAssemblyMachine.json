@@ -8336,7 +8336,7 @@
         ["item","hbm:seg_15"],
         ["dict","plateWeaponSteel",12],
         ["dict","plateSaturnite",4],
-        ["item","hbm:det_bale",5],
+        ["item","hbm:det_bale",4],
         ["item","hbm:circuit",1,14]
       ],
       "outputItem": [
