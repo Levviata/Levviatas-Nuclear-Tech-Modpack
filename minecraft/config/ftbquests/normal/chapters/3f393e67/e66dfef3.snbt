@@ -1,13 +1,15 @@
 {
-	x: 6.5d,
-	y: 30.0d,
+	x: 6.517857142857132d,
+	y: 30.75892857142857d,
+	shape: "hexagon",
 	text: [
 		"The Industrial Smokestack reduces pollution emissions from machines by 90%.",
 		"",
 		"It can also produce two types of ash, Fine Soot being used for a late game material later."
 	],
 	dependencies: [
-		"974fcf0f"
+		"974fcf0f",
+		"516dc394"
 	],
 	size: 1.25d,
 	tasks: [{
@@ -20,6 +22,6 @@
 	rewards: [{
 		uid: "1e93f55b",
 		type: "xp",
-		xp: 20
+		xp: 100
 	}]
 }
