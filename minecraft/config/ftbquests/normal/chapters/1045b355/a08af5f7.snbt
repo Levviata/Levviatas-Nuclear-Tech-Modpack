@@ -6,6 +6,8 @@
 	shape: "rsquare",
 	description: "How to see recipes and inspect blocks",
 	text: [
+		"§6HEI§r",
+		"",
 		"Had Enough Items (HEI) is a mod that adds a catalog of items with their recipes and uses.",
 		"",
 		"CTRL + O toggles the item catalog",
@@ -14,6 +16,7 @@
 		"",
 		"Key R and U shows Recipes and Uses.",
 		"",
+		"§6WAILA§r",
 		"",
 		"WAILA (What Am I Looking At?) is a mod that gives you information about blocks, liquids and entities you are looking at at the top of your screen.",
 		"",

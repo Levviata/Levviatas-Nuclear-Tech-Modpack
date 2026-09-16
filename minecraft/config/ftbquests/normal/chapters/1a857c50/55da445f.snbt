@@ -3,8 +3,7 @@
 	y: -4.5d,
 	shape: "pentagon",
 	text: [
-		"By tumbling redstone ore in a centrifuger, you get a drop of mercury, this can be used to make desh.",
-		"Redstone Crystals work too."
+		"By tumbling Redstone Ore or Crystal in a centrifuger, you get a drop of mercury, this can be used to make desh."
 	],
 	dependencies: [
 		"078d10db"

@@ -4,7 +4,7 @@
 	text: [
 		"The Tank is the golden rule of fluid storage and it can hold 256000mB (256 Buckets) of any non-hazardous or antimatter fluid.",
 		"",
-		"If you haven't, check out the Fluids chapter, it has full information for all barrels, tanks, and pipes!"
+		"If you haven't, check out the Fluids chapter, it has full information for all barrels, tanks, and pipes."
 	],
 	dependencies: [
 		"d4938236",

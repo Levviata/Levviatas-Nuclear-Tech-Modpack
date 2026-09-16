@@ -50,7 +50,8 @@
 		"- Decompress Stack with Substract",
 		"- Refill Last with Ctrl + tab",
 		"- Refill Last (Stack) with Ctrl + Mayus / Capital",
-		"- Toggle Buttons with End"
+		"- Toggle Buttons with End",
+		"I know no one will use these, I was bored"
 	],
 	tasks: [{
 		uid: "c35b22df",
