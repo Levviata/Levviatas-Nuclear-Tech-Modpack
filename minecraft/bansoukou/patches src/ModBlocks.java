@@ -47,6 +47,10 @@ import static com.hbm.blocks.BlockEnums.LightType;
 import static com.hbm.blocks.BlockEnums.OreType;
 import static com.hbm.blocks.OreEnumUtil.OreEnum;
 
+// Levviata changes:
+// buffed barrel antimatter total storage to 32 buckets from 16 b:
+// public static final Block barrel_antimatter = new BlockFluidBarrel(Material.IRON, 32000, "barrel_antimatter").setSoundType(SoundType.METAL).setHardness(2.0F).setResistance(5.0F).setCreativeTab(MainRegistry.machineTab);
+
 public class ModBlocks {
 
     public static List<Block> ALL_BLOCKS = new ArrayList<>();

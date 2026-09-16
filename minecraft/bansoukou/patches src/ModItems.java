@@ -71,6 +71,23 @@ import static com.hbm.items.weapon.ItemMissile.WarheadType;
 //    public static final Item euphemium_capacitor = new ItemCustomLore("euphemium_capacitor").setMaxStackSize(1).setCreativeTab(MainRegistry.controlTab);
 //    public static final Item warhead_thermo_endo = new ItemBase("warhead_thermo_endo").setCreativeTab(MainRegistry.partsTab);
 //    public static final Item warhead_thermo_exo = new ItemBase("warhead_thermo_exo").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item mechanism_revolver_1 = new ItemBase("mechanism_revolver_1").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item mechanism_revolver_2 = new ItemBase("mechanism_revolver_2").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item mechanism_rifle_1 = new ItemBase("mechanism_rifle_1").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item mechanism_rifle_2 = new ItemBase("mechanism_rifle_2").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item mechanism_launcher_1 = new ItemBase("mechanism_launcher_1").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item mechanism_launcher_2 = new ItemBase("mechanism_launcher_2").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item mechanism_special = new ItemBase("mechanism_special").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item primer_357 = new ItemBase("primer_357").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item primer_44 = new ItemBase("primer_44").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item primer_9 = new ItemBase("primer_9").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item primer_50 = new ItemBase("primer_50").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item primer_buckshot = new ItemBase("primer_buckshot").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item casing_357 = new ItemBase("casing_357").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item casing_44 = new ItemBase("casing_44").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item casing_9 = new ItemBase("casing_9").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item casing_50 = new ItemBase("casing_50").setCreativeTab(MainRegistry.partsTab);
+//    public static final Item casing_buckshot = new ItemBase("casing_buckshot").setCreativeTab(MainRegistry.partsTab);
 // added hp to mp:
 //    public static final Item mp_stability_20_flat = new ItemMissile("mp_stability_20_flat").makeStability(0.5F, PartSize.SIZE_20).setHealth(25F);
 
@@ -324,6 +341,7 @@ public class ModItems {
     public static final Item cart = new ItemModMinecart("cart");
     public static final Item train = new ItemTrain("train");
     public static final Item coupling_tool = new ItemCouplingTool("coupling_tool").setMaxStackSize(1).setCreativeTab(MainRegistry.consumableTab);
+
     public static final Item battery_generic = new ItemBattery(5000, 100, 100, "battery_generic").setMaxStackSize(1).setCreativeTab(null);
     public static final Item battery_red_cell = new ItemBattery(15000, 100, 100, "battery_red_cell").setMaxStackSize(1).setCreativeTab(null);
     public static final Item battery_red_cell_6 = new ItemBattery(15000 * 6, 100, 100, "battery_red_cell_6").setMaxStackSize(1).setCreativeTab(null);
@@ -340,16 +358,18 @@ public class ModItems {
     public static final Item battery_schrabidium_cell = new ItemBattery(3000000, 15000, 15000, "battery_schrabidium_cell").setMaxStackSize(1).setCreativeTab(null);
     public static final Item battery_schrabidium_cell_2 = new ItemBattery(3000000 * 2, 30000, 30000, "battery_schrabidium_cell_2").setMaxStackSize(1).setCreativeTab(null);
     public static final Item battery_schrabidium_cell_4 = new ItemBattery(3000000 * 4, 60000, 60000, "battery_schrabidium_cell_4").setMaxStackSize(1).setCreativeTab(null);
-    public static final Item battery_trixite = new ItemBakedBase("battery_trixite").setMaxStackSize(1).setCreativeTab(MainRegistry.nukeTab);
-    public static final Item battery_spark = new ItemBakedBase("battery_spark").setMaxStackSize(1).setCreativeTab(MainRegistry.nukeTab);
     public static final Item battery_spark_cell_6 = new ItemBattery(100000000 * 6, 2000000, 2000000, "battery_spark_cell_6").setMaxStackSize(1).setCreativeTab(null);
     public static final Item battery_spark_cell_25 = new ItemBattery(100000000L * 25L, 2000000, 2000000, "battery_spark_cell_25").setMaxStackSize(1).setCreativeTab(null);
     public static final Item battery_spark_cell_100 = new ItemBattery(1000000000L * 10L, 1000000L * 5L, 1000000L * 5L, "battery_spark_cell_100").setMaxStackSize(1).setCreativeTab(null);
     public static final Item battery_spark_cell_1000 = new ItemBattery(1000000000L * 100L, 10000000L * 5L, 10000000L * 5L, "battery_spark_cell_1000").setMaxStackSize(1).setCreativeTab(null);
     public static final Item battery_spark_cell_2500 = new ItemBattery(1000000000L * 250L, 100000000L * 5L, 100000000L * 5L, "battery_spark_cell_2500").setMaxStackSize(1).setCreativeTab(null);
-    public static final Item cube_power = new ItemBattery(1000000000000000000L, 1000000000000000L, 1000000000000000L, "cube_power").setMaxStackSize(1).setCreativeTab(MainRegistry.controlTab);
     public static final Item battery_spark_cell_10000 = new ItemBattery(1000000000L * 1000L, 1000000000L * 5L, 1000000000L * 5L, "battery_spark_cell_10000").setMaxStackSize(1).setCreativeTab(null);
     public static final Item battery_spark_cell_power = new ItemBattery(1000000000L * 100000L, 1000000000L * 500L, 1000000000L * 500L, "battery_spark_cell_power").setMaxStackSize(1).setCreativeTab(null);
+
+    public static final Item battery_trixite = new ItemBakedBase("battery_trixite").setMaxStackSize(1).setCreativeTab(MainRegistry.nukeTab);
+    public static final Item battery_spark = new ItemBakedBase("battery_spark").setMaxStackSize(1).setCreativeTab(MainRegistry.nukeTab);
+
+    public static final Item cube_power = new ItemBattery(1000000000000000000L, 1000000000000000L, 1000000000000000L, "cube_power").setMaxStackSize(1).setCreativeTab(MainRegistry.controlTab);
     public static final Item battery_potato = new ItemBattery(100, 0, 100, "battery_potato").setMaxStackSize(1).setCreativeTab(MainRegistry.controlTab);
     public static final Item battery_potatos = new ItemPotatos(5000, 0, 100, "battery_potatos").setMaxStackSize(1).setCreativeTab(MainRegistry.controlTab);
     public static final Item hev_battery = new ItemFusionCore(150000, "hev_battery").setMaxStackSize(4).setCreativeTab(MainRegistry.controlTab);
@@ -1855,23 +1875,6 @@ public class ModItems {
     public static final ItemEnumMulti<ScrapType> circuit_star_piece = new ItemEnumMulti<>("circuit_star_piece", ScrapType.VALUES, true, true).setCreativeTab(null);
     public static final ItemEnumMulti<CircuitComponentType> circuit_star_component = new ItemEnumMulti<>("circuit_star_component", CircuitComponentType.VALUES, true, true).setCreativeTab(null);
     public static final Item circuit_star = new ItemCustomLore("circuit_star").setRarity(EnumRarity.UNCOMMON).setCreativeTab(null);
-    public static final Item mechanism_revolver_1 = new ItemBase("mechanism_revolver_1").setCreativeTab(MainRegistry.partsTab);
-    public static final Item mechanism_revolver_2 = new ItemBase("mechanism_revolver_2").setCreativeTab(MainRegistry.partsTab);
-    public static final Item mechanism_rifle_1 = new ItemBase("mechanism_rifle_1").setCreativeTab(MainRegistry.partsTab);
-    public static final Item mechanism_rifle_2 = new ItemBase("mechanism_rifle_2").setCreativeTab(MainRegistry.partsTab);
-    public static final Item mechanism_launcher_1 = new ItemBase("mechanism_launcher_1").setCreativeTab(MainRegistry.partsTab);
-    public static final Item mechanism_launcher_2 = new ItemBase("mechanism_launcher_2").setCreativeTab(MainRegistry.partsTab);
-    public static final Item mechanism_special = new ItemBase("mechanism_special").setCreativeTab(MainRegistry.partsTab);
-    public static final Item primer_357 = new ItemBase("primer_357").setCreativeTab(MainRegistry.partsTab);
-    public static final Item primer_44 = new ItemBase("primer_44").setCreativeTab(MainRegistry.partsTab);
-    public static final Item primer_9 = new ItemBase("primer_9").setCreativeTab(MainRegistry.partsTab);
-    public static final Item primer_50 = new ItemBase("primer_50").setCreativeTab(MainRegistry.partsTab);
-    public static final Item primer_buckshot = new ItemBase("primer_buckshot").setCreativeTab(MainRegistry.partsTab);
-    public static final Item casing_357 = new ItemBase("casing_357").setCreativeTab(MainRegistry.partsTab);
-    public static final Item casing_44 = new ItemBase("casing_44").setCreativeTab(MainRegistry.partsTab);
-    public static final Item casing_9 = new ItemBase("casing_9").setCreativeTab(MainRegistry.partsTab);
-    public static final Item casing_50 = new ItemBase("casing_50").setCreativeTab(MainRegistry.partsTab);
-    public static final Item casing_buckshot = new ItemBase("casing_buckshot").setCreativeTab(MainRegistry.partsTab);
     // Wires and things
     public static final Item coil_gold = new ItemBase("coil_gold").setCreativeTab(MainRegistry.partsTab);
     public static final Item coil_gold_torus = new ItemBase("coil_gold_torus").setCreativeTab(MainRegistry.partsTab);
