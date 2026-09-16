@@ -7,8 +7,15 @@
 	tasks: [{
 		uid: "8a4ddae1",
 		type: "item",
+		title: "Uranium-235",
 		items: [{
 			item: "hbm:nugget_u235"
+		},
+		{
+			item: "hbm:ingot_u235"
+		},
+		{
+			item: "hbm:billet_u235"
 		}]
 	}]
 }
