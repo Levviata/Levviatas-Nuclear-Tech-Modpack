@@ -1,4 +1,5 @@
 {
+	icon: "hbm:radio_autocal",
 	x: -10.0d,
 	y: 30.5d,
 	shape: "circle",
@@ -16,12 +17,17 @@
 		"8a25fa82"
 	],
 	size: 1.25d,
+	or_tasks: true,
 	tasks: [{
 		uid: "4a79ccbb",
 		type: "item",
 		items: [{
 			item: "hbm:radio_autocal"
 		}]
+	},
+	{
+		uid: "f1f7df14",
+		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "3306e871",
