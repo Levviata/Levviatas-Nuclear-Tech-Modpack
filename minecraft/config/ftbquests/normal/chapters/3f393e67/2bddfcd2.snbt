@@ -1,6 +1,6 @@
 {
-	x: 12.0d,
-	y: 24.5d,
+	x: 13.0d,
+	y: 23.0d,
 	shape: "pentagon",
 	description: "Get the miserably forgotten hoe!",
 	text: [

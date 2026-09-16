@@ -1,6 +1,6 @@
 {
 	x: 10.0d,
-	y: 22.0d,
+	y: 24.0d,
 	min_required_dependencies: 1,
 	dependencies: [
 		"de486724",
