@@ -1,7 +1,7 @@
 {
 	title: "Advanced Hazmat Suit",
-	x: 10.0d,
-	y: 27.5d,
+	x: 9.5d,
+	y: 28.0d,
 	text: [
 		"Hazmat Suit but red, gives 90% radiation resistance"
 	],
