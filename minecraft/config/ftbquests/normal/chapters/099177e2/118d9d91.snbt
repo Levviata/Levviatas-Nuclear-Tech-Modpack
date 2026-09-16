@@ -5,7 +5,11 @@
 	text: [
 		"Warheads are the explosive charge of the missile.",
 		"",
-		"Must match the fuselage's top size."
+		"Must match the fuselage's top size.",
+		"",
+		"Recipes reworked",
+		"- Premade and Custom warheads have cohesion between themselves and can be swapped sometimes",
+		"- Size 15 containing Steel Plates have been replaced to Weapon Steel."
 	],
 	tasks: [{
 		uid: "d7fb7417",

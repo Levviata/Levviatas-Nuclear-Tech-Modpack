@@ -12,7 +12,10 @@
 		"- Mass",
 		"- Main portion of the total HP",
 		"",
-		"As a gift you get a cool fuselage."
+		"As a gift you get a cool fuselage.",
+		"",
+		"Fuselage recipes have been tweaked",
+		"- Size 15 containing Steel Plates have been replaced to Weapon Steel (to account for their higher health)"
 	],
 	tasks: [{
 		uid: "2a5c3eb4",

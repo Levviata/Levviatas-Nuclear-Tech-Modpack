@@ -5,7 +5,10 @@
 	text: [
 		"Thrusters move the rocket and add HP. ",
 		"",
-		"Must match the fuselage's fuel type and bottom size."
+		"Must match the fuselage's fuel type and bottom size.",
+		"",
+		"Recipes tweaked",
+		"- Size 15 containing Steel Plates have been replaced to Weapon Steel."
 	],
 	tasks: [{
 		uid: "008c06e3",
