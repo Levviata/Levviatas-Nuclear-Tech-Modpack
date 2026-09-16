@@ -16,6 +16,7 @@
 		"6dfb480a"
 	],
 	size: 1.5d,
+	or_tasks: true,
 	tasks: [{
 		uid: "885cf376",
 		type: "item",
@@ -55,6 +56,12 @@
 	rewards: [{
 		uid: "661a8722",
 		type: "xp",
-		xp: 20
+		xp: 100
+	},
+	{
+		uid: "30f85dfc",
+		type: "item",
+		item: "hbm:ingot_dura_steel",
+		count: 12
 	}]
 }
