@@ -1696,6 +1696,18 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
+// no recipe in 1.7.10, why bob?
+crafting.shapedBuilder()
+        .output(item('hbm:grenade_extra:3'))
+        .row(' B ')
+        .row('BCB')
+        .row(' A ')
+        .key('A', ore('plateSteel'))
+        .key('B', ore('grenadeShell'))
+        .key('C', item('hbm:powder_magic'))
+        .register()
+recipeCount++
+
 
 // END NUCLEAR TECH //
 
