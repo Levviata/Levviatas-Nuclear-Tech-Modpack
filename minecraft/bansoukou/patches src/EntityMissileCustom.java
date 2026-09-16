@@ -37,6 +37,8 @@ import net.minecraft.world.World;
 import java.util.ArrayList;
 import java.util.List;
 
+// added logic in method onMissileImpact() for VOLCANO case (size 15 volcano warhead)
+
 @AutoRegister(name = "entity_custom_missile", trackingRange = 1000)
 public class EntityMissileCustom extends EntityMissileBaseNT implements IChunkLoader {
 
@@ -253,6 +255,7 @@ public class EntityMissileCustom extends EntityMissileBaseNT implements IChunkLo
 					vec.rotateYawSelf((float) (Math.PI * 2F / (float) count));
 				}
 				break;
+            // levviatainc fix, copied logic from tectonic missile
             case VOLCANO:
                 ExplosionLarge.explode(world, thrower, posX, posY, posZ, 10.0F, true, true, true);
                 BlockPos.MutableBlockPos posVolcano = new BlockPos.MutableBlockPos();
