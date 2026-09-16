@@ -31,8 +31,14 @@
 		table: 3
 	},
 	{
-		uid: "a36aa857",
+		uid: "e97eb7bd",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 8
+	},
+	{
+		uid: "97572ab7",
 		type: "xp",
-		xp: 50
+		xp: 100
 	}]
 }

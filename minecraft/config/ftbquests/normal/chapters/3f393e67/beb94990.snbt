@@ -23,5 +23,17 @@
 		uid: "cce0c8cb",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "81a074d4",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 8
+	},
+	{
+		uid: "93fc704f",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 8
 	}]
 }

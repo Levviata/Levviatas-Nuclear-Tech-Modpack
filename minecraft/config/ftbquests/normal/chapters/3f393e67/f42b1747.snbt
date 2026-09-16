@@ -28,5 +28,23 @@
 		uid: "9ba4e0c1",
 		type: "random",
 		table: 3
+	},
+	{
+		uid: "c0c7331b",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 4
+	},
+	{
+		uid: "4916ad1d",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 16
+	},
+	{
+		uid: "25fb04e2",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 8
 	}]
 }

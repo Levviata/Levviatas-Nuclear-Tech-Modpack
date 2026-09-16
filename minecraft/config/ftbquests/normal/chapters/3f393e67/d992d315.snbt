@@ -46,5 +46,17 @@
 		uid: "62ebb659",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "f9badab3",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 8
+	},
+	{
+		uid: "e336a2ee",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 16
 	}]
 }

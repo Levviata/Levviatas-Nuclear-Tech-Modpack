@@ -32,5 +32,17 @@
 				charge: 600000L
 			}
 		}
+	},
+	{
+		uid: "282e53b2",
+		type: "item",
+		item: "hbm:ingot_beryllium",
+		count: 8
+	},
+	{
+		uid: "b8f2255f",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 8
 	}]
 }

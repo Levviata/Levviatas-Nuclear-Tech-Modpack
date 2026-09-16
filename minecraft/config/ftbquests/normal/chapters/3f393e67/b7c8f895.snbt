@@ -19,20 +19,14 @@
 		}]
 	}],
 	rewards: [{
-		uid: "665236a3",
-		type: "item",
-		item: "minecraft:iron_ingot",
-		count: 8
-	},
-	{
-		uid: "2297f632",
-		type: "item",
-		item: "minecraft:coal",
-		count: 8
-	},
-	{
 		uid: "92ad2d19",
 		type: "xp",
 		xp: 50
+	},
+	{
+		uid: "2dd9743f",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 8
 	}]
 }

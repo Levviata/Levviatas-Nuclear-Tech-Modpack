@@ -23,5 +23,23 @@
 		uid: "1551da1c",
 		type: "random",
 		table: 3
+	},
+	{
+		uid: "3cd0781c",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 8
+	},
+	{
+		uid: "d0490dad",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 8
+	},
+	{
+		uid: "661c9107",
+		type: "item",
+		item: "hbm:ingot_red_copper",
+		count: 8
 	}]
 }

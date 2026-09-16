@@ -43,5 +43,17 @@
 		uid: "64db028f",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "39baa2b2",
+		type: "item",
+		item: "hbm:ingot_steel",
+		count: 32
+	},
+	{
+		uid: "d47f82fd",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 2
 	}]
 }

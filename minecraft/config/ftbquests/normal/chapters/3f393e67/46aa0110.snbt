@@ -25,5 +25,11 @@
 		uid: "9b7dad2f",
 		type: "xp",
 		xp: 100
+	},
+	{
+		uid: "eeeaf5f6",
+		type: "item",
+		item: "hbm:ingot_copper",
+		count: 8
 	}]
 }
