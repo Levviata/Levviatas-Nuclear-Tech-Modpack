@@ -1,14 +1,14 @@
 {
 	title: "High-Performance Hazmat Suit",
-	x: 11.5d,
-	y: 28.0d,
+	x: 11.0d,
+	y: 27.5d,
 	text: [
 		"Gray and boring but efective, gives 99% radiation resistance."
 	],
-	hide_dependency_lines: true,
 	dependencies: [
-		"974fcf0f"
+		"be6e8b4c"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "37db2944",
 		type: "item",
@@ -44,6 +44,13 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "c8ee030b",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_cloth_grey"
+		}]
 	}],
 	rewards: [{
 		uid: "09b24d85",

@@ -1,6 +1,6 @@
 {
 	title: "Hazmat Suit",
-	x: 9.5d,
+	x: 9.0d,
 	y: 27.5d,
 	text: [
 		"The Hazmat Suit is an armor set which gives resistance to radiation, this set has 74% radiation protection."
@@ -8,6 +8,7 @@
 	dependencies: [
 		"974fcf0f"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "7e1a9fad",
 		type: "item",
@@ -43,6 +44,13 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "fdafc0a8",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_cloth"
+		}]
 	}],
 	rewards: [{
 		uid: "d8836332",
