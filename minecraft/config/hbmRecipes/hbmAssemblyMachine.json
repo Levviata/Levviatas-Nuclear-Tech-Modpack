@@ -9395,7 +9395,7 @@
       "name": "ass.mpwarhead15volcanoalt",
       "inputItem": [
         ["item","hbm:seg_15"],
-        ["dict","warhead_volcano"]
+        ["item","hbm:warhead_volcano"]
       ],
       "outputItem": [
         ["single",["hbm:mp_warhead_15_volcano"]]
