@@ -1,7 +1,7 @@
 {
 	x: 8.5d,
 	y: 28.5d,
-	description: "Handful to have at all times!",
+	description: "Handful to have at all times",
 	text: [
 		"RadAway is a consumable that clears radiation contamination from the player, this is the first tier."
 	],
