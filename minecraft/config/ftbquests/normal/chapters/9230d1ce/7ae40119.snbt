@@ -17,6 +17,6 @@
 	rewards: [{
 		uid: "e2741504",
 		type: "xp",
-		xp: 20
+		xp: 200
 	}]
 }

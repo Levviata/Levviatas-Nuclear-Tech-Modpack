@@ -20,8 +20,8 @@
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "d308e7c1",
+		uid: "9ac87f96",
 		type: "xp",
-		xp: 100
+		xp: 200
 	}]
 }
