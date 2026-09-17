@@ -10,12 +10,12 @@ lib
 minecraft/WailaErrorOutput.txt
 minecraft/WailaHandlerDump.md
 minecraft/XaeroWaypoints_BACKUP240807
-minecraft/bansoukou
 minecraft/build
 minecraft/cache
 minecraft/coremods
 minecraft/craftdumper
 minecraft/crash-reports
+minecraft/groovy/preInit/items.groovy
 minecraft/hbmComputerUpload
 minecraft/hei_bookmarks.ini
 minecraft/hei_favorites.ini
@@ -25,7 +25,6 @@ minecraft/knownkeys.txt
 minecraft/llibrary
 minecraft/local
 minecraft/logs
-minecraft/mods/!bansoukou-6.3.0.jar
 minecraft/mods/!bansoukou-6.3.0.jar.disabled
 minecraft/mods/.git
 minecraft/mods/.gitattributes
