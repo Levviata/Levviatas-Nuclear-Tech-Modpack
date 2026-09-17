@@ -37,7 +37,7 @@ If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mod
 
 ## Features
 
-- 23 chapters with 1513 quests with quality information and pretty patterns 😏
+- 23 chapters with 1514 quests with quality information and pretty patterns 😏
 
 - 265 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
@@ -58,7 +58,10 @@ If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mod
   - N2 and Balefire Charges
   - And many more.
 
-- 4 custom Resource Packs, one with new textures and touchups for swords and tools, another for extending the current language files.
+- 5 custom Resource Packs
+  - New textures for weapons and tools
+  - Extended lang entries (proper LEGACY tags, fixed and tweaked names)
+  - 1.7.10 texture parity (for the best)
 
 - Complete, customized keybind map.
 
@@ -67,6 +70,8 @@ If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mod
   - Many fun grinding quests that make you progress
   - Quests have treats and fun explosives
   - Swords are flipped horizontally
+  - Infinite durability for tools above decorated cobalt and the crowbar (more Terraria-like)
+  - Increased durability for vein mining pickaxes (Dwarven Pickaxe, Steel and Cobalt Pickaxes)
   - Stat rebalances for Redstone and Great sword
   - Dynamic tooltip for Powered Drill fuel usage and its other engines
   - Informative tooltips for machines (if they are deprecated, how they work, alternative names)
