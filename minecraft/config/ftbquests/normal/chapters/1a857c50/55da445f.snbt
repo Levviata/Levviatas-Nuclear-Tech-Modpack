@@ -32,11 +32,6 @@
 		table: 2
 	},
 	{
-		uid: "812ddb69",
-		type: "random",
-		table: 1
-	},
-	{
 		uid: "493aca52",
 		type: "item",
 		item: "hbm:nugget_mercury",

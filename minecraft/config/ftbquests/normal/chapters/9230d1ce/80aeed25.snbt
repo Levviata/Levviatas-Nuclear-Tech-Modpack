@@ -40,11 +40,6 @@
 		table: 2
 	},
 	{
-		uid: "505acbe9",
-		type: "random",
-		table: 1
-	},
-	{
 		uid: "85278a50",
 		type: "item",
 		item: "hbm:ingot_cdalloy",

@@ -103,11 +103,6 @@
 		table: 5
 	},
 	{
-		uid: "0c3b6a11",
-		type: "random",
-		table: 1
-	},
-	{
 		uid: "0e50d14c",
 		type: "random",
 		table: 2
