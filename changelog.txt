@@ -197,7 +197,7 @@ Fixed Size 15 Boxcar? (1.7.10 parity)
 ### General
 
 Added grenadeShell ore dictionary
-Added Converter: Resurrected (resource pack) download cfg to File Director
+Added Converter: Resurrected (resource pack) and Bansoukou (mod) download cfgs to File Director
 
 Added resource pack with 1.7.10 NTM textures (for parity)
 note: dura steel is High-Speed Steel
