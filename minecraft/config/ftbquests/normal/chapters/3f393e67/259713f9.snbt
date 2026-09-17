@@ -18,7 +18,7 @@
 		"",
 		"§6Toolbox§r",
 		"",
-		"The Toolbox can hold another set of hotbars, which are stored and configured with Shift-right-click and sifted with right-click."
+		"The Toolbox can hold another set of hotbars, which are stored and configured with Shift-right-click and shifted with right-click."
 	],
 	dependencies: [
 		"e4708a01"
