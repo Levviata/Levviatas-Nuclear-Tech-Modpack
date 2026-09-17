@@ -9405,6 +9405,7 @@
     }
   ],
   "comment": "ignore, rule for warheads: size 10 = 12 plates, 15 = 18. all weapon steel plates. size 10 = integrated circuit, HE and INC = military grade, others control unit, bale advanced control unit, ONE only its not like these warheads are fucking supercomputers.",
+  "comment": "warhead alts added: 11",
   "comment": "Parity from 1.7.10:  add flashdrive, tweak pyrooven, tweak iturbine,  tweak fusioncore.",
   "comment": "Removed: breeder and research reactors.",
   "comment": "Custom Added: mpfuselage15balefire, mpwarhead15thermo, mpwarhead15mirv, warheadn2 and warheadmirvlet, missilen2, mpw15bf, thrusternerva, tweak satelliterelay",
