@@ -1,3 +1,19 @@
+# version 3.1.1
+
+### Feedback round
+Added quests
+- Fireclay (grinding) -> x32 fireclay with rewards x32 cryolite and x16 fireclay
+
+Tweaked tool durability (more Terraria-like)
+Infinite durability:
+- crowbar
+- decorated cobalt, starmetal, and schrabidium tools
+
+Increased:
+- dwarven_pickaxe 250 -> 500
+- steel_pickaxe 750 -> 1250
+- cobalt_pickaxe 750 -> 1561 (diamond durability)
+
 # version 3.1.0
 
 ### Patches
