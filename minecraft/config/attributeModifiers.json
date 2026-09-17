@@ -1,4 +1,16 @@
 {
+  "hbm:crowbar": {
+    "durability": -1
+  },
+  "hbm:dwarven_pickaxe": {
+    "durability": 500
+  },
+  "hbm:steel_pickaxe": {
+    "durability": 1250
+  },
+  "hbm:cobalt_pickaxe": {
+    "durability": 1561
+  },
   "hbm:titanium_axe": {
     "attackDamage": 10
   },
@@ -11,14 +23,66 @@
   "hbm:cobalt_axe": {
     "attackDamage": 10.5
   },
+  "hbm:cobalt_decorated_sword": {
+    "durability": -1
+  },
+  "hbm:cobalt_decorated_pickaxe": {
+    "durability": -1
+  },
   "hbm:cobalt_decorated_axe": {
-    "attackDamage": 13.5
+    "attackDamage": 13.5,
+    "durability": -1
+  },
+  "hbm:cobalt_decorated_shovel": {
+    "durability": -1
+  },
+  "hbm:cobalt_decorated_hoe": {
+    "durability": -1
+  },
+  "hbm:starmetal_sword": {
+    "durability": -1
+  },
+  "hbm:starmetal_pickaxe": {
+    "durability": -1
   },
   "hbm:starmetal_axe": {
-    "attackDamage": 16
+    "durability": -1
+  },
+  "hbm:starmetal_shovel": {
+    "durability": -1
+  },
+  "hbm:starmetal_hoe": {
+    "durability": -1
+  },
+  "hbm:schrabidium_sword": {
+    "durability": -1
+  },
+  "hbm:schrabidium_pickaxe": {
+    "durability": -1
   },
   "hbm:schrabidium_axe": {
-    "attackDamage": 31
+    "durability": -1
+  },
+  "hbm:schrabidium_shovel": {
+    "durability": -1
+  },
+  "hbm:schrabidium_hoe": {
+    "durability": -1
+  },
+  "hbm:cmb_sword": {
+    "durability": -1
+  },
+  "hbm:cmb_pickaxe": {
+    "durability": -1
+  },
+  "hbm:cmb_axe": {
+    "durability": -1
+  },
+  "hbm:cmb_shovel": {
+    "durability": -1
+  },
+  "hbm:cmb_hoe": {
+    "durability": -1
   },
   "hbm:redstone_sword": {
     "attackDamage": 6,
