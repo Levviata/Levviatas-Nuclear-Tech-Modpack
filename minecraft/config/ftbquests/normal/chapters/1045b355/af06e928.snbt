@@ -1,0 +1,43 @@
+{
+	x: 8.0d,
+	y: -2.0d,
+	shape: "pentagon",
+	dependencies: [
+		"f641221a"
+	],
+	tasks: [{
+		uid: "7bd84411",
+		type: "item",
+		items: [{
+			item: "hbm:ball_fireclay"
+		}],
+		count: 48L
+	}],
+	rewards: [{
+		uid: "657a014b",
+		type: "item",
+		item: "hbm:chunk_ore 1 2",
+		count: 48
+	},
+	{
+		uid: "4ebe3e45",
+		type: "item",
+		item: "hbm:ball_fireclay",
+		count: 12
+	},
+	{
+		uid: "a1a06116",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "87857826",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "7e5bb944",
+		type: "random",
+		table: 2
+	}]
+}
