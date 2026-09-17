@@ -169,9 +169,11 @@ Added rewards
 - Boiler and Steam Condenser
 - Steel Furnace
 - Pollution Detector
+- Music Disc (Oil age and Late game)
 
 !Added very nice rewards to Inertial Confinement Fusion Reactor (ICF)
 Added and tweaked xp rewards here and there
+Remove food loot rewards from Oil age and Late game quests
 
 ### Recipe
 
