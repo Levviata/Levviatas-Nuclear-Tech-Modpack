@@ -19,11 +19,6 @@
 		table: 2
 	},
 	{
-		uid: "440081cf",
-		type: "loot",
-		table: 1
-	},
-	{
 		uid: "8407e5ee",
 		type: "random",
 		table: 4
