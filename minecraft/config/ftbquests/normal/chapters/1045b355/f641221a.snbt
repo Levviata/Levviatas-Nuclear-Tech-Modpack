@@ -4,7 +4,7 @@
 	text: [
 		"Fireclay is used to make Firebricks which make the Crucible, a machine that can melt metals.",
 		"",
-		"It also makes other useful machines."
+		"It also makes the Blast Furnace, the Smokestack, Heating oven, Crucible parts and mold. Its quite useful."
 	],
 	dependencies: [
 		"48883b0c",
@@ -22,5 +22,11 @@
 		uid: "17490c85",
 		type: "xp",
 		xp: 10
+	},
+	{
+		uid: "9056d7a7",
+		type: "item",
+		item: "hbm:ball_fireclay",
+		count: 16
 	}]
 }
