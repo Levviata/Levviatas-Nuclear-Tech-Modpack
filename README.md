@@ -67,13 +67,17 @@ If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mod
 
 - Many little details I put out with my Detail Brain-Chip(TM) hardware, this assures complete fun and quality. For example:
   - Late game machines, desh, schrabidium, etc. are fireproof.
-  - Many fun grinding quests that make you progress
-  - Quests have treats and fun explosives
+  - Many thoughtful grinding quests that make progression easier
+  - Quests have treats and explosives
   - Swords are flipped horizontally
-  - Infinite durability for tools above decorated cobalt and the crowbar (more Terraria-like)
+  - Infinite durability for tools above decorated cobalt and the crowbar (Terraria-like)
   - Increased durability for vein mining pickaxes (Dwarven Pickaxe, Steel and Cobalt Pickaxes)
   - Stat rebalances for Redstone and Great sword
   - Dynamic tooltip for Powered Drill fuel usage and its other engines
+  - Custom missile parts and premade missile recipe cohesion, with parts being interchangeable
+  - Magnetic Antimatter Container has a total storage of 32 buckets from 16
+  - Removed a lot of the old and unused items, for a cleaner item catalog
+  - Size 15 Volcano Warhead is fixed, with no explosion logic in base NTM:CE.
   - Informative tooltips for machines (if they are deprecated, how they work, alternative names)
   - Damage rebalance for axes
 
