@@ -1,5 +1,221 @@
 # version 3.1.0
 
+# version 3.1.0
+
+### Patches
+
+!Buffed Magnetic Antimatter Container total storage from 16 buckets to 32 buckets
+
+Added and fixed Size 15 Volcano Warhead explosion logic, now explodes in the same way as the Tectonic Missile
+
+Added 25HP to Size 20 Flat Fins (custom missile part)
+
+Added and tweaked items in loot pools:
+
+note:
+- Usually 2 to 5 items per spawned loot pool.
+- Weight means the change of an item appearing, higher weight means higher chance, lower weight lower chance.
+
+(solid fuels from bunker power rooms)
+POOL_SOLID_FUEL
+- solid_fuel -> changed weight to 2
+- rocket_fuel -> added, spawns min 1 to max 5 counts with weight 1
+- solid_fuel_presto -> increased count from 2 to 3
+- ball_tatb -> added, spawns min 1 to max 4 with weight 2
+- ball_tnt -> added, same as tatb
+- REDSTONE -> increased count from 3 to 8
+- niter -> increased count from 3 to 12
+
+(fuel isotopes found in bunkers and labs)
+POOL_NUKE_FUEL
+- pile_rod (uranium) -> replaced legacy item
+- pile_rod (plutonium) -> added, spawns min 2 to max 5 with weight 3
+- pile_rod (Ra226Be) -> replaced legacy item
+- pile_rod (Po210Be) -> added, spawns min 1 to max 2 with weight 2
+- screwdriver_desh -> added, spawns 1 with weight 2
+- defuser_desh -> added, spawns 1 with weight 2
+
+//various lab related items from bunkers
+POOL_VAULT_LAB
+- PAPER -> changed spawn max count to 6 from 2
+- dust -> changed max count to 1 from 3
+- ingot_mercury -> changed max count to 4 from 1
+- powder_iodine -> changed max count to 4 from 1
+- powder_bromine -> same as iodine
+- powder_cobalt -> same iodine
+- powder_neodymium -> same iodine
+- powder_boron -> same iodine
+- screwdriver_desh -> added, spawns 1 with weight 9
+
+BREAKING CHANGES BELOW (kind of, since these are just garbage from old versions)
+
+Removed (legacy or unused)
+- redcoil_capacitor
+- euphemium_capacitor
+- warhead_thermo_endo
+- warhead_thermo_exo
+- mechanism_revolver_1
+- mechanism_revolver_2
+- mechanism_rifle_1
+- mechanism_rifle_2
+- mechanism_launcher_1
+- mechanism_launcher_2
+- mechanism_special
+- primer_357
+- primer_44
+- primer_9
+- primer_50
+- primer_buckshot
+- casing_357
+- casing_44
+- casing_9
+- casing_50
+- casing_buckshot
+- ItemCapacitor (class)
+
+Patches source (modified .java classes) can be found inside bansoukou/patches src for the curious
+
+### Quests
+
+Added
+- Precision Assembly Machine
+- Exhaust Pipe
+- Bronze Bismoid (grinding)
+- Ionized Particles (grinding)
+- Crystalline Fullerite (grinding)
+- Crate and Toolbox
+
+Removed
+- Size 15 Pointy Fins (size 15 flat fins skin)
+
+Change size
+- Saturnite ingot
+- Starmetal ingot
+- Neutrino lens
+
+Tweaked and fixed
+- Resistant Alloy (grinding)
+- Nuclear Tech Mod Ingots (main info quest for Ingots chapter)
+- Plastic Man -> only requires pvc or hard plastic instead of both
+
+!Added and tweaked many dependencies so quests are easier to unlock (again)
+Added title to Missile Assembly station -> Custom Missiles
+Extended tasks for many quests, increasing flexibility (ex: BSCCO ingot in one task -> BSCCO ingot, scrap, wire, or coil in one task)
+Added hover text for ICF tutorial
+Tweaked Fullerene liquid tasks
+Tweaked Industrial Smokestack
+"Fixed" tasks for most quests
+Moved many quests again
+
+### Quest Descriptions
+
+Added
+- Leviathan Steam Turbine
+- Radiolysis Chamber (generators chapter, copied from Oil age and extended)
+- Radiation Powered Engine (generators chapter, copied)
+- RTG generator (generators chapter, copied)
+- Contamination Removal (player decontaminator and radaway)
+
+Extended
+- Keybinds -> Added universal tweaks clear toasts keybind
+- Custom Missiles
+- Warheads, Fuselages, Thrusters (custom parts info. missiles chapter) -> note for recipe tweaks and warhead recipe rework
+
+Fixed
+- Electricity Connector
+- Magnetic Antimatter Container (updated to new total storage)
+
+Tweak wording
+- Crystalline Fullerite
+- Floxglove
+- Had Enough Items and WAILA
+- Author (quest)
+- Drop of Mercury (grinding)
+- Electric Tools
+
+Added subtitle
+- Remnant Power Armor
+
+Removed RadAway (and grinding)
+
+### Quest Rewards
+
+!Reworked all custom warhead recipes, now being at par with premade missiles. Some parts can be interchanged too
+Replaced Size 15 fuselages and thrusters Steel Plate ingredient to Weapon Steel Plate (new warhead recipes follow this logic too)
+
+Added rewards
+- Large Gold, NbTi, BSSCO Coils
+- Pyro Oven
+- Overdrive Upgrade Mk3
+- Industrial Solidification Machine
+- Oil Refinery
+- Radioisotope Thermoelectric (RT) Generator
+- Smokestack
+- Automatic Thresher and Buzz Saw
+- Industrial Smokestack
+- Air Intake
+- Steel Tools and Armor
+- Soldering Station
+- Arc Welder
+- Industrial Mixer
+- Electric Furnace
+- Combination Oven
+- Steam-Powered Pump
+- Stirling Engine
+- Steam Engine
+- Drainage Pipe (tweaked)
+- Rotary Furnace
+- Solar Tower Boiler
+- Boiler and Steam Condenser
+- Steel Furnace
+- Pollution Detector
+
+!Added very nice rewards to Inertial Confinement Fusion Reactor (ICF)
+Added and tweaked xp rewards here and there
+
+### Recipe
+
+Added
+- Gun b92 to 93 (and viceversa)
+- Size 20 Flat Fins
+- Grenade Extra - Triplex
+
+Fixed broken recipes
+- Platemetal recycling
+- pwrreflectoralt
+- ingotPVC irradiation
+
+Tweaked
+- Balefire Charge -> ingredients: Control Unit -> Integrated Circuit Board, top middle Control Unit is now a Weapon Steel Plate
+
+!Buffed outputs for Aviation Grade Sheeting
+- Normal -> x1 to x2
+- Titanium and plastic -> x1 to x8
+
+Fixed Size 15 Boxcar? (1.7.10 parity)
+
+### General
+
+Added grenadeShell ore dictionary
+Added Converter: Resurrected (resource pack) download cfg to File Director
+
+Added resource pack with 1.7.10 NTM textures (for parity)
+note: dura steel is High-Speed Steel
+- coil copper, coil copper torus
+- coil gold, coil gold torus
+- coil magnetized tungsten
+- heating coil ("coil_tungsten". plus fixed opacity)
+- block_dura_steel
+- ingot_dura_steel
+- plate_dura_steel
+- powder_dura_steel
+- and warhead mirv are now at par with 1.7.10
+
+Update lang resource pack entries
+- Removed Size 15 Volcano Warhead UNUSED tag
+- Mirvlet (warhead_mirvlet) -> Small Nuclear Warhead
+- Added LEGACY tag to old Industrial Steam Turbine (machine_large_turbine)
+
 # version 3.0.0
 
 Update NTM CE to 2.6.1.0, equivalent of 1.7.10 version X5808
