@@ -77,6 +77,11 @@
 		count: 18
 	},
 	{
+		uid: "0119648a",
+		type: "item",
+		item: "hbm:therm_exo"
+	},
+	{
 		uid: "98af968f",
 		type: "item",
 		item: "minecraft:hopper",
