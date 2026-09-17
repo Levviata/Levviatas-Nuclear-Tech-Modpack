@@ -11,19 +11,19 @@
 		items: [{
 			item: "hbm:ball_fireclay"
 		}],
-		count: 48L
+		count: 32L
 	}],
 	rewards: [{
 		uid: "657a014b",
 		type: "item",
 		item: "hbm:chunk_ore 1 2",
-		count: 48
+		count: 32
 	},
 	{
 		uid: "4ebe3e45",
 		type: "item",
 		item: "hbm:ball_fireclay",
-		count: 12
+		count: 16
 	},
 	{
 		uid: "a1a06116",
