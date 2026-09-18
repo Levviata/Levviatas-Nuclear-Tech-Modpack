@@ -5,23 +5,40 @@
   "hbm:dwarven_pickaxe": {
     "durability": 500
   },
-  "hbm:steel_pickaxe": {
+   "hbm:steel_pickaxe": {
     "durability": 1250
   },
+  "hbm:steel_axe": {
+    "durability": 1250,
+    "attackDamage": 9
+  },
+  "hbm:steel_shovel": {
+    "durability": 1250
+  },
+  "hbm:steel_hoe": {
+    "durability": 1250
+  },
+  "hbm:cobalt_sword": {
+    "durability": 1561
+  },
   "hbm:cobalt_pickaxe": {
+    "durability": 1561
+  },
+  "hbm:cobalt_axe": {
+    "durability": 1561,
+    "attackDamage": 10.5
+  },
+  "hbm:cobalt_shovel": {
+    "durability": 1561
+  },
+  "hbm:cobalt_hoe": {
     "durability": 1561
   },
   "hbm:titanium_axe": {
     "attackDamage": 10
   },
-  "hbm:steel_axe": {
-    "attackDamage": 9
-  },
   "hbm:desh_axe": {
     "attackDamage": 11
-  },
-  "hbm:cobalt_axe": {
-    "attackDamage": 10.5
   },
   "hbm:cobalt_decorated_sword": {
     "durability": -1
@@ -97,6 +114,7 @@
   "hbm:steel_sword": {
     "attackDamage": 11,
     "attackSpeed": -0.676,
+	"durability": 1250,
     "armor": 4.0
   }
 }
