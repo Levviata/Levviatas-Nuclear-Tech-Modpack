@@ -10,7 +10,11 @@
 		"",
 		"Steam is a handy thing because it powers powerful machines like the Steam Engine or the Rotatory Furnace.",
 		"",
-		"The Steam Condensor can intake the Low-Pressure Steam sidewaste of these machines and turn it into water again. Though water is a non-issue after getting a Steam-Powered Water Pump, you may find a special use to it, pinky promise."
+		"The Steam Condensor takes Low-Pressure Steam and turns it into water.",
+		"",
+		"1 mb of water takes 200 TUs to heat up per tick.",
+		"",
+		"(TUs are the thermal units of the mod, with heat boxes producing this unit)."
 	],
 	dependencies: [
 		"82d71470"
