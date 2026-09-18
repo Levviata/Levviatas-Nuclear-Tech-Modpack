@@ -4,11 +4,11 @@
 	text: [
 		"The Steam Engine uses steam as fuel generating power, it starts slow accelerating as it operates.",
 		"",
-		"Can store up to 2000mB of steam.",
+		"Can store up to 2000mB of steam, which is full power output. 2000 mB of steam require 400.000 TU per tick.",
 		"",
 		"Has an efficiency of 85%.",
 		"",
-		"Can generate up to 25kHE~."
+		"Can generate up to 68 kHE per second at full throughput."
 	],
 	tasks: [{
 		uid: "db49e594",
