@@ -4,9 +4,9 @@
 		tag: {
 			state_0: 0b,
 			state_1: 0b,
+			lastanim_0: 4,
 			lastanim_1: 4,
 			timer_0: 15,
-			lastanim_0: 4,
 			timer_1: 15,
 			aiming: 0b,
 			cancel: 0b,

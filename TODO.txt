@@ -8,10 +8,3 @@ Add bloom to
 
 turn comically long pistol into alucard's gun
 https://sketchfab.com/3d-models/hellsing-alucard-pistol-45eca01aa60542daa8b679325a148a22
-
-quests
-- extend iron crate task in crate and toolbox
-- extend multi fluid identifier how to use
-- add aluminium reward to crucible
-- fix aluminium quest by making it OR task
-- cobalt looks ugly
