@@ -77,11 +77,6 @@
 		count: 18
 	},
 	{
-		uid: "0119648a",
-		type: "item",
-		item: "hbm:therm_exo"
-	},
-	{
 		uid: "98af968f",
 		type: "item",
 		item: "minecraft:hopper",
@@ -94,7 +89,13 @@
 		count: 4
 	},
 	{
-		uid: "bd9e4fe0",
+		uid: "c5d114d9",
+		type: "item",
+		item: "hbm:chunk_ore 1 2",
+		count: 16
+	},
+	{
+		uid: "25a3e7c4",
 		type: "xp",
 		xp: 100
 	}]
