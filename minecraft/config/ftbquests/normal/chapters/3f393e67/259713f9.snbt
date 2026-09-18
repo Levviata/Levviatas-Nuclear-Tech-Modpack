@@ -26,8 +26,18 @@
 	tasks: [{
 		uid: "eb8e78f0",
 		type: "item",
+		title: "Any crate",
 		items: [{
 			item: "hbm:crate_iron"
+		},
+		{
+			item: "hbm:crate_steel"
+		},
+		{
+			item: "hbm:crate_desh"
+		},
+		{
+			item: "hbm:crate_tungsten"
 		}]
 	},
 	{
