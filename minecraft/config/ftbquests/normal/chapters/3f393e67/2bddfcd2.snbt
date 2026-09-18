@@ -1,8 +1,8 @@
 {
-	x: 13.0d,
-	y: 23.0d,
+	x: 13.5d,
+	y: 24.0d,
 	shape: "pentagon",
-	description: "Get the miserably forgotten hoe!",
+	description: "Get the forgotten hoe",
 	text: [
 		""
 	],
