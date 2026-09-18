@@ -1,3 +1,61 @@
+# version 3.2.0
+
+### Mods
+
+Added Dropt to fix fortune not working on ore blocks. Included support for all hbm ores.
+
+### Quests
+
+Moved
+- Meteorite Ingot (grinding)
+- Cobalt Fan (cobalt tools and armor)
+
+Extended Crate and Toolbox tasks -> accepts any crate
+
+Set OR task for Aluminum quest
+
+### Quest description
+
+Added
+- Machines (main info)
+
+Extended
+- Multi Fluid Identifier -> explain usage mechanics
+- Solar Tower Boiler
+- Boiler -> fix and extend condenser info
+- Keybinds -> add tool ability toggle key
+- Radar and Large Radar (machines chapter) -> added info about filter feature
+
+Tweaked subtitles
+- Cobalt Decorated Hoe
+
+Fixed
+- Crate and toolbox -> typo in toolbox section
+- Steam Engine -> proper info for total throughput and fuel amouhnt required
+- Steam Engine (generators chapter)
+
+### Quest rewards
+
+Added 50 xp reward to
+- All LvNTM grinding quests
+- Pepperbox and Dwarven Pickaxe
+- Lead Apples (and add checkmark task)
+
+Tweaked
+- Crucible -> removed exothermic bomb and added x16 cryolite reward
+- Blast Furnace -> x16 aluminum ingot to x16 cryolite
+
+### Recipes
+
+Added
+- Steel Anvil -> crafting table, 10 steel ingot and 1 iron/lead anvil
+
+### General
+
+Extended new durability changes for Steel (1250) and Cobalt (1561) tools
+
+Add File Director cfg for Dropt
+
 # version 3.1.1
 
 ### Feedback round
