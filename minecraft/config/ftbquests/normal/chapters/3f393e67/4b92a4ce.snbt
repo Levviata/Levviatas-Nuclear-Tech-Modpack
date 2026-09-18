@@ -4,7 +4,9 @@
 	text: [
 		"The Multi Fluid Identifier can apply an identifier to pipes, machines, or tanks.",
 		"",
-		"Pipes should have the appropriate fluid identifier or no fluid will go in or out! "
+		"Fluids can be searched with right-click on empty space and applied with right-click for a single object or shift-right-click for multiple (good for pipes).",
+		"",
+		"Pipes should have the appropriate fluid identifier or no fluid will go in or out!"
 	],
 	dependencies: [
 		"e4708a01"
