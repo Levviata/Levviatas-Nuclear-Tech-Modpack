@@ -9,10 +9,9 @@ Add bloom to
 turn comically long pistol into alucard's gun
 https://sketchfab.com/3d-models/hellsing-alucard-pistol-45eca01aa60542daa8b679325a148a22
 
-1.7.10 parity
-centrifuge on a stick has no recipe
-smashing hammer doesnt exist in 1.12.2, seems to have replaced the centri stick in 1.7.10
-
-things i would change:
-
-- fix loot table removing old items like the chicago pile rods
+quests
+- extend iron crate task in crate and toolbox
+- extend multi fluid identifier how to use
+- add aluminium reward to crucible
+- fix aluminium quest by making it OR task
+- cobalt looks ugly
