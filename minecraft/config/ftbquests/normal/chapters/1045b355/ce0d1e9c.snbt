@@ -22,10 +22,19 @@
 		items: [{
 			item: "hbm:apple_lead 1 1"
 		}]
+	},
+	{
+		uid: "5ad40b94",
+		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "974aa82f",
 		type: "random",
 		table: 0
+	},
+	{
+		uid: "55b602ec",
+		type: "xp",
+		xp: 50
 	}]
 }
