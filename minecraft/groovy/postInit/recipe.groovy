@@ -1708,6 +1708,8 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
+crafting.addShapeless(item('hbm:anvil_steel'), [ore('ironAnvil').reuse(), ore('ingotSteel') * 10])
+recipeCount++
 
 // END NUCLEAR TECH //
 
