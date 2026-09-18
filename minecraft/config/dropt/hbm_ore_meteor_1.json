@@ -1,0 +1,79 @@
+{
+  "priority": 100,
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "hbm:ore_meteor:1"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ALL",
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "hbm:ore_meteor:1"
+            ],
+            "quantity": {
+              "min": 16,
+              "max": 16
+            }
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 10
+            },
+            "fortuneLevelRequired": 1
+          },
+          "item": {
+            "items": [
+              "hbm:ingot_copper"
+            ],
+            "quantity": {
+              "min": 16,
+              "max": 32
+            }
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 100
+            },
+            "fortuneLevelRequired": 2
+          },
+          "item": {
+            "items": [
+              "hbm:ingot_copper"
+            ],
+            "quantity": {
+              "min": 32,
+              "max": 48
+            }
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 1000
+            },
+            "fortuneLevelRequired": 3
+          },
+          "item": {
+            "items": [
+              "hbm:ingot_copper"
+            ],
+            "quantity": {
+              "min": 32,
+              "max": 64
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "priority": 100,
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "hbm:ore_gneiss_gold"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ALL",
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "hbm:ore_gneiss_gold"
+            ],
+            "quantity": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 10
+            },
+            "fortuneLevelRequired": 1
+          },
+          "item": {
+            "items": [
+              "minecraft:gold_ingot"
+            ],
+            "quantity": {
+              "min": 1,
+              "max": 2
+            }
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 100
+            },
+            "fortuneLevelRequired": 2
+          },
+          "item": {
+            "items": [
+              "minecraft:gold_ingot"
+            ],
+            "quantity": {
+              "min": 2,
+              "max": 3
+            }
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 1000
+            },
+            "fortuneLevelRequired": 3
+          },
+          "item": {
+            "items": [
+              "minecraft:gold_ingot"
+            ],
+            "quantity": {
+              "min": 3,
+              "max": 4
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
