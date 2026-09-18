@@ -54,7 +54,7 @@ Added
 
 Extended new durability changes for Steel (1250) and Cobalt (1561) tools
 
-Add File Director cfg for Dropt
+Add File Director cfg for Dropt and Athenaeum (dependency)
 
 # version 3.1.1
 
