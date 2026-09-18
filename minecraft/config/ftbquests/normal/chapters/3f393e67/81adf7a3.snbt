@@ -2,11 +2,11 @@
 	x: -8.5d,
 	y: 22.0d,
 	text: [
-		"The Steam Engine is a beast of a generator that produces 25kHE~ every second.",
+		"The Steam Engine is a beast of a generator that can produce up to 68 kHE per second at an efficiency of 85%.",
 		"",
-		"Intakes Steam and produces Low-Pressure Steam as a side product.",
+		"Only intakes Steam and produces Low-Pressure Steam as a side product.",
 		"",
-		"Will need 4 Boilers to run this machine properly."
+		"Needs at least 2000mB (2 buckets) of steam (400.000 TUs for boiling water) per tick to produce full power."
 	],
 	dependencies: [
 		"c587db7a",
