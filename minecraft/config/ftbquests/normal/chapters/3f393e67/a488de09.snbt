@@ -56,12 +56,6 @@
 		count: 64
 	},
 	{
-		uid: "271c715c",
-		type: "item",
-		item: "hbm:ingot_aluminium",
-		count: 16
-	},
-	{
 		uid: "bb662cae",
 		type: "random",
 		table: 2
@@ -72,7 +66,13 @@
 		table: 3
 	},
 	{
-		uid: "849af51f",
+		uid: "547e1857",
+		type: "item",
+		item: "hbm:chunk_ore 1 2",
+		count: 16
+	},
+	{
+		uid: "b9c473a8",
 		type: "xp",
 		xp: 100
 	}]
