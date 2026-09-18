@@ -4,9 +4,9 @@
 	text: [
 		"The Solar Tower Boiler passively heats any fluid inside it through sunlight directed by Heliostat Mirrors.",
 		"",
-		"Can make Steam.",
+		"Each mirror gives 4 TU per tick, to boil water you need 13 mirrors totaling 52 TU / t.",
 		"",
-		"Does not work in the night."
+		"Does not work at night."
 	],
 	hide_dependency_lines: true,
 	dependencies: [
