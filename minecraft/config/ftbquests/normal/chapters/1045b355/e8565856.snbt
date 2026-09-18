@@ -37,5 +37,10 @@
 		type: "item",
 		item: "hbm:sulfur",
 		count: 32
+	},
+	{
+		uid: "ab73ff8a",
+		type: "xp",
+		xp: 50
 	}]
 }

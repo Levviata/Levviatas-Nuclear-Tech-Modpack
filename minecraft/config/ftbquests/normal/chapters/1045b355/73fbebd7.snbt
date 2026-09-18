@@ -33,5 +33,10 @@
 		type: "item",
 		item: "hbm:ingot_titanium",
 		count: 32
+	},
+	{
+		uid: "d8734311",
+		type: "xp",
+		xp: 50
 	}]
 }

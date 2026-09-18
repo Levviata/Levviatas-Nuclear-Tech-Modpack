@@ -32,5 +32,10 @@
 		type: "item",
 		item: "hbm:ammo_standard",
 		count: 16
+	},
+	{
+		uid: "ef553cf8",
+		type: "xp",
+		xp: 50
 	}]
 }

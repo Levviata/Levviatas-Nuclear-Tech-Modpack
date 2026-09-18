@@ -29,5 +29,10 @@
 		uid: "944ca3ea",
 		type: "random",
 		table: 1
+	},
+	{
+		uid: "7b482cf7",
+		type: "xp",
+		xp: 50
 	}]
 }

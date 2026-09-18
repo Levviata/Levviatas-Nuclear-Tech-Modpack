@@ -33,5 +33,10 @@
 		type: "item",
 		item: "minecraft:iron_ingot",
 		count: 80
+	},
+	{
+		uid: "b767d7ee",
+		type: "xp",
+		xp: 50
 	}]
 }

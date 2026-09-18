@@ -33,5 +33,10 @@
 		type: "item",
 		item: "hbm:chunk_ore 1 2",
 		count: 32
+	},
+	{
+		uid: "06ea3692",
+		type: "xp",
+		xp: 50
 	}]
 }
