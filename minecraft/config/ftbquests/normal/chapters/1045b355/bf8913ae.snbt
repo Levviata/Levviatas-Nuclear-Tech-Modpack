@@ -8,6 +8,7 @@
 		"",
 		"The ore is Cryolite which is a mix of Aluminium and Sodium, to get actual Aluminium you'll need to make a Crucible, step by step next chapter."
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "62689ee5",
 		type: "item",
