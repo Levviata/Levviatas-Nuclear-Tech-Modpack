@@ -39,7 +39,7 @@ If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mod
 
 - 23 chapters with 1514 quests with quality information and pretty patterns 😏
 
-- 265 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 266 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Coilgun
   - Lung Diagnostic
