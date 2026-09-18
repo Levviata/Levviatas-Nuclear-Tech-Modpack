@@ -15,6 +15,7 @@ minecraft/cache
 minecraft/coremods
 minecraft/craftdumper
 minecraft/crash-reports
+minecraft/dropt.log
 minecraft/groovy/preInit/items.groovy
 minecraft/hbmComputerUpload
 minecraft/hei_bookmarks.ini
@@ -42,6 +43,7 @@ minecraft/mods/ItemFilters-1.0.4.2.jar
 minecraft/mods/Lumenized-1.0.4.jar
 minecraft/mods/NTM-CE-1.12.2-2.6.1.0.jar
 minecraft/mods/Placebo-1.12.2-1.6.1.jar
+minecraft/mods/dropt-1.12.2-1.19.4.jar
 minecraft/mods/expandedevents-1.2.2.jar
 minecraft/mods/fireproofitems-1.0.jar
 minecraft/mods/gravestone-1.10.3.jar
