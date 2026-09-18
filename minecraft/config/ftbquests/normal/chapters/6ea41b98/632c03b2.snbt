@@ -2,6 +2,9 @@
 	disable_toast: true,
 	x: -8.5d,
 	y: 12.0d,
+	text: [
+		"The radar filter option works by matching names that contain the same words, so filtering by \"missile\" filters most entries."
+	],
 	tasks: [{
 		uid: "31a9eab3",
 		type: "item",
