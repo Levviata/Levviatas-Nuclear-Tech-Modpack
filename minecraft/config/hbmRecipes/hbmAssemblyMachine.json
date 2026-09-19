@@ -440,22 +440,6 @@
       "power": 1000
     },
     {
-      "name": "ass.analogAlt",
-      "inputItem": [
-        ["item","hbm:circuit",4,3],
-        ["dict","ingotAnyPlastic",4],
-        ["dict","wireFineTungsten",8],
-        ["dict","ingotNiobium"]
-      ],
-      "outputItem": [
-        ["single",["hbm:circuit",1,7]]
-      ],
-      "duration": 200,
-      "power": 250,
-      "named": true,
-      "blueprintpool": "alt..circuit"
-    },
-    {
       "name": "ass.factorioChip",
       "inputItem": [
         ["dict","ingotRubber",2],
@@ -1214,21 +1198,6 @@
       ],
       "outputItem": [
         ["single",["hbm:machine_rtg_grey"]]
-      ],
-      "duration": 200,
-      "power": 100
-    },
-    {
-      "name": "ass.derrick",
-      "inputItem": [
-        ["dict","plateSteel",8],
-        ["dict","plateTripleCopper",2],
-        ["dict","ntmpipeSteel",4],
-        ["item","hbm:motor"],
-        ["item","hbm:drill_titanium"]
-      ],
-      "outputItem": [
-        ["single",["hbm:machine_well"]]
       ],
       "duration": 200,
       "power": 100
@@ -9402,14 +9371,46 @@
       ],
       "duration": 600,
       "power": 100
+    },
+    {
+      "name": "ass.derrick",
+      "inputItem": [
+        ["dict","plateSteel",8],
+        ["dict","plateTripleCopper",2],
+        ["dict","ntmpipeSteel",4],
+        ["item","hbm:motor"],
+        ["item","hbm:drill_titanium"],
+        ["item","hbm:circuit",1,7]
+      ],
+      "outputItem": [
+        ["single",["hbm:machine_well"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.analogAlt",
+      "inputItem": [
+        ["item","hbm:circuit",4,3],
+        ["dict","ingotAnyPlastic",4],
+        ["dict","wireFineTungsten",8],
+        ["dict","ingotNiobium"]
+      ],
+      "outputItem": [
+        ["single",["hbm:circuit",4,7]]
+      ],
+      "duration": 200,
+      "power": 250,
+      "named": true,
+      "blueprintpool": "alt..circuit"
     }
   ],
   "comment": "ignore, rule for warheads: size 10 = 12 plates, 15 = 18. all weapon steel plates. size 10 = integrated circuit, HE and INC = military grade, others control unit, bale advanced control unit, ONE only its not like these warheads are fucking supercomputers.",
   "comment": "warhead alts added: 11",
   "comment": "Parity from 1.7.10:  add flashdrive, tweak pyrooven, tweak iturbine,  tweak fusioncore.",
   "comment": "Removed: breeder and research reactors.",
-  "comment": "Custom Added: mpfuselage15balefire, mpwarhead15thermo, mpwarhead15mirv, warheadn2 and warheadmirvlet, missilen2, mpw15bf, thrusternerva, tweak satelliterelay",
+  "comment": "Custom Added: mpfuselage15balefire, mpwarhead15thermo, mpwarhead15mirv, warheadn2 and warheadmirvlet, missilen2, mpw15bf, thrusternerva, tweak satelliterelay, tweak derrick (why does it not have analog)",
   "comment": "Fix: remove 'new' sliding blast door, tweak 'legacy' sliding blast door",
-  "comment": "Total modified: 17 (always double check).",
+  "comment": "Total modified: 18 (always double check).",
   "comment": "Changed but not counted : Tweaked: platemixed, mpw15nuke, pwrreflector, boyshield, himarssmallnuke, soliniumcharge, mpw10nukesmall, mpw10nukelarge. dict plateTungCar -> neutron Reflector because im goofy and i didnt see this means nothing"
 }
