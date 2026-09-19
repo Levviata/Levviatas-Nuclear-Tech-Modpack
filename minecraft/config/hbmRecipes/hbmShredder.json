@@ -333,6 +333,10 @@
       "output": ["hbm:scrap_plastic"]
     },
     {
+      "input": ["hbm:scrap"],
+      "output": ["hbm:dust"]
+    },
+    {
       "input": ["hbm:pink_planks"],
       "output": ["hbm:powder_sawdust"]
     },
@@ -985,5 +989,5 @@
       "output": ["hbm:nugget_polonium",1]
     }
   ],
-  "comment": "recipes: block of slag:1, dragon egg, cigs, remove scrap. total 4"
+  "comment": "recipes: block of slag:1, dragon egg, cigs, total 3"
 }
