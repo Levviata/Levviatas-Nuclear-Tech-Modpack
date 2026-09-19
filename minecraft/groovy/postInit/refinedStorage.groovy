@@ -1,0 +1,842 @@
+def recipeCount = 0;
+def replacedCount = 0;
+def removedCount = 0;
+
+// REFINED STORAGE //
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:writer'))
+        .output(item('refinedstorage:writer'))
+        .row('ABA')
+        .row('CDC')
+        .row('AEA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:core'))
+        .key('C', item('minecraft:redstone'))
+        .key('D', item('refinedstorage:cable'))
+        .key('E', item('refinedstorage:processor', 5))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:wrench'))
+        .output(item('refinedstorage:wrench'))
+        .row('ABA')
+        .row('AAA')
+        .row(' A ')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:processor', 3))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:wireless_transmitter'))
+        .output(item('refinedstorage:wireless_transmitter'))
+        .row('ABA')
+        .row('ACA')
+        .row('ADA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('minecraft:ender_pearl'))
+        .key('C', item('hbm:cm_block'))
+        .key('D', item('refinedstorage:processor', 5))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:wireless_grid'))
+        .output(item('refinedstorage:wireless_grid').withNbt([Energy: 3200]))
+        .row('ABA')
+        .row('ACA')
+        .row('ADA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', ore('batteryAnySelfCharging'))
+        .key('C', item('refinedstorage:grid'))
+        .key('D', item('refinedstorage:processor', 5))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:wireless_crafting_monitor'))
+        .output(item('refinedstorage:wireless_crafting_monitor'))
+        .row('ABA')
+        .row('ACA')
+        .row('ADA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', ore('batteryAnySelfCharging'))
+        .key('C', item('refinedstorage:crafting_monitor'))
+        .key('D', item('refinedstorage:processor', 5))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:upgrade'))
+        .output(item('refinedstorage:upgrade'))
+        .row('ABA')
+        .row('DCD')
+        .row('ABA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('hbm:glass_uranium'))
+        .key('C', item('refinedstorage:processor', 5))
+        .key('D', ore('ingotAnyResistantAlloy'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:storage_monitor'))
+        .output(item('refinedstorage:storage_monitor'))
+        .row('ABC')
+        .row('DEC')
+        .row('AFC')
+        .key('A', item('refinedstorage:processor', 3))
+        .key('B', item('refinedstorage:core'))
+        .key('C', item('hbm:glass_lead'))
+        .key('D', item('hbm:ingot_steel'))
+        .key('E', item('hbm:cm_block'))
+        .key('F', item('refinedstorage:core', 1))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:storage_housing'))
+        .output(item('refinedstorage:storage_housing'))
+        .row('ABA')
+        .row('D D')
+        .row('CCC')
+        .key('A', item('hbm:glass_uranium'))
+        .key('D', ore('ingotAnyPlastic'))
+        .key('C', ore('ingotAnyResistantAlloy'))
+        .key('B', item('hbm:circuit:9'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:stack_upgrade'))
+        .output(item('refinedstorage:upgrade', 4))
+        .row('ABA')
+        .row('BAB')
+        .row('ABA')
+        .key('A', item('minecraft:sugar'))
+        .key('B', item('refinedstorage:upgrade', 2))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:speed_upgrade'))
+        .output(item('refinedstorage:upgrade', 2))
+        .row('ABA')
+        .row('BCB')
+        .row('AAA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('minecraft:sugar'))
+        .key('C', item('refinedstorage:upgrade'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:security_manager'))
+        .output(item('refinedstorage:security_manager'))
+        .row('ABA')
+        .row('CDC')
+        .row('ACA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', ore('chest'))
+        .key('C', item('refinedstorage:security_card'))
+        .key('D', item('hbm:cm_block'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:security_card'))
+        .output(item('refinedstorage:security_card'))
+        .row('AAA')
+        .row('BCB')
+        .row('AAA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:network_card'))
+        .key('C', item('refinedstorage:processor', 4))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:reader'))
+        .output(item('refinedstorage:reader'))
+        .row('ABA')
+        .row('CDC')
+        .row('AEA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:core', 1))
+        .key('C', item('minecraft:redstone'))
+        .key('D', item('refinedstorage:cable'))
+        .key('E', item('refinedstorage:processor', 5))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:range_upgrade'))
+        .output(item('refinedstorage:upgrade', 1))
+        .row('ABA')
+        .row('BCB')
+        .row('AAA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', ore('enderpearl'))
+        .key('C', item('refinedstorage:upgrade'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:processor_binding'))
+        .output(item('refinedstorage:processor_binding') * 8)
+        .row('   ')
+        .row('ABA')
+        .row('   ')
+        .key('A', item('minecraft:string'))
+        .key('B', ore('slimeball'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:portable_grid'))
+        .output(item('refinedstorage:portable_grid').withNbt([Energy: 3200]))
+        .row('ABA')
+        .row('ACA')
+        .row('ADA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('C', item('refinedstorage:grid'))
+        .key('B', ore("batteryAnySelfCharging"))
+        .key('D', item('refinedstorage:processor:4'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:pattern'))
+        .output(item('refinedstorage:pattern'))
+        .row('AGA')
+        .row('BAB')
+        .row('CCC')
+        .key('A', item('hbm:glass_lead'))
+        .key('B', ore('ingotAnyRubber'))
+        .key('C', item('hbm:ingot_steel'))
+        .key('G', item('hbm:circuit:7'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:network_transmitter'))
+        .output(item('refinedstorage:network_transmitter'))
+        .row('AAA')
+        .row('BCD')
+        .row('EEE')
+        .key('A', item('minecraft:ender_pearl'))
+        .key('B', item('refinedstorage:core'))
+        .key('C', item('hbm:cm_block'))
+        .key('D', item('refinedstorage:core', 1))
+        .key('E', item('refinedstorage:processor', 5))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:network_receiver'))
+        .output(item('refinedstorage:network_receiver'))
+        .row('AAA')
+        .row('BCD')
+        .row('EEE')
+        .key('A', item('refinedstorage:processor', 5))
+        .key('B', item('refinedstorage:core'))
+        .key('C', item('hbm:cm_block'))
+        .key('D', item('refinedstorage:core', 1))
+        .key('E', item('minecraft:ender_pearl'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:network_card'))
+        .output(item('refinedstorage:network_card'))
+        .row('AAA')
+        .row('BCB')
+        .row('AAA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('minecraft:paper'))
+        .key('C', item('refinedstorage:processor:4'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:interface'))
+        .output(item('refinedstorage:interface'))
+        .row('ABA')
+        .row('CDC')
+        .row('AEA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:importer'))
+        .key('C', item('minecraft:redstone'))
+        .key('D', item('hbm:cm_block'))
+        .key('E', item('refinedstorage:exporter'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:grid'))
+        .output(item('refinedstorage:grid'))
+        .row('ABC')
+        .row('DEC')
+        .row('AFC')
+        .key('A', item('refinedstorage:processor:3'))
+        .key('B', item('refinedstorage:core'))
+        .key('C', item('hbm:glass_lead'))
+        .key('D', item('hbm:ingot_steel'))
+        .key('E', item('hbm:cm_block'))
+        .key('F', item('refinedstorage:core:1'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.replaceShapeless(item('refinedstorage:grid:1'), [item('refinedstorage:grid'), item('refinedstorage:processor:3'), item('minecraft:crafting_table')])
+crafting.replaceShapeless(item('refinedstorage:grid:2'), [item('refinedstorage:grid'), item('refinedstorage:processor:3'), item('refinedstorage:pattern')])
+replacedCount++
+replacedCount++
+
+crafting.replaceShapeless(item('refinedstorage:core'), [item('refinedstorage:processor:3'), item('hbm:powder_magic')])
+crafting.replaceShapeless(item('refinedstorage:core:1'), [item('refinedstorage:processor:3'), ore('dustAnyPropellant')])
+replacedCount++
+replacedCount++
+
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:filter'))
+        .output(item('refinedstorage:filter'))
+        .row('ABA')
+        .row('BCB')
+        .row('ABA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('minecraft:paper'))
+        .key('C', item('minecraft:hopper'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:external_storage'))
+        .output(item('refinedstorage:external_storage'))
+        .row('ABC')
+        .row('DED')
+        .row('BFB')
+        .key('A', item('refinedstorage:core'))
+        .key('B', item('hbm:ingot_steel'))
+        .key('C', item('refinedstorage:core:1'))
+        .key('D', ore('chest'))
+        .key('E', item('refinedstorage:cable'))
+        .key('F', item('refinedstorage:processor:4'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:disk_manipulator'))
+        .output(item('refinedstorage:disk_manipulator'))
+        .row('ABA')
+        .row('CDE')
+        .row('ABA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:storage_housing'))
+        .key('C', item('refinedstorage:core'))
+        .key('D', item('hbm:cm_block'))
+        .key('E', item('refinedstorage:core:1'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:disk_drive'))
+        .output(item('refinedstorage:disk_drive'))
+        .row('ABA')
+        .row('ACA')
+        .row('ADA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', ore('chest'))
+        .key('C', item('hbm:cm_block'))
+        .key('D', item('refinedstorage:processor:5'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:detector'))
+        .output(item('refinedstorage:detector'))
+        .row('ABA')
+        .row('CDC')
+        .row('AEA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('minecraft:redstone_torch'))
+        .key('C', item('minecraft:comparator'))
+        .key('D', item('hbm:cm_block'))
+        .key('E', item('refinedstorage:processor:4'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:destructor'))
+        .output(item('refinedstorage:destructor'))
+        .row('ABA')
+        .row('CDC')
+        .row('AEA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:core:1'))
+        .key('C', item('minecraft:redstone'))
+        .key('D', item('refinedstorage:cable'))
+        .key('E', item('refinedstorage:processor:4'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:cutting_tool'))
+        .output(item('refinedstorage:cutting_tool'))
+        .row('  A')
+        .row(' B ')
+        .row('B  ')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', ore('stickWood'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:crafting_upgrade'))
+        .output(item('refinedstorage:upgrade:3'))
+        .row('ABA')
+        .row('CDC')
+        .row('AAA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:core'))
+        .key('C', ore('workbench'))
+        .key('D', item('refinedstorage:upgrade'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:crafting_monitor'))
+        .output(item('refinedstorage:crafting_monitor'))
+        .row('ABC')
+        .row('DEC')
+        .row('ABC')
+        .key('A', item('refinedstorage:processor:3'))
+        .key('B', item('refinedstorage:pattern'))
+        .key('C', item('hbm:glass_lead'))
+        .key('D', item('hbm:ingot_steel'))
+        .key('E', item('hbm:cm_block'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:crafter_manager'))
+        .output(item('refinedstorage:crafter_manager'))
+        .row('ABC')
+        .row('DEC')
+        .row('ABC')
+        .key('A', item('refinedstorage:processor:3'))
+        .key('B', item('refinedstorage:crafter'))
+        .key('C', item('hbm:glass_lead'))
+        .key('D', item('hbm:ingot_steel'))
+        .key('E', item('hbm:cm_block'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:crafter'))
+        .output(item('refinedstorage:crafter'))
+        .row('ABA')
+        .row('CDC')
+        .row('AEA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:core'))
+        .key('C', item('refinedstorage:processor:3'))
+        .key('D', item('hbm:cm_block'))
+        .key('E', item('refinedstorage:core:1'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:controller'))
+        .output(item('refinedstorage:controller'))
+        .row('ABA')
+        .row('CDC')
+        .row('ANA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:processor:3'))
+        .key('C', ore('ingotAnyRubber'))
+        .key('D', item('hbm:cm_block'))
+        .key('N', item('hbm:battery_pack:6'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:constructor'))
+        .output(item('refinedstorage:constructor'))
+        .row('ABA')
+        .row('CDC')
+        .row('AEA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:core'))
+        .key('C', item('minecraft:redstone'))
+        .key('D', item('refinedstorage:cable'))
+        .key('E', item('refinedstorage:processor:4'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.replaceShapeless(item('refinedstorage:relay'), [item('hbm:cm_block'), item('refinedstorage:cable'), item('minecraft:redstone_torch')])
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:cable'))
+        .output(item('refinedstorage:cable') * 12)
+        .row(' A ')
+        .row('B B')
+        .row(' A ')
+        .key('A', item('hbm:plate_steel'))
+        .key('B', item('hbm:glass_lead'))
+//.key('C', item('hbm:ingot_red_copper'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:64k_storage_part'))
+        .output(item('refinedstorage:storage_part:3'))
+        .row('ABA')
+        .row('CDC')
+        .row('ACA')
+        .key('A', item('refinedstorage:processor:5'))
+        .key('B', ore('ingotAnyBismoidBronze'))
+        .key('C', item('refinedstorage:storage_part:2'))
+        .key('D', item('hbm:circuit:11'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:64k_storage_disk'))
+        .output(item('refinedstorage:storage_disk:3'))
+        .row('ABA')
+        .row('DMD')
+        .row('CCC')
+        .key('A', item('hbm:glass_uranium'))
+        .key('D', ore('ingotAnyPlastic'))
+        .key('C', ore('ingotAnyResistantAlloy'))
+        .key('B', item('hbm:circuit:9'))
+        .key('M', item('refinedstorage:storage_part:3'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:64k_storage_block'))
+        .output(item('refinedstorage:storage:3'))
+        .row('ABA')
+        .row('ACA')
+        .row('ADA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:storage_part:3'))
+        .key('C', item('hbm:cm_block:1'))
+        .key('D', item('hbm:cm_circuit:3'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:4k_storage_part'))
+        .output(item('refinedstorage:storage_part:1'))
+        .row('ABA')
+        .row('CDC')
+        .row('ACA')
+        .key('A', item('refinedstorage:processor:3'))
+        .key('B', item('hbm:ingot_desh'))
+        .key('C', item('refinedstorage:storage_part'))
+        .key('D', item('hbm:circuit:8'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:4k_storage_disk'))
+        .output(item('refinedstorage:storage_disk:1'))
+        .row('ABA')
+        .row('DMD')
+        .row('CCC')
+        .key('A', item('hbm:glass_uranium'))
+        .key('D', ore('ingotAnyPlastic'))
+        .key('C', ore('ingotAnyResistantAlloy'))
+        .key('B', item('hbm:circuit:9'))
+        .key('M', item('refinedstorage:storage_part:1'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:4k_storage_block'))
+        .output(item('refinedstorage:storage:1'))
+        .row('ABA')
+        .row('ACA')
+        .row('ADA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:storage_part:1'))
+        .key('C', item('hbm:cm_block:2'))
+        .key('D', item('hbm:cm_circuit:1'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:1k_storage_part'))
+        .output(item('refinedstorage:storage_part'))
+        .row('ABA')
+        .row('CDC')
+        .row('ACA')
+        .key('A', ore('ingotAnyRubber'))
+        .key('B', item('hbm:ingot_steel'))
+        .key('C', item('hbm:glass_lead'))
+        .key('D', item('hbm:circuit:7'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:1k_storage_disk'))
+        .output(item('refinedstorage:storage_disk'))
+        .row('ABA')
+        .row('DMD')
+        .row('CCC')
+        .key('A', item('hbm:glass_uranium'))
+        .key('D', ore('ingotAnyPlastic'))
+        .key('C', ore('ingotAnyResistantAlloy'))
+        .key('B', item('hbm:circuit:9'))
+        .key('M', item('refinedstorage:storage_part'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:1k_storage_block'))
+        .output(item('refinedstorage:storage'))
+        .row('ABA')
+        .row('ACA')
+        .row('ADA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:storage_part'))
+        .key('C', item('hbm:cm_block'))
+        .key('D', item('hbm:cm_circuit'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:16k_storage_part'))
+        .output(item('refinedstorage:storage_part:2'))
+        .row('CSC')
+        .row('ADA')
+        .row('CAC')
+        .key('C', item('refinedstorage:processor:4'))
+        .key('S', ore('ingotAnyResistantAlloy'))
+        .key('A', item('refinedstorage:storage_part:1'))
+        .key('D', item('hbm:circuit:9'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:16k_storage_disk'))
+        .output(item('refinedstorage:storage_disk:2'))
+        .row('ABA')
+        .row('DMD')
+        .row('CCC')
+        .key('A', item('hbm:glass_uranium'))
+        .key('D', ore('ingotAnyPlastic'))
+        .key('C', ore('ingotAnyResistantAlloy'))
+        .key('B', item('hbm:circuit:9'))
+        .key('M', item('refinedstorage:storage_part:2'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:16k_storage_block'))
+        .output(item('refinedstorage:storage:2'))
+        .row('ABA')
+        .row('ACA')
+        .row('ADA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('refinedstorage:storage_part:2'))
+        .key('C', item('hbm:cm_block:3'))
+        .key('D', item('hbm:cm_circuit:2'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:fortune_1_upgrade'))
+        .output(item('refinedstorage:upgrade:7'))
+        .row('ABA')
+        .row('CDC')
+        .row('AAA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('minecraft:enchanted_book').withNbt([StoredEnchantments: [id: 35, lvl:1]]))
+        .key('C', item('minecraft:bookshelf'))
+        .key('D', item('refinedstorage:upgrade'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:fortune_2_upgrade'))
+        .output(item('refinedstorage:upgrade:8'))
+        .row('ABA')
+        .row('CDC')
+        .row('AAA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('minecraft:enchanted_book').withNbt([StoredEnchantments: [id: 35, lvl:2]]))
+        .key('C', item('minecraft:bookshelf'))
+        .key('D', item('refinedstorage:upgrade'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:fortune_3_upgrade'))
+        .output(item('refinedstorage:upgrade:9'))
+        .row('ABA')
+        .row('CDC')
+        .row('AAA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('minecraft:enchanted_book').withNbt([StoredEnchantments: [id: 35, lvl:3]]))
+        .key('C', item('minecraft:bookshelf'))
+        .key('D', item('refinedstorage:upgrade'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('refinedstorage:silk_touch_upgrade'))
+        .output(item('refinedstorage:upgrade:6'))
+        .row('ABA')
+        .row('CDC')
+        .row('AAA')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', item('minecraft:enchanted_book').withNbt([StoredEnchantments: [id: 33, lvl:1]]))
+        .key('C', item('minecraft:bookshelf'))
+        .key('D', item('refinedstorage:upgrade'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+
+// remove furnace raw processor recipe
+furnace.removeByOutput(item('refinedstorage:processor:3'))
+furnace.removeByOutput(item('refinedstorage:processor:4'))
+furnace.removeByOutput(item('refinedstorage:processor:5'))
+removedCount++
+removedCount++
+removedCount++
+
+
+// remove fluid parts because they are boooring, big tanks and barrels are immersive and fun
+
+crafting.removeByOutput(item('refinedstorage:fluid_storage'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage:1'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage:2'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage:3'))
+removedCount++
+removedCount++
+removedCount++
+removedCount++
+
+crafting.removeByOutput(item('refinedstorage:fluid_storage_disk'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:1'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:2'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_disk:3'))
+removedCount++
+removedCount++
+removedCount++
+removedCount++
+
+crafting.removeByOutput(item('refinedstorage:fluid_storage_part'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_part:1'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_part:2'))
+crafting.removeByOutput(item('refinedstorage:fluid_storage_part:3'))
+removedCount++
+removedCount++
+removedCount++
+removedCount++
+
+furnace.removeByOutput(item('refinedstorage:silicon'))
+removedCount++
+
+crafting.removeByOutput(item('refinedstorage:fluid_interface'))
+removedCount++
+
+crafting.removeByOutput(item('refinedstorage:wireless_fluid_grid'))
+crafting.removeByOutput(item('refinedstorage:grid:3'))
+removedCount++
+removedCount++
+
+// remove casings as i prefer to use cm_block since its ntm's and thats better
+crafting.removeByOutput(item('refinedstorage:machine_casing'))
+removedCount++
+
+// processor hbmified
+crafting.addShapeless(item('refinedstorage:processor:3'), [item('refinedstorage:processor_binding'), item('hbm:ingot_steel'), ore('ingotAnyRubber'), item('hbm:circuit:7')])
+crafting.addShapeless(item('refinedstorage:processor:4'), [item('refinedstorage:processor_binding'), item('hbm:ingot_desh'), ore('ingotAnyPlastic'), item('hbm:circuit:8')])
+crafting.addShapeless(item('refinedstorage:processor:5'), [item('refinedstorage:processor_binding'), ore('ingotAnyResistantAlloy'), ore('ingotAnyHardPlastic'), item('hbm:circuit:9')])
+recipeCount++
+recipeCount++
+recipeCount++
+
+// bye useless ingot
+crafting.removeByOutput(item('refinedstorage:quartz_enriched_iron'))
+crafting.removeByOutput(item('refinedstorage:quartz_enriched_iron_block'))
+removedCount++
+removedCount++
+
+// remove raw processor
+crafting.removeByOutput(item('refinedstorage:processor'))
+crafting.removeByOutput(item('refinedstorage:processor:1'))
+crafting.removeByOutput(item('refinedstorage:processor:2'))
+removedCount++
+removedCount++
+removedCount++
+
+// END REFINED STORAGE //
+
+/*
+log.info("Adding " + recipeCount + " RS recipes.")
+log.info("Replacing " + replacedCount + " RS recipes.")
+log.info("Removed " + removedCount + " RS recipes.")
+
+def totalCount = removedCount + replacedCount + recipeCount
+
+log.info("Changed a total of " + totalCount + " recipes!")*/
