@@ -10,8 +10,8 @@
 		"- An Old Classic (double barrel)",
 		"- Liberator",
 		"- SPAS-12",
-		"- gun_autoshotgun_sexy (which is missing. Not the Shredder)",
-		"- Heretic Auto Shotgun (debug)"
+		"- gun_autoshotgun_sexy (red room gun)",
+		"- Heretic Auto Shotgun"
 	],
 	tasks: [{
 		uid: "140a8836",
