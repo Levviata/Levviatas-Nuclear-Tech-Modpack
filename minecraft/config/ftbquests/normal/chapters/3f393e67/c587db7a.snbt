@@ -2,7 +2,8 @@
 	x: -8.5d,
 	y: 20.0d,
 	text: [
-		"The Solar Tower Boiler passively heats any fluid inside it through sunlight directed by Heliostat Mirrors.",
+		"The Solar Tower Boiler passively heats any fluid inside it through sunlight directed by Heliostat Mirrors, has one port bottom and top.",
+		"",
 		"Recommended to elevate it a bit as mirrors have a 45º minimum angle.",
 		"",
 		"Each mirror gives 4 TU per tick, to boil water you need 13 mirrors totaling 52 TU / t.",
