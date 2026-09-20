@@ -1,6 +1,6 @@
 {
 	x: 1.5d,
-	y: 7.5d,
+	y: 3.0d,
 	text: [
 		"The Auxiliary Cooling Tower converts Low-Pressure Steam into water at a rate of 1.000mB / tick.",
 		"",
