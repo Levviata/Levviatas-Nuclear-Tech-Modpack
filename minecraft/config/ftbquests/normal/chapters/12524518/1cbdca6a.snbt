@@ -1,7 +1,7 @@
 {
 	title: "Chicago Pile Fuels",
 	x: -10.0d,
-	y: 0.5d,
+	y: 0.0d,
 	text: [
 		"There are two breeding targets for the pile",
 		"",

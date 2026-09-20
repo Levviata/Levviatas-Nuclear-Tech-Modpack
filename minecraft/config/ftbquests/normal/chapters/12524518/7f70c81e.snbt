@@ -1,6 +1,6 @@
 {
 	x: -10.0d,
-	y: 1.5d,
+	y: 1.0d,
 	text: [
 		"Zirconium rods are transparent to neutrons which makes them a great choice to push and eject other rods."
 	],
