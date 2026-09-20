@@ -10,15 +10,7 @@ turn comically long pistol into alucard's gun
 https://sketchfab.com/3d-models/hellsing-alucard-pistol-45eca01aa60542daa8b679325a148a22
 
 quests
-- reduce Mines desc
-- fix format for fuselage custom
-- add info about size 20 custom recipe
-- move missile chips vertically
-- recude desh anvil, alexandrite desc
 - add radar description god dammit
-- update weapon mod info about aberrator or other "missing" weapons
-- move chicago pile quest one unit up
-- fix custom missile icon
 
 recipes
 - buff steel copper coil and coil copper x2 and x4
