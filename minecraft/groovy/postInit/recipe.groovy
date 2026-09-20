@@ -884,9 +884,6 @@ crafting.addShapeless(item('hbm:anvil_steel'), [ore('ironAnvil').reuse(), ore('i
 recipeCount++
 
 //scrap is steel
-crafting.remove(resource('hbm:block_scrap'))
-
-
 furnace.add(item("hbm:scrap"), item("hbm:ingot_steel"))
 
 // END NUCLEAR TECH //
