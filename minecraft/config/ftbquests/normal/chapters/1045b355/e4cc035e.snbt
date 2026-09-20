@@ -25,5 +25,11 @@
 		uid: "e890d3c1",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "52b333ed",
+		type: "item",
+		item: "hbm:ore_titanium",
+		count: 4
 	}]
 }

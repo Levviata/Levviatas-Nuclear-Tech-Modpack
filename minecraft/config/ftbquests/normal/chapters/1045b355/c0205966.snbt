@@ -23,5 +23,11 @@
 		uid: "80ba400e",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "d89ec5d9",
+		type: "item",
+		item: "hbm:ore_lead",
+		count: 4
 	}]
 }
