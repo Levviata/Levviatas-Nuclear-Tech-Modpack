@@ -11,5 +11,10 @@
 		type: "checkmark",
 		title: "Premade Missiles",
 		icon: "hbm:missile_doomsday_rusted"
+	}],
+	rewards: [{
+		uid: "1f356eb2",
+		type: "xp",
+		xp: 20
 	}]
 }

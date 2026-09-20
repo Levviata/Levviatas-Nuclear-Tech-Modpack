@@ -1,18 +1,6 @@
 {
 	title: "Custom Missiles",
-	icon: {
-		id: "hbm:missile_custom",
-		tag: {
-			stability: 6916,
-			warhead: 6999,
-			display: {
-				Name: "§5Polite Lad"
-			},
-			fuselage: 6968,
-			chip: 7012,
-			thruster: 6896
-		}
-	},
+	icon: "hbm:missile_assembly",
 	x: 0.0d,
 	y: -3.0d,
 	shape: "square",
@@ -53,5 +41,10 @@
 		items: [{
 			item: "hbm:machine_missile_assembly"
 		}]
+	}],
+	rewards: [{
+		uid: "1972e4d9",
+		type: "xp",
+		xp: 100
 	}]
 }
