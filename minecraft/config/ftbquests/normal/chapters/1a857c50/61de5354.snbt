@@ -4,7 +4,9 @@
 	y: 5.0d,
 	description: "Infinite durability",
 	text: [
-		"All desh tools have infinite durability and are immune to fire and any other item voiding (I added that)."
+		"All desh tools have infinite durability, with a good set of abilities. ",
+		"",
+		"They are also immune to fire and any other item voiding (custom feature)."
 	],
 	dependencies: [
 		"5b1b40f1"
