@@ -1,3 +1,72 @@
+# version 3.3.0
+
+### Mods
+
+Added FTBUtils for chunk claiming (loading and protecting)
+
+### Quests
+Move quests
+- Chicago pile quest treeline
+- Custom missile chips (horizontal -> vertical)
+- Lead cladding
+- Auxiliary Cooling Tower
+- High-speed steel (grinding)
+
+Moved Industrial Smokestack and Fine Soot (Early game) to Oil age, fixed dependencies too as its post desh anvil, not shredder
+
+Make Titanium Tools OR task
+"Fixed" Custom Missiles icon
+Removed Electric Groundwater Pump
+
+### Quest descriptions
+
+Added
+- Size 20 Flat Fins -> custom recipe note
+
+Renamed and extended
+- Had Enough Items and WAILA -> Useful Mods, added info for new FTB Utils mod
+
+Concise descriptions
+- Missiles (chapter main info)
+- Keybinds
+- Gender Swapping Tactics (estradiol solution)
+- Alexandrite ore
+- Burner Press Preheater
+- Mines
+- LvNTM
+- Desh anvil
+
+Fix "missing" gun descriptions
+- Choke
+- Scope
+- Bayonet
+- Double-Stacked Magazine
+
+Trim descriptions
+- Caliber .50 bmg and 5.56 mods
+- Fuselages (info)
+
+### Quest rewards
+
+Added
+- Titanium Ingot -> x4 titanium ore
+- Lead Ingot -> x4 Lead ore
+
+Added some xp rewards
+
+### Recipes
+
+Add to Ore Acidizer
+- Ancient Scrap + 1b High-performance solvent -> x1 schrabidium block
+
+Tweak
+- Derrick -> add Analog circuit ingredient
+- analogAlt -> output x1 to x4
+
+### General
+
+Added FTBUtils file director cfg
+
 # version 3.2.0
 
 ### Mods
