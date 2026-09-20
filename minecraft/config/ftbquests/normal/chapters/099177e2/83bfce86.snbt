@@ -1,6 +1,9 @@
 {
 	x: 2.0d,
 	y: -12.0d,
+	text: [
+		"Originally, in 1.7.10, has no health points or recipe, both custom."
+	],
 	tasks: [{
 		uid: "3928306e",
 		type: "item",
