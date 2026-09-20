@@ -4,7 +4,7 @@
 	text: [
 		"The Burner Press Preheater makes the Burner Press heat up faster when in operation.",
 		"",
-		"To use, place beneath a Burner Press. It's a passive feature that will work always."
+		"To use, place below a Burner Press, it will then work passively."
 	],
 	dependencies: [
 		"e4708a01"

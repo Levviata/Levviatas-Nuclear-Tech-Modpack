@@ -6,12 +6,12 @@
 	shape: "rsquare",
 	description: "How much is an excess of quality?",
 	text: [
-		"Welcome to Levviata's Nuclear Tech, a complete and detailed Nuclear Tech and Refined Storage modpack with a questbook and many new recipes.",
+		"Welcome to Levviata's Nuclear Tech, a complete and unique Nuclear Tech and Refined Storage modpack with my own details and vision.",
 		"",
 		"I will be guiding you through every important chunk of the mod and some other details.",
 		"There are some things here missing in the wiki and in much more detail. ",
 		"",
-		"If you like that information candy, favorite my modpack, I will come to your house and leave you a bismuth ingot packaged in gift wrap (shipping costs not added). "
+		"If you like that information candy, favorite my modpack and check out my CurseForge page for more resource, packs, and mods. "
 	],
 	size: 2.0d,
 	tasks: [{

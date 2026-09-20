@@ -3,7 +3,9 @@
 	y: 5.0d,
 	description: "Tier 3",
 	text: [
-		"The Desh Anvil is able to process materials into their plate counterpart, removing the need of a Burner Press for plates."
+		"The Desh Anvil can make plates, reducing the need for a Burner Press.",
+		"",
+		"Next tier, Ferrouranium, can make wires."
 	],
 	dependencies: [
 		"5b1b40f1"
