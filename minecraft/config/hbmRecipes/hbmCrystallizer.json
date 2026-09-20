@@ -1853,7 +1853,7 @@
     "duration": 200,
     "fluid": ["RADIOSOLVENT",1000],
     "input": ["item","hbm:ancient_scrap"],
-    "output": ["hbm:ingot_schrabidium",9]
+    "output": ["hbm:block_schrabidium"]
     }
   ]
 }
