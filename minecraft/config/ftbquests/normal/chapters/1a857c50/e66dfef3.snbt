@@ -1,17 +1,16 @@
 {
-	x: 6.517857142857132d,
-	y: 30.75892857142857d,
+	x: 1.5d,
+	y: 7.5d,
 	shape: "hexagon",
 	text: [
-		"The Industrial Smokestack reduces pollution emissions from machines by 90%.",
+		"The Industrial Smokestack is an essential machine that processes smoke (pollution) with an efficiency of 90%.",
 		"",
-		"It can also produce two types of ash, Fine Soot being used for a late game material later."
+		"It can produce two types of ash, Fine Soot being used in the Late game to make Fullerene."
 	],
 	dependencies: [
-		"974fcf0f",
-		"516dc394"
+		"c747e73b"
 	],
-	size: 1.25d,
+	size: 1.5d,
 	tasks: [{
 		uid: "8e7235a6",
 		type: "item",
