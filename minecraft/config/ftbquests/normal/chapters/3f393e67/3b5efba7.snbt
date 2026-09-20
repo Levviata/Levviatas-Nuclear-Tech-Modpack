@@ -1,0 +1,25 @@
+{
+	x: 6.5d,
+	y: 29.5d,
+	text: [
+		"Bobbleheads are decoration that can be shredded to obtain early plastic, with Plastic Scrap melting into Polymer bars."
+	],
+	tasks: [{
+		uid: "30d436dd",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bobblehead"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bobblehead"
+				}
+			}
+		}]
+	}]
+}

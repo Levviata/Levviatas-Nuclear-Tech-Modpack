@@ -402,6 +402,8 @@ oreDict.add('coloredPlatemetal', item('hbm:platemetal:12'))
 oreDict.add('coloredPlatemetal', item('hbm:platemetal:13'))
 oreDict.add('coloredPlatemetal', item('hbm:platemetal:14'))
 
+oreDict.add('bobblehead', item('hbm:bobblehead:*'))
+
 oreDict.add('grenadeShell', item('hbm:grenade_shell:*'))
 
 log.info("Loaded ore dictionaries!")
