@@ -12,11 +12,6 @@ https://sketchfab.com/3d-models/hellsing-alucard-pistol-45eca01aa60542daa8b67932
 quests
 - add radar description god dammit
 
-recipes
-- make x2 output for niobium capacitors
-
 resource pack, dubious textures
-- change red absorber to pink
-- pink absorber to green
 - ctm doesnt work
 
