@@ -37,9 +37,9 @@ If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mod
 
 ## Features
 
-- 23 chapters with 1513 quests with quality information and pretty patterns 😏
+- 23 chapters with 1514 quests with quality information and pretty patterns 😏
 
-- 269 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 283 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Coilgun
   - Lung Diagnostic
@@ -58,10 +58,11 @@ If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mod
   - N2 and Balefire Charges
   - And many more.
 
-- 5 custom Resource Packs
+- 6 custom Resource Packs
   - New textures for weapons and tools
-  - Extended lang entries (proper LEGACY tags, fixed and tweaked names)
   - 1.7.10 texture parity (for the best)
+  - Pixelguru's Dubious Textures, cherry-picked and tweaked by me. Block, GUI, and item retextures
+  - Extended lang entries (proper LEGACY tags, fixed and tweaked names)
 
 - Complete, customized keybind map.
 
