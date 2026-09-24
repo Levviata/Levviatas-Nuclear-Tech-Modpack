@@ -18,10 +18,21 @@
 		}]
 	},
 	{
-		uid: "94e3e3ff",
+		uid: "0c9d2a88",
 		type: "item",
 		items: [{
-			item: "hbm:disperser_canister 1 110"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any container1000estradiol"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "container1000estradiol"
+				}
+			}
 		}]
 	}],
 	rewards: [{
