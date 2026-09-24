@@ -930,6 +930,67 @@ recipeCount++
 crafting.addShapeless(item('hbm:coil_copper') * 8, [ore('ingotMingrade'), ore('ingotDuraSteel'), item('hbm:smashing_hammer:*').reuse().transformDamage(8)])
 recipeCount++
 
+// more stupid. why dont these have resource locations, am i ignorant?
+crafting.removeByOutput(item('hbm:circuit:1'))
+// capacitors
+// double
+crafting.shapedBuilder()
+        .output(item('hbm:circuit:1') * 2)
+        .row('ACA')
+        .row('B B')
+        .key('A', item('hbm:plate_polymer'))
+        .key('C', ore('dustAluminum'))
+        .key('B', ore('capacitorAptWire'))
+        .register()
+crafting.shapedBuilder()
+        .output(item('hbm:circuit:1') * 4)
+        .row('ACA')
+        .row('B B')
+        .key('A', item('hbm:plate_polymer'))
+        .key('C', ore('tinyNiobium'))
+        .key('B', ore('capacitorAptWire'))
+        .register()
+// single
+crafting.shapedBuilder()
+        .output(item('hbm:circuit:1'))
+        .row('A')
+        .row('C')
+        .row('B')
+        .key('A', item('hbm:plate_polymer'))
+        .key('C', ore('dustAluminum'))
+        .key('B', ore('capacitorAptWire'))
+        .register()
+crafting.shapedBuilder()
+        .output(item('hbm:circuit:1') * 2)
+        .row('A')
+        .row('C')
+        .row('B')
+        .key('A', item('hbm:plate_polymer'))
+        .key('C', ore('tinyNiobium'))
+        .key('B', ore('capacitorAptWire'))
+        .register()
+
+// replaced
+crafting.removeByOutput(item('hbm:circuit:2'))
+// tantalium capacitor
+crafting.shapedBuilder()
+        .output(item('hbm:circuit:2') * 4)
+        .row('ACA')
+        .row('B B')
+        .key('A', item('hbm:plate_polymer'))
+        .key('C', ore('tinyTantalum'))
+        .key('B', ore('capacitorAptWire'))
+        .register()
+crafting.shapedBuilder()
+        .output(item('hbm:circuit:2') * 2)
+        .row('A')
+        .row('C')
+        .row('B')
+        .key('A', item('hbm:plate_polymer'))
+        .key('C', ore('tinyTantalum'))
+        .key('B', ore('capacitorAptWire'))
+        .register()
+
 // END NUCLEAR TECH //
 
 log.info("Adding " + recipeCount + " NTM recipes.")

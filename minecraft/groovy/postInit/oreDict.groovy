@@ -406,5 +406,8 @@ oreDict.add('bobblehead', item('hbm:bobblehead:*'))
 
 oreDict.add('grenadeShell', item('hbm:grenade_shell:*'))
 
+oreDict.add('capacitorAptWire', item('hbm:wire_fine:1300'))
+oreDict.add('capacitorAptWire', item('hbm:wire_fine:2900'))
+
 log.info("Loaded ore dictionaries!")
 

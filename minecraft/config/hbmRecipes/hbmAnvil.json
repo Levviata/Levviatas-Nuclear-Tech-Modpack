@@ -3395,6 +3395,20 @@
       "tierLower": 1,
       "tierUpper": -1,
       "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:motor",8],
+        ["dict","ingotAnyHardPlastic",4],
+        ["dict","ingotWorkersAlloy",4],
+        ["dict","wireDenseGold",2]
+      ],
+      "outputs": [
+        ["hbm:motor_desh",8,1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
     }
   ],
   "comment": "Parity with 1.7.10: add platemetal, add alt plate_armor_lunar, add recycling plate metal",

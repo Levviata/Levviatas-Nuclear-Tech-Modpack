@@ -440,21 +440,6 @@
       "power": 1000
     },
     {
-      "name": "ass.factorioChip",
-      "inputItem": [
-        ["dict","ingotRubber",2],
-        ["dict","plateIron",4],
-        ["dict","wireFineCopper",8]
-      ],
-      "outputItem": [
-        ["single",["hbm:circuit",1,8]]
-      ],
-      "duration": 300,
-      "power": 20000,
-      "named": true,
-      "blueprintpool": "alt..circuit"
-    },
-    {
       "name": "ass.atomicClockAlt",
       "inputItem": [
         ["dict","ingotAnyPlastic",4],
@@ -9403,6 +9388,61 @@
       "power": 250,
       "named": true,
       "blueprintpool": "alt..circuit"
+    },
+    {
+      "name": "ass.chipAlt",
+      "inputItem": [
+        ["item","hbm:plate_polymer",8],
+        ["item","hbm:circuit",8,4],
+        ["dict","wireDenseGold"]
+      ],
+      "outputItem": [
+        ["single",["hbm:circuit",8,5]]
+      ],
+      "duration": 50,
+      "power": 250
+    },
+    {
+      "name": "ass.chipBismoidAlt",
+      "inputItem": [
+        ["item","hbm:plate_polymer",16],
+        ["item","hbm:circuit",16,4],
+        ["dict","nuggetAnyBismoid",4],
+        ["dict","wireFineGold",8]
+      ],
+      "outputItem": [
+        ["single",["hbm:circuit",8,6]]
+      ],
+      "duration": 100,
+      "power": 1500
+    },
+    {
+      "name": "ass.factorioChip",
+      "inputItem": [
+        ["dict","ingotRubber",8],
+        ["item","hbm:circuit",4,3],
+        ["dict","wireFineCopper",4]
+      ],
+      "outputItem": [
+        ["single",["hbm:circuit",4,8]]
+      ],
+      "duration": 200,
+      "power": 250,
+      "named": true,
+      "blueprintpool": "alt..circuit"
+    },
+    {
+      "name": "ass.militaryGradeChipAlt",
+      "inputItem": [
+        ["dict","ingotRubber",8],
+        ["item","hbm:circuit",2,6],
+        ["dict","wireFineGold",4]
+      ],
+      "outputItem": [
+        ["single",["hbm:circuit",4,9]]
+      ],
+      "duration": 200,
+      "power": 250
     }
   ],
   "comment": "ignore, rule for warheads: size 10 = 12 plates, 15 = 18. all weapon steel plates. size 10 = integrated circuit, HE and INC = military grade, others control unit, bale advanced control unit, ONE only its not like these warheads are fucking supercomputers.",
