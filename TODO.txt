@@ -13,6 +13,10 @@ quests
 - add radar description god dammit
 
 recipes
-- buff steel copper coil and coil copper x2 and x4
 - make x2 output for niobium capacitors
+
+resource pack, dubious textures
+- change red absorber to pink
+- pink absorber to green
+- ctm doesnt work
 
