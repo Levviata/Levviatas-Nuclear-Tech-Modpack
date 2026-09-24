@@ -1,3 +1,39 @@
+# version 3.4.0
+
+Added new texture pack Pixelguru's Dubious Texture (disabled by default), cherry-picked and tweaked by me from Pixelguru24's texture batch.
+
+### Quests
+
+Rearranged Ingots chapter
+Replaced Gender Swapping Tactics' task to ore dict
+Extended Resistant Alloy's tasks
+Removed task for Refined Storage info quest
+
+Concised Coal and Black Lung (vanilla chapter) description
+
+### Recipes
+
+Added alternatives
+(crafting table)
+- Capacitor x4 (niobium)
+- Capacitor x1 (aluminium powder)
+- Tantalium Capacitor x4
+- Copper Coil x8 -> x1 Minecraft Grade and High-Speed Steel ingot + Smashing Hammer
+- Vacuum Tube x4
+(Ferrouranium anvil)
+- Motor Desh x8
+(assembler)
+- Microchip x8
+- Versatile Integrated Circuit x8
+- Integrated Circuit Board x4
+- Military Grade Circuit Board x4
+
+Buffed outputs
+- Copper Coil (steel) -> x1 to x2
+- Ring Coil (steel) -> x2 to x4
+- Capacitor (niobium) -> x1 to x2
+- Tantalium Capacitor -> x1 to x2
+
 # version 3.3.0
 
 ### Mods
