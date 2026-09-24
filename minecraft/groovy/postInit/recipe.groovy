@@ -885,6 +885,50 @@ recipeCount++
 
 //scrap is steel
 furnace.add(item("hbm:scrap"), item("hbm:ingot_steel"))
+recipeCount++
+
+// WARNING this is stupid
+crafting.removeByOutput(item('hbm:coil_copper'))
+crafting.removeByOutput(item('hbm:coil_copper_torus'))
+crafting.shapedBuilder()
+        .output(item('hbm:coil_copper'))
+        .row('AAA')
+        .row('ACA')
+        .row('AAA')
+        .key('A', ore('wireFineMingrade'))
+        .key('C', ore('ingotIron'))
+        .register()
+crafting.shapedBuilder()
+        .output(item('hbm:coil_copper_torus') * 2)
+        .row(' A ')
+        .row('ACA')
+        .row(' A ')
+        .key('A', item('hbm:coil_copper'))
+        .key('C', ore('plateIron'))
+        .register()
+
+crafting.shapedBuilder()
+        .output(item('hbm:coil_copper') * 2)
+        .row('AAA')
+        .row('ACA')
+        .row('AAA')
+        .key('A', ore('wireFineMingrade'))
+        .key('C', ore('ingotSteel'))
+        .register()
+crafting.shapedBuilder()
+        .output(item('hbm:coil_copper_torus') * 4)
+        .row(' A ')
+        .row('ACA')
+        .row(' A ')
+        .key('A', item('hbm:coil_copper'))
+        .key('C', ore('plateSteel'))
+        .register()
+recipeCount++
+recipeCount++
+
+// alt
+crafting.addShapeless(item('hbm:coil_copper') * 8, [ore('ingotMingrade'), ore('ingotDuraSteel'), item('hbm:smashing_hammer:*').reuse().transformDamage(8)])
+recipeCount++
 
 // END NUCLEAR TECH //
 
