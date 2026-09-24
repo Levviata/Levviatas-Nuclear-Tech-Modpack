@@ -9449,8 +9449,8 @@
   "comment": "warhead alts added: 11",
   "comment": "Parity from 1.7.10:  add flashdrive, tweak pyrooven, tweak iturbine,  tweak fusioncore.",
   "comment": "Removed: breeder and research reactors.",
-  "comment": "Custom Added: mpfuselage15balefire, mpwarhead15thermo, mpwarhead15mirv, warheadn2 and warheadmirvlet, missilen2, mpw15bf, thrusternerva, tweak satelliterelay, tweak derrick (why does it not have analog)",
+  "comment": "Custom Added: mpfuselage15balefire, mpwarhead15thermo, mpwarhead15mirv, warheadn2 and warheadmirvlet, missilen2, mpw15bf, thrusternerva, tweak satelliterelay, tweak derrick (why does it not have analog), chipBismoidAlt, tweak factorioChip, militaryGradeChipAlt",
   "comment": "Fix: remove 'new' sliding blast door, tweak 'legacy' sliding blast door",
-  "comment": "Total modified: 19 (always double check).",
+  "comment": "Total modified: 22 (always double check).",
   "comment": "Changed but not counted : Tweaked: platemixed, mpw15nuke, pwrreflector, boyshield, himarssmallnuke, soliniumcharge, mpw10nukesmall, mpw10nukelarge. dict plateTungCar -> neutron Reflector because im goofy and i didnt see this means nothing"
 }
