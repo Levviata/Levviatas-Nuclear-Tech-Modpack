@@ -3406,7 +3406,7 @@
       "outputs": [
         ["hbm:motor_desh",8,1.0]
       ],
-      "tierLower": 3,
+      "tierLower": 4,
       "tierUpper": -1,
       "overlay": "CONSTRUCTION"
     }
