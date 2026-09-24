@@ -1,5 +1,14 @@
 # version 3.4.0
 
+### Mods
+
+Updated
+- HEI
+- Universal Tweaks
+- Xaero's Minimap, World Map and Lib
+
+### Resource Packs
+
 Added new texture pack Pixelguru's Dubious Texture (disabled by default), cherry-picked and tweaked by me from Pixelguru24's texture batch.
 
 ### Quests
