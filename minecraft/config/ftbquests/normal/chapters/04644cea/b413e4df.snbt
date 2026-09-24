@@ -1,8 +1,8 @@
 {
 	title: "Iodine-131",
 	icon: "hbm:ingot_i131",
-	x: -16.0d,
-	y: 16.5d,
+	x: -13.0d,
+	y: 8.5d,
 	text: [
 		""
 	],
