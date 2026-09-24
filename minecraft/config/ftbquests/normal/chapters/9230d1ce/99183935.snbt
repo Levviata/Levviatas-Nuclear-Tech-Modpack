@@ -22,15 +22,35 @@
 	tasks: [{
 		uid: "a31f80a4",
 		type: "item",
+		title: "Cadmium steel",
 		items: [{
 			item: "hbm:ingot_cdalloy"
+		},
+		{
+			item: "hbm:powder_cdalloy"
+		},
+		{
+			item: "hbm:plate_cast 1 43"
+		},
+		{
+			item: "hbm:block_cdalloy"
 		}]
 	},
 	{
 		uid: "1e650caa",
 		type: "item",
+		title: "Technetium steel",
 		items: [{
 			item: "hbm:ingot_tcalloy"
+		},
+		{
+			item: "hbm:powder_tcalloy"
+		},
+		{
+			item: "hbm:plate_cast 1 36"
+		},
+		{
+			item: "hbm:block_tcalloy"
 		}]
 	}],
 	rewards: [{
