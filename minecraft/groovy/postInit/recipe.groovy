@@ -890,6 +890,7 @@ recipeCount++
 // WARNING this is stupid
 crafting.removeByOutput(item('hbm:coil_copper'))
 crafting.removeByOutput(item('hbm:coil_copper_torus'))
+//not counted
 crafting.shapedBuilder()
         .output(item('hbm:coil_copper'))
         .row('AAA')
@@ -923,17 +924,16 @@ crafting.shapedBuilder()
         .key('A', item('hbm:coil_copper'))
         .key('C', ore('plateSteel'))
         .register()
-recipeCount++
-recipeCount++
-
-// alt
 crafting.addShapeless(item('hbm:coil_copper') * 8, [ore('ingotMingrade'), ore('ingotDuraSteel'), item('hbm:smashing_hammer:*').reuse().transformDamage(8)])
+recipeCount++
+recipeCount++
 recipeCount++
 
 // more stupid. why dont these have resource locations, am i ignorant?
 crafting.removeByOutput(item('hbm:circuit:1'))
 // capacitors
 // double
+//this one doesnt count
 crafting.shapedBuilder()
         .output(item('hbm:circuit:1') * 2)
         .row('ACA')
@@ -969,6 +969,9 @@ crafting.shapedBuilder()
         .key('C', ore('tinyNiobium'))
         .key('B', ore('capacitorAptWire'))
         .register()
+replacedCount++
+replacedCount++
+recipeCount++
 
 // replaced
 crafting.removeByOutput(item('hbm:circuit:2'))
@@ -990,6 +993,8 @@ crafting.shapedBuilder()
         .key('C', ore('tinyTantalum'))
         .key('B', ore('capacitorAptWire'))
         .register()
+replacedCount++
+replacedCount++
 
 // replaced
 crafting.removeByOutput(item('hbm:circuit:0'))
@@ -1012,6 +1017,7 @@ crafting.shapedBuilder()
         .key('C', ore('vacuumTubeAptWire'))
         .key('B', item('hbm:plate_polymer'))
         .register()
+recipeCount++
 
 // END NUCLEAR TECH //
 
