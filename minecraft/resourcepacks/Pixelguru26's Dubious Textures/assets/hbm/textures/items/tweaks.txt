@@ -1,0 +1,4 @@
+desh axe, hoe, and pickaxe had their shading tweaked.
+titanium, axe, hoe, pickaxe, and shovel tweaked.
+removed "new" from med textures
+drill titanium flipped horizontally (looked like an electrode)
