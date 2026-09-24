@@ -991,6 +991,28 @@ crafting.shapedBuilder()
         .key('B', ore('capacitorAptWire'))
         .register()
 
+// replaced
+crafting.removeByOutput(item('hbm:circuit:0'))
+
+crafting.shapedBuilder()
+        .output(item('hbm:circuit:0'))
+        .row('A')
+        .row('C')
+        .row('B')
+        .key('A', ore('paneGlass'))
+        .key('C', ore('vacuumTubeAptWire'))
+        .key('B', item('hbm:plate_polymer'))
+        .register()
+crafting.shapedBuilder()
+        .output(item('hbm:circuit:0') * 4)
+        .row('AAA')
+        .row('CCC')
+        .row('BBB')
+        .key('A', ore('paneGlass'))
+        .key('C', ore('vacuumTubeAptWire'))
+        .key('B', item('hbm:plate_polymer'))
+        .register()
+
 // END NUCLEAR TECH //
 
 log.info("Adding " + recipeCount + " NTM recipes.")
