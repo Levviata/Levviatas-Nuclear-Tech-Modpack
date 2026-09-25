@@ -1,7 +1,7 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.5
+fov:0.775
 gamma:0.5
 saturation:0.0
 renderDistance:12
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:false
+fullscreen:true
 enableVsync:false
 useVbo:true
 hideServerAddress:false
@@ -152,17 +152,14 @@ key_FpsReducer.key.forceIdle:197
 key_keybind.groovyscript.reload:51
 key_keybind.groovyscript.quick_reload:52
 key_keybind.groovyscript.copy:0
-key_waila.keybind.wailaconfig:82
-key_waila.keybind.wailadisplay:79
-key_waila.keybind.liquid:80
-key_waila.keybind.recipe:81
-key_waila.keybind.usage:75
 key_key.refinedstorage.focusSearchBar:15
 key_key.refinedstorage.clearGridCraftingMatrix:0
 key_key.refinedstorage.openWirelessGrid:25
 key_key.refinedstorage.openWirelessFluidGrid:0
 key_key.refinedstorage.openPortableGrid:25
 key_key.refinedstorage.openWirelessCraftingMonitor:25
+key_key.toggleLiquids:38
+key_key.toggleVisible:0
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
 key_wi-zoom.zoom:34
 key_gui.xaero_open_map:50
