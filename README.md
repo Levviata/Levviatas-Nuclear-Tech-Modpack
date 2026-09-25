@@ -101,6 +101,8 @@ You also must disable these conflicting mods:
 If you don't, your screen will be messed up, and you won't be able to move your mouse in-game.
 
 ## Notes
+I tweaked many recipes to make the game easier, for example book of boxcar pages or the Heretic, if you are a hardcore factorio or masochism fan I don't recommend.
+
 With Cleanroom and 32 chunks, the FPS still hold up and hit a stable >60, which is a miracle to be honest.
 
 After booting once and downloading all required mods, you may disable File Director mod to boot up faster.
