@@ -10,8 +10,10 @@ turn comically long pistol into alucard's gun
 https://sketchfab.com/3d-models/hellsing-alucard-pistol-45eca01aa60542daa8b679325a148a22
 
 quests
-- add radar description
+- add radar and large radar description
 
 resource pack, dubious textures
 - ctm doesnt work
+
+extend fireproof items
 
