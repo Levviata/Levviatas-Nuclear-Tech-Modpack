@@ -538,13 +538,13 @@
       "name": "plsm.railgun",
       "inputItem": [
         ["item","hbm:battery_pack",1,9],
-        ["dict","ingotFerrouranium",18],
+        ["dict","ingotSaturnite",24],
         ["item","hbm:motor_bismuth",2],
         ["item","hbm:circuit",2,11],
-		["item","hbm:part_barrel_heavy",2,34],
+		["item","hbm:part_barrel_heavy",3,34],
         ["item","hbm:part_mechanism",4,34],
-		["item","hbm:magnetron",12],
-		["dict","ingotSchrabidium",8],
+		["item","hbm:magnetron",16],
+        ["dict","ingotSchrabidium",8],
 		["item","hbm:mp_c_5"]
       ],
       "outputItem": [
