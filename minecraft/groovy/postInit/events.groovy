@@ -50,3 +50,5 @@ event_manager.listen { PlayerInteractEvent event ->
         }
     }
 }
+
+log.info("Loaded events!")

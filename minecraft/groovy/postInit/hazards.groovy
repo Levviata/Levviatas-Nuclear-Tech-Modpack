@@ -4,3 +4,5 @@ HazardSystem.register(item("hbm:coal_infernal"), HazardRegistry.makeData(HazardR
 HazardSystem.register(item("hbm:powder_fire"), HazardRegistry.makeData(HazardRegistry.HOT, 2f));
 
 HazardSystem.register(item("hbm:ullapool_caber"), HazardRegistry.makeData(HazardRegistry.EXPLOSIVE, 5f));
+
+log.info("Loaded hazards!")

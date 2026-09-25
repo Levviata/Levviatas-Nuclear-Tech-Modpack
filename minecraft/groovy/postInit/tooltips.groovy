@@ -173,23 +173,5 @@ event_manager.listen { ItemTooltipEvent event ->
         event.getToolTip() << '- Titanium Blade (2.34%)'
         event.getToolTip() << '- Combustion Engine Piston (4.69%)'
     }
-    /*
-    if (event.getItemStack() in item('hbm:crate_red')) {
-        event.getToolTip() << 'Drops (14)'
-        event.getToolTip() << '- Brittle Spade (7.14%)'
-        event.getToolTip() << "- Little Macintosh (7.14%)"
-        event.getToolTip() << '- Sexy (7.14%)'
-        event.getToolTip() << "- Broken (7.14%)"
-        event.getToolTip() << '- M44 Equestrian Ammo (7.14%)'
-        event.getToolTip() << '- G12 Equestrian Ammo (7.14%)'
-        event.getToolTip() << '- .50 BMG Demolisher (7.14%)'
-        event.getToolTip() << '- Spark Battery (7.14%)'
-        event.getToolTip() << '- Sparkle Bottle (7.14%)'
-        event.getToolTip() << '- Rad Bottle (7.14%)'
-        event.getToolTip() << '- Starmetal Ring (7.14%)'
-        event.getToolTip() << '- Flame Pony (7.14%)'
-        event.getToolTip() << '- NTM Dirt (7.14%)'
-        event.getToolTip() << '- Broadcaster PC (7.14%)'
-    }*/
 }
 log.info("Loaded tooltips!")

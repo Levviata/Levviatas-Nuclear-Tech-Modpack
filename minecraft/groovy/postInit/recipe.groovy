@@ -1040,6 +1040,6 @@ def totalCount = removedCount + replacedCount + recipeCount + hbmRecipes + refin
 
 log.info("Changed a total of " + totalCount + " recipes!")
 
-log.info("Loaded NTM recipes!")
+log.info("Loaded recipes!")
 
 
