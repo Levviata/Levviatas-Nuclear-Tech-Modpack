@@ -15,7 +15,7 @@ event_manager.listen { PlayerInteractEvent event ->
         return;
     }*/
    //log.info("event working")
-    log.info(event.getItemStack().getItem().getRegistryName())
+    //log.info(event.getItemStack().getItem().getRegistryName())
     BlockPos pos = event.getPos()
 
     World world = event.getWorld()
@@ -32,7 +32,6 @@ event_manager.listen { PlayerInteractEvent event ->
         if (event.getItemStack().getItem().getRegistryName().toString().contains("pickaxe") && masochistHasSeenEnough <= 30) {
             Minecraft.getMinecraft().ingameGUI.setOverlayMessage( new TextComponentString("No! If I break it without a crowbar I'll lose my goodies."), false);
             masochistHasSeenEnough++
-            log.info(masochistHasSeenEnough)
         } else if (event.getItemStack().getItem().getRegistryName().toString().contains("pickaxe") && masochistHasSeenEnough >= 30) {
             Minecraft.getMinecraft().ingameGUI.setOverlayMessage( new TextComponentString("..."), false)
         } else if (event.getItemStack().getItem().getRegistryName() == resource('hbm:crowbar')) {
