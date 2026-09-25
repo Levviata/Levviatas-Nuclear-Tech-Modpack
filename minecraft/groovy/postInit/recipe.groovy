@@ -1030,6 +1030,11 @@ crafting.shapedBuilder()
         .register()
 replacedCount++
 
+furnace.add(item('hbm:can_empty'), item('hbm:ingot_aluminium'), 5)
+crafting.addShapeless(item('hbm:powder_aluminium'), [item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull")])
+recipeCount++
+recipeCount++
+
 // END NUCLEAR TECH //
 
 log.info("Adding " + recipeCount + " NTM recipes.")
