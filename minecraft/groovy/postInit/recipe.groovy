@@ -1019,6 +1019,17 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 
+crafting.shapedBuilder()
+        .name(resource('hbm:bottle_opener'))
+        .output(item('hbm:bottle_opener'))
+        .row('A')
+        .row('B')
+        .key('A', ore('plateIron'))
+        .key('B', ore('plankWood'))
+        .replaceByName()
+        .register()
+replacedCount++
+
 // END NUCLEAR TECH //
 
 log.info("Adding " + recipeCount + " NTM recipes.")
