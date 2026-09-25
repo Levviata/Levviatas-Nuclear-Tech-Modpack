@@ -1,4 +1,3 @@
-
 def recipeCount = 0;
 def replacedCount = 0;
 def removedCount = 0;
@@ -53,18 +52,6 @@ crafting.shapedBuilder()
 replacedCount++
 documented++
 
-/* its good but i want players to be forced to use universal buckets
-crafting.shapedBuilder()
-        .output(item('hbm:press_preheater'))
-        .row('AAA')
-        .row('BCB')
-        .row('DBD')
-        .key('A', item('hbm:plate_copper'))
-        .key('B', item('minecraft:stone:*'))
-        .key('C', item('minecraft:lava_bucket').transform(item('minecraft:bucket')))
-        .key('D', item('hbm:ingot_tungsten'))
-        .register()
-*/
 crafting.shapedBuilder()
         .name(resource('hbm:machine_ammo_press'))
         .output(item('hbm:machine_ammo_press'))
@@ -80,18 +67,6 @@ crafting.shapedBuilder()
 replacedCount++
 documented++
 
-/* if it aint broken dont fix it
-crafting.shapedBuilder()
-        .name(resource('hbm:desh_sword'))
-        .output(item('hbm:desh_sword'))
-        .row('A')
-        .row('A')
-        .row('B')
-        .key('A', item('hbm:ingot_desh'))
-        .key('B', ore('ingotAnyPlastic'))
-        .replaceByName()
-        .register()
-*/
 crafting.shapedBuilder() // bring back old glory
         .name(resource('hbm:fluid_identifier_multi'))
         .output(item('hbm:fluid_identifier_multi'))
@@ -214,19 +189,6 @@ crafting.shapedBuilder()
         .register()
 replacedCount++
 documented++
-
-// provisional Neutron Reflector recipes as the new Blast Furnace doesn't have the recipe for it yet
-/* recipe added to the arc welder like in 1.7.10
-crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coal'), ore('Tungsten')])
-crafting.addShapeless(item('hbm:neutron_reflector') * 2, [ore('coke'), ore('Tungsten')])
-recipeCount += 2
-documented += 2*/
-
-// tried to damage the item with 10 other methods, listening to events and shit, to it being a simple method, sad.
-/*crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_steel:*').reuse().transformDamage(2)])
-crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_titanium:*').reuse().transformDamage(2)])
-crafting.addShapeless(item('hbm:powder_cement') * 4, [item('hbm:block_slag:1'), item('hbm:blades_desh').reuse()])
-recipeCount += 3*/
 
 // meteorite sword filler recipes
 crafting.shapedBuilder()
