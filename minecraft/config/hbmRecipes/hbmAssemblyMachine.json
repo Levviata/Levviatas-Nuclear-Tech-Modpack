@@ -9443,6 +9443,22 @@
       ],
       "duration": 200,
       "power": 250
+    },
+    {
+      "name": "ass.nitrarepairkits",
+      "inputItem": [
+        ["item","hbm:nitra"]
+      ],
+      "outputItem": [
+        [
+          "multi",
+          [["hbm:gun_kit_1"],1.0,60],
+          [["hbm:gun_kit_2"],1.0,40]
+        ]
+      ],
+      "duration": 150,
+      "power": 300,
+      "named": true
     }
   ],
   "comment": "ignore, rule for warheads: size 10 = 12 plates, 15 = 18. all weapon steel plates. size 10 = integrated circuit, HE and INC = military grade, others control unit, bale advanced control unit, ONE only its not like these warheads are fucking supercomputers.",
