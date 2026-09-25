@@ -8752,7 +8752,7 @@
       "name": "ass.warheadn2",
       "inputItem": [
         ["dict","plateWeaponSteel",18],
-        ["item","hbm:n2_charge",5],
+        ["item","hbm:n2_charge",8],
         ["item","hbm:circuit",1,9]
       ],
       "outputItem": [
@@ -8766,7 +8766,7 @@
       "inputItem": [
         ["item","hbm:seg_15"],
         ["dict","plateWeaponSteel",18],
-        ["item","hbm:n2_charge",5],
+        ["item","hbm:n2_charge",8],
         ["item","hbm:circuit",1,9]
       ],
       "outputItem": [
