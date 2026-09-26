@@ -13,6 +13,7 @@
 		"",
 		"When repaired, a rocket containing Supplies will drop nearby, note it takes like 10 seconds to spawn."
 	],
+	size: 1.25d,
 	or_tasks: true,
 	tasks: [{
 		uid: "2c1d9209",
