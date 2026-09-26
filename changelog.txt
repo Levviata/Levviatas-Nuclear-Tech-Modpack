@@ -2,10 +2,16 @@
 
 ### Mods
 
+!Update Nuclear Tech: Community edition to build run #1795, with all the benefits that come with it
+
 Added
 - More Sound Configs
 
 Replaced Hwyla with The One Smeagle
+
+### Patches
+
+Updated patches to latest NTM:CE version
 
 ### Quests
 
