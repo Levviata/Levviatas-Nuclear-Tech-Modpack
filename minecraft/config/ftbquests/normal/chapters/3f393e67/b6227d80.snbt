@@ -1,7 +1,7 @@
 {
 	title: "Old Lantern",
 	icon: "hbm:lantern",
-	x: -4.5d,
+	x: -3.5d,
 	y: 12.0d,
 	shape: "rsquare",
 	text: [
