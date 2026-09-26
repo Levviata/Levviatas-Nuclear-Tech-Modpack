@@ -13,6 +13,13 @@ minecraft/XaeroWaypoints_BACKUP240807
 minecraft/bansoukou/NTM-CE-1.12.2-2.6.1.0.jar
 minecraft/build
 minecraft/cache
+minecraft/config/identity
+minecraft/config/moresoundconfig.cfg
+minecraft/config/splash.properties
+minecraft/config/waila
+minecraft/config/wawla.cfg
+minecraft/config/xaerohud.txt
+minecraft/config/xaeropatreon.txt
 minecraft/coremods
 minecraft/craftdumper
 minecraft/crash-reports
