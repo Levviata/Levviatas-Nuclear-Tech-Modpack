@@ -44,6 +44,8 @@ Update mod configs including setting Groovyscript's runConfig with the version o
 
 Internally reorganized recipes.groovy script file
 
+Blacklisted unnecessary files on pack export for a slimmer modpack
+
 # version 3.4.0
 
 ### Mods
