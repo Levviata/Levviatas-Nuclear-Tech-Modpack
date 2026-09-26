@@ -8516,7 +8516,6 @@
       "inputItem": [
         ["dict","plateSextupleSteel",16],
         ["dict","ingotAnyHardPlastic",24],
-        ["item","hbm:ingot_cft",4],
         ["dict","ntmpipeCopper",12],
         ["item","hbm:motor_desh"],
         ["item","hbm:circuit",1,11]
