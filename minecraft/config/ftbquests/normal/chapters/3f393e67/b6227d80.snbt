@@ -1,9 +1,8 @@
 {
 	title: "Old Lantern",
 	icon: "hbm:lantern",
-	x: -3.5d,
+	x: -3.0d,
 	y: 12.0d,
-	shape: "rsquare",
 	text: [
 		"The Old Lantern appears randomly throughout the world with a distinct intermitent red glow that can be seen from far away.",
 		"",
