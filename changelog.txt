@@ -1,3 +1,49 @@
+# version 3.5.0
+
+### Mods
+
+Added
+- More Sound Configs
+
+Replaced Hwyla with The One Smeagle
+
+### Quests
+
+Added Old Lantern observation, tells you how to repair it and what loot it drop-ships
+
+### Scripts
+
+Gave crates their drops as tooltips
+
+Expanded crate breaking feedback. When using an improper tool a message will be displayed above the hotbar.
+
+### Recipe
+
+Added
+- 2 Gun Repair Kits (chance 60-40%) made from Nitra
+- Aluminium ingot -> Empty Can (furnace)
+- Aluminium powder -> x9 Pull Ring
+
+Tweaked
+- N2 Warhead and Custom warhead -> x5 N2 charges to x8
+- Railgun -> x18 Ferrouranium ingots to x24 Saturnite ingots, x2 heavy saturnite barrel to x3, and x12 magnetrons to x16
+
+Tweaked Bottle Opener -> Steel to iron plate
+
+Added mirrored versions for defusers
+
+### General
+
+Added portable crafting grid File Director cfg
+
+Removed Hwyla references from Useful Mods quest
+
+Patched out needcrowbar message as it's replaced by the new crate break feedback
+
+Update mod configs including setting Groovyscript's runConfig with the version of the modpack
+
+Internally reorganized recipes.groovy script file
+
 # version 3.4.0
 
 ### Mods
