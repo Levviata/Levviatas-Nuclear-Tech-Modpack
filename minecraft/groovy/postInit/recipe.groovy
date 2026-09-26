@@ -972,19 +972,7 @@ crafting.shapedBuilder()
         .register()
 recipeCount++
 recipeCount++
-
 // END NUCLEAR TECH //
-
-crafting.shapedBuilder()
-        .output(item('portablecraftingtable:portable_crafting_table'))
-        .row(' BB')
-        .row(' BB')
-        .row('A  ')
-        .key('A', ore('stickWood'))
-        .key('B', ore('plankWood'))
-        .mirrored(true)
-        .register()
-recipeCount++
 
 log.info("Adding " + recipeCount + " NTM recipes.")
 log.info("Replacing " + replacedCount + " NTM recipes.")
