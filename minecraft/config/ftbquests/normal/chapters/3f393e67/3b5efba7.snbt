@@ -21,5 +21,10 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "aa0463fb",
+		type: "xp",
+		xp: 20
 	}]
 }
