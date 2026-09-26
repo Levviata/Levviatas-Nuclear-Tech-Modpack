@@ -33,9 +33,9 @@ OptiFine is disregarded and will cause issues, I have done my best to implement 
 
 ## Features
 
-- 23 chapters with 1514 quests with quality information and pretty patterns 😏
+- 23 chapters with 1515 quests with quality information and pretty patterns 😏
 
-- 283 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+- 284 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Coilgun
   - Lung Diagnostic
@@ -54,7 +54,7 @@ OptiFine is disregarded and will cause issues, I have done my best to implement 
   - N2 and Balefire Charges
   - And many more.
 
-- 6 custom Resource Packs
+- 4 custom Texture Packs
   - New textures for weapons and tools
   - 1.7.10 texture parity (for the best)
   - Pixelguru's Dubious Textures, cherry-picked and tweaked by me. Block, GUI, and item retextures
