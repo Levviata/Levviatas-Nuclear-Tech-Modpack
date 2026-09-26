@@ -1,0 +1,58 @@
+{
+	title: "Old Lantern",
+	icon: "hbm:lantern",
+	x: -4.5d,
+	y: 12.0d,
+	shape: "rsquare",
+	text: [
+		"The Old Lantern appears randomly throughout the world with a distinct intermitent red glow that can be seen from far away.",
+		"",
+		"All lanterns have a superfluous guide book which serves to confuse you even more.",
+		"",
+		"To be useful, the lantern needs to be welded with 2 Steel Plates, 1 Integrated Circuit, and a welding tool.",
+		"",
+		"When repaired, a rocket containing Supplies will drop nearby, note it takes like 10 seconds to spawn."
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "2c1d9209",
+		type: "observation",
+		match_type: "block_id",
+		match: "hbm:lantern_behemoth",
+		timer: 10L
+	},
+	{
+		uid: "cb751a90",
+		type: "item",
+		title: "Any welding tool",
+		items: [{
+			id: "hbm:blowtorch",
+			tag: {
+				GAS: 4000
+			}
+		},
+		{
+			id: "hbm:acetylene_torch",
+			tag: {
+				UNSATURATEDS: 8000,
+				OXYGEN: 16000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c2bc1e82",
+		type: "item",
+		items: [{
+			item: "hbm:plate_steel"
+		}]
+	},
+	{
+		uid: "2d965ca7",
+		type: "item",
+		items: [{
+			item: "hbm:circuit 1 8"
+		}]
+	}]
+}
