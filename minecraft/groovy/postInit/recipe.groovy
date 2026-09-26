@@ -6,6 +6,7 @@ def hbmRecipes = 81;
 def refinedStorageRecipes = 85;
 
 // NUCLEAR TECH //
+// items //
 crafting.addShapeless(item('hbm:ball_fireclay'), [item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('hbm:ingot_aluminium')])
 recipeCount++
 
@@ -36,20 +37,6 @@ crafting.shapedBuilder()
         .key('C', item('minecraft:bone'))
         .register()
 recipeCount++
-documented++
-
-
-crafting.shapedBuilder()
-        .name(resource('hbm:ashglasses'))
-        .output(item('hbm:ashglasses'))
-        .row('A A')
-        .row('BCB')
-        .key('A', ore('ingotAnyRubber'))
-        .key('B', ore('blockGlassBlack'))
-        .key('C', ore('ingotAnyPlastic'))
-        .replaceByName()
-        .register()
-replacedCount++
 documented++
 
 crafting.shapedBuilder()
@@ -92,8 +79,21 @@ crafting.shapedBuilder()
         .key('S', item('hbm:plate_iron'))
         .key('B', ore('dyeRed'))
         .replaceByName()
+        .mirrored(true)
         .register()
 replacedCount++
+documented++
+// item missing in 1.7.10 somehow
+crafting.shapedBuilder()
+        .output(item('hbm:defuser_desh'))
+        .row(' AS')
+        .row('A A')
+        .row(' A ')
+        .key('A', ore('ingotAnyPlastic'))
+        .key('S', item('hbm:ingot_desh'))
+        .mirrored(true)
+        .register()
+recipeCount++
 documented++
 
 crafting.shapedBuilder()
@@ -110,159 +110,6 @@ replacedCount++
 documented++
 
 crafting.shapedBuilder()
-        .output(item('hbm:defuser_desh'))
-        .row(' AS')
-        .row('A A')
-        .row(' A ')
-        .key('A', ore('ingotAnyPlastic'))
-        .key('S', item('hbm:ingot_desh'))
-        .register()
-recipeCount++
-documented++
-
-crafting.shapedBuilder()
-        .output(item('hbm:insert_doxium'))
-        .row('AAA')
-        .row('ABA')
-        .row('AAA')
-        .key('A', ore('container1000estradiol'))
-        .key('B', ore('insert'))
-        .register()
-recipeCount++
-documented++
-
-// security armor, base recipes suck
-crafting.shapedBuilder()
-        .name(resource('hbm:security_helmet'))
-        .output(item('hbm:security_helmet'))
-        .row(' S ')
-        .row('AKA')
-        .row('BGB')
-        .key('A', item('hbm:ingot_steel'))
-        .key('B', ore('ingotAnyPlastic'))
-        .key('G', ore('anyReinforcedPane'))
-        .key('K', item('hbm:plate_kevlar'))
-        .key('S', item('hbm:plate_steel'))
-        .replaceByName()
-        .register()
-replacedCount++
-documented++
-
-crafting.shapedBuilder()
-        .name(resource('hbm:security_plate'))
-        .output(item('hbm:security_plate'))
-        .row('KAK')
-        .row('PKP')
-        .row('AKA')
-        .key('A', item('hbm:plate_polymer'))
-        .key('P', ore('ingotAnyPlastic'))
-        .key('K', item('hbm:plate_kevlar'))
-        .replaceByName()
-        .register()
-replacedCount++
-documented++
-
-crafting.shapedBuilder()
-        .name(resource('hbm:security_legs'))
-        .output(item('hbm:security_legs'))
-        .row('PAP')
-        .row('K K')
-        .row('A A')
-        .key('A', item('hbm:plate_polymer'))
-        .key('P', ore('ingotAnyPlastic'))
-        .key('K', item('hbm:plate_kevlar'))
-        .replaceByName()
-        .register()
-replacedCount++
-documented++
-
-crafting.shapedBuilder()
-        .name(resource('hbm:security_boots'))
-        .output(item('hbm:security_boots'))
-        .row('A A')
-        .row('K K')
-        .row('P P')
-        .key('A', item('hbm:plate_steel'))
-        .key('P', ore('ingotAnyPlastic'))
-        .key('K', item('hbm:plate_kevlar'))
-        .replaceByName()
-        .register()
-replacedCount++
-documented++
-
-// meteorite sword filler recipes
-crafting.shapedBuilder()
-        .output(item('hbm:meteorite_sword_machined'))
-        .row('AGA')
-        .row('GBG')
-        .row('AGA')
-        .key('A', item('hbm:circuit:9'))
-        .key('B', item('hbm:meteorite_sword_alloyed'))
-        .key('G', item('hbm:wire_dense:7900'))
-        .register()
-recipeCount++
-
-crafting.addShapeless(item('hbm:meteorite_sword_treated'), [ore('ntmchemistryset'), item('hbm:meteorite_sword_machined'), ore('container1000radiosolvent') * 16, ore('container1000bloodhot') * 16])
-crafting.addShapeless(item('hbm:meteorite_sword_treated'), [ore('ntmchemistryset'), item('hbm:meteorite_sword_machined'), ore('container16000radiosolvent'), ore('container16000bloodhot')])
-recipeCount++
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:meteorite_sword_bred'))
-        .row('ADA')
-        .row('CBC')
-        .row('ADA')
-        .key('A', item('hbm:plate_bismuth'))
-        .key('B', item('hbm:meteorite_sword_etched'))
-        .key('C', item('hbm:ingot_polonium'))
-        .key('D', item('hbm:ingot_u235'))
-        .register()
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:meteorite_sword_fused'))
-        .row('ADA')
-        .row('CBC')
-        .row('ADA')
-        .key('A', item('hbm:plate_dalekanium'))
-        .key('B', item('hbm:meteorite_sword_irradiated'))
-        .key('C', item('hbm:ingot_meteorite'))
-        .key('D', item('hbm:ingot_starmetal'))
-        .register()
-recipeCount++
-
-crafting.addShapeless(item('hbm:meteorite_sword_baleful'), [item('hbm:meteorite_sword_fused'), item('hbm:egg_balefire_shard')])
-recipeCount++
-
-// shimmer tools shouldnt be available in the mid game because they can break too many things, instantly
-crafting.shapedBuilder()
-        .name(resource('hbm:shimmer_head'))
-        .output(item('hbm:shimmer_head'))
-        .row('SSS')
-        .row('KAK')
-        .row('SSS')
-        .key('S', ore('ingotAnyResistantAlloy'))
-        .key('K', ore('blockAnyResistantAlloy'))
-        .key('A', ore('blockAnyPlastic'))
-        .replaceByName()
-        .register()
-replacedCount++
-
-crafting.shapedBuilder()
-        .name(resource('hbm:shimmer_axe_head'))
-        .output(item('hbm:shimmer_axe_head'))
-        .row('SCC')
-        .row('SAK')
-        .row('SCC')
-        .key('S', ore('plateTripleAnyResistantAlloy'))
-        .key('K', ore('blockAnyResistantAlloy'))
-        .key('A', ore('blockAnyPlastic'))
-        .key('C', ore('ingotAnyResistantAlloy'))
-        .replaceByName()
-        .register()
-replacedCount++
-
-crafting.shapedBuilder()
         .output(item('hbm:det_n2'))
         .row('ACA')
         .row('CBC')
@@ -272,22 +119,6 @@ crafting.shapedBuilder()
         .key('C', item('hbm:n2_charge'))
         .register()
 recipeCount++
-
-crafting.shapedBuilder()
-        .name(resource('hbm:jetpack_glider'))
-        .output(item('hbm:jetpack_glider'))
-        .row('ABA')
-        .row('CGC')
-        .row('DFD')
-        .key('A', item('hbm:circuit:9'))
-        .key('C', item('hbm:plate_bismuth'))
-        .key('G', item('hbm:jetpack_boost'))
-        .key('B', item('hbm:motor_desh'))
-        .key('D', item('hbm:thruster_nuclear'))
-        .key('F', item('hbm:coin_maskman'))
-        .replaceByName()
-        .register()
-replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('hbm:cable_diode'))
@@ -324,145 +155,6 @@ crafting.shapedBuilder()
         .key('B', ore('blockGlass'))
         .register()
 recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:gun_double_barrel'))
-        .row(' A ')
-        .row('BCE')
-        .row('BDF')
-        .key('A', item('minecraft:skull'))
-        .key('B', ore('barrelLightSaturnite'))
-        .key('C', ore('receiverLightSaturnite'))
-        .key('D', ore('gunMechanismSaturnite'))
-        .key('E', ore('stockAnyHardPlastic'))
-        .key('F', ore('gripAnyHardPlastic'))
-        .register()
-recipeCount++
-
- // Calibers
-crafting.shapedBuilder()
-        .output(item('hbm:weapon_mod_caliber')) //9mm
-        .row(' A ')
-        .row('BDC')
-        .row(' A ')
-        .key('A', ore('gunMechanismGunMetal'))
-        .key('B', item('hbm:weapon_mod_generic:1'))
-        .key('C', item('hbm:weapon_mod_generic'))
-        .key('D', ore('9mm'))
-        .register()
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:weapon_mod_caliber:1')) //45mm
-        .row(' A ')
-        .row('BDC')
-        .row(' A ')
-        .key('A', ore('gunMechanismGunMetal'))
-        .key('B', item('hbm:weapon_mod_generic:1'))
-        .key('C', item('hbm:weapon_mod_generic'))
-        .key('D', ore('.45'))
-        .register()
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:weapon_mod_caliber:2')) //.22 LR
-        .row(' A ')
-        .row('BDC')
-        .row(' A ')
-        .key('A', ore('gunMechanismGunMetal'))
-        .key('B', item('hbm:weapon_mod_generic:1'))
-        .key('C', item('hbm:weapon_mod_generic'))
-        .key('D', ore('.22 LR'))
-        .register()
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:weapon_mod_caliber:3')) //.357 Magnum
-        .row(' A ')
-        .row('BDC')
-        .row(' A ')
-        .key('A', ore('gunMechanismGunMetal'))
-        .key('B', item('hbm:weapon_mod_generic:3'))
-        .key('C', item('hbm:weapon_mod_generic:2'))
-        .key('D', ore('.357'))
-        .register()
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:weapon_mod_caliber:4')) //.44 Magnum
-        .row(' A ')
-        .row('BDC')
-        .row(' A ')
-        .key('A', ore('gunMechanismGunMetal'))
-        .key('B', item('hbm:weapon_mod_generic:3'))
-        .key('C', item('hbm:weapon_mod_generic:2'))
-        .key('D', ore('.44'))
-        .register()
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:weapon_mod_caliber:5')) //5.56mm
-        .row(' A ')
-        .row('BDC')
-        .row(' A ')
-        .key('A', ore('gunMechanismWeaponSteel'))
-        .key('B', item('hbm:weapon_mod_generic:7'))
-        .key('C', item('hbm:weapon_mod_generic:6'))
-        .key('D', ore('5.56mm'))
-        .register()
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:weapon_mod_caliber:6')) //7.62mm
-        .row(' A ')
-        .row('BDC')
-        .row(' A ')
-        .key('A', ore('gunMechanismWeaponSteel'))
-        .key('B', item('hbm:weapon_mod_generic:7'))
-        .key('C', item('hbm:weapon_mod_generic:6'))
-        .key('D', ore('7.62mm'))
-        .register()
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:weapon_mod_caliber:7')) //.50 BMG
-        .row(' A ')
-        .row('BDC')
-        .row(' A ')
-        .key('A', ore('gunMechanismSaturnite'))
-        .key('B', item('hbm:weapon_mod_generic:15'))
-        .key('C', item('hbm:weapon_mod_generic:14'))
-        .key('D', ore('.50 BMG'))
-        .register()
-recipeCount++
-
-
-// Ghiorsium
-crafting.shapedBuilder()
-        .name(resource('hbm:insert_ghiorsium'))
-        .output(item('hbm:insert_ghiorsium'))
-        .row('ABA')
-        .row('BCB')
-        .row('ABA')
-        .key('A', item('hbm:ducttape'))
-        .key('C', item('hbm:ingot_pb209'))
-        .key('B', ore('plateSaturnite'))
-        .replaceByName()
-        .register()
-crafting.shapedBuilder()
-        .name(resource('hbm:cladding_ghiorsium'))
-        .output(item('hbm:cladding_ghiorsium'))
-        .row('ABA')
-        .row('DCD')
-        .row('ABA')
-        .key('A', item('hbm:ducttape'))
-        .key('B', item('hbm:ingot_pb209'))
-        .key('C', item('hbm:cladding_desh'))
-        .key('D', ore('plateSaturnite'))
-        .replaceByName()
-        .register()
-replacedCount++
-replacedCount++
 
 crafting.shapedBuilder()
         .name(resource('hbm:crane_splitter'))
@@ -563,93 +255,6 @@ crafting.shapedBuilder()
 replacedCount++
 documented++
 
-crafting.shapedBuilder()
-        .output(item('hbm:gun_n_i_4_n_i'))
-        .row('DDD')
-        .row('ABC')
-        .row('DFG')
-        .key('A', ore('barrelLightAnyBismoidBronze'))
-        .key('B', ore('receiverLightAnyBismoidBronze'))
-        .key('C', ore('stockAnyHardPlastic'))
-        .key('D', item('hbm:undefined'))
-        .key('F', ore('gunMechanismSaturnite'))
-        .key('G', ore('gripAnyHardPlastic'))
-        .register()
-crafting.shapedBuilder()
-        .output(item('hbm:weapon_mod_special:16'))
-        .row('DFD')
-        .row('FBF')
-        .row('DFD')
-        .key('B', ore('ingotAluminum'))
-        .key('D', item('hbm:undefined'))
-        .key('F', ore('gunMechanismSaturnite'))
-        .register()
-crafting.shapedBuilder()
-        .output(item('hbm:weapon_mod_special:17'))
-        .row('DFD')
-        .row('FBF')
-        .row('DFD')
-        .key('B', ore('ingotGold'))
-        .key('D', item('hbm:undefined'))
-        .key('F', ore('gunMechanismSaturnite'))
-        .register()
-recipeCount++
-recipeCount++
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:gun_coilgun'))
-        .row(' AB')
-        .row('CDD')
-        .row('FGH')
-        .key('A', ore('receiverHeavyAnyBismoidBronze'))
-        .key('B', item('hbm:circuit:11'))
-        .key('C', ore('shellCopper'))
-        .key('D', item('hbm:coil_copper_torus'))
-        .key('F', ore('gripAnyHardPlastic'))
-        .key('G', ore('gunMechanismSaturnite'))
-        .key('H', ore('stockAnyHardPlastic'))
-        .register()
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:gun_autoshotgun_heretic'))
-        .row('ABC')
-        .row('DFG')
-        .row('HHJ')
-        .key('A', item('hbm:gun_minigun_dual'))
-        .key('B', item('hbm:ducc'))
-        .key('C', item('hbm:wild_p'))
-        .key('D', ore('barrelHeavySaturnite'))
-        .key('F', ore('receiverHeavySaturnite'))
-        .key('G', ore('gunMechanismSaturnite'))
-        .key('H', ore('gripAnyHardPlastic'))
-        .key('J', item('hbm:ammo_bag'))
-        .register()
-recipeCount++
-
-// im not gonna even count this shit
-// ncrpa to rpa and rpa to ncrpa
-// because ncrpa armor is cool but its too close to rpa armor to justify making a recipe for it
-crafting.addShapeless(item('hbm:ncrpa_helmet'), [item('hbm:rpa_helmet').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
-crafting.addShapeless(item('hbm:ncrpa_helmet'), [item('hbm:rpa_helmet').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
-crafting.addShapeless(item('hbm:ncrpa_plate'), [item('hbm:rpa_plate').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
-crafting.addShapeless(item('hbm:ncrpa_plate'), [item('hbm:rpa_plate').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
-crafting.addShapeless(item('hbm:ncrpa_legs'), [item('hbm:rpa_legs').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
-crafting.addShapeless(item('hbm:ncrpa_legs'), [item('hbm:rpa_legs').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
-crafting.addShapeless(item('hbm:ncrpa_boots'), [item('hbm:rpa_boots').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
-crafting.addShapeless(item('hbm:ncrpa_boots'), [item('hbm:rpa_boots').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
-
-crafting.addShapeless(item('hbm:rpa_helmet'), [item('hbm:ncrpa_helmet').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
-crafting.addShapeless(item('hbm:rpa_helmet'), [item('hbm:ncrpa_helmet').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
-crafting.addShapeless(item('hbm:rpa_plate'), [item('hbm:ncrpa_plate').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
-crafting.addShapeless(item('hbm:rpa_plate'), [item('hbm:ncrpa_plate').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
-crafting.addShapeless(item('hbm:rpa_legs'), [item('hbm:ncrpa_legs').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
-crafting.addShapeless(item('hbm:rpa_legs'), [item('hbm:ncrpa_legs').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
-crafting.addShapeless(item('hbm:rpa_boots'), [item('hbm:ncrpa_boots').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
-crafting.addShapeless(item('hbm:rpa_boots'), [item('hbm:ncrpa_boots').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
-
-
 crafting.addShapeless(item('hbm:balefire') * 64, [item('hbm:undefined')])
 crafting.addShapeless(item('hbm:fire_digamma')  * 64, [item('hbm:undefined'), item('hbm:undefined')])
 crafting.addShapeless(item('hbm:digamma_matter')  * 64, [item('hbm:undefined'), item('hbm:undefined'), item('hbm:undefined')])
@@ -657,18 +262,6 @@ recipeCount++
 recipeCount++
 recipeCount++
 
-// ace and queen of spades cards
-crafting.addShapeless(item('hbm:card_aos'), [ore('paper'), ore('dyeBlack'), item('hbm:coin_maskman')])
-crafting.addShapeless(item('hbm:card_qos'), [ore('paper'), ore('dyeBlack'), ore('dyeRed'),item('hbm:coin_worm')])
-recipeCount++
-recipeCount++
-
-crafting.addShapeless(item('hbm:fabsols_vodka'), [item('hbm:canteen_vodka'), item('hbm:powder_euphemium'), item('hbm:syringe_awesome')])
-crafting.addShapeless(item('hbm:wild_p'), [item('hbm:flame_pony'), item('hbm:canteen_vodka'), item('hbm:powder_cadmium'), item('minecraft:potion').withNbt(['Potion': 'minecraft:strong_harming'])])
-crafting.addShapeless(item('hbm:scrumpy'), [item('hbm:canteen_vodka'), item('hbm:powder_lead'), item('minecraft:potion').withNbt(['Potion': 'minecraft:strong_healing'])])
-recipeCount++
-recipeCount++
-recipeCount++
 
 // mask man and big man johnson
 crafting.addShapeless(item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_mask_man']]), [ore('egg'), item('hbm:undefined'), item('hbm:undefined'),item('hbm:undefined')])
@@ -688,14 +281,6 @@ recipeCount++
 // remove unused item
 crafting.removeByOutput(item('hbm:template_folder'))
 removedCount++
-
-// paa hazmat to paa armor
-crafting.addShapeless(item('hbm:paa_plate'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_plate')])
-crafting.addShapeless(item('hbm:paa_legs'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_legs')])
-crafting.addShapeless(item('hbm:paa_boots'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_boots')])
-recipeCount++
-recipeCount++
-recipeCount++
 
 // pink fluid, contains traces amounts of geass hatred
 crafting.addShapeless(item('hbm:syringe_mkunicorn'), [item('hbm:nugget_euphemium'), item('hbm:watch'), item('hbm:syringe_empty')])
@@ -722,7 +307,6 @@ crafting.removeByOutput(item('hbm:rod_quad:*'))
 removedCount++
 removedCount++
 removedCount++
-// add new recipes here levviata for the love of god
 
 // book of boxcar pages, stupid as hell but thats what makes it fun
 crafting.addShapeless(item('hbm:stamp_book'), [ore('flatStamp'), ore('logWood'), ore('cropPotato'), ore('stone'), ore('paper')]) // page 1
@@ -740,17 +324,6 @@ recipeCount++
 recipeCount++
 recipeCount++
 recipeCount++
-recipeCount++
-
-crafting.shapedBuilder()
-        .output(item('hbm:medal_liquidator'))
-        .row('ABA')
-        .row('BCB')
-        .row('ABA')
-        .key('A', item('hbm:nugget_au198'))
-        .key('B', item('hbm:ingot_boron'))
-        .key('C', item('hbm:coin_radiation'))
-        .register()
 recipeCount++
 
 crafting.shapedBuilder()
@@ -849,7 +422,6 @@ recipeCount++
 furnace.add(item("hbm:scrap"), item("hbm:ingot_steel"))
 recipeCount++
 
-// WARNING this is stupid
 crafting.removeByOutput(item('hbm:coil_copper'))
 crafting.removeByOutput(item('hbm:coil_copper_torus'))
 //not counted
@@ -891,7 +463,6 @@ recipeCount++
 recipeCount++
 recipeCount++
 
-// more stupid. why dont these have resource locations, am i ignorant?
 crafting.removeByOutput(item('hbm:circuit:1'))
 // capacitors
 // double
@@ -960,7 +531,6 @@ replacedCount++
 
 // replaced
 crafting.removeByOutput(item('hbm:circuit:0'))
-
 crafting.shapedBuilder()
         .output(item('hbm:circuit:0'))
         .row('A')
@@ -997,7 +567,424 @@ crafting.addShapeless(item('hbm:powder_aluminium'), [item("hbm:ring_pull"), item
 recipeCount++
 recipeCount++
 
+// armor //
+crafting.shapedBuilder()
+        .name(resource('hbm:ashglasses'))
+        .output(item('hbm:ashglasses'))
+        .row('A A')
+        .row('BCB')
+        .key('A', ore('ingotAnyRubber'))
+        .key('B', ore('blockGlassBlack'))
+        .key('C', ore('ingotAnyPlastic'))
+        .replaceByName()
+        .register()
+replacedCount++
+documented++
+
+// paa hazmat to paa armor
+crafting.addShapeless(item('hbm:paa_plate'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_plate')])
+crafting.addShapeless(item('hbm:paa_legs'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_legs')])
+crafting.addShapeless(item('hbm:paa_boots'), [item('hbm:neutron_reflector'), item('hbm:neutron_reflector'), item('hbm:hazmat_paa_boots')])
+recipeCount++
+recipeCount++
+recipeCount++
+
+// im not gonna even count this shit
+// ncrpa to rpa and rpa to ncrpa
+// because ncrpa armor is cool but its too close to rpa armor to justify making a recipe for it
+crafting.addShapeless(item('hbm:ncrpa_helmet'), [item('hbm:rpa_helmet').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:ncrpa_helmet'), [item('hbm:rpa_helmet').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:ncrpa_plate'), [item('hbm:rpa_plate').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:ncrpa_plate'), [item('hbm:rpa_plate').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:ncrpa_legs'), [item('hbm:rpa_legs').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:ncrpa_legs'), [item('hbm:rpa_legs').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:ncrpa_boots'), [item('hbm:rpa_boots').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:ncrpa_boots'), [item('hbm:rpa_boots').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
+
+crafting.addShapeless(item('hbm:rpa_helmet'), [item('hbm:ncrpa_helmet').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:rpa_helmet'), [item('hbm:ncrpa_helmet').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:rpa_plate'), [item('hbm:ncrpa_plate').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:rpa_plate'), [item('hbm:ncrpa_plate').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:rpa_legs'), [item('hbm:ncrpa_legs').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:rpa_legs'), [item('hbm:ncrpa_legs').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
+crafting.addShapeless(item('hbm:rpa_boots'), [item('hbm:ncrpa_boots').withNbt(['charge': 2500000l]), item('hbm:screwdriver:*').reuse().transformDamage(1)])
+crafting.addShapeless(item('hbm:rpa_boots'), [item('hbm:ncrpa_boots').withNbt(['charge': 2500000l]), item('hbm:screwdriver_desh').reuse()])
+
+// security armor, base recipes suck
+crafting.shapedBuilder()
+        .name(resource('hbm:security_helmet'))
+        .output(item('hbm:security_helmet'))
+        .row(' S ')
+        .row('AKA')
+        .row('BGB')
+        .key('A', item('hbm:ingot_steel'))
+        .key('B', ore('ingotAnyPlastic'))
+        .key('G', ore('anyReinforcedPane'))
+        .key('K', item('hbm:plate_kevlar'))
+        .key('S', item('hbm:plate_steel'))
+        .replaceByName()
+        .register()
+replacedCount++
+documented++
+
+crafting.shapedBuilder()
+        .name(resource('hbm:security_plate'))
+        .output(item('hbm:security_plate'))
+        .row('KAK')
+        .row('PKP')
+        .row('AKA')
+        .key('A', item('hbm:plate_polymer'))
+        .key('P', ore('ingotAnyPlastic'))
+        .key('K', item('hbm:plate_kevlar'))
+        .replaceByName()
+        .register()
+replacedCount++
+documented++
+
+crafting.shapedBuilder()
+        .name(resource('hbm:security_legs'))
+        .output(item('hbm:security_legs'))
+        .row('PAP')
+        .row('K K')
+        .row('A A')
+        .key('A', item('hbm:plate_polymer'))
+        .key('P', ore('ingotAnyPlastic'))
+        .key('K', item('hbm:plate_kevlar'))
+        .replaceByName()
+        .register()
+replacedCount++
+documented++
+
+crafting.shapedBuilder()
+        .name(resource('hbm:security_boots'))
+        .output(item('hbm:security_boots'))
+        .row('A A')
+        .row('K K')
+        .row('P P')
+        .key('A', item('hbm:plate_steel'))
+        .key('P', ore('ingotAnyPlastic'))
+        .key('K', item('hbm:plate_kevlar'))
+        .replaceByName()
+        .register()
+replacedCount++
+documented++
+
+// guns, swords, and accessories //
+crafting.shapedBuilder()
+        .name(resource('hbm:jetpack_glider'))
+        .output(item('hbm:jetpack_glider'))
+        .row('ABA')
+        .row('CGC')
+        .row('DFD')
+        .key('A', item('hbm:circuit:9'))
+        .key('C', item('hbm:plate_bismuth'))
+        .key('G', item('hbm:jetpack_boost'))
+        .key('B', item('hbm:motor_desh'))
+        .key('D', item('hbm:thruster_nuclear'))
+        .key('F', item('hbm:coin_maskman'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+
+crafting.shapedBuilder()
+        .output(item('hbm:insert_doxium'))
+        .row('AAA')
+        .row('ABA')
+        .row('AAA')
+        .key('A', ore('container1000estradiol'))
+        .key('B', ore('insert'))
+        .register()
+recipeCount++
+documented++
+
+// meteorite sword filler recipes
+crafting.shapedBuilder()
+        .output(item('hbm:meteorite_sword_machined'))
+        .row('AGA')
+        .row('GBG')
+        .row('AGA')
+        .key('A', item('hbm:circuit:9'))
+        .key('B', item('hbm:meteorite_sword_alloyed'))
+        .key('G', item('hbm:wire_dense:7900'))
+        .register()
+recipeCount++
+
+crafting.addShapeless(item('hbm:meteorite_sword_treated'), [ore('ntmchemistryset'), item('hbm:meteorite_sword_machined'), ore('container1000radiosolvent') * 16, ore('container1000bloodhot') * 16])
+crafting.addShapeless(item('hbm:meteorite_sword_treated'), [ore('ntmchemistryset'), item('hbm:meteorite_sword_machined'), ore('container16000radiosolvent'), ore('container16000bloodhot')])
+recipeCount++
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:meteorite_sword_bred'))
+        .row('ADA')
+        .row('CBC')
+        .row('ADA')
+        .key('A', item('hbm:plate_bismuth'))
+        .key('B', item('hbm:meteorite_sword_etched'))
+        .key('C', item('hbm:ingot_polonium'))
+        .key('D', item('hbm:ingot_u235'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:meteorite_sword_fused'))
+        .row('ADA')
+        .row('CBC')
+        .row('ADA')
+        .key('A', item('hbm:plate_dalekanium'))
+        .key('B', item('hbm:meteorite_sword_irradiated'))
+        .key('C', item('hbm:ingot_meteorite'))
+        .key('D', item('hbm:ingot_starmetal'))
+        .register()
+recipeCount++
+
+crafting.addShapeless(item('hbm:meteorite_sword_baleful'), [item('hbm:meteorite_sword_fused'), item('hbm:egg_balefire_shard')])
+recipeCount++
+
+// shimmer tools shouldnt be available in the mid game because they can break too many things, instantly
+crafting.shapedBuilder()
+        .name(resource('hbm:shimmer_head'))
+        .output(item('hbm:shimmer_head'))
+        .row('SSS')
+        .row('KAK')
+        .row('SSS')
+        .key('S', ore('ingotAnyResistantAlloy'))
+        .key('K', ore('blockAnyResistantAlloy'))
+        .key('A', ore('blockAnyPlastic'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .name(resource('hbm:shimmer_axe_head'))
+        .output(item('hbm:shimmer_axe_head'))
+        .row('SCC')
+        .row('SAK')
+        .row('SCC')
+        .key('S', ore('plateTripleAnyResistantAlloy'))
+        .key('K', ore('blockAnyResistantAlloy'))
+        .key('A', ore('blockAnyPlastic'))
+        .key('C', ore('ingotAnyResistantAlloy'))
+        .replaceByName()
+        .register()
+replacedCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:gun_double_barrel'))
+        .row(' A ')
+        .row('BCE')
+        .row('BDF')
+        .key('A', item('minecraft:skull'))
+        .key('B', ore('barrelLightSaturnite'))
+        .key('C', ore('receiverLightSaturnite'))
+        .key('D', ore('gunMechanismSaturnite'))
+        .key('E', ore('stockAnyHardPlastic'))
+        .key('F', ore('gripAnyHardPlastic'))
+        .register()
+recipeCount++
+
+// ace and queen of spades cards
+crafting.addShapeless(item('hbm:card_aos'), [ore('paper'), ore('dyeBlack'), item('hbm:coin_maskman')])
+crafting.addShapeless(item('hbm:card_qos'), [ore('paper'), ore('dyeBlack'), ore('dyeRed'),item('hbm:coin_worm')])
+recipeCount++
+recipeCount++
+
+crafting.addShapeless(item('hbm:fabsols_vodka'), [item('hbm:canteen_vodka'), item('hbm:powder_euphemium'), item('hbm:syringe_awesome')])
+crafting.addShapeless(item('hbm:wild_p'), [item('hbm:flame_pony'), item('hbm:canteen_vodka'), item('hbm:powder_cadmium'), item('minecraft:potion').withNbt(['Potion': 'minecraft:strong_harming'])])
+crafting.addShapeless(item('hbm:scrumpy'), [item('hbm:canteen_vodka'), item('hbm:powder_lead'), item('minecraft:potion').withNbt(['Potion': 'minecraft:strong_healing'])])
+recipeCount++
+recipeCount++
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:medal_liquidator'))
+        .row('ABA')
+        .row('BCB')
+        .row('ABA')
+        .key('A', item('hbm:nugget_au198'))
+        .key('B', item('hbm:ingot_boron'))
+        .key('C', item('hbm:coin_radiation'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:gun_n_i_4_n_i'))
+        .row('DDD')
+        .row('ABC')
+        .row('DFG')
+        .key('A', ore('barrelLightAnyBismoidBronze'))
+        .key('B', ore('receiverLightAnyBismoidBronze'))
+        .key('C', ore('stockAnyHardPlastic'))
+        .key('D', item('hbm:undefined'))
+        .key('F', ore('gunMechanismSaturnite'))
+        .key('G', ore('gripAnyHardPlastic'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:gun_coilgun'))
+        .row(' AB')
+        .row('CDD')
+        .row('FGH')
+        .key('A', ore('receiverHeavyAnyBismoidBronze'))
+        .key('B', item('hbm:circuit:11'))
+        .key('C', ore('shellCopper'))
+        .key('D', item('hbm:coil_copper_torus'))
+        .key('F', ore('gripAnyHardPlastic'))
+        .key('G', ore('gunMechanismSaturnite'))
+        .key('H', ore('stockAnyHardPlastic'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:gun_autoshotgun_heretic'))
+        .row('ABC')
+        .row('DFG')
+        .row('HHJ')
+        .key('A', item('hbm:gun_minigun_dual'))
+        .key('B', item('hbm:ducc'))
+        .key('C', item('hbm:wild_p'))
+        .key('D', ore('barrelHeavySaturnite'))
+        .key('F', ore('receiverHeavySaturnite'))
+        .key('G', ore('gunMechanismSaturnite'))
+        .key('H', ore('gripAnyHardPlastic'))
+        .key('J', item('hbm:ammo_bag'))
+        .register()
+recipeCount++
+
+// gun mods //
+// caliber modifiers
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber')) //9mm
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismGunMetal'))
+        .key('B', item('hbm:weapon_mod_generic:1'))
+        .key('C', item('hbm:weapon_mod_generic'))
+        .key('D', ore('9mm'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:1')) //45mm
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismGunMetal'))
+        .key('B', item('hbm:weapon_mod_generic:1'))
+        .key('C', item('hbm:weapon_mod_generic'))
+        .key('D', ore('.45'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:2')) //.22 LR
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismGunMetal'))
+        .key('B', item('hbm:weapon_mod_generic:1'))
+        .key('C', item('hbm:weapon_mod_generic'))
+        .key('D', ore('.22 LR'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:3')) //.357 Magnum
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismGunMetal'))
+        .key('B', item('hbm:weapon_mod_generic:3'))
+        .key('C', item('hbm:weapon_mod_generic:2'))
+        .key('D', ore('.357'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:4')) //.44 Magnum
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismGunMetal'))
+        .key('B', item('hbm:weapon_mod_generic:3'))
+        .key('C', item('hbm:weapon_mod_generic:2'))
+        .key('D', ore('.44'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:5')) //5.56mm
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismWeaponSteel'))
+        .key('B', item('hbm:weapon_mod_generic:7'))
+        .key('C', item('hbm:weapon_mod_generic:6'))
+        .key('D', ore('5.56mm'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:6')) //7.62mm
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismWeaponSteel'))
+        .key('B', item('hbm:weapon_mod_generic:7'))
+        .key('C', item('hbm:weapon_mod_generic:6'))
+        .key('D', ore('7.62mm'))
+        .register()
+recipeCount++
+
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_caliber:7')) //.50 BMG
+        .row(' A ')
+        .row('BDC')
+        .row(' A ')
+        .key('A', ore('gunMechanismSaturnite'))
+        .key('B', item('hbm:weapon_mod_generic:15'))
+        .key('C', item('hbm:weapon_mod_generic:14'))
+        .key('D', ore('.50 BMG'))
+        .register()
+recipeCount++
+
+// doubloons and nickel coins for NI4NI
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_special:16'))
+        .row('DFD')
+        .row('FBF')
+        .row('DFD')
+        .key('B', ore('ingotAluminum'))
+        .key('D', item('hbm:undefined'))
+        .key('F', ore('gunMechanismSaturnite'))
+        .register()
+crafting.shapedBuilder()
+        .output(item('hbm:weapon_mod_special:17'))
+        .row('DFD')
+        .row('FBF')
+        .row('DFD')
+        .key('B', ore('ingotGold'))
+        .key('D', item('hbm:undefined'))
+        .key('F', ore('gunMechanismSaturnite'))
+        .register()
+recipeCount++
+recipeCount++
+
 // END NUCLEAR TECH //
+
+crafting.shapedBuilder()
+        .output(item('portablecraftingtable:portable_crafting_table'))
+        .row(' BB')
+        .row(' BB')
+        .row('A  ')
+        .key('A', ore('stickWood'))
+        .key('B', ore('plankWood'))
+        .mirrored(true)
+        .register()
+recipeCount++
 
 log.info("Adding " + recipeCount + " NTM recipes.")
 log.info("Replacing " + replacedCount + " NTM recipes.")
