@@ -52,6 +52,8 @@ Internally reorganized recipes.groovy script file
 
 Blacklisted unnecessary files on pack export for a slimmer modpack
 
+Added pack version to File Director's modpack.json
+
 # version 3.4.0
 
 ### Mods
