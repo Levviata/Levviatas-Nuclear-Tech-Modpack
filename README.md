@@ -11,11 +11,7 @@ A lightweight and complete Nuclear Tech modpack with a quest book and Refined St
 
 My curated list of optimization mods was also added, maximizing performance.
 
-OptiFine is disregarded and will cause issues, I have done my best to implement _most_ of its features. Though if you want shaders you'll have to use it (at your own discretion, without warranties). 
-
-For Cleanroom, scroll down to its section.
-
-If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life) or your preferred fork. There are no AE2 quests.
+OptiFine is disregarded and will cause issues, I have done my best to implement _most_ of its features. Though if you want shaders you'll have to use it (at your own discretion, without warranties).
 
 ## Reviews
 
@@ -101,6 +97,8 @@ You also must disable these conflicting mods:
 If you don't, your screen will be messed up, and you won't be able to move your mouse in-game.
 
 ## Notes
+If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life) or your preferred fork. There are no AE2 quests.
+
 I tweaked many recipes to make the game easier, for example book of boxcar pages or the Heretic, if you are a hardcore factorio or masochism fan I don't recommend.
 
 With Cleanroom and 32 chunks, the FPS still hold up and hit a stable >60, which is a miracle to be honest.
