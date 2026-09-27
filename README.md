@@ -43,7 +43,7 @@ OptiFine is disregarded and will cause issues, I have done my best to implement 
   - Double Barrel Shotgun (An Old Classic)
   - All Caliber Conversion Kits (weapon mod)
   - Paa Hazmat suit to Paa Battle suit
-  - Shimmer tools use CMB Steel and Euphemium
+  - Shimmer tools use Resistant Alloy and Plastic
   - All Meteorite Sword recipes
   - Security Armor (tweaked)
   - Dual miniguns (Plasma Forge)
