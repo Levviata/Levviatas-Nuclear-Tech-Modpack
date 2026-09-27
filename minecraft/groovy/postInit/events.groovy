@@ -7,7 +7,7 @@ import com.hbm.blocks.generic.BlockCanCrate;
 import com.hbm.blocks.generic.BlockSupplyCrate;
 import net.minecraft.item.ItemPickaxe;
 
-def masochistHasSeenEnough = 0
+def masochistHasSeenEnough = 0 // doesnt hold for every world exit or load, 90% it dont mtter
 
 // crate info
 event_manager.listen { PlayerInteractEvent event ->
