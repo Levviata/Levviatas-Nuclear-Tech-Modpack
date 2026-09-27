@@ -8966,7 +8966,7 @@
       "inputItem": [
         ["dict","plateWeaponSteel",18],
         ["dict","billetPlutonium239",16],
-        ["item","hbm:ball_tatb",24],
+        ["dict","ingotAnyHighexplosive",24],
         ["item","hbm:neutron_reflector",16],
         ["item","hbm:circuit",1,14]
       ],
@@ -8985,7 +8985,7 @@
         ["item","hbm:seg_15"],
         ["dict","plateWeaponSteel",18],
         ["dict","billetPlutonium239",16],
-        ["item","hbm:ball_tatb",24],
+        ["dict","ingotAnyHighexplosive",24],
         ["item","hbm:neutron_reflector",16],
         ["item","hbm:circuit",1,14]
       ],
