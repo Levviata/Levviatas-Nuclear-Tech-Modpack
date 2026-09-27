@@ -422,6 +422,7 @@ recipeCount++
 furnace.add(item("hbm:scrap"), item("hbm:ingot_steel"))
 recipeCount++
 
+//copper
 crafting.removeByOutput(item('hbm:coil_copper'))
 crafting.removeByOutput(item('hbm:coil_copper_torus'))
 //not counted
@@ -460,6 +461,70 @@ crafting.shapedBuilder()
         .register()
 crafting.addShapeless(item('hbm:coil_copper') * 8, [ore('ingotMingrade'), ore('ingotDuraSteel'), item('hbm:smashing_hammer:*').reuse().transformDamage(8)])
 recipeCount++
+recipeCount++
+recipeCount++
+//gold
+crafting.removeByOutput(item('hbm:coil_gold'))
+crafting.removeByOutput(item('hbm:coil_gold_torus'))
+//not counted
+crafting.shapedBuilder()
+        .output(item('hbm:coil_gold'))
+        .row('AAA')
+        .row('ACA')
+        .row('AAA')
+        .key('A', ore('wireFineGold'))
+        .key('C', ore('ingotIron'))
+        .register()
+crafting.shapedBuilder()
+        .output(item('hbm:coil_gold_torus') * 2)
+        .row(' A ')
+        .row('ACA')
+        .row(' A ')
+        .key('A', item('hbm:coil_gold'))
+        .key('C', ore('plateIron'))
+        .register()
+
+crafting.shapedBuilder()
+        .output(item('hbm:coil_gold') * 2)
+        .row('AAA')
+        .row('ACA')
+        .row('AAA')
+        .key('A', ore('wireFineGold'))
+        .key('C', ore('ingotSteel'))
+        .register()
+crafting.shapedBuilder()
+        .output(item('hbm:coil_gold_torus') * 4)
+        .row(' A ')
+        .row('ACA')
+        .row(' A ')
+        .key('A', item('hbm:coil_gold'))
+        .key('C', ore('plateSteel'))
+        .register()
+crafting.addShapeless(item('hbm:coil_gold') * 8, [ore('ingotGold'), ore('ingotDuraSteel'), item('hbm:smashing_hammer:*').reuse().transformDamage(8)])
+recipeCount++
+recipeCount++
+recipeCount++
+//magnetized tungsten
+crafting.removeByOutput(item('hbm:coil_magnetized_tungsten'))
+//not counted
+crafting.shapedBuilder()
+        .output(item('hbm:coil_magnetized_tungsten'))
+        .row('AAA')
+        .row('ACA')
+        .row('AAA')
+        .key('A', ore('wireFineMagnetizedTungsten'))
+        .key('C', ore('ingotIron'))
+        .register()
+
+crafting.shapedBuilder()
+        .output(item('hbm:coil_magnetized_tungsten') * 2)
+        .row('AAA')
+        .row('ACA')
+        .row('AAA')
+        .key('A', ore('wireFineMagnetizedTungsten'))
+        .key('C', ore('ingotSteel'))
+        .register()
+crafting.addShapeless(item('hbm:coil_magnetized_tungsten') * 8, [ore('ingotMagnetizedTungsten'), ore('ingotDuraSteel'), item('hbm:smashing_hammer:*').reuse().transformDamage(8)])
 recipeCount++
 recipeCount++
 
