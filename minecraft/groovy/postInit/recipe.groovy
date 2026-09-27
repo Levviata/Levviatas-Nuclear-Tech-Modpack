@@ -2,7 +2,7 @@ def recipeCount = 0;
 def replacedCount = 0;
 def removedCount = 0;
 def documented = 0;
-def hbmRecipes = 81;
+def hbmRecipes = 82;
 def refinedStorageRecipes = 85;
 
 // NUCLEAR TECH //
