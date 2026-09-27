@@ -197,7 +197,7 @@ soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.0
 soundCategory_block:0.63380283
-soundCategory_hostile:1.0
+soundCategory_hostile:0.2746479
 soundCategory_neutral:0.45774648
 soundCategory_player:1.0
 soundCategory_ambient:1.0
