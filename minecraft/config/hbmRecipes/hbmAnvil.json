@@ -3409,10 +3409,24 @@
       "tierLower": 4,
       "tierUpper": -1,
       "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:plate_saturnite",24],
+        ["dict","ingotAnyHighexplosive",64],
+        ["item","hbm:large_casing_steel",64],
+        ["item","hbm:ammo_bag"]
+      ],
+      "outputs": [
+        ["hbm:ammo_bag_infinite",1,1.0]
+      ],
+      "tierLower": 5,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
     }
   ],
   "comment": "Parity with 1.7.10: add platemetal, add alt plate_armor_lunar, add recycling plate metal",
   "comment": "Removed: breeder and research.",
   "comment": "Custom Added: fluid tank, glitch, ducc, broadcaster pc, Creative: klystron, wireless grid, portable grid, barrel, storage, storage disk, battery, stirling, motor desh.",
-  "comment": "Total: 18"
+  "comment": "Total: 19"
 }
