@@ -109,7 +109,7 @@ The game looks good, the FPS are good, the quests are good, what other Nuclear T
 
 ## Trivia
 
-- The modpack's birthday is the 15 of September. It was created in 2025, 15 of September.
+- The modpack's birthday is the 15 of September 2025.
 
 - Over +700 hours of development.
 
