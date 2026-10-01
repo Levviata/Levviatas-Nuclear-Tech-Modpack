@@ -97,13 +97,15 @@ You also must disable these conflicting mods:
 If you don't, your screen will be messed up, and you won't be able to move your mouse in-game.
 
 ## Notes
+After booting once and downloading all required mods, you may disable File Director mod to boot up faster.
+
+If you are using any Nuclear Tech addons and having issues, disable Bansoukou mod. 
+
 If you prefer AE2 you may use [this](https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life) or your preferred fork. There are no AE2 quests.
 
 I tweaked many recipes to make the game easier, for example book of boxcar pages or the Heretic, if you are a hardcore factorio or masochism fan I don't recommend.
 
 With Cleanroom and 32 chunks, the FPS still hold up and hit a stable >60, which is a miracle to be honest.
-
-After booting once and downloading all required mods, you may disable File Director mod to boot up faster.
 
 The game looks good, the FPS are good, the quests are good, what other Nuclear Tech modpack would you ever wish than this one!
 
