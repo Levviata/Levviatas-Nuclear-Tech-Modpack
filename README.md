@@ -33,9 +33,9 @@ OptiFine is disregarded and will cause issues, I have done my best to implement 
 
 ## Features
 
-- 23 chapters with 1515 quests with quality information and pretty patterns 😏
+\- 23 chapters with 1515 quests with quality information and pretty patterns 😏
 
-- 284 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
+\- 284 custom recipes that implement new recipes, remove deprecated items, rebalances, Quality of Life, and Nuclear Tech / Refined Storage compatibility. Some notable ones:
   - Railgun and Deuterium Plasma Capsule
   - Coilgun
   - Lung Diagnostic
@@ -54,15 +54,15 @@ OptiFine is disregarded and will cause issues, I have done my best to implement 
   - N2 and Balefire Charges
   - And many more.
 
-- 4 custom Texture Packs
+\- 4 custom Texture Packs
   - New textures for weapons and tools
   - 1.7.10 texture parity (for the best)
   - Pixelguru's Dubious Textures, cherry-picked and tweaked by me. Block, GUI, and item retextures
   - Extended lang entries (proper LEGACY tags, fixed and tweaked names)
 
-- Complete, customized keybind map.
+\- Complete, customized keybind map.
 
-- Many little details I put out with my Detail Brain-Chip(TM) hardware, this assures complete fun and quality. For example:
+\- Many little details I put out with my Detail Brain-Chip(TM) hardware, this assures complete fun and quality. For example:
   - Late game machines, desh, schrabidium, etc. are fireproof.
   - Many thoughtful grinding quests that make progression easier
   - Quests have treats and explosives
@@ -78,13 +78,13 @@ OptiFine is disregarded and will cause issues, I have done my best to implement 
   - Informative tooltips for machines (if they are deprecated, how they work, alternative names)
   - Damage rebalance for axes
 
-- So optimized you could use your motherboard to fly in real life (pure magic, aladdin style).
-
+\- So optimized you could use your motherboard to fly in real life (pure magic, aladdin style).
+\
 - 99% made with Levviata Brain Power(TM).
 
 ## Cleanroom
 Inside your modpack instance folder you will find a special folder:
-- Cleanroom
+\- Cleanroom
 
 These config files will install the needed mods. To install, move the config files out of the folder to config/mod-director, so that they are together with the other config files (.curse.json).
 
@@ -111,9 +111,9 @@ The game looks good, the FPS are good, the quests are good, what other Nuclear T
 
 ## Trivia
 
-- The modpack's birthday is the 15 of September 2025.
+\- The modpack's birthday is the 15 of September 2025.
 
-- Over +700 hours of development.
+\- Over +700 hours of development.
 
 #### It was all planned
 your satisfaction is measured.
