@@ -264,8 +264,8 @@ recipeCount++
 
 
 // mask man and big man johnson
-crafting.addShapeless(item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_mask_man']]), [ore('egg'), item('hbm:undefined'), item('hbm:undefined'),item('hbm:undefined')])
-crafting.addShapeless(item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_glyphid_nuclear']]), [item('hbm:egg_glyphid'), item('hbm:undefined'), item('hbm:undefined'),item('hbm:undefined')])
+crafting.addShapeless(item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_mask_man']]), [ore('egg'), item('hbm:gas_mask_m65:*'), item('hbm:plate_steel'), item('minecraft:circuit:8'), ore("container1000blood")])
+crafting.addShapeless(item('minecraft:spawn_egg').withNbt(['EntityTag': ['id': 'hbm:entity_glyphid_nuclear']]), [item('hbm:egg_glyphid'), ore('miniNuke'), item('hbm:plate_steel')])
 recipeCount++
 recipeCount++
 
@@ -631,6 +631,9 @@ furnace.add(item('hbm:can_empty'), item('hbm:ingot_aluminium'), 5)
 crafting.addShapeless(item('hbm:powder_aluminium'), [item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull"), item("hbm:ring_pull")])
 recipeCount++
 recipeCount++
+
+// revise
+crafting.addShapeless(item('hbm:powder_spark'), [item("hbm:dust"), item("hbm:undefined")])
 
 // armor //
 crafting.shapedBuilder()

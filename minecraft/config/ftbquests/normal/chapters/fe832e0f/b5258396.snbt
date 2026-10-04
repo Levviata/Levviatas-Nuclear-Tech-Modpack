@@ -36,7 +36,7 @@
 			ForgeCaps: {
 				Parent: {
 					id: "ore",
-					data: "mini nuke"
+					data: "miniNuke"
 				}
 			}
 		}]
