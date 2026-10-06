@@ -1,11 +1,11 @@
 ## Download 
-CurseForge: www.curseforge.com/minecraft/modpacks/levviatas-nuclear-tech-modpack/
 
-Modrinth: https://modrinth.com/modpack/levviatas-nuclear-tech-pack
+| Version | CurseForge | Modrinth | GitHub |
+| -------- | -------- | -------- | -------- |
+| 1.12.2    | <p align="center"> <a href="https://www.curseforge.com/minecraft/modpacks/levviatas-nuclear-tech"> <img src="https://github.com/Levviata/levviata/blob/1f2472ea3aaef3504b6a83e4bb012bbc6f32b54c/icons/curseforge-badge.svg" width="32" height="32"> </a> </p>  | <p align="center"> <a href="https://modrinth.com/modpack/levviatas-nuclear-tech-pack"> <img src="https://github.com/Levviata/levviata/blob/371af51717d86541dd3cd50c1dc06b3ad64d012e/icons/modrinth.svg" width="32" height="32"> </a> </p>   | <p align="center"> <a href="https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack/tree/master"> <img src="https://github.com/Levviata/levviata/blob/242e72b2d09d9a81c189fa243539d58a725fb9e2/icons/github-dark.svg" width="32" height="32"> </a> </p>   |
+| 26.2    | <p align="center"> <a href="https://www.curseforge.com/minecraft/modpacks/levviatas-next-nuclear-tech"> <img src="https://github.com/Levviata/levviata/blob/1f2472ea3aaef3504b6a83e4bb012bbc6f32b54c/icons/curseforge-badge.svg" width="32" height="32"> </a> </p>  | <p align="center"> <a href="https://modrinth.com/modpack/levviatas-next-nuclear-tech"> <img src="https://github.com/Levviata/levviata/blob/371af51717d86541dd3cd50c1dc06b3ad64d012e/icons/modrinth.svg" width="32" height="32"> </a> </p>   | <p align="center"> <a href="https://github.com/Levviata/LvNTM-26.2"> <img src="https://github.com/Levviata/levviata/blob/242e72b2d09d9a81c189fa243539d58a725fb9e2/icons/github-dark.svg" width="32" height="32"> </a> </p>   |
 
-GitHub: https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack/releases
-
-# LvNTM (Levviata's Nuclear Tech Modpack for 1.12.2)
+# LvNTM (Levviata's Nuclear Tech Modpack)
 
 A lightweight and complete Nuclear Tech modpack with a quest book and Refined Storage. 
 
