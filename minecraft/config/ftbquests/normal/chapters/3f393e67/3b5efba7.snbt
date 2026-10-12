@@ -1,8 +1,28 @@
 {
 	x: 6.5d,
 	y: 29.5d,
+	description: "Now they give you stats too!",
 	text: [
-		"Bobbleheads are decoration that can be shredded to obtain early plastic, with Plastic Scrap melting into Polymer bars."
+		"Originally, Bobbleheads are decoration that can be shredded to obtain early plastic, with Plastic Scrap melting into Polymer bars.",
+		"",
+		"But with my mod LSPECIAL you can consume Fallout bobbles to get stats!",
+		"",
+		"Consume a held bobblehead by pressing Right click while crouching.",
+		"",
+		"S.P.E.C.I.A.L stands for",
+		"- Strength, which gives on-hit attack damage",
+		"- Perception, which gives gun damage",
+		"- Endurance, gives max health. At level 5 it gives amplified regeneration effect",
+		"- Charisma, gives armor and armor toughness. At level 5 gives resistance effect",
+		"- Intelligence, better gun fire rate and infinite durability for guns and items. At level 5 makes the Pepperbox shot 6 rounds at once, at level 10 makes all revolvers penetrate and deaal x3 headshot damage",
+		"- Agility, speed which can be configured with /setspeed",
+		"- and Luck, chance to refund a gun's magazine on reload",
+		"",
+		"You have a natural stat limit of 10, which can be increased with non-Fallout bobbleheads.",
+		"",
+		"To see your stats, press key P.",
+		"",
+		"The Fallout bobbleheads have recipes! More reduced grinding for you "
 	],
 	tasks: [{
 		uid: "30d436dd",
