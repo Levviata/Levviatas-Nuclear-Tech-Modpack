@@ -13,6 +13,7 @@ Updated
 - HEI
 - Chibi
 - Xaero's minimap and world map
+- MixinBooter
 
 ### Quests
 
