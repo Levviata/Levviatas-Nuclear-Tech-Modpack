@@ -1,3 +1,50 @@
+# version 3.6.0
+
+### Mods
+
+Added
+- LSPECIAL -> new bobblehead based stats made by me (https://www.curseforge.com/minecraft/mc-mods/levviatas-special)
+
+Updated File Director cfgs
+- Cleanroom mods
+- Chibi
+
+Updated
+- HEI
+- Chibi
+- Xaero's minimap and world map
+
+### Quests
+
+Extended any Bobblehead quest to include new LSPECIAL mechanics (check it out!)
+
+### Recipes
+Added
+- Infinite Ammo Bag -> x24 saturnite plate, x64 any high explosive, x64 steel casing, x1 ammo bag
+- Magnetized Tungsten coil x8 -> magnetized tungsten ingot, high speed steel, and smashing hammer
+
+Buffed
+- Gold, Magnetized Tungsten coils (steel) -> x1 to x2
+- Gold torus (steel) -> x2 to x4
+
+Tweaked
+- Mask Man (spawn egg) -> egg and x3 undefined to egg, m65 mask, steel plate, integrated circuit board, and 1000mB of blood
+- Nuclear Glyphid (spawn egg) -> egg and x2 undefined to egg, mini nukes, and steel plate
+
+Remove
+- Crystalline (from Pyro Oven) -> 1.7.10 par
+
+Fix
+- Stamp Page 7 -> dustSaturnite (typo) to ingotSaturnite
+
+Turn warheadthermonuke and mpwarhead15thermo's ball_tatb ingredient into ore dictionary
+
+### General
+Tweaked miniNuke ore dict name
+Nerfed empty can's furnace xp
+Removed empty quests
+
+
 # version 3.5.0
 
 ### Mods
