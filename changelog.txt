@@ -5,15 +5,19 @@
 Added
 - LSPECIAL -> new bobblehead based stats made by me (https://www.curseforge.com/minecraft/mc-mods/levviatas-special)
 
-Updated File Director cfgs
-- Cleanroom mods
-- Chibi
-
 Updated
 - HEI
 - Chibi
 - Xaero's minimap and world map
 - MixinBooter
+
+File Director
+Added
+- TheOneSmeagle
+
+Updated
+- Cleanroom mods
+- Chibi
 
 ### Quests
 
