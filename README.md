@@ -7,7 +7,7 @@
 
 # LvNTM (Levviata's Nuclear Tech Modpack)
 
-A lightweight and complete Nuclear Tech modpack with a quest book and Refined Storage. 
+A lightweight Nuclear Tech modpack with Refined Storage and a complete quest book. 
 
 My curated list of optimization mods was also added, maximizing performance.
 
